@@ -20,12 +20,22 @@ Jisatsu é um projeto que tem por objetivo o mapeamento da localidade de plantas
 # Marcos
 |    Fases      |  Marcos  | Previsão |
 |---------------|----------|----------|
-| Iniciação     |          |          |
-| Planejamento  |          |          |
-| Execução      |          |          |
-| Monitoramento |          |          |
-| Controle      |          |          |
+| Iniciação     | Projeto aprovado                            |          |
+| Planejamento  | Plano de Gerenciamento de Projetos Aprovado |          |
+| Execução, monitoramento e controle      | Entrega validada         |          |
+| Entrega 1     |          |          |
+| Entrega 2     |          |          |
+| Entrega 3     |          |          |
+| Entrega 4     |          |          |
+| Encerramento  |          |          |
 
+
+#Entregas
+| Nome | Data | 
+|
+|
+|
+|
 
 # Partes Interessadas
 	## Informações de Identificação
