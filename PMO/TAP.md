@@ -34,12 +34,12 @@ Jisatsu é um projeto que tem por objetivo o mapeamento da localidade de plantas
 			*local
 			*papel no projeto
 			*informações de contatos
-	##Informações de avaliação
+##Informações de avaliação
 		*requisitos essenciais
 		*principais expectativas
 		*influência potencial no projeto
 		*fase de maior interesse no ciclo de vida 
-	##Classificação das partes interessadas:
+##Classificação das partes interessadas:
 		*interna/externa
 		*apoiadora/neutra/resistente
 
