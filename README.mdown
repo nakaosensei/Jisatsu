@@ -1,35 +1,7 @@
-# Nome do projeto
+# The Jisatsu project
+
 ```
-Jisatsu project - Termo de abertura
+ Projeto desenvolvido para a identificação de plantas nacrófitas em diversas
+ bases de dados no mundo.
 ```
 
-# Objetivos
-
-
-# Situação atual e justificativa do projeto
-
-# Objetivos SMART e critérios de sucesso do projeto
-
-# EAP
-
-# Principais requisitos das principais entregas/produtos
-
-# Marcos
-|    Fases      |  Marcos  | Previsão |
-|---------------|----------|----------|
-| Iniciação     |          |          |
-| Planejamento  |          |          |
-| Execução      |          |          |
-| Monitoramento |          |          |
-| Controle      |          |          |
-
-
-# Partes Interessadas
-
-# Restrições
-
-# Premissas
-
-# Riscos
-
-# Orçamentos do projeto
