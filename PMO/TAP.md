@@ -8,8 +8,8 @@ Jisatsu é um projeto que tem por objetivo o mapeamento da localidade de plantas
 - Gerar visualizações para os resultados obtidos.
 
 # Situação atual e justificativa do projeto
-O estudo de elementos da flora está intimamente ligado com a história da humanidade, a descoberta e registro de novas espécies é algo que nos fascina há tempos, por essa razão, sabemos que informações espaço/temporais dessas descobertas estão espalhadas em diversas bases de dados hoje, e por isso visamos realizar a coleta e um mapeamento global para que estudos posteriores tenham essa informação concreta.
-A necessidade desse trabalho surgiu da tese de pós doutorado da aluna Tânia da Silva Sauro, orientanda da doutora Karina dos ventos estridentes. Além de cooperarmos com um projeto de pesquisa real, o produto desse projeto será utilizado como nota para a disciplina Engenharia de Software 2. 
+- O estudo de elementos da flora está intimamente ligado com a história da humanidade, a descoberta e registro de novas espécies é algo que nos fascina há tempos, por essa razão, sabemos que informações espaço/temporais dessas descobertas estão espalhadas em diversas bases de dados hoje, e por isso visamos realizar a coleta e um mapeamento global para que estudos posteriores tenham essa informação concreta.
+- A necessidade desse trabalho surgiu da tese de pós doutorado da aluna Tânia da Silva Sauro, orientanda da doutora Karina dos ventos estridentes. Além de cooperarmos com um projeto de pesquisa real, o produto desse projeto será utilizado como nota para a disciplina Engenharia de Software 2. 
 
 # Objetivos SMART e critérios de sucesso do projeto
 
@@ -28,12 +28,28 @@ A necessidade desse trabalho surgiu da tese de pós doutorado da aluna Tânia da
 
 
 # Partes Interessadas
+##Informações de Identificação
+		*nome
+			*posição da organização
+			*local
+			*papel no projeto
+			*informações de contatos
+	##Informações de avaliação
+		*requisitos essenciais
+		*principais expectativas
+		*influência potencial no projeto
+		*fase de maior interesse no ciclo de vida 
+	##Classificação das partes interessadas:
+		*interna/externa
+		*apoiadora/neutra/resistente
 
 # Restrições
 
 # Premissas
 
 # Riscos
+- Surgimento de muitos dados inconsistentes na coleta.
+ 
 
 # Orçamentos do projeto
 
