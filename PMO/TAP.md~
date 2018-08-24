@@ -1,10 +1,10 @@
 # The Jisatsu project
 
 # Objetivos
-Este trabalho tem por objetivo a identificação de plantas registradas em diversas bases do mundo e mapear suas localidades de registro.
+Este trabalho tem por objetivo 
 - Coletar dados de diversas bases de dados relacionadas à plantas Macrófitas.
-- Normalização dos dados coletados.
-- Classificar corretamente as diversas espécies de plantas coletadas nas bases por localidade.
+- Normalização dos dados.
+- Classificar corretamente as diversas espécies de plantas coletadas nas bases.
 - Gerar visualizações para os resultados obtidos.
 
 # Situação atual e justificativa do projeto
