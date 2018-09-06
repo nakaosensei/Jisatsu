@@ -36,9 +36,15 @@ além de trocar, identificar qual foi trocado.
 
 só preciso da coluna do nome da espécie e da cordenada geografica,autor
 
+coletor, data e coordenada. Se em bases de dados, for o mesmo
+autor, mesma coordenada, mesma data, duplicado, considera
+somente uma.
+
 Tabela com nome da especie valido correto.
 Coluna com o nome do autor correspondente.
 Coordenara geográfica de cada espécie.
 Informação que o o nome foi trocado quando corrigido.
+
+distancia de levinshstein.
 
 
