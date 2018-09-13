@@ -30,15 +30,12 @@ Os objetivos SMART precisam conter cada um dos 5 acrônimos do termo SMART:
 # Marcos
 |    Fases      |  Marcos  | Previsão |
 |---------------|----------|----------|
-| Iniciação     | Projeto aprovado                            |          |
-| Planejamento  | Plano de Gerenciamento de Projetos Aprovado |          |
-| Execução, monitoramento e controle      | Entrega validada         |          |
-| Entrega 1     |          |          |
-| Entrega 2     |          |          |
-| Entrega 3     |          |          |
-| Entrega 4     |          |          |
-| Encerramento  |          |          |
-
+| Iniciação     | Projeto aprovado                            |   07/09/2018   |
+| Planejamento  | Plano de Gerenciamento de Projetos Aprovado |   21/09/2018   |
+| Entrega 1     |          |   21/09/2018   |
+| Entrega 2     |          |   05/10/2018   |
+| Entrega 3     |          |   19/10/2018   |
+| Encerramento  |          |   06/12/2018, 07/12/2018   |
 
 #Entregas
 | Nome | Data | 
@@ -104,17 +101,14 @@ O sistema deve normalizar as macrófitas coletadas utilizando como base dados ex
 	
 
 # Premissas
-
-
+- Os nomes das macrófitas que serão validadas estão presentes no banco de dados da Flora do Brasil, do The Plant List. 
+- Os dados das macrófitas que serão validadas estão presentes na plataforma Specieslink e GBIF.
 
 # Riscos
 - Surgimento de muitos dados incoerêntes na coleta.
 - Subita queda nos serviços do Gbif, Species Link, Floradobrasil e PlantList.
 - Problemas na normalização duplicada de instâncias cruzadas com nomes diferentes entre o Gbif e SpeciesLink.
 - Assumir podas de espécies duvidosas na normalização que não poderiam ter sido descartadas.
-
-
-# Orçamentos do projeto
 
 # Referencias
 Gbif
