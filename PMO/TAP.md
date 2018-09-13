@@ -49,51 +49,51 @@ Os objetivos SMART precisam conter cada um dos 5 acrônimos do termo SMART:
 
 # Partes Interessadas
 ## Informações de Identificação
-		*Tania
+* Tania
 		Cliente
 		taniacrivelari@hotmail.com
 
-		*Karina
+* Karina
 		Cliente
 		karina.fidanza@gmail.com
 
-		*Thiago Alexandre Nakao França
+* Thiago Alexandre Nakao França
 		Desenvolvedor
 		nakaosensei@gmail.com
 
-		*Higor Luiz Farinha Celante
+* Higor Luiz Farinha Celante
 		Desenvolvedor
 		higor.celante@gmail.com
 
-		*Thiago Alexsander da Costa Pereira
+* Thiago Alexsander da Costa Pereira
 		Desenvolvedor
 		thiago.2014@alunos.utfpr.edu.br
 
-		*Érica Yurie Saito
+* Érica Yurie Saito
 		Gerente de Projeto
 		ericasaito@alunos.utfpr.edu.br
 
-		*Reginaldo Ré
+* Reginaldo Ré
 		Avaliador do Projeto
 		reginaldo.re@utfpr.edu.br
 		 
 ## Informações de avaliação
-###Requisitos Essenciais
+* Requisitos Essenciais
 O sistema deve extratir os registros de plantas macrófitas coletadas na américa do sul, ultilizando-se de dados disponíveis nos domínios Gbif e SpeciesLink. 		
 O sistema deve normalizar as macrófitas coletadas utilizando como base dados extraídos dos domínios PlantList e FloraDoBrasil.
-###Principais Expectativas
+* Principais Expectativas
 No Processo de normalização, cada espécie deverá estar listada com o nome de espécie atualmente correto, juntamente com o nome do autor correspondente, sua respectiva coordenada geográfica e adicionalmente deve-se ter um histórico de nomes de espécies anteriores. 
-###Influência Potencial no Projeto
+* Influência Potencial no Projeto
 Súbita mudança nos requisitos.
 Queda em alguns dos domínios de interesse.
-###Fase de Maior Interesse no Ciclo de Vida
+* Fase de Maior Interesse no Ciclo de Vida
 Coleta de Requisitos 
 ## Classificação das partes interessadas:
-###Interna
+* Interna
 Higor Celante, Thiago Nakao, Thiago Pereira, Erica Saito.
-###Externa
+* Externa
 Carina, Tânia e comunidade acadêmica ambiental	
-###Apoiadora
+* Apoiadora
 Reginaldo Ré
 
 # Restrições
