@@ -19,6 +19,10 @@ Os objetivos SMART precisam conter cada um dos 5 acrônimos do termo SMART:
 - Relevante: Deve estar alinhado com a meta ou projeto.
 - Com o tempo definido: Com data para sua entrega, bem como para sua realização.
 
+- Validar os nomes das espécies das macrófitas que estão na lista fornecida pelo cliente baseando na base de dados da Flora do Brasil e do The Plant List. 
+- Extrair os seguintes dados de cada espécie validada: classe, família, tribo, forma de vida, substrato, origem, endemismo e distribuição geográfica.
+- Buscar as ocorrências das espécies validadas nas plataformas Specieslink e GBIF.
+
 # EAP
 
 # Principais requisitos das principais entregas/produtos
