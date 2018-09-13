@@ -97,12 +97,22 @@ O sistema deve normalizar as macrófitas coletadas utilizando como base dados ex
 - Reginaldo Ré
 
 # Restrições
+	## Data da entrega.
+		*Após a data do término do projeto, será tarde demais para entregar a ferramenta.
+	## Tempo de desenvolvimento.
+		*Por ser um projeto desenvolvido por alunos, o tempo dedicado ao desenvolvimento da ferramenta é limitado.
+	
 
 # Premissas
 
+
+
 # Riscos
-- Surgimento de muitos dados inconsistentes na coleta.
- 
+- Surgimento de muitos dados incoerêntes na coleta.
+- Subita queda nos serviços do Gbif, Species Link, Floradobrasil e PlantList.
+- Problemas na normalização duplicada de instâncias cruzadas com nomes diferentes entre o Gbif e SpeciesLink.
+- Assumir podas de espécies duvidosas na normalização que não poderiam ter sido descartadas.
+
 
 # Orçamentos do projeto
 
