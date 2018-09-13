@@ -50,51 +50,51 @@ Os objetivos SMART precisam conter cada um dos 5 acrônimos do termo SMART:
 # Partes Interessadas
 ## Informações de Identificação
 * Tania
-		Cliente
-		taniacrivelari@hotmail.com
+- Cliente
+- taniacrivelari@hotmail.com
 
 * Karina
-		Cliente
-		karina.fidanza@gmail.com
+- Cliente
+- karina.fidanza@gmail.com
 
 * Thiago Alexandre Nakao França
-		Desenvolvedor
-		nakaosensei@gmail.com
+- Desenvolvedor
+- nakaosensei@gmail.com
 
 * Higor Luiz Farinha Celante
-		Desenvolvedor
-		higor.celante@gmail.com
+- Desenvolvedor
+- higor.celante@gmail.com
 
 * Thiago Alexsander da Costa Pereira
-		Desenvolvedor
-		thiago.2014@alunos.utfpr.edu.br
+- Desenvolvedor
+- thiago.2014@alunos.utfpr.edu.br
 
 * Érica Yurie Saito
-		Gerente de Projeto
-		ericasaito@alunos.utfpr.edu.br
+- Gerente de Projeto
+- ericasaito@alunos.utfpr.edu.br
 
 * Reginaldo Ré
-		Avaliador do Projeto
-		reginaldo.re@utfpr.edu.br
+- Avaliador do Projeto
+- reginaldo.re@utfpr.edu.br
 		 
 ## Informações de avaliação
 * Requisitos Essenciais
-O sistema deve extratir os registros de plantas macrófitas coletadas na américa do sul, ultilizando-se de dados disponíveis nos domínios Gbif e SpeciesLink. 		
+> O sistema deve extratir os registros de plantas macrófitas coletadas na américa do sul, ultilizando-se de dados disponíveis nos domínios Gbif e SpeciesLink. 		
 O sistema deve normalizar as macrófitas coletadas utilizando como base dados extraídos dos domínios PlantList e FloraDoBrasil.
 * Principais Expectativas
-No Processo de normalização, cada espécie deverá estar listada com o nome de espécie atualmente correto, juntamente com o nome do autor correspondente, sua respectiva coordenada geográfica e adicionalmente deve-se ter um histórico de nomes de espécies anteriores. 
+> No Processo de normalização, cada espécie deverá estar listada com o nome de espécie atualmente correto, juntamente com o nome do autor correspondente, sua respectiva coordenada geográfica e adicionalmente deve-se ter um histórico de nomes de espécies anteriores. 
 * Influência Potencial no Projeto
-Súbita mudança nos requisitos.
-Queda em alguns dos domínios de interesse.
+> Súbita mudança nos requisitos.
+> Queda em alguns dos domínios de interesse.
 * Fase de Maior Interesse no Ciclo de Vida
-Coleta de Requisitos 
+>Coleta de Requisitos 
 ## Classificação das partes interessadas:
 * Interna
-Higor Celante, Thiago Nakao, Thiago Pereira, Erica Saito.
+- Higor Celante, Thiago Nakao, Thiago Pereira, Erica Saito.
 * Externa
-Carina, Tânia e comunidade acadêmica ambiental	
+- Carina, Tânia e comunidade acadêmica ambiental	
 * Apoiadora
-Reginaldo Ré
+- Reginaldo Ré
 
 # Restrições
 
