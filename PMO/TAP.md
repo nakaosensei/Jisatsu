@@ -19,6 +19,10 @@ Os objetivos SMART precisam conter cada um dos 5 acrônimos do termo SMART:
 - Relevante: Deve estar alinhado com a meta ou projeto.
 - Com o tempo definido: Com data para sua entrega, bem como para sua realização.
 
+- Validar os nomes das espécies das macrófitas que estão na lista fornecida pelo cliente baseando na base de dados da Flora do Brasil e do The Plant List. 
+- Extrair os seguintes dados de cada espécie validada: classe, família, tribo, forma de vida, substrato, origem, endemismo e distribuição geográfica.
+- Buscar as ocorrências das espécies validadas nas plataformas Specieslink e GBIF.
+
 # EAP
 
 # Principais requisitos das principais entregas/produtos
@@ -44,20 +48,53 @@ Os objetivos SMART precisam conter cada um dos 5 acrônimos do termo SMART:
 |
 
 # Partes Interessadas
-	## Informações de Identificação
-		*nome
-		*posição da organização
-		*local
-		*papel no projeto
-		*informações de contatos
-	## Informações de avaliação
-		*requisitos essenciais
-		*principais expectativas
-		*influência potencial no projeto
-		*fase de maior interesse no ciclo de vida 
-	## Classificação das partes interessadas:
-		*interna/externa
-		*apoiadora/neutra/resistente
+## Informações de Identificação
+* Tania
+		Cliente
+		taniacrivelari@hotmail.com
+
+* Karina
+		Cliente
+		karina.fidanza@gmail.com
+
+* Thiago Alexandre Nakao França
+		Desenvolvedor
+		nakaosensei@gmail.com
+
+* Higor Luiz Farinha Celante
+		Desenvolvedor
+		higor.celante@gmail.com
+
+* Thiago Alexsander da Costa Pereira
+		Desenvolvedor
+		thiago.2014@alunos.utfpr.edu.br
+
+* Érica Yurie Saito
+		Gerente de Projeto
+		ericasaito@alunos.utfpr.edu.br
+
+* Reginaldo Ré
+		Avaliador do Projeto
+		reginaldo.re@utfpr.edu.br
+		 
+## Informações de avaliação
+* Requisitos Essenciais
+O sistema deve extratir os registros de plantas macrófitas coletadas na américa do sul, ultilizando-se de dados disponíveis nos domínios Gbif e SpeciesLink. 		
+O sistema deve normalizar as macrófitas coletadas utilizando como base dados extraídos dos domínios PlantList e FloraDoBrasil.
+* Principais Expectativas
+No Processo de normalização, cada espécie deverá estar listada com o nome de espécie atualmente correto, juntamente com o nome do autor correspondente, sua respectiva coordenada geográfica e adicionalmente deve-se ter um histórico de nomes de espécies anteriores. 
+* Influência Potencial no Projeto
+Súbita mudança nos requisitos.
+Queda em alguns dos domínios de interesse.
+* Fase de Maior Interesse no Ciclo de Vida
+Coleta de Requisitos 
+## Classificação das partes interessadas:
+* Interna
+Higor Celante, Thiago Nakao, Thiago Pereira, Erica Saito.
+* Externa
+Carina, Tânia e comunidade acadêmica ambiental	
+* Apoiadora
+Reginaldo Ré
 
 # Restrições
 	## Data da entrega.
