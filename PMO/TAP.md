@@ -46,33 +46,40 @@ Os objetivos SMART precisam conter cada um dos 5 acrônimos do termo SMART:
 
 # Partes Interessadas
 ## Informações de Identificação
-* Tania
-	Cliente
-	taniacrivelari@hotmail.com
+Tania |
+------- |
+Cliente |
+taniacrivelari@hotmail.com |
 
-* Karina
-	Cliente
-	karina.fidanza@gmail.com
+Karina |
+------ |
+Cliente | 
+karina.fidanza@gmail.com |
 
-* Thiago Alexandre Nakao França
-	Desenvolvedor
-	nakaosensei@gmail.com
+Thiago Alexandre Nakao França |
+----------------------------- |
+Desenvolvedor |
+nakaosensei@gmail.com |
 
-* Higor Luiz Farinha Celante
-	Desenvolvedor
-	higor.celante@gmail.com
+Higor Luiz Farinha Celante |
+-------------------------- |
+Desenvolvedor |
+higor.celante@gmail.com |
 
-* Thiago Alexsander da Costa Pereira
-	Desenvolvedor
-	thiago.2014@alunos.utfpr.edu.br
+Thiago Alexsander da Costa Pereira |
+---------------------------------- |
+Desenvolvedor|
+thiago.2014@alunos.utfpr.edu.br|
 
-* Érica Yurie Saito
-	Gerente de Projeto
-	ericasaito@alunos.utfpr.edu.br
+Érica Yurie Saito |
+---------------- |
+Gerente de Projeto |
+ericasaito@alunos.utfpr.edu.br |
 
-* Reginaldo Ré
- 	Avaliador do Projeto
-	reginaldo.re@utfpr.edu.br
+Reginaldo Ré |
+------------ |
+Avaliador do Projeto|
+reginaldo.re@utfpr.edu.br|
 		 
 ## Informações de avaliação
 * Requisitos Essenciais
