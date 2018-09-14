@@ -47,32 +47,32 @@ Os objetivos SMART precisam conter cada um dos 5 acrônimos do termo SMART:
 # Partes Interessadas
 ## Informações de Identificação
 * Tania
- > Cliente
- > taniacrivelari@hotmail.com
+	Cliente
+	taniacrivelari@hotmail.com
 
 * Karina
- > Cliente
- > karina.fidanza@gmail.com
+	Cliente
+	karina.fidanza@gmail.com
 
 * Thiago Alexandre Nakao França
- > Desenvolvedor
- > nakaosensei@gmail.com
+	Desenvolvedor
+	nakaosensei@gmail.com
 
 * Higor Luiz Farinha Celante
- > Desenvolvedor
- > higor.celante@gmail.com
+	Desenvolvedor
+	higor.celante@gmail.com
 
 * Thiago Alexsander da Costa Pereira
- > Desenvolvedor
- > thiago.2014@alunos.utfpr.edu.br
+	Desenvolvedor
+	thiago.2014@alunos.utfpr.edu.br
 
 * Érica Yurie Saito
- > Gerente de Projeto
- > ericasaito@alunos.utfpr.edu.br
+	Gerente de Projeto
+	ericasaito@alunos.utfpr.edu.br
 
 * Reginaldo Ré
- > Avaliador do Projeto
- > reginaldo.re@utfpr.edu.br
+ 	Avaliador do Projeto
+	reginaldo.re@utfpr.edu.br
 		 
 ## Informações de avaliação
 * Requisitos Essenciais
@@ -87,17 +87,17 @@ O sistema deve normalizar as macrófitas coletadas utilizando como base dados ex
 >Coleta de Requisitos 
 ## Classificação das partes interessadas:
 * Interna
-- Higor Celante, Thiago Nakao, Thiago Pereira, Erica Saito.
+ Higor Celante, Thiago Nakao, Thiago Pereira, Erica Saito.
 * Externa
-- Carina, Tânia e comunidade acadêmica ambiental	
+ Carina, Tânia e comunidade acadêmica ambiental	
 * Apoiadora
-- Reginaldo Ré
+ Reginaldo Ré
 
 # Restrições
-	## Data da entrega.
-		*Após a data do término do projeto, será tarde demais para entregar a ferramenta.
-	## Tempo de desenvolvimento.
-		*Por ser um projeto desenvolvido por alunos, o tempo dedicado ao desenvolvimento da ferramenta é limitado.
+## Data da entrega.
+* Após a data do término do projeto, será tarde demais para entregar a ferramenta.
+## Tempo de desenvolvimento.
+* Por ser um projeto desenvolvido por alunos, o tempo dedicado ao desenvolvimento da ferramenta é limitado.
 	
 
 # Premissas
