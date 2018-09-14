@@ -95,18 +95,18 @@ O sistema deve normalizar as macrófitas coletadas utilizando como base dados ex
 ## Classificação das partes interessadas:
 * Interna 
  
- - Higor Celante
- - Thiago Nakao
- - Thiago Pereira
- - Erica Saito
+  - Higor Celante
+  - Thiago Nakao
+  - Thiago Pereira
+  - Erica Saito
 
 * Externa
- - Carina
- - Tânia
- - Comunidade Acadêmica Ambiental	
+  - Carina
+  - Tânia
+  - Comunidade Acadêmica Ambiental	
 
 * Apoiador 
- - Reginaldo Ré
+  - Reginaldo Ré
 
 # Restrições
 ## Data da entrega.
