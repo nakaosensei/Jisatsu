@@ -93,17 +93,20 @@ O sistema deve normalizar as macrófitas coletadas utilizando como base dados ex
 * Fase de Maior Interesse no Ciclo de Vida
 >Coleta de Requisitos 
 ## Classificação das partes interessadas:
- Interna |
-------- | 
- Higor Celante, Thiago Nakao, Thiago Pereira, Erica Saito.|
+* Interna 
+ 
+ - Higor Celante
+ - Thiago Nakao
+ - Thiago Pereira
+ - Erica Saito
 
-Externa |
--------- |
- Carina, Tânia e comunidade acadêmica ambiental	|
+* Externa
+ - Carina
+ - Tânia
+ - Comunidade Acadêmica Ambiental	
 
- Apoiadora |
----------- |
- Reginaldo Ré |
+* Apoiador 
+ - Reginaldo Ré
 
 # Restrições
 ## Data da entrega.
