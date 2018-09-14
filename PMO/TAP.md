@@ -120,9 +120,9 @@ O sistema deve normalizar as macrófitas coletadas utilizando como base dados ex
 
 # Referencias
 - [GBIF](https://www.gbif.org/)
-- [SpeciesLink](http://www.splink.cria.org.br/)
-- [FloradoBrasil](http://floradobrasil.jbrj.gov.br/)
-- [ThePlantList](http://www.theplantlist.org/)
+- [Species Link](http://www.splink.cria.org.br/)
+- [Flora do Brasil](http://floradobrasil.jbrj.gov.br/)
+- [The Plant List](http://www.theplantlist.org/)
 
 Tânia,Karina-orientadora,daiane barueri(espécies de peixes)
 
