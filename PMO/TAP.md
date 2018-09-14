@@ -119,7 +119,8 @@ O sistema deve normalizar as macrófitas coletadas utilizando como base dados ex
 - Assumir podas de espécies duvidosas na normalização que não poderiam ter sido descartadas.
 
 # Referencias
-Gbif
-Species link
+[GBIF](https://www.gbif.org/)
+[SpeciesLink](http://www.splink.cria.org.br/)
+
 Tânia,Karina-orientadora,daiane barueri(espécies de peixes)
 
