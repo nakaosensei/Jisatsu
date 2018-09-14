@@ -37,12 +37,12 @@ Os objetivos SMART precisam conter cada um dos 5 acrônimos do termo SMART:
 | Entrega 3     |          |   19/10/2018   |
 | Encerramento  |          |   06/12/2018, 07/12/2018   |
 
-#Entregas
+# Entregas
 | Nome | Data | 
-|
-|
-|
-|
+|------- | ------|
+| |
+| |
+| |
 
 # Partes Interessadas
 ## Informações de Identificação
@@ -93,12 +93,17 @@ O sistema deve normalizar as macrófitas coletadas utilizando como base dados ex
 * Fase de Maior Interesse no Ciclo de Vida
 >Coleta de Requisitos 
 ## Classificação das partes interessadas:
-* Interna
- Higor Celante, Thiago Nakao, Thiago Pereira, Erica Saito.
-* Externa
- Carina, Tânia e comunidade acadêmica ambiental	
-* Apoiadora
- Reginaldo Ré
+ Interna |
+------- | 
+ Higor Celante, Thiago Nakao, Thiago Pereira, Erica Saito.|
+
+Externa |
+-------- |
+ Carina, Tânia e comunidade acadêmica ambiental	|
+
+ Apoiadora |
+---------- |
+ Reginaldo Ré |
 
 # Restrições
 ## Data da entrega.
