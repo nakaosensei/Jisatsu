@@ -12,13 +12,6 @@ Jisatsu é um projeto que tem por objetivo o mapeamento da localidade de plantas
 - A necessidade desse trabalho surgiu da tese de pós doutorado da aluna Tânia da Silva Sauro, orientanda da doutora Karina dos ventos estridentes. Além de cooperarmos com um projeto de pesquisa real, o produto desse projeto será utilizado como nota para a disciplina Engenharia de Software 2. 
 
 # Objetivos SMART e critérios de sucesso do projeto
-Os objetivos SMART precisam conter cada um dos 5 acrônimos do termo SMART:
-- Específico: O objetivo deve ser claro, sem ambiguidade e deve responder 5 questões: O que quero atingir?Porque? Com quem?Onde? Como?
-- Mensurável: O objetivo deve poder ser quantificado em números, de forma que possa se acompanhar o seu atingimento através da medição desses números e quantidades.
-- Atingível: Garantir que com os recursos disponíveis o objetivo pode ser alcançado.
-- Relevante: Deve estar alinhado com a meta ou projeto.
-- Com o tempo definido: Com data para sua entrega, bem como para sua realização.
-
 - Validar os nomes das espécies das macrófitas que estão na lista fornecida pelo cliente baseando na base de dados da Flora do Brasil e do The Plant List. 
 - Extrair os seguintes dados de cada espécie validada: classe, família, tribo, forma de vida, substrato, origem, endemismo e distribuição geográfica.
 - Buscar as ocorrências das espécies validadas nas plataformas Specieslink e GBIF.
