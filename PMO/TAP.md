@@ -17,12 +17,15 @@ Jisatsu é um projeto que tem por objetivo o mapeamento da localidade de plantas
 - Buscar as ocorrências das espécies validadas nas plataformas Specieslink e GBIF.
 
 # EAP
-A Estrutura analítica do projeto está descrita abaixo
+Segue a Estrutura Analítica do Projeto, o projeto contém quatro etapas principais, sendo o Gerenciamento do projeto, coleta de dados, normalização e exportação para xls, o trabalho está dividido na imagem abaixo.
+
 ![EAP completa](https://i.imgur.com/lV7egCx.jpg)
+
 
 # Principais requisitos das principais entregas/produtos
 
 ## Requisitos funcionais
+
 
 ## Requisitos não-funcionais
 
@@ -33,16 +36,10 @@ A Estrutura analítica do projeto está descrita abaixo
 | Iniciação     | Projeto aprovado                            |   07/09/2018   |
 | Planejamento  | Plano de Gerenciamento de Projetos Aprovado |   21/09/2018   |
 | Entrega 1     | Termo de abertura, Documentação do gerenciamento de escopo e tempo         |   21/09/2018   |
-| Entrega 2     | Dados Gbif e Species Link Coletados         |   05/10/2018   |
-| Entrega 3     | Normalização         |   19/10/2018   |
-| Encerramento  | Exportação para XLS         |   06/12/2018, 07/12/2018   |
+| Entrega 2     | Dados Gbif coletados   |   05/10/2018   |
+| Entrega 3     | Species Link coletados    |   19/10/2018   |
+| Encerramento  | Normalização e Exportação para XLS         |   06/12/2018, 07/12/2018   |
 
-# Entregas
-| Nome | Data | 
-|------- | ------|
-| |
-| |
-| |
 
 # Partes Interessadas
 ## Informações de Identificação
