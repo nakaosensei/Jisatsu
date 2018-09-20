@@ -27,6 +27,11 @@ Os objetivos SMART precisam conter cada um dos 5 acrônimos do termo SMART:
 
 # Principais requisitos das principais entregas/produtos
 
+## Requisitos funcionais
+
+## Requisitos não-funcionais
+
+
 # Marcos
 |    Fases      |  Marcos  | Previsão |
 |---------------|----------|----------|
