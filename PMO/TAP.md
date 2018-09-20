@@ -17,6 +17,8 @@ Jisatsu é um projeto que tem por objetivo o mapeamento da localidade de plantas
 - Buscar as ocorrências das espécies validadas nas plataformas Specieslink e GBIF.
 
 # EAP
+A Estrutura analítica do projeto está descrita abaixo
+![EAP completa](https://photos.app.goo.gl/P5ArfcLmVXaHZ9Qm6)
 
 # Principais requisitos das principais entregas/produtos
 
@@ -30,10 +32,10 @@ Jisatsu é um projeto que tem por objetivo o mapeamento da localidade de plantas
 |---------------|----------|----------|
 | Iniciação     | Projeto aprovado                            |   07/09/2018   |
 | Planejamento  | Plano de Gerenciamento de Projetos Aprovado |   21/09/2018   |
-| Entrega 1     |          |   21/09/2018   |
-| Entrega 2     |          |   05/10/2018   |
-| Entrega 3     |          |   19/10/2018   |
-| Encerramento  |          |   06/12/2018, 07/12/2018   |
+| Entrega 1     | Termo de abertura, Documentação do gerenciamento de escopo e tempo         |   21/09/2018   |
+| Entrega 2     | Dados Gbif e Species Link Coletados         |   05/10/2018   |
+| Entrega 3     | Normalização         |   19/10/2018   |
+| Encerramento  | Exportação para XLS         |   06/12/2018, 07/12/2018   |
 
 # Entregas
 | Nome | Data | 
