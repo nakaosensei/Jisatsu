@@ -18,7 +18,7 @@ Jisatsu é um projeto que tem por objetivo o mapeamento da localidade de plantas
 
 # EAP
 A Estrutura analítica do projeto está descrita abaixo
-![EAP completa](https://photos.app.goo.gl/P5ArfcLmVXaHZ9Qm6)
+![EAP completa](https://i.imgur.com/lV7egCx.jpg)
 
 # Principais requisitos das principais entregas/produtos
 
