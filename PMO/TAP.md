@@ -25,9 +25,8 @@ Segue a Estrutura Analítica do Projeto, o projeto contém quatro etapas princip
 # Principais requisitos das principais entregas/produtos
 
 ## Requisitos funcionais
-
-
-## Requisitos não-funcionais
+Os dados das coletas das plantas não podem ser duplicados.
+Devem estar presentes o autor e a localização para cada planta encontrada na américa do sul, em uma tabela do .xls.
 
 
 # Marcos
