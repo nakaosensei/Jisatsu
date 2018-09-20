@@ -12,13 +12,6 @@ Jisatsu é um projeto que tem por objetivo o mapeamento da localidade de plantas
 - A necessidade desse trabalho surgiu da tese de pós doutorado da aluna Tânia da Silva Sauro, orientanda da doutora Karina dos ventos estridentes. Além de cooperarmos com um projeto de pesquisa real, o produto desse projeto será utilizado como nota para a disciplina Engenharia de Software 2. 
 
 # Objetivos SMART e critérios de sucesso do projeto
-Os objetivos SMART precisam conter cada um dos 5 acrônimos do termo SMART:
-- Específico: O objetivo deve ser claro, sem ambiguidade e deve responder 5 questões: O que quero atingir?Porque? Com quem?Onde? Como?
-- Mensurável: O objetivo deve poder ser quantificado em números, de forma que possa se acompanhar o seu atingimento através da medição desses números e quantidades.
-- Atingível: Garantir que com os recursos disponíveis o objetivo pode ser alcançado.
-- Relevante: Deve estar alinhado com a meta ou projeto.
-- Com o tempo definido: Com data para sua entrega, bem como para sua realização.
-
 - Validar os nomes das espécies das macrófitas que estão na lista fornecida pelo cliente baseando na base de dados da Flora do Brasil e do The Plant List. 
 - Extrair os seguintes dados de cada espécie validada: classe, família, tribo, forma de vida, substrato, origem, endemismo e distribuição geográfica.
 - Buscar as ocorrências das espécies validadas nas plataformas Specieslink e GBIF.
@@ -51,40 +44,33 @@ Os objetivos SMART precisam conter cada um dos 5 acrônimos do termo SMART:
 
 # Partes Interessadas
 ## Informações de Identificação
-Tania |
-------- |
-Cliente |
-taniacrivelari@hotmail.com |
+ * Tania 
+  > Cliente 
+  > taniacrivelari@hotmail.com 
 
-Karina |
------- |
-Cliente | 
-karina.fidanza@gmail.com |
+ * Karina 
+  > Cliente 
+  > karina.fidanza@gmail.com 
 
-Thiago Alexandre Nakao França |
------------------------------ |
-Desenvolvedor |
-nakaosensei@gmail.com |
+ * Thiago Alexandre Nakao França 
+  > Desenvolvedor
+  > nakaosensei@gmail.com 
 
-Higor Luiz Farinha Celante |
--------------------------- |
-Desenvolvedor |
-higor.celante@gmail.com |
+ * Higor Luiz Farinha Celante 
+  > Desenvolvedor 
+  > higor.celante@gmail.com 
 
-Thiago Alexsander da Costa Pereira |
----------------------------------- |
-Desenvolvedor|
-thiago.2014@alunos.utfpr.edu.br|
+ * Thiago Alexsander da Costa Pereira
+  > Desenvolvedor
+  > thiago.2014@alunos.utfpr.edu.br
 
-Érica Yurie Saito |
----------------- |
-Gerente de Projeto |
-ericasaito@alunos.utfpr.edu.br |
+ * Érica Yurie Saito 
+  > Gerente de Projeto 
+  > ericasaito@alunos.utfpr.edu.br 
 
-Reginaldo Ré |
------------- |
-Avaliador do Projeto|
-reginaldo.re@utfpr.edu.br|
+ * Reginaldo Ré 
+  > Avaliador do Projeto
+  > reginaldo.re@utfpr.edu.br
 		 
 ## Informações de avaliação
 * Requisitos Essenciais
@@ -98,17 +84,20 @@ O sistema deve normalizar as macrófitas coletadas utilizando como base dados ex
 * Fase de Maior Interesse no Ciclo de Vida
 >Coleta de Requisitos 
 ## Classificação das partes interessadas:
- Interna |
-------- | 
- Higor Celante, Thiago Nakao, Thiago Pereira, Erica Saito.|
+* Interna 
+ 
+  - Higor Celante
+  - Thiago Nakao
+  - Thiago Pereira
+  - Erica Saito
 
-Externa |
--------- |
- Carina, Tânia e comunidade acadêmica ambiental	|
+* Externa
+  - Carina
+  - Tânia
+  - Comunidade Acadêmica Ambiental	
 
- Apoiadora |
----------- |
- Reginaldo Ré |
+* Apoiador 
+  - Reginaldo Ré
 
 # Restrições
 ## Data da entrega.
@@ -128,7 +117,10 @@ Externa |
 - Assumir podas de espécies duvidosas na normalização que não poderiam ter sido descartadas.
 
 # Referencias
-Gbif
-Species link
+- [GBIF](https://www.gbif.org/)
+- [Species Link](http://www.splink.cria.org.br/)
+- [Flora do Brasil](http://floradobrasil.jbrj.gov.br/)
+- [The Plant List](http://www.theplantlist.org/)
+
 Tânia,Karina-orientadora,daiane barueri(espécies de peixes)
 
