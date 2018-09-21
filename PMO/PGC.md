@@ -32,7 +32,7 @@ Pudemos alocar um total 23 issues a serem desenvolvidas até o dia da entrega, s
 Todas essas atividades foram extraídas com base no que precisa ser entregue(explícito na EAP), e estão presentes no dia a dia do time como issues no GitHub.
 
 # Gantt
-O gráfico de Gantt pode ser acessado no diretório PMO/Gantt do projeto, visível em um arquivo no formato PDF.
+O gráfico de Gantt pode ser acessado no link https://github.com/nakaosensei/Jisatsu/tree/master/PMO/Gantt do projeto, visível em um arquivo no formato PDF.
 
 # Milestones
 Para evidenciar as entregas constantemente ao time, foram criadas quatro milestones no respositório do projeto, bastando acessar https://github.com/nakaosensei/Jisatsu/milestones.
