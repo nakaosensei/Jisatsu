@@ -36,7 +36,7 @@ Devem estar presentes o autor e a localização para cada planta encontrada na a
 | Planejamento  | Plano de Gerenciamento de Projetos Aprovado |   21/09/2018   |
 | Entrega 1     | Termo de abertura, Documentação do gerenciamento de escopo e tempo         |   21/09/2018   |
 | Entrega 2     | Dados Gbif coletados   |   05/10/2018   |
-| Entrega 3     | Species Link coletados    |   19/10/2018   |
+| Entrega 3     | Species Link coletados    |   19/11/2018   |
 | Encerramento  | Normalização e Exportação para XLS         |   06/12/2018, 07/12/2018   |
 
 
