@@ -9,15 +9,15 @@ Jisatsu é um projeto que tem por objetivo o mapeamento da localidade de plantas
 
 # Situação atual e justificativa do projeto
 - O estudo de elementos da flora está intimamente ligado com a história da humanidade, a descoberta e registro de novas espécies é algo que nos fascina há tempos, por essa razão, sabemos que informações espaço/temporais dessas descobertas estão espalhadas em diversas bases de dados hoje, e por isso visamos realizar a coleta e um mapeamento global para que estudos posteriores tenham essa informação concreta.
-- A necessidade desse trabalho surgiu da tese de pós doutorado da aluna Tânia da Silva Sauro, orientanda da doutora Karina dos ventos estridentes. Além de cooperarmos com um projeto de pesquisa real, o produto desse projeto será utilizado como nota para a disciplina Engenharia de Software 2. 
+- A necessidade desse trabalho surgiu da tese de pós doutorado da aluna Tânia da Silva Sauro, orientanda da doutora Karina dos ventos estridentes. Além de cooperarmos com um projeto de pesquisa real, o produto desse projeto será utilizado como nota para a disciplina Engenharia de Software 2.
 
 # Objetivos SMART e critérios de sucesso do projeto
-- Validar os nomes das espécies das macrófitas que estão na lista fornecida pelo cliente baseando na base de dados da Flora do Brasil e do The Plant List. 
+- Validar os nomes das espécies das macrófitas que estão na lista fornecida pelo cliente baseando na base de dados da Flora do Brasil e do The Plant List.
 - Extrair os seguintes dados de cada espécie validada: classe, família, tribo, forma de vida, substrato, origem, endemismo e distribuição geográfica.
 - Buscar as ocorrências das espécies validadas nas plataformas Specieslink e GBIF.
 
 # EAP
-Segue a Estrutura Analítica do Projeto, o projeto contém quatro etapas principais, sendo o Gerenciamento do projeto, coleta de dados, normalização e exportação para xls, o trabalho está dividido na imagem abaixo.
+Segue a Estrutura Analítica do Projeto, o projeto contém quatro etapas principais, sendo o Gerenciamento do projeto, coleta de dados, normalização e exportação para xls, o trabalho a ser entregue é explícito na imagem abaixo.
 
 ![EAP completa](https://i.imgur.com/lV7egCx.jpg)
 
@@ -29,7 +29,7 @@ Os dados das coletas das plantas não podem ser duplicados.
 Devem estar presentes o autor e a localização para cada planta encontrada na américa do sul, em uma tabela do .xls.
 
 
-# Marcos
+# Entregas
 |    Fases      |  Marcos  | Previsão |
 |---------------|----------|----------|
 | Iniciação     | Projeto aprovado                            |   07/09/2018   |
@@ -42,48 +42,48 @@ Devem estar presentes o autor e a localização para cada planta encontrada na a
 
 # Partes Interessadas
 ## Informações de Identificação
- * Tania 
-  > Cliente 
-  > taniacrivelari@hotmail.com 
+ * Tania
+  > Cliente
+  > taniacrivelari@hotmail.com
 
- * Karina 
-  > Cliente 
-  > karina.fidanza@gmail.com 
+ * Karina
+  > Cliente
+  > karina.fidanza@gmail.com
 
- * Thiago Alexandre Nakao França 
+ * Thiago Alexandre Nakao França
   > Desenvolvedor
-  > nakaosensei@gmail.com 
+  > nakaosensei@gmail.com
 
- * Higor Luiz Farinha Celante 
-  > Desenvolvedor 
-  > higor.celante@gmail.com 
+ * Higor Luiz Farinha Celante
+  > Desenvolvedor
+  > higor.celante@gmail.com
 
  * Thiago Alexsander da Costa Pereira
   > Desenvolvedor
   > thiago.2014@alunos.utfpr.edu.br
 
- * Érica Yurie Saito 
-  > Gerente de Projeto 
-  > ericasaito@alunos.utfpr.edu.br 
+ * Érica Yurie Saito
+  > Gerente de Projeto
+  > ericasaito@alunos.utfpr.edu.br
 
- * Reginaldo Ré 
+ * Reginaldo Ré
   > Avaliador do Projeto
   > reginaldo.re@utfpr.edu.br
-		 
+
 ## Informações de avaliação
 * Requisitos Essenciais
 > O sistema deve extratir os registros de plantas macrófitas coletadas na américa do sul, ultilizando-se de dados disponíveis nos domínios Gbif e SpeciesLink. 		
 O sistema deve normalizar as macrófitas coletadas utilizando como base dados extraídos dos domínios PlantList e FloraDoBrasil.
 * Principais Expectativas
-> No Processo de normalização, cada espécie deverá estar listada com o nome de espécie atualmente correto, juntamente com o nome do autor correspondente, sua respectiva coordenada geográfica e adicionalmente deve-se ter um histórico de nomes de espécies anteriores. 
+> No Processo de normalização, cada espécie deverá estar listada com o nome de espécie atualmente correto, juntamente com o nome do autor correspondente, sua respectiva coordenada geográfica e adicionalmente deve-se ter um histórico de nomes de espécies anteriores.
 * Influência Potencial no Projeto
 > Súbita mudança nos requisitos.
 > Queda em alguns dos domínios de interesse.
 * Fase de Maior Interesse no Ciclo de Vida
->Coleta de Requisitos 
+>Coleta de Requisitos
 ## Classificação das partes interessadas:
-* Interna 
- 
+* Interna
+
   - Higor Celante
   - Thiago Nakao
   - Thiago Pereira
@@ -92,9 +92,9 @@ O sistema deve normalizar as macrófitas coletadas utilizando como base dados ex
 * Externa
   - Carina
   - Tânia
-  - Comunidade Acadêmica Ambiental	
+  - Comunidade Acadêmica Ambiental
 
-* Apoiador 
+* Apoiador
   - Reginaldo Ré
 
 # Restrições
@@ -102,10 +102,10 @@ O sistema deve normalizar as macrófitas coletadas utilizando como base dados ex
 * Após a data do término do projeto, será tarde demais para entregar a ferramenta.
 ## Tempo de desenvolvimento.
 * Por ser um projeto desenvolvido por alunos, o tempo dedicado ao desenvolvimento da ferramenta é limitado.
-	
+
 
 # Premissas
-- Os nomes das macrófitas que serão validadas estão presentes no banco de dados da Flora do Brasil, do The Plant List. 
+- Os nomes das macrófitas que serão validadas estão presentes no banco de dados da Flora do Brasil, do The Plant List.
 - Os dados das macrófitas que serão validadas estão presentes na plataforma Specieslink e GBIF.
 
 # Riscos
@@ -121,4 +121,3 @@ O sistema deve normalizar as macrófitas coletadas utilizando como base dados ex
 - [The Plant List](http://www.theplantlist.org/)
 
 Tânia,Karina-orientadora,daiane barueri(espécies de peixes)
-
