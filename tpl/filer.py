@@ -21,3 +21,12 @@ def make_dir(path_dir):
     path_dir += string
     if not os.path.exists(path_dir):
         os.makedirs(path_dir)
+   
+
+def read_csv(path):
+    with open(path,'rb') as csvzao:
+        reader = csv.reader(csvzao)
+        for row in reader:
+            print(', '.join(row))
+
+
