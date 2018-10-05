@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog
 import os
-
+import csv
 
 def file_chooser():
     root = tk.Tk()
@@ -30,3 +30,15 @@ def read_csv(path):
             print(', '.join(row))
 
 
+def write_csv(r):
+    with open("csvzao.csv", "wb") as csv:
+        for chunk in r.iter_content(chunk_size=1024):
+
+            if chunk:
+                csv.write(chunk)
+
+
+def mkdirzao():
+    x = os.getcwd()
+    print(x)
+    make_dir(x)
