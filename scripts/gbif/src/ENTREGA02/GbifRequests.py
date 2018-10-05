@@ -42,9 +42,10 @@ if __name__ == "__main__":
         print("\n")
         print(i.items())
         print("\n")
-        
+
     for i in range(len(plants)):
         tmpId = gbifrequests.searchID(plants[i])
         ocurrences = gbifrequests.getOccurrencesFromSpecies(tmpId)
         plantsOcurrences[plants[i]]=ocurrences
+
     hyprogripla = plantsOcurrences["Hygrophila costata Nees"]
