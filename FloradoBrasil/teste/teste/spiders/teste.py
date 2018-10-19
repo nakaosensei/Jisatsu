@@ -1,7 +1,6 @@
-#scrapy runspider teste.py -o teste1.json
-
 import scrapy
 import openpyxl
+import json
 
 class TesteSpider(scrapy.Spider):
 	name = 'teste'
@@ -12,24 +11,18 @@ class TesteSpider(scrapy.Spider):
 		sheet = dado[planilha]
 		pesquisa = []
 
-		for row in sheet.iter_rows('A1:A1048576'):
+		for row in sheet['A1:A1048576']:
 			for cell in row:
 				if cell.value is None:
 					break
 				nome = cell.value
 				nome = nome.split(" ")
-				pesquisa.append(nome[0]+"_"+nome[1])
+				pesquisa.append(nome[0]+"%20"+nome[1])
 
 		for nome in pesquisa:
-			yield scrapy.Request("http://servicos.jbrj.gov.br/flora/search/{}".format(nome), self.parse)
+			yield scrapy.Request("http://servicos.jbrj.gov.br/flora/taxon/{}".format(nome), self.parse)
 
 	def parse(self, response):
 		yield{
-			'Nome valido': response.xpath('//*[@id="nomeCompletoTitulo"]/span').extract()
+			'Dados' : response.xpath('/html/body/').extract()
 		}			
-			
-			
-	
-	
-
-
