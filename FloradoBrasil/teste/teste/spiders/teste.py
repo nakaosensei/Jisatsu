@@ -1,6 +1,7 @@
+#Para compilar: scrapy crawl teste -o teste.[formato](json, csv, xml ....)
+
 import scrapy
 import openpyxl
-import json
 
 class TesteSpider(scrapy.Spider):
 	name = 'teste'
@@ -21,8 +22,8 @@ class TesteSpider(scrapy.Spider):
 
 		for nome in pesquisa:
 			yield scrapy.Request("http://servicos.jbrj.gov.br/flora/taxon/{}".format(nome), self.parse)
-
+	
 	def parse(self, response):
 		yield{
-			'Dados' : response.xpath('/html/body/').extract()
+			'Nome': response.xpath('/html/body').extract()
 		}			
