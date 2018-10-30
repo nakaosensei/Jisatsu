@@ -2,6 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import pandas as pd
+import sys
+from Tkinter import Tk
+from tkinter.filedialog import askopenfilename
 
 class GbifRequests:
 
@@ -28,11 +31,14 @@ class GbifRequests:
 
 if __name__ == "__main__":
     gbif = GbifRequests()
-    df = pd.read_excel('ListaMacrofitas.xlsx' ,header=None)
+    
+    print(sys.argv[1])
+    df = pd.read_excel(sys.argv[1] ,header=None)
     plants = df[0]
     gbifrequests = GbifRequests()
     plantsOcurrences = {}
 
+    print("Case test 1")
     id = gbif.searchID("Hygrophila costata Nees")
     ocurrences = gbif.getOccurrencesFromSpecies(id)
     plantsOcurrences["Hygrophila costata Nees"]=ocurrences
@@ -43,9 +49,21 @@ if __name__ == "__main__":
         print(i.items())
         print("\n")
 
+    print("Case test 2")
+    id = gbif.searchID("Dyschoriste maranhonis Kuntze")
+    ocurrences = gbif.getOccurrencesFromSpecies(id)
+    plantsOcurrences["Dyschoriste maranhonis Kuntze"]=ocurrences
+    exemplos = plantsOcurrences["Dyschoriste maranhonis Kuntze"]
+    for i in exemplos:
+        print(i.keys())
+        print("\n")
+        print(i.items())
+        print("\n")
+
+
+    """
     for i in range(len(plants)):
         tmpId = gbifrequests.searchID(plants[i])
         ocurrences = gbifrequests.getOccurrencesFromSpecies(tmpId)
         plantsOcurrences[plants[i]]=ocurrences
-
-    hyprogripla = plantsOcurrences["Hygrophila costata Nees"]
+    """

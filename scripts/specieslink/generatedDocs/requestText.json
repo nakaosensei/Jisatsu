@@ -1,0 +1,113 @@
+<div id='div_hint_result'>
+<div id='div_hint_summary' style='margin-left: 10px'>
+<table width='100%' cellpadding='0' cellspacing='0'>
+<tr><th><b>mostrando registros de <ll>1</ll> a <ll>2</ll> dos <ll>2</ll> encontrados em <ll>4.66</ll> s</b></th><td></td><td></td><td></td></tr>
+</table>
+</div>
+<script type='text/javascript' id='div_hint_resultMyScript'>
+	top.RecsOffset = 0;
+</script>
+<script type='text/javascript' id='div_hintMyScript'>
+	top.RecsOffset = 0;
+	top.watermarkReset(null,null,20);
+	d = top.document.getElementById('div_searchExplain');
+	if (d) { d.innerHTML = "<blockquote><br/><br/><a href='javascript:top.getCitation()'><b id='seeHowToCite'><span class='red'>{</span>&#160;ver como citar, condições de uso dos dados &#133;&#160;<span class='red'>}</span></b></a></blockquote>" }
+</script>
+<div id='record_x' class='record'><table width='100%' border='0'><tr valign='top' align='right'>
+<td><b>Atenção!</b><br/>Os nomes das espécies e gêneros ao lado<br/>são comparados com alguns dicionários de acordo com o grupo biológico.<br/> Em <span class='tAcc'>negrito verde</span> aparecem os <span class='tAcc'>aceitos</span>,<br/>em <span class='tSyn'>negrito cinza</span> os <span class='tSyn'>sinônimos</span> e<br/> em <span class='tUnk'>laranja</span> os <span class='tUnk'>não encontrados</span>.<br/> Nomes em <span class='tAmb'>magenta</span> aparecem nos dicionários com mais de um status por diferentes motivos.<br/> Nomes de <b>famílias</b> são apenas checados quanto a constarem ou não dos dicionários.<br/> No inventário de espécies, o nome aparece em <span class='tnoId'>azul</span> quando o espécime com <span class='tnoId'>identificação só até gênero</span>.<br/> Veja <a href='javascript:getTips()'><b>dicas de uso</b></a> para informações mais detalhadas.</td>
+</tr></table></div>
+<div id='record_0' class='record'><table width='100%' border='0'><tr valign='top' id='detail_0'><td class='collID'><a
+	href='http://splink.cria.org.br/manager/detail?setlang=pt&resource=G'
+	target='manager'><img src='logos/collections/G.gif' align='right' width='50px'/></a></td>
+<td><span onClick="top.getDetail(368266175,0)">
+<span class='tK'>Plantae</span> <span class='tF'>Poaceae</span> <br/> <span class='tGs'> <u>Panicum</u> </span> <span class='tEs'> <u>schwackeanum</u> </span> <span class='tA'> <u>Mez</u> </span> <span class='tT'>SYNTYPUS of <u>Panicum</u> <u>schwackeanum</u> <u>Mez</u> </span>. <ll>Det: </ll> <span class='tI'>?</span><br/> <span class='tN'>G00099806</span> <ll>Coleta: </ll> <span class='cL'>Glaziou, A. F. M.</span> <span class='cN'>16620</span> <span class='cY'>1887</span>. <br/> <ll>Loc: </ll> <span class='lC'>Brazil</span> <ll>Cód. barras: </ll> <span class='bC'>G00099806.</span> <br/> <ll>Coord. orig.:  </ll> <span class='lA'>[<i>lat: </i>-10.77305556</span> <span class='lO'> <i>long: </i>-53.08972222</span> WGS84]<br/> <ll>Notas:</ll> <nO>Coordinate uncertainty: Precision at the level of country Image URL: http://www.ville-ge.ch/musinfo/bd/cjb/chg/adetail.php?id=129708&base=img&lang=en</nO><br/><ll>Tipo de registro: </ll> espécime preservado<br/></span>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'><tr><td><span id='credit'>&#169; Geneva Herbaria Catalogue with species Brazil (G)</span></td></tr></table>
+</td></span>
+</td><td align='right'><table><tr><td width='50px' valign='top'><a  href='http://reflora.cria.org.br/inct/exsiccatae/image/imagecode/G00099806/size/huge/format/jpeg/foo/28963'
+        class='highslide'
+        onClick="return top.hs.expand(this, { slideshowGroup: 0 }, { bc: 'G00099806' })"><img
+		style="box-shadow: 3px 3px 3px #CCCCCC; border-radius: 5px; visibility: hidden" onLoad="this.style.visibility='visible'"
+        alt='<table width="100%"><tr><td><b>Conservatoire et Jardin botaniques de la Ville de Genève [<a href="downImage?imagecode=G00099806">G00099806</a>]</b></td><td
+align="right"><a href="http://reflora.cria.org.br/inct/exsiccatae/viewer/imagecode//G00099806/format/slide/initialimagecode/G00099806/foo/28963"
+target="other" class="oV"><big>abrir no </big>&#160;&#160;<img src="imgs/eh.png" height="15px"></a></td></tr></table>
+'
+	title='Conservatoire et Jardin botaniques de la Ville de Genève [G00099806]'
+        src='http://reflora.cria.org.br/inct/exsiccatae/image/imagecode/G00099806/size/thumb/format/jpeg/foo/28963' align='right'/></a>
+<div class='highslide-caption'><small><span class='tK'>Plantae</span> <span class='tF'>Poaceae</span> <br/> <span class='tGs'> <u>Panicum</u> </span> <span class='tEs'> <u>schwackeanum</u> </span> <span class='tA'> <u>Mez</u> </span> <span class='tT'>SYNTYPUS of <u>Panicum</u> <u>schwackeanum</u> <u>Mez</u> </span>. <ll>Det: </ll> <span class='tI'>?</span></small></div>
+</td>
+<td width='21px' valign='top' rowspan='2'><a href='http://reflora.cria.org.br/inct/exsiccatae/viewer/imagecode//G00099806/format/slide/foo/28963'
+target='other' title='abrir no visualizador exsiccatae'><img src='imgs/e.png' height='50px' align='right'></a></td>
+</tr></table></td></tr></table></div><br/><div id='record_1' class='record'><table width='100%' border='0'><tr valign='top' id='detail_1'><td class='collID'><a
+	href='http://splink.cria.org.br/manager/detail?setlang=pt&resource=US'
+	target='manager'><img src='logos/institutions/SMITHSONIAN.gif' align='right' width='50px'/></a></td>
+<td><span onClick="top.getDetail(849583201,1)">
+<span class='tK'>Plantae</span> <span class='tC'>Monocotyledonae</span> <span class='tO'>Cyperales</span> <span class='tF'>Poaceae</span> <br/> <span class='tGs'> <u>Panicum</u> </span> <span class='tEs'> <u>schwackeanum</u> </span> <span class='tA'> <u>Mez</u> </span><br/> <span class='tN'>US 974557</span> <ll>Coleta: </ll> <span class='cL'>ex herb. Trinius</span> <span class='cN'>s.n.</span> <br/> <ll>Loc: </ll> <span class='lC'>Brazil</span> <ll>Cód. barras: </ll> <span class='bC'>US01164899.</span> <br/> <ll>Notas:</ll> <nO>Fragmentary material of type (?) specimen ex herb. Trinius. This element mounted with syntype of <u>Panicum</u> <u>schwackeanum</u> <u>Mez</u>, but labeled as <u>Panicum</u> cyan<a href="http://n2t.net/ark:/65665/34701485b-4717-430c-a143-6159bffae1e7" target="other" class="eLink"> _</nO><br/><ll>Tipo de registro: </ll> espécime preservado<br/></span>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'><tr><td><span id='credit'>&#169; Smithsonian Department of Botany - Brazilian records (US)</span></td></tr></table>
+</td></span>
+</td><td align='right'><table><tr><td width='50px' valign='top'><a  href='http://reflora.cria.org.br/inct/exsiccatae/image/imagecode/US01164899/size/huge/format/jpeg/foo/28963'
+        class='highslide'
+        onClick="return top.hs.expand(this, { slideshowGroup: 1 }, { bc: 'US01164899' })"><img
+		style="box-shadow: 3px 3px 3px #CCCCCC; border-radius: 5px; visibility: hidden" onLoad="this.style.visibility='visible'"
+        alt='<table width="100%"><tr><td><b>Smithsonian Department of Botany - Brazilian records [<a href="downImage?imagecode=US01164899">US01164899</a>]</b></td><td
+align="right"><a href="http://reflora.cria.org.br/inct/exsiccatae/viewer/imagecode//US01164899/format/slide/initialimagecode/US01164899/foo/28963"
+target="other" class="oV"><big>abrir no </big>&#160;&#160;<img src="imgs/eh.png" height="15px"></a></td></tr></table>
+'
+	title='Smithsonian Department of Botany - Brazilian records [US01164899]'
+        src='http://reflora.cria.org.br/inct/exsiccatae/image/imagecode/US01164899/size/thumb/format/jpeg/foo/28963' align='right'/></a>
+<div class='highslide-caption'><small><span class='tK'>Plantae</span> <span class='tC'>Monocotyledonae</span> <span class='tO'>Cyperales</span> <span class='tF'>Poaceae</span> <br/> <span class='tGs'> <u>Panicum</u> </span> <span class='tEs'> <u>schwackeanum</u> </span> <span class='tA'> <u>Mez</u> </span></small></div>
+</td>
+<td width='21px' valign='top' rowspan='2'><a href='http://reflora.cria.org.br/inct/exsiccatae/viewer/imagecode//US01164899/format/slide/foo/28963'
+target='other' title='abrir no visualizador exsiccatae'><img src='imgs/e.png' height='50px' align='right'></a></td>
+</tr></table></td></tr></table></div><br/></div>
+<div id='div_hint_action'><table width='100%' cellspacing='0' cellpadding='0' border='0'>
+<tr>
+
+<td align='right'><table><tr valign='top'>
+<th><img src='imgs/summary_icon.png' height='20px' align='left'/><select onChange="top.getStats(this[this.selectedIndex].value,0);this.selectedIndex=0;" style="width: 100px">
+<option value=''>resumo</option>
+<option value='tables'>&#133; tabelas</option>
+<option value='maps'>&#133; mapas</option>
+<option value='graphs'>&#133; gráficos</option>
+</select></th>
+<th>&#160;</th>
+<th><img src='imgs/picture_icon.png' height='20px' align='left'/><select onChange="top.getImages(this[this.selectedIndex].value,top.RecsOffset);this.selectedIndex=0;" style="width: 100px">
+<option value=''>imagens</option>
+<option value='thumb' title='ver imagens numa tabela'>&#133; mosaico</option>
+<option value='compare' title='comparar as imagens lado a lado'>&#133; comparar</option>
+<option value='book' title='ver as imagens como catálogo'>&#133; catálogo</option>
+</select>
+</th>
+<th>&#160;</th>
+<th><img src='imgs/map_icon.png' height='20px' align='left'/><select onChange="top.getMap(this[this.selectedIndex].value);this.selectedIndex=0;" style="width: 100px">
+<option value=''>mapa</option>
+<option value='global'>&#133; global</option>
+<option value='collectioncode'>&#133; por coleção</option>
+<option value='genus'>&#133; por gênero</option>
+<option value='norm_yearcollected'>&#133; por ano de coleta</option>
+<option value='density'>&#133; por densidade</option>
+</select>
+</th>
+<th>&#160;</th>
+<th><img src='imgs/graph_icon.png' height='20px' align='left'/><select onChange="top.getGraph(this[this.selectedIndex].value,1);this.selectedIndex=0;" style="width: 100px">
+<option value=''>gráfico</option>
+<option value='collection.column.1'>&#133; por coleção</option>
+<option value='family.column.1'>&#133; por família</option>
+<option value='genus.column.1'>&#133; por gênero (máx 100)</option>
+<option value='stateprovince.column.1'>&#133; por estado</option>
+<option value='typestatus.column.1'>&#133; por typus</option>
+<option value='yearcollected.column.1'>&#133; por ano de coleta</option>
+<option value='monthcollected.column.1'>&#133; por mês de coleta</option>
+<option value='yearidentified.column.1'>&#133; por ano de identificação</option>
+</select></th>
+<th>&#160;</th>
+<th><img src='imgs/down_icon.png' height='20px' align='left'/><select onChange="top.preDownLoad(this[this.selectedIndex].value);this.selectedIndex=0;" style="width: 100px">
+<option value=''>download</option>
+<option value='dwc_csv'>&#133; dados completos</option>
+<option value='openModeller'>&#133; openModeller</option>
+<option value='Maxent'>&#133; Maxent</option>
+</select>
+</th>
+<th>&#160;</th>
+</table></td></tr>
+</table></div>
+</span>

@@ -1,0 +1,1001 @@
+100
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Antônio Costa Allem
+Localidade:Retiro Chatelodo. Fazenda Alegria.
+Pais:Brasil
+Estado:MS
+Cidade:CORUMBA
+Latitude:-19.0091991424561
+Longitude:-57.6533012390137
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Longhi-Wagner, HM- Cavalheiro, E
+Localidade:Ilha dos Marinheiros
+Pais:Brasil
+Estado:RS
+Cidade:Porto Alegre
+Latitude:-30.0331001281738
+Longitude:-51.2299995422363
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Janssen, AS
+Localidade:Humaitá, Campo I, 500m ao Norte da BR 230, Km 2.
+Pais:Brasil
+Estado:Amazonas
+Cidade:Humaitá
+Latitude:-7.516667
+Longitude:-63.166667
+DataColeta:06/2014
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Allem, A- Vieira, G
+Localidade:Fazenda Ipiranga. Em campo baixo, junto a capão de cerradão.
+Pais:Brasil
+Estado:Mato Grosso
+Cidade:Poconé
+Latitude:-16.2567005157471
+Longitude:-56.6227989196777
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Antônio Costa Allem
+Localidade:Fazenda Santo Estêvão.
+Pais:Brasil
+Estado:MS
+Cidade:CORUMBA
+Latitude:-19.0091991424561
+Longitude:-57.6533012390137
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Burman, AG- Sendulsky, T
+Localidade:Serra de Jacuba, 3-5 km ao norte da cidade de Diamantina.
+Pais:Brasil
+Estado:Minas Gerais
+Cidade:Diamantina
+Latitude:-18.2493991851807
+Longitude:-43.6002998352051
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Schinini, A
+Localidade:Ruta 127 y Ayo. Curuzú Cuatiá.
+Pais:Argentina
+Estado:Monte Caseros
+Cidade:Corrientes
+Latitude:
+Longitude:
+DataColeta:06/2014
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:William R. Anderson|M.T. Stieber|Joseph H. Kirkbride, Jr.
+Localidade:On sandy islands and at edge of river. South-eastern drainage of Pico de Itambé, about 5 km directly west and north of Santo Antonio de Itambé.
+Pais:Brazil
+Estado:Minas Gerais
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Agnes Chase
+Localidade:Steep winding cliff with Agacves etc. Dois Irmaos, Reblon, near Lagoa de Freitas.
+Pais:Brazil
+Estado:Rio de Janeiro
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Allem, A- et al.
+Localidade:Fazenda Santa Delfina
+Pais:Brasil
+Estado:MS
+Cidade:Corumbá
+Latitude:-19.0091991424561
+Longitude:-57.6533012390137
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Silva, TS
+Localidade:6 km da Fazenda Bodoquena, no Rumo SE.
+Pais:Brasil
+Estado:Mato Grosso do Sul
+Cidade:Miranda
+Latitude:-20.2406005859375
+Longitude:-56.3782997131348
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Rúgolo, Z- et al.
+Localidade:Camino de Palmas a Ubaldino Taques
+Pais:Brasil
+Estado:PR
+Cidade:
+Latitude:
+Longitude:
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Noblick, L.R.- Santos, E
+Localidade:Arredores da UFS. Campus
+Pais:Brasil
+Estado:Sergipe
+Cidade:São Cristóvão
+Latitude:-10.924378
+Longitude:-37.101092
+DataColeta:14/05/2015
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Howard S. Irwin|J.W. Grear, Jr.|R. Souza|R. Reis dos Santos
+Localidade:Campo, Fazenda Vargem Bonita, ca. 10 km. S. of Brasilia.
+Pais:Brazil
+Estado:Distrito Federal
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Killeen, T
+Localidade:10 km SE of Concepción, Est. Salta.
+Pais:Bolívia
+Estado:Santa Cruz
+Cidade:Ñuflo de Chavez
+Latitude:-16.166667
+Longitude:-62
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Oliveira, RC- Guimarães, RM- Fagg, CW- Viana, RB- Souza, GF
+Localidade:Parque Nacional de Brasília, abaixo da represa
+Pais:Brasil
+Estado:Distrito Federal
+Cidade:Brasília
+Latitude:-15.692222
+Longitude:-47.9525
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Campos, C.J.
+Localidade:Rubião Jr., atrás da Igreja Sto. Antonio. Lugar de muita água, quase brejo.
+Pais:Brasil
+Estado:São Paulo
+Cidade:Botucatu
+Latitude:-22.8799991607666
+Longitude:-48.439998626709
+DataColeta:17/01/1997
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Boris Vassilievich Skvortsov
+Localidade:Ca. 10 km due south of center of Sao Paulo. Parque do Estado, grounds of the Instituto de Botânica. In black soil of a marsh.
+Pais:Brazil
+Estado:São Paulo
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Antônio Costa Allem
+Localidade:10 Km N Amambaí - Amambaí - Ponta Porã.
+Pais:Brasil
+Estado:MS
+Cidade:AMAMBAI
+Latitude:-23.1042003631592
+Longitude:-55.2257995605469
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Santos, LAS
+Localidade:Vegetação secundária com presença de palmeira, solo argiloso
+Pais:Brasil
+Estado:Sergipe
+Cidade:Santa Luzia do Itanhy
+Latitude:-11.378056
+Longitude:-37.424278
+DataColeta:20/11/2014
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Krieger, L
+Localidade:Em terreno úmido e pouco ensolarado.
+Pais:Brasil
+Estado:Minas Gerais
+Cidade:São João del Rei
+Latitude:-21.1355991363525
+Longitude:-44.2616996765137
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Windisch, PG- et al.
+Localidade:Em direção a Nova Roma do Sul
+Pais:Brasil
+Estado:RS
+Cidade:Antônio Prado
+Latitude:-28.9
+Longitude:-51.383333
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Jason R. Swallen
+Localidade:Wet sandy places along ditch. Carolina.
+Pais:Brazil
+Estado:Maranhão
+Cidade:
+Latitude:
+Longitude:
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:André, C.B.D.S.- Kadowaki, P.G.M.S.- Sousa, N.M.- Urquiza, M.V.S.
+Localidade:Bancada Laterítica do Parque Muninipal Natural de Piraputangas. ilha de solo- Neossolo-.
+Pais:Brasil
+Estado:Mato Grosso do Sul
+Cidade:Corumbá
+Latitude:-19.0091991424561
+Longitude:-57.6533012390137
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Heringer, EP- et al.
+Localidade:Bacia do Rio S. Bartolomeu.
+Pais:Brasil
+Estado:Distrito Federal
+Cidade:Brasília
+Latitude:-15.7797002792358
+Longitude:-47.9296989440918
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Irwin, HS- et al.
+Localidade:Ca. 15km E of Diamantina
+Pais:Brasil
+Estado:Minas Gerais
+Cidade:
+Latitude:
+Longitude:
+DataColeta:03/2002
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Ghillean T. Prance|et al.
+Localidade:First Savanna on Rio Mocooes, Fazenda Fura Olho
+Pais:Brazil
+Estado:Pará
+Cidade:
+Latitude:-0.6
+Longitude:-49.61666
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Allem, A- et al.
+Localidade:Fazenda Rio Negro
+Pais:Brasil
+Estado:MS
+Cidade:Aquidauana
+Latitude:-20.4710998535156
+Longitude:-55.7872009277344
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Baldwin Jr, JT
+Localidade:Rio Negro, mouth of Rio Içana.
+Pais:Brasil
+Estado:Amazonas
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:K.Kawakita- Harthman, V.C.- Garcia, J.M.- Santos, L.S.- Rodrigues, S.
+Localidade:rio Baía, ilhota ao lado da ilha do Aurélio
+Pais:Brasil
+Estado:Mato Grosso do Sul
+Cidade:Batayporã
+Latitude:-22.2952995300293
+Longitude:-53.2710990905762
+DataColeta:09/2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:R.C.Oliveira- O.F. de Oliveira- J.E. de Araújo- M.L.Silva
+Localidade:Distrito de Sibaúma., Margem do Rio Catu.
+Pais:Brasil
+Estado:Rio Grande do Norte
+Cidade:Tibau do Sul
+Latitude:-6.18666982650757
+Longitude:-35.0918998718262
+DataColeta:14/08/2006
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Longhi-Wagner, HM
+Localidade:estrada para Teresina de Góias à esquerda
+Pais:Brasil
+Estado:GO
+Cidade:Alto Paraíso de Goiás
+Latitude:-14.1324996948242
+Longitude:-47.5099983215332
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Viana, PL- Marino, F- Arruda, AJ- Jorge, TB- Meyer, PB
+Localidade:Floresta Nacional de Carajás, N7.
+Pais:Brasil
+Estado:Pará
+Cidade:Parauapebas
+Latitude:-6.153611
+Longitude:-50.172222
+DataColeta:2018
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Macedo, A
+Localidade:Queixada.
+Pais:Brasil
+Estado:Goiás
+Cidade:Jataí
+Latitude:-17.8813991546631
+Longitude:-51.7144012451172
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Gerrit Davidse|T.P. Ramamoorthy|Daniel M. Vital
+Localidade:Chapada da Diamantina, along waterfall of the Rio Ferro Doido, ca. 21 km E of Morro do Chapéu.
+Pais:Brazil
+Estado:Bahia
+Cidade:
+Latitude:-11.65
+Longitude:-39.083333
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Davidse, G- D'Arcy, WG
+Localidade:Ca. 3 km NE of Leopoldina along highway BR-116.
+Pais:Brasil
+Estado:Minas Gerais
+Cidade:Leopoldina
+Latitude:-21.5319004058838
+Longitude:-42.6431007385254
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:França, F- Melo, E
+Localidade:lagoa 1
+Pais:Brasil
+Estado:BA
+Cidade:Feira de Santana
+Latitude:-12.2666997909546
+Longitude:-38.9667015075684
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Richard Spruce
+Localidade:
+Pais:Brazil
+Estado:Pará
+Cidade:
+Latitude:
+Longitude:
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Frazão, A.
+Localidade:Deodoro, Cultivado.&nf-Nota do EAC: observe que esse distrito federal não é o de Brasília, que foi fundada somente em 1960. O distrito nesse caso (da década de 30) refere-se ao estado do Rio de Janeiro.
+Pais:Brasil
+Estado:Rio de Janeiro
+Cidade:Rio de Janeiro
+Latitude:-22.9027996063232
+Longitude:-43.2075004577637
+DataColeta:11/08/2011
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Martins, E- et al.
+Localidade:Estação IAC, região próxima ao riacho.
+Pais:Brasil
+Estado:São Paulo
+Cidade:Ubatuba
+Latitude:-23.42
+Longitude:-45.1275
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Gerrit Davidse|T.P. Ramamoorthy|Daniel M. Vital
+Localidade:Ca. 3 km NE of Leopoldina along Highway BR-116.
+Pais:Brazil
+Estado:Minas Gerais
+Cidade:
+Latitude:
+Longitude:
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Pires, JM- Black
+Localidade:Utinga
+Pais:Brasil
+Estado:PA
+Cidade:Belém
+Latitude:-1.4558299779892
+Longitude:-48.5043983459473
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Longhi-Wagner, HM- Witten
+Localidade:Pico do Penedo
+Pais:Brasil
+Estado:RJ
+Cidade:Penedo
+Latitude:
+Longitude:
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:SARAHYBA
+Localidade:Mun. Magé, antigua Fazenda da Fábrica de Papel (Faz. Padea Oca), pr. Rio Bananel.
+Pais:Brazil
+Estado:Rio de Janeiro
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:José Francisco Montenegro Valls
+Localidade:Em baixada entre as duas pontes sobre o rio Ibicuí.
+Pais:Brasil
+Estado:RS
+Cidade:URUGUAIANA
+Latitude:-29.7546997070312
+Longitude:-57.0882987976074
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Macedo, A
+Localidade:Rio Corrente.
+Pais:Brasil
+Estado:Goiás
+Cidade:Jataí
+Latitude:-17.8813991546631
+Longitude:-51.7144012451172
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Antonio C. Allem|G. Vieira
+Localidade:Faz. Descalvados-Mun. Cáceres.
+Pais:Brazil
+Estado:Mato Grosso do Sul
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Klein, R.M.- Bresolin, A.
+Localidade:
+Pais:Brasil
+Estado:Santa Catarina
+Cidade:Presidente Getúlio
+Latitude:-27.0506000518799
+Longitude:-49.6227989196777
+DataColeta:22/02/2017
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Timothy C. Plowman|Gerrit Davidse|Nelson A. Rosa|Carlos S. Rosário|M.R. dos Santos
+Localidade:Conçeicão do Araguaia, outskirts of town along road 2 km west of town along PA-287.
+Pais:Brazil
+Estado:Pará
+Cidade:Conceição do Araguaia
+Latitude:-8.25
+Longitude:-49.3
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Jarenkow, JA
+Localidade:na margem do rio Uruguai (área a ser inundada pelas águas da represa de Itá )
+Pais:Brasil
+Estado:RS
+Cidade:Marcelino Ramos
+Latitude:-27.4617004394531
+Longitude:-51.9063987731934
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Nilo T. Silva
+Localidade:Rio Jarí, Monte Dourado- área dos canteiros de germinção de Gemelina.
+Pais:Brazil
+Estado:Amazonas
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Janssen, AS
+Localidade:Humaitá, Margem de Rio Madeira, campo 4 e em lugares ruderais.
+Pais:Brasil
+Estado:Amazonas
+Cidade:Humaitá
+Latitude:-7.516667
+Longitude:-63.166667
+DataColeta:06/2014
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Sendulsky, T
+Localidade:
+Pais:Brasil
+Estado:São Paulo
+Cidade:Matão
+Latitude:-21.6000003814697
+Longitude:-48.3600006103516
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Davidse, G- D'Arcy, WG
+Localidade:Ca. 10 km of the Rio Doce at Governador Valadares. along highway BR-116.
+Pais:Brasil
+Estado:Minas Gerais
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Carvalho, DA- Vilela, EA
+Localidade:Rio Seco
+Pais:Brasil
+Estado:Minas Gerais
+Cidade:Ijaci
+Latitude:-21.1700000762939
+Longitude:-44.9253005981445
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Rodrigues, RS- Filgueiras, TS- Kawakita, K
+Localidade:Ao lado de caixa d'água próximo ao Parque Municipal Sítio da Candinha.
+Pais:Brasil
+Estado:São Paulo
+Cidade:Guarulhos
+Latitude:-23.399889
+Longitude:-46.463583
+DataColeta:29/01/2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Antônio Costa Allem
+Localidade:Km 10. Poconé - Porto Cercado, ao longo da Margem do Rio Bento Gomes.
+Pais:Brasil
+Estado:MT
+Cidade:POCONE
+Latitude:-16.2567005157471
+Longitude:-56.6227989196777
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Gonçalves, FB
+Localidade:
+Pais:Brasil
+Estado:Sergipe
+Cidade:Itaporanga d'Ajuda
+Latitude:-10.998333
+Longitude:-37.310278
+DataColeta:20/05/2015
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Silva, C- Turma de Florística- Fitossociologia 2011-I Prof Abe
+Localidade:Vale à direita do Morro do Pai Inácio, acesso pela estrada para o orquidário, encrave de mata atlãntica, cachoeira do Pai Inácio.
+Pais:Brasil
+Estado:Bahia
+Cidade:Palmeiras
+Latitude:-12.433333
+Longitude:-41.469722
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Sendulsky, T
+Localidade:Fazenda Campininha
+Pais:Brasil
+Estado:SP
+Cidade:Mogi Guaçu
+Latitude:-22.372200012207
+Longitude:-46.9421997070312
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:M. Schessl
+Localidade:Municipaliyt of Poconé. Highway Poconé - Porto Cercado approx. at km. 16.9. Seasonally inundated grassy floodplain interspersed by earthmounds ("Campo de murunduns").
+Pais:Brazil
+Estado:Mato Grosso do Sul
+Cidade:
+Latitude:-16.36666
+Longitude:-56.48333
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Antonio C. Allem|G. Vieira
+Localidade:Faz. Sant'Ana-Dist. Paiaguás-Mun. Corumbá. Grama-do carandazal.
+Pais:Brazil
+Estado:Mato Grosso do Sul
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:William R. Anderson
+Localidade:Mun. Barr do Garças: Ca. 5 km N of Garra do Garças, at base of south face of mountain- cerrado, mesophytic woods and wet quartzite faces along stream and near waterfall.
+Pais:Brazil
+Estado:Mato Grosso do Sul
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Ducke, A.
+Localidade:Barra do Cocó, Diogo
+Pais:Brasil
+Estado:Ceará
+Cidade:Fortaleza
+Latitude:-3.71722006797791
+Longitude:-38.543098449707
+DataColeta:10/05/2017
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Sendulsky, T
+Localidade:Parque Estadual das Fontes do Ipiranga, Reserva Biológica.
+Pais:Brasil
+Estado:São Paulo
+Cidade:São Paulo
+Latitude:-23.5400009155273
+Longitude:-46.6300010681152
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Woolston, AL
+Localidade:Primavera.
+Pais:Paraguai
+Estado:San Pedro
+Cidade:Alto Paraguay
+Latitude:
+Longitude:
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Howard S. Irwin|J.W. Grear, Jr.|R. Souza|R. Reis dos Santos
+Localidade:Wet campo, near Rio Piau, ca. 150 km. S.W. of Barreiras. (Drianage of thr Rio Corrente, Western Bahia)
+Pais:Brazil
+Estado:Bahia
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:G.Viana
+Localidade:Margem do 2º riacho, Serra de Itabaiana.
+Pais:Brasil
+Estado:Sergipe
+Cidade:
+Latitude:
+Longitude:
+DataColeta:1985
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Calderón, CE- Soderstrom, TR
+Localidade:At edge of town.
+Pais:Brasil
+Estado:Acre
+Cidade:Rio Branco
+Latitude:-9.9747200012207
+Longitude:-67.8099975585938
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Killeen, T
+Localidade:20km W of San Ignácio on road to Concepción.
+Pais:Bolívia
+Estado:Santa Cruz
+Cidade:Velasco
+Latitude:-16
+Longitude:-61.25
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:K.Kawakita
+Localidade:rio Paraná, ilha Porto Rico, lagoa da Figueira
+Pais:Brasil
+Estado:Paraná
+Cidade:Porto Rico
+Latitude:-22.7721996307373
+Longitude:-53.2668991088867
+DataColeta:09/2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Pires, JM
+Localidade:Maicurú, Campo do S. Francisco.
+Pais:Brasil
+Estado:Pará
+Cidade:
+Latitude:
+Longitude:
+DataColeta:05/2014
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Rúgolo, Z- et al.
+Localidade:Camino de Palmas a Ubaldino Taques, a 19km de Palmas
+Pais:Brasil
+Estado:PR
+Cidade:
+Latitude:
+Longitude:
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Rúgolo, Z- et al.
+Localidade:6km pasando Tibagi
+Pais:Brasil
+Estado:PR
+Cidade:Ponta Grossa
+Latitude:-25.0949993133545
+Longitude:-50.1618995666504
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Antonio C. Allem|G. Vieira
+Localidade:Km 44-MT3 (Transpantaneira) Mun. Poconé.
+Pais:Brazil
+Estado:Mato Grosso do Sul
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:K.Kawakita- G.F.Pereira- Almeida, C.G.- K.Kawakita- Rodrigues, S.
+Localidade:rio Ivinhema, lagoa dos Patos
+Pais:Brasil
+Estado:Mato Grosso do Sul
+Cidade:Taquarussu
+Latitude:-22.821111
+Longitude:-53.556111
+DataColeta:09/2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Antônio Costa Allem
+Localidade:Fazenda Santo Estevão.
+Pais:Brasil
+Estado:MS
+Cidade:CORUMBA
+Latitude:-19.0091991424561
+Longitude:-57.6533012390137
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Prance, GT
+Localidade:Rio Curuquetê, vicinity of Cachoeira Santo Antônio. Secondary growth around falls.
+Pais:Brasil
+Estado:Amazonas
+Cidade:
+Latitude:
+Longitude:
+DataColeta:06/2014
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Agnes Chase
+Localidade:Tigipio.
+Pais:Brazil
+Estado:Pernambuco
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Silva, TS
+Localidade:Ilha do Cardoso
+Pais:Brasil
+Estado:São Paulo
+Cidade:Cananéia
+Latitude:-25.0100002288818
+Longitude:-47.9199981689453
+DataColeta:1997
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:M. Teixeira
+Localidade:Limnha Barra das Contas, Mata ciliar do Rio Taquari.
+Pais:Brasil
+Estado:Rio Grande do Sul
+Cidade:Muçum
+Latitude:-29.227314
+Longitude:-52.407869
+DataColeta:15/07/2015
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Heringer, EP
+Localidade:Termas do Rio Quente.
+Pais:Brasil
+Estado:Goiás
+Cidade:Caldas Novas
+Latitude:-17.74169921875
+Longitude:-48.625
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Glocimar Pereira-Silva
+Localidade:Estrada Estreito - São Pedro dos Crentes, km 24.
+Pais:Brasil
+Estado:MA
+Cidade:ESTREITO
+Latitude:-6.6394444
+Longitude:-47.2575
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Viana, G
+Localidade:Serra de Itabaiana
+Pais:Brasil
+Estado:Sergipe
+Cidade:Areia Branca
+Latitude:-10.4529
+Longitude:-37.1854
+DataColeta:14/05/2015
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Faria, AD- et al.
+Localidade:Rodovia Antonio Giolo, acesso a Estreito
+Pais:Brasil
+Estado:São Paulo
+Cidade:Pedregulho
+Latitude:-20.25
+Longitude:-47.4700012207031
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Antônio Costa Allem
+Localidade:Fazenda Bodoquena. Carandazal.
+Pais:Brasil
+Estado:MS
+Cidade:CORUMBA
+Latitude:-19.0091991424561
+Longitude:-57.6533012390137
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Mattos, J
+Localidade:
+Pais:Brasil
+Estado:RS
+Cidade:Alegrete
+Latitude:-29.7831001281738
+Longitude:-55.7919006347656
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Milne, J.
+Localidade:Rio Paraná, margem
+Pais:Brasil
+Estado:Paraná
+Cidade:Porto Rico
+Latitude:-22.7721996307373
+Longitude:-53.2668991088867
+DataColeta:09/2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Tarciso S. Filgueiras|Fernando O. Zuloaga
+Localidade:Sao Gabriel, campo de Murundus.
+Pais:Brazil
+Estado:Goiás
+Cidade:
+Latitude:-15.0003333
+Longitude:-47.0001666
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Silva, TS
+Localidade:Retiro de Marimbondo, a 60 km da sede da Fazenda Bodoquena, no rumo N.
+Pais:Brasil
+Estado:Mato Grosso do Sul
+Cidade:Miranda
+Latitude:-20.2406005859375
+Longitude:-56.3782997131348
+DataColeta:12/2002
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Antônio Costa Allem
+Localidade:Fazenda Santa Lúcia.
+Pais:Brasil
+Estado:MT
+Cidade:BARAO DE MELGACO
+Latitude:
+Longitude:
+DataColeta:
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Baptista, LRM- et al.
+Localidade:Estação Fitotécnica de Osório-Maquiné
+Pais:Brasil
+Estado:RS
+Cidade:Osório
+Latitude:-29.8866996765137
+Longitude:-50.2696990966797
+DataColeta:10/11/2017
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Silva, TS
+Localidade:Fazenda Bodoquena.
+Pais:Brasil
+Estado:Mato Grosso do Sul
+Cidade:Miranda
+Latitude:-20.2406005859375
+Longitude:-56.3782997131348
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Antonio C. Allem|G. Vieira
+Localidade:Mato Grosso. Fazenda Sant'Ana-Paiaguás-Mun. Corumbá.
+Pais:Brazil
+Estado:
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Longhi-Wagner, HM- Citadini, V
+Localidade:Estação de Silvicultura Tropical INPA
+Pais:Brasil
+Estado:AM
+Cidade:Manaus
+Latitude:-3.10193991661072
+Longitude:-60.0250015258789
+DataColeta:05/2005
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:T.S. da Silva
+Localidade:Mato Grosso, Miranda, Fazenda Bodoquena,
+Pais:Brazil
+Estado:São Paulo
+Cidade:
+Latitude:
+Longitude:
+DataColeta:2003
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Allem, A- Vieira, G
+Localidade:Fazenda Descalvado.
+Pais:Brasil
+Estado:Mato Grosso
+Cidade:Cáceres
+Latitude:-16.0706005096436
+Longitude:-57.6789016723633
+DataColeta:2013
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Lídio Coradin
+Localidade:Rodovia Cuiabá - Santarém (BR - 163) entre Rurópolis e Santarém, km 125.
+Pais:Brasil
+Estado:PA
+Cidade:SANTAREM
+Latitude:-3.83333
+Longitude:-54.85
+DataColeta:
+
+Planta:Steinchisma laxum Sw.
+Coletado por:Tavares, S.
+Localidade:
+Pais:Brasil
+Estado:Pernambuco
+Cidade:Vitória de Santo Antão
+Latitude:-8.118056
+Longitude:-35.261389
+DataColeta:11/08/2002
+
+Planta:Steinchisma laxum (Sw.) Zuloaga
+Coletado por:Longhi-Wagner, HM- Cavalheiro, E
+Localidade:Ilha dos Marinheiros
+Pais:Brasil
+Estado:RS
+Cidade:Porto Alegre
+Latitude:-30.0331001281738
+Longitude:-51.2299995422363
+DataColeta:05/2005
+

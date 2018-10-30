@@ -1,0 +1,141 @@
+<div id='div_hint_result'>
+<div id='div_hint_summary' style='margin-left: 10px'>
+<table width='100%' cellpadding='0' cellspacing='0'>
+<tr><th><b>mostrando registros de <ll>1</ll> a <ll>6</ll> dos <ll>6</ll> encontrados em <ll>4.65</ll> s</b></th><td></td><td></td><td></td></tr>
+</table>
+</div>
+<script type='text/javascript' id='div_hint_resultMyScript'>
+	top.RecsOffset = 0;
+</script>
+<script type='text/javascript' id='div_hintMyScript'>
+	top.RecsOffset = 0;
+	top.watermarkReset(null,null,20);
+	d = top.document.getElementById('div_searchExplain');
+	if (d) { d.innerHTML = "<blockquote><br/><br/><a href='javascript:top.getCitation()'><b id='seeHowToCite'><span class='red'>{</span>&#160;ver como citar, condições de uso dos dados &#133;&#160;<span class='red'>}</span></b></a></blockquote>" }
+</script>
+<div id='record_x' class='record'><table width='100%' border='0'><tr valign='top' align='right'>
+<td><b>Atenção!</b><br/>Os nomes das espécies e gêneros ao lado<br/>são comparados com alguns dicionários de acordo com o grupo biológico.<br/> Em <span class='tAcc'>negrito verde</span> aparecem os <span class='tAcc'>aceitos</span>,<br/>em <span class='tSyn'>negrito cinza</span> os <span class='tSyn'>sinônimos</span> e<br/> em <span class='tUnk'>laranja</span> os <span class='tUnk'>não encontrados</span>.<br/> Nomes em <span class='tAmb'>magenta</span> aparecem nos dicionários com mais de um status por diferentes motivos.<br/> Nomes de <b>famílias</b> são apenas checados quanto a constarem ou não dos dicionários.<br/> No inventário de espécies, o nome aparece em <span class='tnoId'>azul</span> quando o espécime com <span class='tnoId'>identificação só até gênero</span>.<br/> Veja <a href='javascript:getTips()'><b>dicas de uso</b></a> para informações mais detalhadas.</td>
+</tr></table></div>
+<div id='record_0' class='record'><table width='100%' border='0'><tr valign='top' id='detail_0'><td class='collID'><a
+	href='http://splink.cria.org.br/manager/detail?setlang=pt&resource=HUEM'
+	target='manager'><img src='logos/institutions/UEM.gif' align='right' width='50px'/></a></td>
+<td><span onClick="top.getDetail(887316275,0)">
+<span class='tK'>Plantae</span> <span class='tF'>Poaceae</span> <br/> <span class='tGa'> <u>Urochloa</u> </span> <span class='tEa'> <u>subquadripara</u> </span> <span class='tA'>(Trin.) R.D.Webster</span>. <ll>Det: </ll> <span class='tI'>K.Kawakita</span> <span class='tY'>11/2010</span><br/> <span class='tN'>HUEM 19132</span> <ll>Coleta: </ll> <span class='cL'>K.Kawakita; G.F.Pereira; Almeida, C.G.; K.Kawakita; Rodrigues, S.</span> <span class='cN'>1372</span> <span class='cY'>10/08/2010</span>. <br/> <ll>Loc: </ll> <span class='lP'>canal Corutuba, lagoa da Fazenda Diamante Azul, margem direita</span>, <span class='lM'>Taquarussu</span>, <span class='lS'>Mato Grosso do Sul</span>, <span class='lC'>Brasil</span> <br/> <ll>Coord. orig.:  </ll> <span class='lA'>[<i>lat: </i>-22.758333</span> <span class='lO'> <i>long: </i>-53.394722</span> WGS84] <ll>Altitude:</ll> 229m.<br/> <ll>Notas:</ll> <nO>Herbácea; espiguetas coloração verde e bege; solo alagado.</nO><br/><ll>Tipo de registro: </ll> espécime preservado<br/></span>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'><tr><td><span id='credit'>&#169; Herbário UEM (HUEM)</span></td></tr></table>
+</td></span>
+</td></tr></table></div><br/><div id='record_1' class='record'><table width='100%' border='0'><tr valign='top' id='detail_1'><td class='collID'><a
+	href='http://splink.cria.org.br/manager/detail?setlang=pt&resource=SP'
+	target='manager'><img src='logos/institutions/IBT.gif' align='right' width='50px'/></a></td>
+<td><span onClick="top.getDetail(887499223,1)">
+<span class='tK'>Plantae</span> <span class='tF'>Poaceae</span> <br/> <span class='tGa'> <u>Urochloa</u> </span> <span class='tEa'> <u>subquadripara</u> </span> <span class='tA'>(Trin.) R.D.Webster</span><br/> <span class='tN'>SP 196221</span> <ll>Coleta: </ll> <span class='cL'>Gould, FW; Liogier, AH</span> <span class='cN'>15845</span> <span class='cY'>25/03/1980</span>. <br/> <ll>Loc: </ll> <span class='lP'>SW corner of island, Laguna Cartegena.</span> <span class='lC'>Puerto Rico</span> <ll>Cód. barras: </ll> <span class='bC'>SP039780.</span><br/><ll>Tipo de registro: </ll> espécime preservado<br/></span>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'><tr><td><span id='credit'>&#169; Herbário do Estado "Maria Eneyda P. Kaufmann Fidalgo" - Coleção de Fanerógamas (SP)</span></td></tr></table>
+</td></span>
+</td><td align='right'><table><tr><td width='50px' valign='top'><a  href='http://reflora.cria.org.br/inct/exsiccatae/image/imagecode/SP039780/size/huge/format/jpeg/foo/4540'
+        class='highslide'
+        onClick="return top.hs.expand(this, { slideshowGroup: 1 }, { bc: 'SP039780' })"><img
+		style="box-shadow: 3px 3px 3px #CCCCCC; border-radius: 5px; visibility: hidden" onLoad="this.style.visibility='visible'"
+        alt='<table width="100%"><tr><td><b>Herbário Maria Eneyda P. Kauffmann Fidalgo, Instituto de Botânica, São Paulo [<a href="downImage?imagecode=SP039780">SP039780</a>]</b></td><td
+align="right"><a href="http://reflora.cria.org.br/inct/exsiccatae/viewer/imagecode//SP039780/format/slide/initialimagecode/SP039780/foo/4540"
+target="other" class="oV"><big>abrir no </big>&#160;&#160;<img src="imgs/eh.png" height="15px"></a></td></tr></table>
+'
+	title='Herbário Maria Eneyda P. Kauffmann Fidalgo, Instituto de Botânica, São Paulo [SP039780]'
+        src='http://reflora.cria.org.br/inct/exsiccatae/image/imagecode/SP039780/size/thumb/format/jpeg/foo/4540' align='right'/></a>
+<div class='highslide-caption'><small><span class='tK'>Plantae</span> <span class='tF'>Poaceae</span> <br/> <span class='tGa'> <u>Urochloa</u> </span> <span class='tEa'> <u>subquadripara</u> </span> <span class='tA'>(Trin.) R.D.Webster</span></small></div>
+</td>
+<td width='21px' valign='top' rowspan='2'><a href='http://reflora.cria.org.br/inct/exsiccatae/viewer/imagecode//SP039780/format/slide/foo/4540'
+target='other' title='abrir no visualizador exsiccatae'><img src='imgs/e.png' height='50px' align='right'></a></td>
+</tr></table></td></tr></table></div><br/><div id='record_2' class='record'><table width='100%' border='0'><tr valign='top' id='detail_2'><td class='collID'><a
+	href='http://splink.cria.org.br/manager/detail?setlang=pt&resource=CNMT'
+	target='manager'><img src='logos/institutions/UFMT.gif' align='right' width='50px'/></a></td>
+<td><span onClick="top.getDetail(887171561,2)">
+<span class='tK'>Plantae</span> <span class='tP'>Angiosperma</span> <span class='tF'>Poaceae</span> <br/> <span class='tGa'> <u>Urochloa</u> </span> <span class='tEa'> <u>subquadripara</u> </span> <span class='tA'>(Trin.) R.D.Webster</span>. <ll>Det: </ll> <span class='tI'>Cordova, M.O.</span> <span class='tY'>24/06/2016</span><br/> <span class='tN'>CNMT 6969</span> <ll>Coleta: </ll> <span class='cL'>Cordova, M.O.; Arruda, R.S.; Keffer, J.F.</span> <span class='cN'>291</span> <span class='cY'>18/06/2016</span>. <br/> <ll>Loc: </ll> <span class='lP'>Rio Curupi, final da estrada da Madenorte, a 2km da Ilha do Pescador.</span>, <span class='lM'>Sinop</span>, <span class='lS'>Mato Grosso</span>, <span class='lC'>Brasil</span> <br/> <ll>Coord. orig.:  </ll> <span class='lA'>[<i>lat: </i>-11.582206</span> <span class='lO'> <i>long: </i>-55.641836</span> WGS84] <ll>Altitude:</ll> 324m.<br/> <ll>Notas:</ll> <nO>Inflorescência esverdeada. Rara, único individuo.</nO><br/><ll>Tipo de registro: </ll> espécime preservado<br/></span>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'><tr><td><span id='credit'>&#169; Herbário Centro Norte Mato Grossense (CNMT)</span></td></tr></table>
+</td></span>
+</td></tr></table></div><br/><div id='record_3' class='record'><table width='100%' border='0'><tr valign='top' id='detail_3'><td class='collID'><a
+	href='http://splink.cria.org.br/manager/detail?setlang=pt&resource=SP'
+	target='manager'><img src='logos/institutions/IBT.gif' align='right' width='50px'/></a></td>
+<td><span onClick="top.getDetail(887499224,3)">
+<span class='tK'>Plantae</span> <span class='tF'>Poaceae</span> <br/> <span class='tGa'> <u>Urochloa</u> </span> <span class='tEa'> <u>subquadripara</u> </span> <span class='tA'>(Trin.) R.D.Webster</span><br/> <span class='tN'>SP 196233</span> <ll>Coleta: </ll> <span class='cL'>Gould, FW; et al.</span> <span class='cN'>s.n.</span> <span class='cY'>24/03/1980</span>. <br/> <ll>Loc: </ll> <span class='lP'>Mayagüez campus, Univ. of Puerto Rico Building "A" on hillside; weed in & along lawns.</span> <span class='lC'>Puerto Rico</span> <ll>Cód. barras: </ll> <span class='bC'>SP039781.</span><br/><ll>Tipo de registro: </ll> espécime preservado<br/></span>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'><tr><td><span id='credit'>&#169; Herbário do Estado "Maria Eneyda P. Kaufmann Fidalgo" - Coleção de Fanerógamas (SP)</span></td></tr></table>
+</td></span>
+</td><td align='right'><table><tr><td width='50px' valign='top'><a  href='http://reflora.cria.org.br/inct/exsiccatae/image/imagecode/SP039781/size/huge/format/jpeg/foo/4540'
+        class='highslide'
+        onClick="return top.hs.expand(this, { slideshowGroup: 3 }, { bc: 'SP039781' })"><img
+		style="box-shadow: 3px 3px 3px #CCCCCC; border-radius: 5px; visibility: hidden" onLoad="this.style.visibility='visible'"
+        alt='<table width="100%"><tr><td><b>Herbário Maria Eneyda P. Kauffmann Fidalgo, Instituto de Botânica, São Paulo [<a href="downImage?imagecode=SP039781">SP039781</a>]</b></td><td
+align="right"><a href="http://reflora.cria.org.br/inct/exsiccatae/viewer/imagecode//SP039781/format/slide/initialimagecode/SP039781/foo/4540"
+target="other" class="oV"><big>abrir no </big>&#160;&#160;<img src="imgs/eh.png" height="15px"></a></td></tr></table>
+'
+	title='Herbário Maria Eneyda P. Kauffmann Fidalgo, Instituto de Botânica, São Paulo [SP039781]'
+        src='http://reflora.cria.org.br/inct/exsiccatae/image/imagecode/SP039781/size/thumb/format/jpeg/foo/4540' align='right'/></a>
+<div class='highslide-caption'><small><span class='tK'>Plantae</span> <span class='tF'>Poaceae</span> <br/> <span class='tGa'> <u>Urochloa</u> </span> <span class='tEa'> <u>subquadripara</u> </span> <span class='tA'>(Trin.) R.D.Webster</span></small></div>
+</td>
+<td width='21px' valign='top' rowspan='2'><a href='http://reflora.cria.org.br/inct/exsiccatae/viewer/imagecode//SP039781/format/slide/foo/4540'
+target='other' title='abrir no visualizador exsiccatae'><img src='imgs/e.png' height='50px' align='right'></a></td>
+</tr></table></td></tr></table></div><br/><div id='record_4' class='record'><table width='100%' border='0'><tr valign='top' id='detail_4'><td class='collID'><a
+	href='http://splink.cria.org.br/manager/detail?setlang=pt&resource=CGMS'
+	target='manager'><img src='logos/institutions/UFMS.png' align='right' width='50px'/></a></td>
+<td><span onClick="top.getDetail(860450268,4)">
+<span class='tK'>Plantae</span> <span class='tF'>Poaceae</span> <br/> <span class='tGa'> <u>Urochloa</u> </span> <span class='tEa'> <u>subquadripara</u> </span> <span class='tA'>(Trin.) R.D. Webster</span>. <ll>Det: </ll> <span class='tI'>V.J. Pott; A. Pott</span> <span class='tY'>2001</span><br/> <span class='tN'>CGMS 51688</span> <ll>Coleta: </ll> <span class='cL'>A. Pott</span> <span class='cN'>8633</span> <span class='cY'>21/03/2001</span>. <br/> <ll>Loc: </ll> <span class='lP'>Parque Nacional do Pantanal, lado leste da sede do Parque, marmequezal com Aspilia latissima.</span>, <span class='lM'>Poconé</span>, <span class='lS'>Mato Grosso</span>, <span class='lC'>Brasil</span> <br/> <ll>Coord. munic.:  </ll> <span class='lA'>[<i>lat: </i>-16.2567005157471</span> <span class='lO'> <i>long: </i>-56.6227989196777</span> <span class='eR'> <i>err: </i>&#177;200792</span> WGS84]<br/> <ll>Notas:</ll> <nO>Dominante sobre a maioria das espécies herbáceas nativas. Área perturbada.HABITAT:Campo arbustivo inundável com arvoretas esparsas e trepadeiras. Solo vertissolo, rico em matéria orgânica. Relevo plano. Mancha ocasional.;CULT:Forrageira; invasora.;HABITO</nO><br/><ll>Tipo de registro: </ll> espécime preservado<br/></span>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'><tr><td><span id='credit'>&#169; Herbário da Fundação Universidade Federal de Mato Grosso do Sul (CGMS)</span></td></tr></table>
+</td></span>
+</td></tr></table></div><br/><div id='record_5' class='record'><table width='100%' border='0'><tr valign='top' id='detail_5'><td class='collID'><a
+	href='http://splink.cria.org.br/manager/detail?setlang=pt&resource=CPAP'
+	target='manager'><img src='logos/institutions/EMBRAPA.gif' align='right' width='50px'/></a></td>
+<td><span onClick="top.getDetail(874541509,5)">
+<span class='tK'>Plantae</span> <span class='tF'>Poaceae</span> <br/> <span class='tGa'> <u>Urochloa</u> </span> <span class='tEa'> <u>subquadripara</u> </span> <span class='tA'>(Trin.) R.D.Webster</span>. <ll>Det: </ll> <span class='tI'>V. J. Pott; A. Pott</span> <span class='tY'>2001</span><br/> <span class='tN'>CPAP 22670</span> <ll>Coleta: </ll> <span class='cL'>Pott, A.; Pott, V.J.; Sartori, A.L.B.; da Cunha, C.N.; Silveira, E.A.; Amorim, L.</span> <span class='cN'>8633</span> <span class='cY'>21/03/2001</span>. <br/> <ll>Loc: </ll> <span class='lP'>Parque Nacional do Pantanal, lado leste da sede do Parque, marmequezal com Aspilia latissima</span>, <span class='lM'>Poconé</span>, <span class='lS'>MT</span>, <span class='lC'>BRASIL</span> <br/> <ll>Coord. munic.:  </ll> <span class='lA'>[<i>lat: </i>-16.2567005157471</span> <span class='lO'> <i>long: </i>-56.6227989196777</span> <span class='eR'> <i>err: </i>&#177;200792</span> WGS84]<br/> <ll>Notas:</ll> <nO>Erva estolonífera ascendente, planta forrageira, invasora, mancha ocasional. Campo arbustivo inundável com Arvoretas esparsas e Trepadeiras, solo vertissolo, rico em matéria-orgânica, relevo plano. <ll>nome comum:</ll> capim-gabriel;tanner-grass</nO><br/><ll>Tipo de registro: </ll> espécime preservado<br/></span>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'><tr><td><span id='credit'>&#169; Herbário CPAP da Embrapa Pantanal (CPAP)</span></td></tr></table>
+</td></span>
+</td></tr></table></div><br/></div>
+<div id='div_hint_action'><table width='100%' cellspacing='0' cellpadding='0' border='0'>
+<tr>
+
+<td align='right'><table><tr valign='top'>
+<th><img src='imgs/summary_icon.png' height='20px' align='left'/><select onChange="top.getStats(this[this.selectedIndex].value,0);this.selectedIndex=0;" style="width: 100px">
+<option value=''>resumo</option>
+<option value='tables'>&#133; tabelas</option>
+<option value='maps'>&#133; mapas</option>
+<option value='graphs'>&#133; gráficos</option>
+</select></th>
+<th>&#160;</th>
+<th><img src='imgs/picture_icon.png' height='20px' align='left'/><select onChange="top.getImages(this[this.selectedIndex].value,top.RecsOffset);this.selectedIndex=0;" style="width: 100px">
+<option value=''>imagens</option>
+<option value='thumb' title='ver imagens numa tabela'>&#133; mosaico</option>
+<option value='compare' title='comparar as imagens lado a lado'>&#133; comparar</option>
+<option value='book' title='ver as imagens como catálogo'>&#133; catálogo</option>
+</select>
+</th>
+<th>&#160;</th>
+<th><img src='imgs/map_icon.png' height='20px' align='left'/><select onChange="top.getMap(this[this.selectedIndex].value);this.selectedIndex=0;" style="width: 100px">
+<option value=''>mapa</option>
+<option value='global'>&#133; global</option>
+<option value='collectioncode'>&#133; por coleção</option>
+<option value='genus'>&#133; por gênero</option>
+<option value='norm_yearcollected'>&#133; por ano de coleta</option>
+<option value='density'>&#133; por densidade</option>
+</select>
+</th>
+<th>&#160;</th>
+<th><img src='imgs/graph_icon.png' height='20px' align='left'/><select onChange="top.getGraph(this[this.selectedIndex].value,1);this.selectedIndex=0;" style="width: 100px">
+<option value=''>gráfico</option>
+<option value='collection.column.1'>&#133; por coleção</option>
+<option value='family.column.1'>&#133; por família</option>
+<option value='genus.column.1'>&#133; por gênero (máx 100)</option>
+<option value='stateprovince.column.1'>&#133; por estado</option>
+<option value='typestatus.column.1'>&#133; por typus</option>
+<option value='yearcollected.column.1'>&#133; por ano de coleta</option>
+<option value='monthcollected.column.1'>&#133; por mês de coleta</option>
+<option value='yearidentified.column.1'>&#133; por ano de identificação</option>
+</select></th>
+<th>&#160;</th>
+<th><img src='imgs/down_icon.png' height='20px' align='left'/><select onChange="top.preDownLoad(this[this.selectedIndex].value);this.selectedIndex=0;" style="width: 100px">
+<option value=''>download</option>
+<option value='dwc_csv'>&#133; dados completos</option>
+<option value='openModeller'>&#133; openModeller</option>
+<option value='Maxent'>&#133; Maxent</option>
+</select>
+</th>
+<th>&#160;</th>
+</table></td></tr>
+</table></div>
+</span>
