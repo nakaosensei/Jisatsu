@@ -2,7 +2,7 @@ import ocurrences as ocorrencias
 
 class Decoder:
 
-    def decode(self,stringInput):
+    def decodeAndWrite(self,stringInput):
         ocurrences = ocorrencias.OcurrencesManager()#Classe dentro de PlantOcurrence.py
         instances=self.getStringsBetween(stringInput,'<td><span onClick="top.getDetail','</td></span>')
         for instance in instances:
@@ -17,10 +17,11 @@ class Decoder:
             latitude = self.getStringsBetweenS(instance,'<i>lat: </i>','</span>')
             longitude = self.getStringsBetweenS(instance,'<i>long: </i>','</span>')
             data = self.getStringsBetweenS(instance,'<span class=\'tY\'>','</span>')
-            ocurrences.add(plant,owner,location,pais,estado,cidade,latitude,longitude,data)
+            ocurrences.add("specieslink",plant,owner,location,pais,estado,cidade,latitude,longitude,data)
         ocurrences.cleanAllTrash()
         ocurrences.printAll()
         ocurrences.convertAllToCsv()
+        ocurrences.writeAllToDb()
 
     def getStringsBetween(self,stringInput,startStr,endStr):
         vet = stringInput.split(startStr)
@@ -40,5 +41,5 @@ class Decoder:
 
 
 decoder = Decoder()
-file = open('generatedDocs/requestText3.json','r')
-decoder.decode(file.read())
+fileNk = open('generatedDocs/requestText3.json','r')
+decoder.decodeAndWrite(fileNk.read())

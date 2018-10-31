@@ -1,13 +1,16 @@
 import fileNk
 import csv
 import planilha
+import connection as con
+
 class OcurrencesManager:
 
     def __init__(self):
         self.ocurrences = []
+        self.daoOcurrence = con.DAOOcurrence()
 
-    def add(self,plant,owner,locationDesc,country,state,city,latitude,longitude,dataColeta):
-        self.ocurrences.append(PlantOcurrence(plant,owner,locationDesc,country,state,city,latitude,longitude,dataColeta))
+    def add(self,resource,plant,owner,locationDesc,country,state,city,latitude,longitude,dataColeta):
+        self.ocurrences.append(PlantOcurrence(plant,owner,locationDesc,country,state,city,latitude,longitude,dataColeta,resource))
 
 
     def cleanAllTrash(self):
@@ -27,20 +30,16 @@ class OcurrencesManager:
             ocurrencesStringArrays.append(ocurrence.toArray())
         planilhaObj.writeCsv('generatedDocs/speciesLink.csv',['planta','coletador','local','pais','estado','cidade','latitude','longitude','data'],ocurrencesStringArrays)
 
-        #with open('generatedDocs/speciesLink.csv', mode='w') as csvFile:
-        #    writer = csv.writer(csvFile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        #    writer.writerow(['planta','coletador','local','pais','estado','cidade','latitude','longitude','data'])
-        #    for ocurrence in self.ocurrences:
-        #        writer.writerow(ocurrence.toArray())
-        #f = fileNk.File()
-        #csv = "planta,coletador,descricaoLocal,pais,estado,cidade,latitude,longitude,dataColeta\n"
-        #for ocurrence in self.ocurrences:
-        #    csv+=ocurrence.toCsvFormat()
-        #f.writeToFile("generatedDocs/speciesLink.csv",csv)
+    def writeAllToDb(self):
+        ocurrencesStringArrays = []
+        for ocurrence in self.ocurrences:
+            ocurrencesStringArrays.append(ocurrence.toDatabaseFormat())
+        print(ocurrencesStringArrays)
+        self.daoOcurrence.insertOcurrences(ocurrencesStringArrays)
 
 class PlantOcurrence:
 
-    def __init__(self,plant,owner,locationDesc,country,state,city,latitude,longitude,dataColeta):
+    def __init__(self,plant,owner,locationDesc,country,state,city,latitude,longitude,dataColeta,resource):
         self.plant=plant
         self.owner=owner
         self.locationDesc=locationDesc
@@ -50,6 +49,10 @@ class PlantOcurrence:
         self.latitude=latitude
         self.longitude=longitude
         self.dataColeta=dataColeta
+        self.anoColeta=""
+        self.mesColeta=""
+        self.diaColeta=""
+        self.resource=resource
 
     def print(self):
         print("Planta:"+self.plant+"\n"+"Coletado por:"+self.owner+"\nLocalidade:"+self.locationDesc+"\nPais:"+self.country+"\nEstado:"+self.state+"\nCidade:"+self.city+"\nLatitude:"+self.latitude+"\nLongitude:"+self.longitude+"\nDataColeta:"+self.dataColeta+"\n")
@@ -59,6 +62,9 @@ class PlantOcurrence:
 
     def toArray(self):
         return [self.plant,self.owner,self.locationDesc,self.country,self.state,self.city,self.latitude,self.longitude,self.dataColeta]
+
+    def toDatabaseFormat(self):
+        return (self.resource,self.plant,self.owner,self.locationDesc,self.country,self.state,self.city,self.latitude,self.longitude,self.anoColeta,self.mesColeta,self.diaColeta)
 
     def cleanTrash(self):
         self.plant = self.plant.replace("<u>","")
@@ -114,3 +120,5 @@ class PlantOcurrence:
         self.latitude=self.latitude.replace(";","-")
         self.longitude=self.longitude.replace(";","-")
         self.dataColeta=self.dataColeta.replace(";","-")
+
+        
