@@ -120,5 +120,15 @@ class PlantOcurrence:
         self.latitude=self.latitude.replace(";","-")
         self.longitude=self.longitude.replace(";","-")
         self.dataColeta=self.dataColeta.replace(";","-")
-
-        
+        tmpData=self.dataColeta.split("/")
+        for i in range(0,len(tmpData)):
+            if len(tmpData[i])==4:
+                self.anoColeta=tmpData[i]
+            elif(len(tmpData[i])==2):
+                if(len(tmpData)==3):
+                    if(i==0):
+                        self.diaColeta=tmpData[i]
+                    elif(i==1):
+                        self.mesColeta=tmpData[i]
+                elif len(tmpData)==2:
+                    self.mesColeta=tmpData[i]
