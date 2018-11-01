@@ -19,9 +19,8 @@ class Decoder:
             data = self.getStringsBetweenS(instance,'<span class=\'tY\'>','</span>')
             ocurrences.add("specieslink",plant,owner,location,pais,estado,cidade,latitude,longitude,data)
         ocurrences.cleanAllTrash()
-        ocurrences.printAll()
-        ocurrences.convertAllToCsv()
         ocurrences.writeAllToDb()
+        print("Ocorrencias escritas no banco...")
 
     def getStringsBetween(self,stringInput,startStr,endStr):
         vet = stringInput.split(startStr)
@@ -39,7 +38,10 @@ class Decoder:
             out+=vet2[0]
         return out
 
+    
 
-decoder = Decoder()
-fileNk = open('generatedDocs/requestText3.json','r')
-decoder.decodeAndWrite(fileNk.read())
+
+
+#decoder = Decoder()
+#fileNk = open('generatedDocs/requestText3.json','r')
+#decoder.decodeAndWrite(fileNk.read())

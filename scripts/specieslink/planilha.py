@@ -26,9 +26,21 @@ class Planilha:
             else:
                 tmp = plant
             if (tmp not in newList):
-                newList.append(tmp)
+                tmp = tmp.replace("\xa0"," ")
+                tmpSplit = tmp.split(" ")
+                tmp2 = tmpSplit[0]+" "+tmpSplit[1]
+                newList.append(tmp2)
         return newList
 
+    def listStartsWith(self,plantList,startElement):
+        newList = []
+        found=0
+        for plant in plantList:
+            if(plant==startElement):
+                found=1
+            if(found==1):
+                newList.append(plant)
+        return newList
 #p = Planilha()
 #plants = p.openPlantsXls('../ListaMacrofitas.xlsx')
 #print(len(plants))

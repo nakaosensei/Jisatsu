@@ -1,43 +1,47 @@
 import requests
-import planilha
-import decoder
+import planilha as pl
+import decoder as decod
 
-class requestMaker:
+class RequestMaker:
 
-    def makeRequests(self,macrofitasList):
-        p = planilha.openPlantsXls('../ListaMacrofitas.xlsx')
+    def __init__(self):
+        self.decoder = decod.Decoder()
 
+    def makeRequests(self,macrofitasXls):
+        planilha = pl.Planilha()
+        p1 = planilha.openPlantsXls(macrofitasXls)
+        p = planilha.listStartsWith(p1,'Acisanthera variabilis')
+        for plant in p:
+            request = SpeciesRequest(plant,self.decoder)
+            request.makeRequests()
 
-    def writeToFile(self):
-        file = open("generatedDocs/requestText4.json","w")
-        file.write(self.response.text)
-        file.close()
+        #request = SpeciesRequest(p[0],self.decoder,1)
+        #request.makeRequests()
 
-requester = requestMaker()
+class SpeciesRequest:
 
-
-class speciesRequest:
-    bigRequestText=""
-    hasMore=1
-
-    def __init__(self,species):
+    def __init__(self,species,decoder,hasMore=1):
         self.species=species
-        self.decoderNk = decoder.Decoder()
-        bigRequestText=""
-        hasMore=1
+        self.decoderNk = decoder
+        self.bigRequestText=""
+        self.hasMore=hasMore
 
     def makeRequests(self):
         offset = 0
-        while(hasMore==1):
+        while(self.hasMore==1):
             self.makeRequest(offset)
             offset+=100
-        self.decoderNk.decodeAndWriteCsv(bigRequestText)
-        hasMore=1
-        bigRequestText=""
+        self.decoderNk.decodeAndWrite(self.bigRequestText)
+        print(self.species)
+        self.hasMore=1
+        self.bigRequestText=""
 
-    def makeRequest(offset):
+    def makeRequest(self,offset):
         self.response = requests.post('http://www.splink.org.br/mod_perl/searchHint', data = {'ts_any':self.species,'offset':offset})
         if('<td><span onClick="top.getDetail' in self.response.text):
-            bigRequestText+=self.response.text
+            self.bigRequestText+=self.response.text
         else:
-            hasMore=0
+            self.hasMore=0
+
+requester = RequestMaker()
+requester.makeRequests('../ListaMacrofitas.xlsx')

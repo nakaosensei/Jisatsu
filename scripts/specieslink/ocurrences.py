@@ -34,7 +34,6 @@ class OcurrencesManager:
         ocurrencesStringArrays = []
         for ocurrence in self.ocurrences:
             ocurrencesStringArrays.append(ocurrence.toDatabaseFormat())
-        print(ocurrencesStringArrays)
         self.daoOcurrence.insertOcurrences(ocurrencesStringArrays)
 
 class PlantOcurrence:
@@ -119,13 +118,17 @@ class PlantOcurrence:
         self.city=self.city.replace(";","-")
         self.latitude=self.latitude.replace(";","-")
         self.longitude=self.longitude.replace(";","-")
+        self.dataColeta=self.dataColeta.replace("-","/")
         self.dataColeta=self.dataColeta.replace(";","-")
         tmpData=self.dataColeta.split("/")
+        format="br"
         for i in range(0,len(tmpData)):
             if len(tmpData[i])==4:
                 self.anoColeta=tmpData[i]
+                if(i==0):
+                    format="eua"
             elif(len(tmpData[i])==2):
-                if(len(tmpData)==3):
+                if(len(tmpData)>=3):
                     if(i==0):
                         self.diaColeta=tmpData[i]
                     elif(i==1):
