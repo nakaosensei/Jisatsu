@@ -65,6 +65,33 @@ class PlantOcurrence:
     def toDatabaseFormat(self):
         return (self.resource,self.plant,self.owner,self.locationDesc,self.country,self.state,self.city,self.latitude,self.longitude,self.anoColeta,self.mesColeta,self.diaColeta)
 
+    def identifyDateFormat(self,date):
+        dateSplit = date.split("/")
+        if(len(dateSplit[0])==4):
+            return "eua"
+        else:
+            return "br"
+
+    def tratarData(self,date):
+        format=self.identifyDateFormat(date)
+        tmpData=date.split("/")
+        if(format=="br"):
+            for i in range(0,len(tmpData)):
+                if len(tmpData[i])==4:
+                    self.anoColeta=tmpData[i]
+                elif(len(tmpData[i])==2):
+                    if(len(tmpData)>=3):
+                        if(i==0):
+                            self.diaColeta=tmpData[i]
+                        elif(i==1):
+                            self.mesColeta=tmpData[i]
+                    elif len(tmpData)==2:
+                        self.mesColeta=tmpData[i]
+        else:
+            self.anoColeta=tmpData[0]
+            self.mesColeta=tmpData[1]
+            self.diaColeta=tmpData[2]
+
     def cleanTrash(self):
         self.plant = self.plant.replace("<u>","")
         self.plant = self.plant.replace("</u>","")
@@ -120,18 +147,4 @@ class PlantOcurrence:
         self.longitude=self.longitude.replace(";","-")
         self.dataColeta=self.dataColeta.replace("-","/")
         self.dataColeta=self.dataColeta.replace(";","-")
-        tmpData=self.dataColeta.split("/")
-        format="br"
-        for i in range(0,len(tmpData)):
-            if len(tmpData[i])==4:
-                self.anoColeta=tmpData[i]
-                if(i==0):
-                    format="eua"
-            elif(len(tmpData[i])==2):
-                if(len(tmpData)>=3):
-                    if(i==0):
-                        self.diaColeta=tmpData[i]
-                    elif(i==1):
-                        self.mesColeta=tmpData[i]
-                elif len(tmpData)==2:
-                    self.mesColeta=tmpData[i]
+        self.tratarData(self.dataColeta)

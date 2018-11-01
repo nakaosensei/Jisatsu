@@ -41,6 +41,9 @@ class GbifRequests:
         ocurrencesMap = self.getOccurrencesFromSpecies(tmpId)
         ocurrencesManager = oc.OcurrencesManager()
         for ocurrence in ocurrencesMap:
+            species = ocurrence.get("acceptedScientificName")
+            if(species is None):
+                species = p[0]
             owner = ocurrence.get("recordedBy")
             local = ocurrence.get("locality")
             country = ocurrence.get("countryCode")
@@ -49,23 +52,8 @@ class GbifRequests:
             latitude = ocurrence.get("decimalLatitude")
             longitude = ocurrence.get("decimalLongitude")
             date = ocurrence.get("eventDate")
-            ocurrencesManager.add("gbif",tmpId,owner,local,country,state,city,latitude,longitude,date)
-        ocurrencesManager.writeAllToDb()
-        #plantsOcurrences[plants[i]]=ocurrences
-        #for i in plantsOcurrences["Dicliptera ciliaris"]:
-        #    print(i.keys())
-        #    print("\n")
-        #    print(i.items())
-        #    print("\n")
-        #for plant in p:
-        #    tmpId = gbifrequests.searchID(plant)
-        #    ocurrences = gbifrequests.getOccurrencesFromSpecies(tmpId)
-        #    plantsOcurrences[plants[i]]=ocurrences
-        #    print(plantsOcurrences)
-
-
-#    def convertOcurrenceToDbFormat(self,ocurrence):
-
+            ocurrencesManager.add("gbif",species,owner,local,country,state,city,latitude,longitude,date)
+        #ocurrencesManager.writeAllToDb()
 
 gbifRequester = GbifRequests()
 gbifRequester.makeRequests('../ListaMacrofitas.xlsx')
