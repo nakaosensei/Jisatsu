@@ -19,6 +19,7 @@ class Decoder:
             data = self.getStringsBetweenS(instance,'<span class=\'tY\'>','</span>')
             ocurrences.add("specieslink",plant,owner,location,pais,estado,cidade,latitude,longitude,data)
         ocurrences.cleanAllTrash()
+        ocurrences.tratarDatas()
         ocurrences.writeAllToDb()
         print("Ocorrencias escritas no banco...")
 
@@ -38,7 +39,7 @@ class Decoder:
             out+=vet2[0]
         return out
 
-    
+
 
 
 

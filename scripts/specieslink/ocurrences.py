@@ -17,6 +17,10 @@ class OcurrencesManager:
         for ocurrence in self.ocurrences:
             ocurrence.cleanTrash()
 
+    def tratarDatas(self):
+        for ocurrence in self.ocurrences:
+            ocurrence.tratarData(ocurrence.dataColeta)
+
     def printAll(self):
         print(len(self.ocurrences))
         for ocurrence in self.ocurrences:
@@ -73,9 +77,16 @@ class PlantOcurrence:
             return "br"
 
     def tratarData(self,date):
+        if date is None:
+            return None
+        date=date.replace("-","/")
+        date=date.replace(";","-")
         format=self.identifyDateFormat(date)
         tmpData=date.split("/")
-        if(format=="br"):
+        print(tmpData)
+        if(len(tmpData)==1):
+            self.anoColeta=tmpData[0]
+        elif format=="br":
             for i in range(0,len(tmpData)):
                 if len(tmpData[i])==4:
                     self.anoColeta=tmpData[i]
@@ -145,6 +156,3 @@ class PlantOcurrence:
         self.city=self.city.replace(";","-")
         self.latitude=self.latitude.replace(";","-")
         self.longitude=self.longitude.replace(";","-")
-        self.dataColeta=self.dataColeta.replace("-","/")
-        self.dataColeta=self.dataColeta.replace(";","-")
-        self.tratarData(self.dataColeta)
