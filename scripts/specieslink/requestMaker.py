@@ -10,7 +10,7 @@ class RequestMaker:
     def makeRequests(self,macrofitasXls):
         planilha = pl.Planilha()
         p1 = planilha.openPlantsXls(macrofitasXls)
-        p = planilha.listStartsWith(p1,'Acisanthera variabilis')
+        p = planilha.listStartsWith(p1,'Dactyloctenium aegyptium')
         for plant in p:
             request = SpeciesRequest(plant,self.decoder)
             request.makeRequests()
