@@ -1,5 +1,5 @@
 #Para compilar: scrapy crawl teste -o teste.[formato](json, csv, xml ....)
-
+import unittest
 import scrapy
 import openpyxl
 

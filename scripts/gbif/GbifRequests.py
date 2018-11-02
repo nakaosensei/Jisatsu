@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import json
 import pandas as pd
 import sys
-from Tkinter import Tk
-from tkinter.filedialog import askopenfilename
+#from Tkinter import Tk
+#rom tkinter.filedialog import askopenfilename
 
 class GbifRequests:
 
