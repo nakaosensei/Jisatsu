@@ -19,7 +19,8 @@ def tpl(name):
     searc = requests.get(search)
     webpage = html.fromstring(searc.content)
     href = webpage.xpath('//a/@href')
-    conca = str(href[23])
+    conca = str(href[23]) + "?ref=tpl1"
+    print (conca)
     tena = "http://www.theplantlist.org"
     concatena = tena + conca  
     #print (concatena)
@@ -34,27 +35,26 @@ def tpl(name):
     text = soup.get_text()
     text = text.replace("  "," ")
 
-    text = text[871:]
-
+    #text = text[871:]
+    #print (text)
     sino = []
     acum = {}
     i = 0
-    while acum != "tplTableInit":
+    while (acum != "Date supplied"):
         #print (acum)
-        acum = text[i:i+12]
-        sino.append(text[i])
+        acum = text[i:i+13]
+        
         i+=1
-
+    sino = text[i+12:]
     #print (sino)
     final = []
-    i = 0
-    while (i < len(sino)):
-        if (sino[i] == '\n'):
-            while (i+1 < len(sino)):
-                final.append(sino[i+1])
-                i+=1
+    acuma = {}
+    j = 0
+    while (acuma != "tplTableInit"):
+        acuma = sino[j:j+12]
+        j+=1
+    final = sino[:j-1]
     print (final)
-
 
         
 
