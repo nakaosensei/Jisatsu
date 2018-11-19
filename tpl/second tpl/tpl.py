@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import html2text  
 #######################################################################################
 ##################   RETORNA A LISTA DE SINÔNIMOS #####################################
+
 def tpl(name):
     search_url = "http://www.theplantlist.org/tpl1.1/search?q="
     ########################
@@ -35,7 +36,6 @@ def tpl(name):
     text = text.replace("  "," ")
 
 
-
     sino = []
     acum = {}
     i = 0
@@ -52,15 +52,37 @@ def tpl(name):
     while (acuma != "tplTableInit"):
         acuma = sino[j:j+12]
         j+=1
-    final =sino[:j-1].strip("\n").split('  ')
 
-    return (final)
+    final =sino[:j-1]
+    
+    resultante = []
+    i = 0
+    while i < len(final)-1:
+
+        if (final[i] == '\n'):
+
+            barraenes = ''
+            i+=1
+            while (final[i] != '\n'):
+
+                barraenes= barraenes + final[i]
+                i+=1
+
+        if (barraenes != ''):
+            resultante.append(barraenes)
+
+    #print(resultante)
+
+
+    return resultante
+
 
 ########################################################################################    
 
-        
+     
 
     
 final = tpl("Panicum prionitis Nees")
 for i in range(len(final)):
     print (final[i])
+    
