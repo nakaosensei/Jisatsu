@@ -18,9 +18,11 @@ class FloraRequests:
             frequest = FloraRequest(plant)
             result = frequest.makeRequest()
             if result!=1:
-                sinonimos.append(plant)
+                self.sinonimos.append(plant)
                 request2 = FloraRequest(result)
                 request2.makeRequest()
+        for sinonimo in self.sinonimos:
+            print(sinonimo)
 
 
 class FloraRequest:

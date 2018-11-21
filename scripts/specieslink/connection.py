@@ -12,6 +12,22 @@ class Connection:
 
 connection = Connection()
 
+class DAOPlant:
+
+    def __init__(self):
+        self.connection=connection
+        self.cursor=connection.mydb.cursor()
+
+    def insertPlants(self,plantsArray):
+        sql = "INSERT INTO PLANT(NOME,AUTOR,FONTE,ESTADO,GRUPO_TAXONOMICO,FAMILIA,FORMA_VIDA,SUBSTRATO,ORIGEM,ENDEMISMO,OCORRENCIAS_CONFIRMADAS,OCORRENCIAS_POSSIVEIS,DOMINIOS_FITOGEOGRAFICOS,TIPO_VEGETACAO) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+        self.cursor.executemany(sql,plantsArray)
+        self.connection.mydb.commit()
+
+    def insertSinonimos(self,sinonimos):
+        sql = "INSERT INTO SINONIMO(NOME,AUTOR,FONTE,NOME_CORRETA) VALUES (%s,%s,%s,%s)"
+        self.cursor.executemany(sql,sinonimos)
+        self.connection.mydb.commit()
+
 class DAOOcurrence:
 
     def __init__(self):

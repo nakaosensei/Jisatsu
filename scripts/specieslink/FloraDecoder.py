@@ -8,21 +8,43 @@ class FloraDecoder:
         if "Sinônimo" in estado or "sinônimo" in estado or "Sinonimo" in estado or "sinonimo" in estado:
             result = self.parseSinonimoSource(requestJson["ehSinonimo"])
             return result
+        if "Nome correto" in estado:
+            estado = "Nome correto"
+        elif "Nome aceito" in estado:
+            estado = "Nome aceito"
         endemismo = requestJson["endemismo"]
         formaVida = requestJson["formaVida"]
         substrato = requestJson["substrato"]
         tipoVegetacao = requestJson["tipoVegetacao"]
-
+        origem = requestJson["origem"]
         nome=self.parseNome(requestJson["nome"])
         autor=self.parseAutor(requestJson["nome"])
         dominioFitogeografico=requestJson["dominioFitogeografico"]
+        familia = self.getFamily(requestJson["hierarquia"])
+        grupoTaxonomico = self.getGrupoTaxonomico(requestJson["hierarquia"])
         fonte="floradobrasil"
         ocorrenciasConfirmadas = self.parseOcorrenciasConfirmadas(requestJson)
         ocorrenciasDuvidosas = self.parseOcorrenciasDuvidosas(requestJson)
+        sinonimosList=self.parseSinonimos(requestJson["temComoSinonimo"])
+        sinonimosDbFormat = []
+        for sinonimo in sinonimosList:
+            nomeSinonimo = sinonimo[0]
+            autorSinonimo = sinonimo[1]
+            sinonimosDbFormat.append((nomeSinonimo,autorSinonimo,fonte,nome))
+        dominioFitogeografico = self.arrayToStr(dominioFitogeografico)
+        tipoVegetacao = self.arrayToStr(tipoVegetacao)
+        formaVida = self.arrayToStr(formaVida)
+        substrato = self.arrayToStr(substrato)
+        ocorrenciasConfirmadas = self.arrayToStr(ocorrenciasConfirmadas)
+        ocorrenciasDuvidosas = self.arrayToStr(ocorrenciasDuvidosas)
+        manager = plantManager.PlantsManager()
+        manager.addPlant(nome,autor,fonte,estado,grupoTaxonomico,familia,formaVida,substrato,origem,endemismo,ocorrenciasConfirmadas,ocorrenciasDuvidosas,dominioFitogeografico,tipoVegetacao,sinonimosDbFormat)
         print("nome:"+nome)
         print("autor:"+autor)
         print("endemismo:"+endemismo)
-        print(fonte)
+        print("grupo grupoTaxonomico: "+grupoTaxonomico)
+        print("familia: "+familia)
+        print("fonte: "+fonte)
         print(estado)
         print(tipoVegetacao)
         print(dominioFitogeografico)
@@ -30,9 +52,9 @@ class FloraDecoder:
         print(substrato)
         print(ocorrenciasConfirmadas)
         print(ocorrenciasDuvidosas)
-        sinonimosList=self.parseSinonimos(requestJson["temComoSinonimo"])
-        for sinonimo in sinonimosList:
-            print(sinonimo[0]+" - "+sinonimo[1])
+        for sinonimo in sinonimosDbFormat:
+            print(sinonimo)
+        manager.writeAllToDb()
         return 1
 
     def parseNome(self,nomeStr):
@@ -50,9 +72,10 @@ class FloraDecoder:
         out=""
         for i in range(0,len(array)):
             if i==len(array)-1:
-                out+=array[i]+","
-            else:
                 out+=array[i]
+            else:
+                out+=array[i]+","
+        return out
 
     def parseOcorrenciasConfirmadas(self,requestJson):
         norte = requestJson["distribuicaoGeograficaCertezaNorte"]
@@ -134,14 +157,14 @@ class FloraDecoder:
 
 
     def getGrupoTaxonomico(self,hierarquiaStr):
-        grupos = self.getStringsBetween(hierarquiaStr,"<div class=\"grupo\">","<\/div>")
-        return grupos[len(grupos)-1]
+        grupos = self.getStringsBetween(hierarquiaStr,"<div class=\"grupo\">","</div>")
+        return grupos[len(grupos)-1].strip()
 
     def getFamily(self,hierarquiaStr):
-        taxons = self.getStringsBetween(hierarquiaStr,"<div class=\"taxon\">","<\/div>")
+        taxons = self.getStringsBetween(hierarquiaStr,"<div class=\"taxon\"> <i>","</i></div>")
         family = taxons[len(taxons)-2]
-        familiy = family +" "+ self.getStringsBetweenS(hierarquiaStr,"<div class=\"taxon\">"+family+"<\/div><div class=\"nomeAutorSupraGenerico\">","<\/div>")
-        return family
+        familiy = family +" "+ self.getStringsBetweenS(hierarquiaStr,"<div class=\"taxon\">"+family+"</div><div class=\"nomeAutorSupraGenerico\">","</div>")
+        return family.strip()
 
     def parseSinonimos(self,sinonimosStr):
         sinonimosList = []
