@@ -1,0 +1,1001 @@
+ID,FONTE,NOME,COLETADOR,LOCATION,PAIS,ESTADO,CIDADE,LATITUDE,LONGITUDE,ANO_COLETA,MES_COLETA,DIA_COLETA
+1,specieslink,"Dicliptera ciliaris Juss.","M. C. Tschá- E. Freire- A. P. S. Gomes- A. Laurênio","Murici, Brejo dos Cavalos",Brasil,Pernambuco,Caruaru,-8.31,-36,1997,07,01
+2,specieslink,"Dicliptera ciliaris Juss.","Linhares, K.M.E.","Grajaú, Serra das Almas",Brasil,Ceará,Crateús,-5.1783299446106,-40.6775016784668,,,
+3,specieslink,"Dicliptera ciliaris Juss.","Vasconcelos, S.F.","RPPN Serra das Almas.",Brasil,Ceará,Crateús,-5.1783299446106,-40.6775016784668,2003,06,15
+4,specieslink,"Dicliptera ciliaris Juss.","Vasconcelos, S.F.","RPPN Serra das Almas.",Brasil,Ceará,Crateús,-5.1783299446106,-40.6775016784668,2003,06,15
+5,specieslink,"Dicliptera ciliaris Juss.",Chagas-Mota,"Serra do Macaco.",Brasil,Alagoas,"Santana do Ipanema",-9.37833023071289,-37.2453002929688,2008,07,23
+6,specieslink,"Dicliptera ciliaris Juss.","H. S. Irwin","Rio Oiapoque. Lower and middle slopes of Mt. Tipac.",Brasil,AmapÃ¡,,3.6,-51.32,,,
+7,specieslink,"Dicliptera ciliaris Juss.","Sobczak, JCMSM","Fazenda Experimental Piroás, solo com muita serrapilheira.",Brasil,Ceará,Redenção,-4.225830078125,-38.730598449707,2016,08,26
+8,specieslink,"Dicliptera ciliaris Juss.","Bezerra, P.","Fazenda Mulungú, À margem de um riacho, sob uma oiticica.",Brasil,Ceará,Jaguaribe,-5.89056015014648,-38.621898651123,2011,08,09
+9,specieslink,"Dicliptera ciliaris Juss.","Fernandes, A.","Sítio Lages, Serra da Meruoca.",Brasil,Piauí,,,,2011,08,09
+10,specieslink,"Dicliptera ciliaris Juss.","Limaverde, S.O.","Grajaú, Sa. das Almas, banco de sementes, planossolo",Brasil,Ceará,Crateús,-5.1783299446106,-40.6775016784668,2007,03,22
+11,specieslink,"Dicliptera ciliaris Juss.","Silva, M.A.P.","Boa Vista",Brasil,Ceará,Jardim,-7.58249998092651,-39.2980995178223,1998,03,31
+12,specieslink,"Dicliptera ciliaris Juss.","Blanchet, J. S.",,Brazil,Bahia,,-12.1830556,-41.9972222,1993,01,01
+13,specieslink,"Dicliptera ciliaris Juss.","Costa, R.C.","Fazenda Não Me Deixes",Brasil,Ceará,Quixadá,-4.97138977050781,-39.0153007507324,2001,06,
+14,specieslink,"Dicliptera ciliaris Juss.","Vaz da Silva, I.H.C.V.","Serra das Almas.",Brasil,Ceará,Crateús,-5.1783299446106,-40.6775016784668,2010,10,04
+15,specieslink,"Dicliptera ciliaris Juss.","Gomes, V.","Sítio Lagoa",Brasil,Ceará,Guaramiranga,-4.206028,-38.971167,2004,02,15
+16,specieslink,"Dicliptera ciliaris Juss.","Dias Martins, C.T.V. de","Trilho 1- Comunidade Cipó - Levantamento Florístico.",Brasil,Bahia,Juazeiro,-9.41166973114014,-40.4986000061035,2010,10,27
+17,specieslink,"Dicliptera ciliaris Juss.","CORREIA, B. E. F.","Restinga da Praia de Itatinga",Brasil,Maranhão,Alcântara,-2.412944,-44.400472,,,
+18,specieslink,"Dicliptera ciliaris Juss.","CORREIA, B. E. F.","Restinga da Praia de Itatinga",Brasil,Maranhão,Alcântara,-2.412944,-44.400472,,,
+19,specieslink,"Dicliptera ciliaris Juss.","Fernandes, A.",,Brasil,Ceará,Frecheirinha,-3.75999999046326,-40.8163986206055,1997,11,19
+20,specieslink,"Dicliptera ciliaris Juss.","Salgado, E.V.","RPPN Elias Andrade",Brasil,Ceará,"General Sampaio",-4.05278015136719,-39.4543991088867,2011,06,30
+21,specieslink,"Dicliptera ciliaris Juss.","I. Andrade","Brejo dos Cavalos",Brasil,Pernambuco,Bonito,-8.47027969360352,-35.7285995483398,2003,07,28
+22,specieslink,"Dicliptera ciliaris Juss.","M. F. Sales","Inajá, Reserva Biológica de Serra Negra",Brasil,Pernambuco,Floresta,-8.60111045837402,-38.5685997009277,1997,,
+23,specieslink,"Dicliptera ciliaris Juss.","Silva, M.A.P.","Fazenda Crioula",Brasil,Ceará,Sobral,-3.68611001968384,-40.3497009277344,1997,11,19
+24,specieslink,"Dicliptera ciliaris Juss.","CORREIA, B. E. F.","Restinga da Praia de Itatinga",Brasil,Maranhão,Alcântara,-2.412944,-44.400472,,,
+25,specieslink,"Dicliptera ciliaris Juss.","Lima-Verde, L.W.","Chapada do Apodi, Fazenda Mato Alto.",Brasil,Ceará,Quixeré,-5.183333,-37.816667,1997,01,15
+26,specieslink,"Dicliptera ciliaris Juss.","Blanchet, J. S.",,Brazil,Bahia,,-12.1830556,-41.9972222,1993,01,01
+27,specieslink,"Dicliptera ciliaris Willd. ex Nees","Lima-Verde, L.W.- Paula-Zárate, E.L.- Bezerra-Loiola, M.I.- Gomes, O.M.- Paula-Zárate, E.L.- Bezerra-Loiola, M.I.- Gomes, O.M.","Chapada do Apodi, Fazenda Mato Alto.",Brasil,Ceará,Quixeré,-5.183333,-37.816667,,,
+28,specieslink,"Dicliptera ciliaris Juss.","Lima-Verde, L.W.","Flona do Araripe.",Brasil,Ceará,Crato,-7.23416996002197,-39.4094009399414,2000,05,
+29,specieslink,"Dicliptera ciliaris Juss.","A. Laurênio","Engenho Pombal, Casa dos Carneiros",Brasil,Pernambuco,"Vitória de Santo Antão",-8.11806011199951,-35.2914009094238,2003,07,28
+30,specieslink,"Dicliptera ciliaris Juss.","Monteiro, H","Brejo dos Cavalos, À margem de um caminho - fazenda.",Brasil,Pernambuco,Caruaru,-8.28332996368408,-35.9761009216309,2006,05,30
+31,specieslink,"Dicliptera ciliaris Willd. ex Nees","Rita Pereira- et al.- et al.","ca. 15km de Salgueiro em direção à Serrita.",Brasil,Pernambuco,Salgueiro,-8.07417011260986,-39.1192016601562,2003,07,28
+32,specieslink,"Dicliptera ciliaris Juss.","Araújo, F.S.","Planalto da Ibiapaba",Brasil,Ceará,"Novo Oriente",-5.53444004058838,-40.7742004394531,1997,02,20
+33,specieslink,"Dicliptera ciliaris Willd. ex Nees","Gallindo, F.- Barreto, R.- Rita Pereira- Bocage, A.- Barreto, R.- Rita Pereira- Bocage, A.","estrada para Pontas de Pedra, próximo à entrada para Tijucupapo e Carne de Vaca.",Brasil,Pernambuco,Goiana,-7.56056022644043,-35.002498626709,2003,07,28
+34,specieslink,"Dicliptera ciliaris Juss.","Souza, E.B.","Taperuaba Unidade de Conservação Refúgio de Vida Silvestre Pedra da Andorinha (REVIS).",,Ceará,Sobral,-4.064167,-39.9975,2018,04,
+35,specieslink,"Dicliptera ciliaris",,,BRAZIL,,,-10.8339,-52.8731,,,
+36,specieslink,"Dicliptera ciliaris Juss.","Coelho, M. .M.- Figueiredo, R.- Souza, D. .P.","Fazenda Experimental - UNIVASF, Área prioritária para a conservação da caatinga( área 33, muito alta importância biológica). Savana-estépica arborizada, solo predominantemente planossolo nátrico, vegetacão ciliar na margem do Riacho das Porteiras.",Brasil,Pernambuco,Petrolina,-9.330797,-40.548733,,,
+37,specieslink,"Dicliptera ciliaris Juss.","Lima-Verde, L.W.","Flona do Araripe.",Brasil,Ceará,Crato,-7.23416996002197,-39.4094009399414,2000,05,08
+38,specieslink,"Dicliptera ciliaris Juss.","Silva, M.L.","Estação Ecológica do Seridó, Solo arenoso",Brasil,"Rio Grande do Norte","Serra Negra do Norte",-6.597778,-37.248889,2011,08,09
+39,specieslink,"Dicliptera ciliaris Juss.","Mamede, M.","EMBRAPA Caprinos., Solo bruno não cálcico.",Brasil,Ceará,Sobral,-3.7,-40.35,2002,12,
+40,specieslink,"Dicliptera ciliaris Juss.","Castro, A.S.F.","Chapada do Apodi, À sombra de juazeiro",Brasil,Ceará,"Tabuleiro do Norte",-5.24666976928711,-38.1305999755859,1999,07,12
+41,specieslink,"Dicliptera ciliaris Juss.","Lima-Verde, L.W.","Chapada do Apodi, Faz. Mato Alto (Manga Grande). Grupo Apodí - Calcário, Cambisol. Datum Córrego Alegre.",Brasil,Ceará,Quixeré,-5.219444,-37.787917,1997,09,
+42,specieslink,"Dicliptera ciliaris Juss.","L. F. Silva- E. Rodrigues","Parque Ecológico de Serra Negra",Brasil,Pernambuco,Bezerros,-8.2,-35.816667,2003,07,28
+43,specieslink,"Dicliptera ciliaris Juss.","Gardner, G.",,Brazil,,,-10.77305556,-53.08972222,1993,01,01
+44,specieslink,"Dicliptera ciliaris Juss.","Barros, E.O.","Estação Ecológca de Aiuaba, Catingueira. Filito quartzito- calcário, solo litólico argiloso. Datum Córrego Alegre.",Brasil,Ceará,Aiuaba,-6.5,-40,1997,09,
+45,specieslink,"Dicliptera ciliaris Juss.","Mamede, M.","Campus do Pici, Solo bruno não cálcico.",Brasil,Ceará,Fortaleza,-3.71722006797791,-38.543098449707,2003,01,14
+46,specieslink,"Dicliptera ciliaris Juss.","Fernandes, A.","Sítio S. Antônio dos Fernandes",Brasil,Ceará,Meruoca,-3.54167008399963,-40.4550018310547,1997,11,19
+47,specieslink,"Dicliptera ciliaris Juss.","G. M. Souza","Reserva EcolÃ³gica Municipal da Prefeitura de Bonito Solo areno argiloso.",Brasil,Pernambuco,Bonito,-8.4706,-35.7283,,,
+48,specieslink,"Dicliptera ciliaris Juss.","Lima-Verde, L.W.","Chapada do Apodi, Faz. Mato Alto (Manga Grande). Grupo Apodí - Calcário, Cambisol",Brasil,Ceará,Quixeré,-5,-30,1997,09,
+49,specieslink,"Dicliptera ciliaris Juss.","Chagas-Mota- A.I.L.Pinheiro","Serra do Ouro.",Brasil,Alagoas,Murici,-9.30667018890381,-35.9432983398438,2009,04,17
+50,specieslink,"Dicliptera ciliaris Juss.","Sobrinho, M.S.","RPPN Serra das Almas.",Brasil,Ceará,Crateús,-5.083333,-40.85,2002,03,
+51,specieslink,"Dicliptera ciliaris Juss.","Fernandes, A.","Chapada da ibiapaba.",Brasil,Ceará,Ubajara,-3.85443997383118,-40.9211006164551,1997,11,19
+52,specieslink,"Dicliptera ciliaris Juss.","Nunes, E.","Fazenda Pau Preto",Brasil,Ceará,Parambu,-6.21111011505127,-40.6944007873535,2003,07,22
+53,specieslink,"Dicliptera ciliaris Juss.","Melo, L.M.R.","Chapada do Apodi, Faz. Mato Alto, Manga do Mamoeiro. Datum Córrego Alegre.",Brasil,Ceará,Quixeré,-5.166667,-37,1997,09,
+54,specieslink,"Dicliptera ciliaris Juss.","Batista, W.","congl. 84-P36, sub. 1, árv. 2RN.&nf-Área montanhosa e com muitas pedras. Espécie muito ocorrente em clareira.",Brasil,Ceará,Guaiúba,-4.072514,-38.722486,2014,09,29
+55,specieslink,"Dicliptera ciliaris Juss.","Chagas-Mota- A.I.L.Pinheiro","Serra do Ouro.",Brasil,Alagoas,Murici,-9.30667018890381,-35.9432983398438,2009,04,17
+56,specieslink,"Dicliptera ciliaris Juss.","Gardner, G.",,Brazil,,,-10.77305556,-53.08972222,1993,01,01
+57,specieslink,"Dicliptera ciliaris Juss.","Costa, R.C.","RPPN Serra das Almas, Grajaú",Brasil,Ceará,Crateús,-5.1783299446106,-40.6775016784668,2004,06,
+58,specieslink,"Dicliptera ciliaris Willd. ex Nees","Lemos, J.R.- Matias, P.- Matias, P.","Estação Ecológica de Aiuaba",Brasil,Ceará,Aiuaba,-6.600278,-40.321944,2004,08,15
+59,specieslink,"Dicliptera ciliaris Juss.","Loiola, M.I.B.","Estação Ecológica de Aiuaba, Poço da Roça, próximo à barragem.",Brasil,Ceará,Aiuaba,-6.616667,-40.166667,1997,01,15
+60,specieslink,"Dicliptera ciliaris Juss.","Loiola, M.I.B.","distrito Rajada, margem direita da estrada(sentido",Brasil,Ceará,Itapipoca,-3.543611,-39.478056,2014,06,30
+61,specieslink,"Dicliptera ciliaris Juss.","Linhares, K.M.E.","Grajaú, Serra das Almas",Brasil,Ceará,Crateús,-5.1783299446106,-40.6775016784668,,,
+62,specieslink,"Dicliptera ciliaris Juss.","Gomes, R.C.","Bacia hidrográfica do riacho Carrapateiras - Tecel, Solo vertissolo- xisto / quartzito",Brasil,Ceará,Tauá,-5.403611,-40.064722,2013,09,09
+63,specieslink,"Dicliptera ciliaris Willd. ex Nees","Lima, V.C.- Andrade-Lima- Zoé Brito- Andrade-Lima- Zoé Brito","na subida da Serra Negra à beira do caminho.",Brasil,Pernambuco,Inajá,-8.7,-38.033333,2003,07,28
+64,specieslink,"Dicliptera ciliaris Juss.","Lima-Verde, L.W.","entorno da cidade, Faz. Santa Luzia",Brasil,Ceará,Quixadá,-4.97138977050781,-39.0153007507324,2000,06,01
+65,specieslink,"Dicliptera ciliaris Juss.","Bezerra, P.","Sítio São Bento, Serra da Aratanha, à margem de um regato.",Brasil,Ceará,Maranguape,-3.89083003997803,-38.6856002807617,2011,08,09
+66,specieslink,"Dicliptera ciliaris Juss.","I. M. Andrade- A. B. Marcon- E. H. Rodrigues- M. C. Tschá","Distrito de Murici, Brejo dos Cavalos",Brasil,Pernambuco,Caruaru,-8.31,-36,1997,07,01
+67,specieslink,"Dicliptera ciliaris Juss.","Fernandes, A.","estrada Novo Oriente-São Miguel do Tapuio, Serra d",Brasil,Ceará,"Novo Oriente",-5.53444004058838,-40.7742004394531,1997,11,19
+68,specieslink,"Dicliptera ciliaris Juss.","Fernandes, A.","Lagoa de Dentro",Brasil,Paraíba,"Campina Grande",-7.23055982589722,-35.8810997009277,2003,07,22
+69,specieslink,"Dicliptera ciliaris Juss.","M. Sales- M. Tschá- Z. Travassos","Brejo dos Cavalos, Fazenda Caruaru",Brasil,Pernambuco,Caruaru,-8.31,-36,1997,11,13
+70,specieslink,"Dicliptera ciliaris Juss.","Figueiredo, M.A.","Serra de Martins",Brasil,"Rio Grande do Norte",Martins,-6.0877799987793,-37.9110984802246,1997,11,19
+71,specieslink,"Dicliptera ciliaris Juss.","Fernandes, A.","Sítio Pedra d'água, Quebrada da serra.",Brasil,Ceará,Capistrano,-4.46999979019165,-38.9014015197754,2011,08,09
+72,specieslink,"Dicliptera ciliaris Juss.","Black, G.A.","Fazenda Normal",Brasil,Ceará,Quixadá,-4.97138977050781,-39.0153007507324,2009,02,18
+73,specieslink,"Dicliptera ciliaris Juss.","Blanchet, J. S.",,Brazil,Bahia,,-12.18305556,-41.99722222,2008,01,01
+74,specieslink,"Dicliptera ciliaris Juss.","Lima-Verde, L.W.","Fazenda Intan de Cima, Serra do Pajé.",Brasil,Ceará,"Santa Quitéria",-4.33194017410278,-40.1567001342773,1997,09,
+75,specieslink,"Dicliptera ciliaris Juss.","Lima-Verde, L.W.","Pico Alto., Estrada linha da serra.",Brasil,Ceará,Guaramiranga,-4.209472,-38.974361,,,
+76,specieslink,"Dicliptera ciliaris Juss.","Loiola, M.I.B.","barragem Lima Brandão, em frente ao memorial D.C.Prado.",Brasil,Ceará,Granja,-3,-40,2014,07,19
+77,specieslink,"Dicliptera ciliaris Juss.","Coelho, M. .M.- Figueiredo, R.- Souza, D. .P.","Fazenda Experimental - UNIVASF, Área prioritária para a conservação da caatinga( área 33, muito alta importância biológica). Savana-estépica arborizada, solo predominantemente planossolo nátrico, vegetacão ciliar na margem do Riacho das Porteiras.",Brasil,Pernambuco,Petrolina,-9.330797,-40.548733,,,
+78,specieslink,"Dicliptera ciliaris Juss.","Oliveira, M.R.L.","Serra de Baturité, Morro Redondo, solo podzólico",Brasil,Ceará,Guaramiranga,-4.26332998275757,-38.9331016540527,1997,11,19
+79,specieslink,"Dicliptera ciliaris Juss.","A. C. Souza- R. Sales- R. G. Oliveira- S. S. Lira","Reserva Ecológica da Mata de Dois Irmãos",Brasil,Pernambuco,Recife,-8.05389022827148,-34.8810997009277,,,
+80,specieslink,"Dicliptera ciliaris Juss.","Loiola, M.I.B.","Estação Ecológca de Aiuaba, Poço da Roça (próximo à barragem). Datum: WGS 84",Brasil,Ceará,Aiuaba,-6.616667,-40.166667,1997,01,15
+81,specieslink,"Dicliptera ciliaris Juss.","Lima-Verde, L.W.","Sítio Salva Vidas, Lixão, Sotavento.",Brasil,Ceará,Guaramiranga,-4.254444,-38.992083,2008,08,30
+82,specieslink,"Dicliptera ciliaris Juss.","Mamede, M.","EMBRAPA Caprinos., Solo bruno não cálcico.",Brasil,Ceará,Sobral,-3.7,-40.35,2002,12,
+83,specieslink,"Dicliptera ciliaris Juss.","A. C. Souza- R. Sales- R. G. Oliveira- S. S. Lira","Reserva Ecológica da Mata de Dois Irmãos",Brasil,Pernambuco,Recife,-8.05389022827148,-34.8810997009277,,,
+84,specieslink,"Dicliptera ciliaris Juss.","Lemos, J.R.","Estação Ecológica de Aiuaba.",Brasil,Ceará,Aiuaba,-6.6,-40.116667,2004,08,15
+85,specieslink,"Dicliptera ciliaris Juss.",Chagas-Mota,"Ladeira do Lindóia.",Brasil,Alagoas,Satuba,-9.56332969665527,-35.8244018554688,2009,10,17
+86,specieslink,"Dicliptera ciliaris Juss.","G. M. Souza- E. I. Silva- I. Andrade- M. R. C. Sales de Melo","Reserva Ecológica Municipal da Prefeitura de Bonito",Brasil,Pernambuco,Bonito,-8.47027969360352,-35.7285995483398,1997,07,01
+87,specieslink,"Dicliptera ciliaris Juss.","F. M. O. Villarouco- M. C. Tschá- L. B. Oliveira","Murici, Brejo dos Cavalos",Brasil,Pernambuco,Caruaru,-8.31,-36,1997,07,01
+88,specieslink,"Dicliptera ciliaris Juss.","J. S. Blanchet","Igreja Velha",Brasil,Bahia,Jacobina,-11.1808,-40.5181,,,
+89,specieslink,"Dicliptera ciliaris Juss.","Castro, A.S.F.",,Brasil,Ceará,Quixadá,-4.97138977050781,-39.0153007507324,2002,03,22
+90,specieslink,"Dicliptera ciliaris Juss.","Lima-Verde, L.W.","Chapada do Apodi, Faz. Mato Alto. Datum: WGS 84",Brasil,Ceará,Quixeré,-5.183333,-37.816667,1997,01,15
+91,specieslink,"Dicliptera ciliaris Juss.","V. V. Henrique","Bonito, Reserva EcolÃ³gica Municipal da Prefeitura de Bonito Solo areno argiloso.",Brasil,Pernambuco,Bonito,-8.4706,-35.7283,,,
+92,specieslink,"Dicliptera ciliaris Juss.","G. Gardner","In Brasilia prope Pernambuco.",Brasil,Pernambuco,,,,,,
+93,specieslink,"Dicliptera ciliaris Juss.","G. Gardner","In Brasilia prope Pernambuco.",Brasil,Pernambuco,,,,,,
+94,specieslink,"Dicliptera ciliaris Juss.","Lima-Verde, L.W.","Flona do Araripe.",Brasil,Ceará,Crato,-7.23416996002197,-39.4094009399414,2000,06,
+95,specieslink,"Dicliptera ciliaris Juss.","Aragão, VMA- Souza, EB","""Brasil, Nordeste, Ceará, Ubajara, mata úmida. 03°48#?#01,7#?##?#S / 40°54#?#22,7#?##?# W, 896 m.""",Brasil,Ceará,Ubajara,-3.85443997383118,-40.9211006164551,2010,02,01
+96,specieslink,"Dicliptera ciliaris Juss.","M.M. Coelho","Fazenda Experimental UNIVASF - Parcela 01 - Riacho das Porteiras",Brasil,Pernambuco,Petrolina,-9.32059722222222,-40.5411527777778,2008,12,04
+97,specieslink,"Dicliptera ciliaris Willd. ex Nees","Laine, B.- Cortez, J.- Cortez, J.","Fazenda Tamanduá, áreas em regeneração.",Brasil,Paraíba,"Santa Teresinha",-7.03888988494873,-37.4453010559082,2009,08,
+98,specieslink,"Dicliptera ciliaris Juss.","Aragão, V.M.A.",,Brasil,Ceará,Ubajara,-3.800556,-40.906389,2009,02,
+99,specieslink,"Dicliptera ciliaris Juss.","Bezerra, P.","Sítio Germinal, Serra de Baturité (quebradas).",Brasil,Ceará,Pacoti,-4.22499990463257,-38.9233016967773,2011,08,09
+100,specieslink,"Dicliptera ciliaris Juss.","M. C. Tschá- M. F. Sales- Z. Travassos","Brejo dos Cavalos, Fazenda Caruaru",Brasil,Pernambuco,Caruaru,-8.31,-36,1997,11,13
+101,specieslink,"Dicliptera ciliaris Juss.","V. V. Henrique- F. Villarouco- E. Menezes- S. S. Lira- E. Rodrigues- M. B. C. Costa e Silva","Reserva Ecológica Municipal da Prefeitura de Bonito",Brasil,Pernambuco,Bonito,-8.47027969360352,-35.7285995483398,1997,07,01
+102,specieslink,"Dyschoriste maranhonis (Nees) Kuntze",M.S.Leite,"Engenho Curtume",Brasil,Pernambuco,Maraial,-8.801389,-35.838889,2006,10,13
+103,specieslink,"Dyschoriste maranhonis (Ness) Lindau","Rambo, B.",Cachoeirinha,Brasil,RS,Gravataí,-29.9444007873535,-50.9919013977051,,,
+104,specieslink,"Dyschoriste maranhonis","F. Sellow",,BRAZIL,,,-10.8339,-52.8731,,,
+105,specieslink,"Dyschoriste maranhonis (Nees) Kuntze","G. G. Hatschbach","Milagres, arredores",Brasil,Bahia,Milagres,-12.87,-39.8589,,,
+106,specieslink,"Dyschoriste maranhonis Kuntze","Hatschbach, G- Guimarães, O","Rodovia BA-046",Brazil,Bahia,Milagres,-12.8699998855591,-39.8588981628418,1983,,
+107,specieslink,"Dyschoriste maranhonis (Nees) Kuntze","Loefgren, A","Campo Capivary",Brasil,"São Paulo",Paranapanema,-23.3799991607666,-48.7200012207031,2006,03,17
+108,specieslink,"Dyschoriste maranhonis Kuntze","Leite, M.S.","Engenho Curtume, Rio Pirangi, área de inundação próxima a nascente do bananal. Formação Ribeirinha Típica.",Brasil,Pernambuco,Maraial,-8.801389,-35.838889,2006,10,13
+109,specieslink,"Dyschoriste maranhonis (Ness) Lindau","Rambo, B.","Fazenda do Arroio",Brasil,RS,Osório,-29.8866996765137,-50.2696990966797,1958,09,17
+110,specieslink,"Dyschoriste maranhonis (Nees) Lindau","A. Heidler SJ",,Brasil,RS,"Santa Maria",-29.6842002868652,-53.8069000244141,,,
+111,specieslink,"Dyschoriste maranhonis (Ness) Lindau","Rambo, B.","ad fl. Uruguay",Brasil,RS,Nonoai,-27.3617000579834,-52.7714004516602,,,
+112,specieslink,"Dyschoriste maranhonis (Nees) Kuntze","Hatschbach, G.","Arredores de Milagres.",Brasil,Bahia,Milagres,-12.8699998855591,-39.8588981628418,,,
+113,specieslink,"Dyschoriste maranhonis (Nees)O. Ktz.","G. Hatschbach","Arredores da cidade.",Brasil,Bahia,milagres,-12.87,-39.8589,,,
+114,specieslink,"Hygrophila costata Ness.","Durlo, M. A.",Ressaca,Brasil,"Rio Grande do Sul",Sobradinho,-29.4214,-53.0286,2016,02,02
+115,specieslink,"Hygrophila costata Nees","Hatschbach, G- Ribas, OS- Barbosa, E","Rio Iratim",Brazil,Paraná,"Inácio Martins",-25.5711002349854,-51.0788993835449,1998,,
+116,specieslink,"Hygrophila costata Nees","Schweiger, E",Caracol,Brasil,RS,Gramado,-29.3785991668701,-50.8739013671875,2014,08,
+117,specieslink,"Hygrophila costata Nees","Pinheiro, P.M.","Chapada da Borborema-Serra das Russas.",Brasil,Pernambuco,"Chã Grande",-8.23832988739014,-35.4617004394531,,,
+118,specieslink,"Hygrophila costata","Lorenzi, H.",,Brasil,"Rio Grande do Sul","Pantano Grande",-30.1914,-52.3736,2003,03,11
+119,specieslink,"Hygrophila costata Nees","Blanchet, JS",Bahiae,Brazil,Bahia,,,,,,
+120,specieslink,"Hygrophila costata Nees","Glaziou, A.",,Brasil,,,,,,,
+121,specieslink,"Hygrophila costata Nees","Mauhs, J.","Parque Municipal Henrique L. Roessler",Brasil,RS,"Novo Hamburgo",-29.6783008575439,-51.1305999755859,2014,08,
+122,specieslink,"Hygrophila costata Nees","Irgang, BE- Brack, P",,Brasil,RS,"São Francisco de Paula",-29.4480991363525,-50.5835990905762,2014,08,
+123,specieslink,"Hygrophila costata Nees","Korte, A.",Perequê.,Brasil,"Santa Catarina","Porto Belo",-27.18,-48.6,2011,03,22
+124,specieslink,"Hygrophila costata Nees","Kegler, A.","Forqueta - São José",Brasil,"Rio Grande do Sul","Caxias do Sul",-29.1681003570557,-51.1794013977051,1999,05,
+125,specieslink,"Hygrophila costata Nees","Ferreira, CAC","Rio Uatumã, llha do Bacural., Rio Uatumã, ao longo do rio, margem direita, lha do Bacural",Brasil,Amazonas,Itapiranga,-2.74889,-58.0219,,,
+126,specieslink,"Hygrophila costata Nees","Thaisa Sales Vilar","Fercal - Propriedade privada.",Brasil,DF,BRASILIA,-15.511388,-47.959722,,,
+127,specieslink,"Hygrophila costata Nees","Rambo, B.","Vila Manresa",Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,2014,08,
+128,specieslink,"Hygrophila costata Nees","Schwirkowski, P.","Sertãozinho - Propriedade de Leonardo Pilz",Brasil,"Santa Catarina","São Bento do Sul",-26.31941,-49.371093,2014,12,26
+129,specieslink,"Hygrophila costata Nees","Pedralli, G- Oliveira, VL- Carvalho",,Brazil,"Minas Gerais",Capelinha,-17.6914005279541,-42.5158004760742,1989,07,
+130,specieslink,"Hygrophila costata Nees & T. Nees","* BARTOLOMEU",Mongagua-,Brazil,"São Paulo",,,,,,
+131,specieslink,"Hygrophila costata Nees","Hagelund, K","Granja Sodol",Brasil,RS,Giruá,-28.028299331665,-54.3497009277344,2014,08,
+132,specieslink,"Hygrophila costata Nees","Rambo, B.","Santa Rita",Brasil,RS,Farroupilha,-29.2250003814697,-51.3478012084961,2014,08,
+133,specieslink,"Hygrophila costata Nees","Bresolin, A","Rio Vermelho, próximo ao camping",Brasil,SC,Florianópolis,-27.596700668335,-48.5491981506348,2014,08,
+134,specieslink,"Hygrophila costata Nees & T. Nees","M. J. N. Rodal- A. M. da Silva","Estação Ecológica de Tapacurá",Brasil,Pernambuco,"São Lourenço da Mata",-8.011111,-34.950278,2004,05,06
+135,specieslink,"Hygrophila costata Nees","Rambo, B.","Vila Oliva",Brasil,RS,"Caxias do Sul",-29.1681003570557,-51.1794013977051,2014,08,
+136,specieslink,"Hygrophila costata Nees","Stevens, WD- Krukoff, BA","Road from Río Blanco to Río Copalar.",Nicaragua,Zelaya,,,,1981,,
+137,specieslink,"Hygrophila costata Nees","Hagelund, K","Linha Araripe",Brasil,RS,Gramado,-29.3785991668701,-50.8739013671875,2014,08,
+138,specieslink,"Hygrophila costata Nees","R. M. Klein",Cunhas,Brasil,SC,Itajaí,-26.9078006744385,-48.6618995666504,2014,08,
+139,specieslink,"Hygrophila costata Nees","Kinupp, VF- Florístico 2003/, Alunos Inv","Fazenda XaFri Boqueirão",Brasil,RS,"Encruzilhada do Sul",-30.5438995361328,-52.521900177002,2014,08,
+140,specieslink,"Hygrophila costata (Spreng.) Lindau","Gottsberger, I.","Divisa de Itatinga e Botucatu, aleste de Botucatu - 25 km, estrada para Castelo Branco",Brasil,"São Paulo",Botucatu,-22.8799991607666,-48.439998626709,,,
+141,specieslink,"Hygrophila costata Nees","Hatschbach, G- Guimarães, O","Córrego Maria do Carmo",Brazil,"Mato Grosso",Aquidauana,,,1970,,
+142,specieslink,"Hygrophila costata Nees",Glaziou,,Brasil,"Rio de Janeiro",Petrópolis,-22.5049991607666,-43.1786003112793,,,
+143,specieslink,"Hygrophila costata",,"área do Museu de Biologia Mello Leitão",Brasil,"Espírito Santo","Santa Teresa",-19.9356002807617,-40.6002998352051,,,
+144,specieslink,"Hygrophila costata Nees","Rambo, B.",Guaíba,Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,2014,08,
+145,specieslink,"Hygrophila costata Nees","Fonseca, W.O.","Fazenda Sete Brejos- Córrego sob a ponte",Brasil,Bahia,"Muniz Ferreira",-13.020667,-39.126444,,,
+146,specieslink,"Hygrophila costata Nees","Santos, TS- Mattos Santos, LA","Rodovia para Ubaitaba.",Brazil,Bahia,Itacaré,-14.2775001525879,-38.9967002868652,1981,,
+147,specieslink,"Hygrophila costata Nees","Rambo, B.","Vila Oliva",Brasil,RS,"Caxias do Sul",-29.1681003570557,-51.1794013977051,2014,08,
+148,specieslink,"Hygrophila costata Nees","Rambo, B.",Taimbezinho,Brasil,RS,"São Francisco de Paula",-29.4480991363525,-50.5835990905762,2014,08,
+149,specieslink,"Hygrophila costata Nees","M.G. Caxambu","Estação Ecológica Municipal Francisco",Brasil,PR,"Reserva do Iguaçu",-25.923222,-51.858194,2018,05,18
+150,specieslink,"Hygrophila costata Nees & T. Nees","Howard S. Irwin|S.F. da Fonsêca|R. Souza|R. Reis dos Santos|J. Ramos","Serra do Cabral. Periodically flooded creek margin. Gallery and cut-over cerrado, ca. 5 km E of Parado das Batistas, MG-1.",Brazil,"Minas Gerais",,,,2008,,
+151,specieslink,"Hygrophila costata Nees","Souza, J.P.- Miyagi, P.H.- Zandoval, J.A.",,Brasil,"São Paulo","Barra do Turvo",-24.7564,-48.5047,,,
+152,specieslink,"Hygrophila costata Nees","Kassner-Filho, A.- Santos, D.- Bollmann, G.- Silva, D.A.",,Brasil,"Santa Catarina",Vargem,-27.4494444,-50.9408333,2017,06,01
+153,specieslink,"Hygrophila costata Nees","Rambo, B.","ad fl. Uruguay",Brasil,RS,Nonoai,-27.3617000579834,-52.7714004516602,2014,08,
+154,specieslink,"Hygrophila costata Nees","Valduga, E.",,Brasil,"Rio Grande do Sul",Cidreira,-30.085833,-50.233611,2012,,
+155,specieslink,"Hygrophila costata Nees","F. Theissen SJ",,Brasil,RS,"São Leopoldo",-29.7602996826172,-51.1472015380859,2014,08,
+156,specieslink,"Hygrophila costata Nees","G.A.D.C. Franco & A.Custodio Filho","Reserva Florestal, Guaratuba",Brasil,SP,Salesópolis,-23.5300006866455,-45.8400001525879,2000,01,06
+157,specieslink,"Hygrophila costata Nees","Hashimoto, G","Serra do Cipó",Brazil,"Minas Gerais",Jaboticatubas,-19.513599395752,-43.7449989318848,1986,03,29
+158,specieslink,"Hygrophila costata Nees","Funez, L.A.- Zermiani, A.E.","Lago de captação às margens da BR-470.",Brasil,"Santa Catarina",Ilhota,-26.8375,-48.7827778,2014,08,07
+159,specieslink,"Hygrophila costata Nees","Hatschbach, G",arredores,Brazil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,1961,,
+160,specieslink,"Hygrophila costata Nees & T. Nees","Caxambu, M.G.- Siqueira, E.L.- Medeiros, G.- Siqueira, E.L.- Medeiros, G.","Estação Ecológica Municipal Colombo",Brasil,Paraná,"Mato Rico",-24.749444,-54.233944,2016,10,05
+161,specieslink,"Hygrophila costata Nees","R. Wasum",,Brasil,RS,"Morro Reuter",-29.5380992889404,-51.0807991027832,2014,08,
+162,specieslink,"Hygrophila costata Nees","Glaziou, A.",,Brasil,,,,,,,
+163,specieslink,"Hygrophila costata Nees","Kassner-Filho, A.- Santos, D.- Bollmann, G.- Silva, D.A.",,Brasil,"Santa Catarina",Agrolândia,-27.54,-49.7705556,2018,02,16
+164,specieslink,"Hygrophila costata Nees","C. A. Cid Ferreira","Ao longo do rio, margem direita, ilha do Bacural",Brasil,Amazonas,Itapiranga,-2.7492,-58.0217,,,
+165,specieslink,"Hygrophila costata Nees","Shirasuna, RT- Cachenco, MV","Rodoanel Mário Covas, Trecho Sul, Lote 5",Brasil,"São Paulo",Embu,-23.6399993896484,-46.8499984741211,2009,10,16
+166,specieslink,"Hygrophila costata Nees","Emrich, K.",Caracol,Brasil,RS,Canela,-29.3656005859375,-50.815601348877,2014,08,
+167,specieslink,"Hygrophila costata Nees","J. Cordeiro","Parque Iguaçu",Brasil,PR,Curitiba,-25.4277992248535,-49.2731018066406,2014,08,
+168,specieslink,"Hygrophila costata Nees","Glaziou, A.",,Brasil,"Minas Gerais",,,,,,
+169,specieslink,"Hygrophila costata Nees","M.Sobral Leite- B.Maciel et P. Gomes","Próximo ao inselbergue ""Pedra do Guariba""",Brasil,Pernambuco,Caruaru,-8.28332996368408,-35.9761009216309,2016,,
+170,specieslink,"Hygrophila costata Nees","Reitz, R.","Faz. Frei Rogério",Brasil,SC,"Porto União",-26.2381000518799,-51.0783004760742,2014,08,
+171,specieslink,"Hygrophila costata (Spreng.) Lindau","Kozera, C.","Parque Barigui",Brasil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,1997,02,
+172,specieslink,"Hygrophila costata Nees","Bidá, A.","Santa Mônica Clube de Campo",Brasil,Paraná,Colombo,-25.2917003631592,-49.2242012023926,2009,05,26
+173,specieslink,"Hygrophila costata Nees","Dombrowski, LT","Capão da Imbuia",Brazil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,,,
+174,specieslink,"Hygrophila costata Nees","Dombrowski, LT","Capão da Imbuia",Brazil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,1995,,
+175,specieslink,"Hygrophila costata Nees","Sobral, M","Banhado Toropi",Brasil,RS,"São Pedro do Sul",-29.6205997467041,-54.1789016723633,2014,08,
+176,specieslink,"Hygrophila costata Nees","Britez, RM- Motta, JT- Kierski, MI","Fazenda do Durgo",Brazil,Paraná,"São Mateus do Sul",-25.8742008209229,-50.3828010559082,1986,,
+177,specieslink,"Hygrophila costata Nees","Kersten, R.","REPAR - PETROBRÁS",Brasil,Paraná,Araucária,-25.5930995941162,-49.4103012084961,2009,05,26
+178,specieslink,"Hygrophila costata Nees","Stellfeld, C.","Estrada de Caiobá para a passagem de Guaratuba",Brasil,Paraná,Matinhos,-25.8174991607666,-48.5428009033203,2009,05,26
+179,specieslink,"Hygrophila costata Nees","Reitz, R.",Pilões,Brasil,SC,"Santo Amaro da Imperatriz",-27.6881008148193,-48.7785987854004,2014,08,
+180,specieslink,"Hygrophila costata Nees","Dombrowski, LT","Capão da Imbuia",Brazil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,,,
+181,specieslink,"Hygrophila costata Nees","P. Occhioni","Parque Nacional do Itatiaia",Brasil,"Rio de Janeiro",Itatiaia,-22.4960994720459,-44.5633010864258,,,
+182,specieslink,"Hygrophila costata Nees","Hagelund, K",,Brasil,RS,Torres,-29.3353004455566,-49.7268981933594,2014,08,
+183,specieslink,"Hygrophila costata Nees","Rambo, B.",,Brasil,RS,Tupanciretã,-29.0806007385254,-53.8358001708984,2014,08,
+184,specieslink,"Hygrophila costata Nees","Korte, A.","Areias de Cima.",Brasil,"Santa Catarina","Governador Celso Ramos",-27.36,-48.6,2011,03,22
+185,specieslink,"Hygrophila costata Nees","Souza, V.C.- Caliari, C.P.- Coelho, R.L.G.- Colletta, G.D.- Barroso, R.M.- Martins, C.H.C.","Fragmento 34 (TAV). Contato Floresta Estacional Semidecidual / Floresta Ombrófila Densa.",Brasil,"São Paulo",Guaratinguetá,-45.2296,-22.7718,2013,,
+186,specieslink,"Hygrophila costata Nees","J. Pivetta","Vale Veneto",Brasil,RS,,,,2014,08,
+187,specieslink,"Hygrophila costata Nees.","Bopp, L.T.",,Brasil,"São Paulo","Rio Grande da Serra",-23.74,-46.39,,,
+188,specieslink,"Hygrophila costata Nees","Ferreira, J.P.R.- Trevisan, R.","Antes do centro da cidade, no lago Morosini.",Brasil,"Santa Catarina",Treviso,-28.535278,-49.448611,1905,07,06
+189,specieslink,"Hygrophila costata Nees","Hatschbach, G","Rio Potinga",Brazil,Paraná,"São Mateus do Sul",-25.8742008209229,-50.3828010559082,1972,,
+190,specieslink,"Hygrophila costata Nees","A.D. Faria et al.","estrada de terra sentido Valentim Gentil a Floreal",Brasil,"São Paulo",Floreal,-20.6767,-50.1453,2000,08,28
+191,specieslink,"Hygrophila costata Nees","V.J. Pott","Rodovia MS-339, entre Miranda e Bodoquena.",Brasil,"Mato Grosso do Sul",Miranda,-20.261222,-56.440194,2009,10,12
+192,specieslink,"Hygrophila costata Nees","Rambo, B.",Cachoeirinha,Brasil,RS,Gravataí,-29.9444007873535,-50.9919013977051,2014,08,
+193,specieslink,"Hygrophila costata Nees","M.G. Caxambu","Fazenda Água do Índio",Brasil,PR,"Tuneiras do Oeste",-23.8705997467041,-52.8760986328125,2011,04,28
+194,specieslink,"Hygrophila costata Nees","Miyagi, P.H.","Reserva floresta Carlos Botelho",Brasil,"São Paulo",Mamparra,,,,,
+195,specieslink,"Hygrophila costata Nees","Garcia, EN- et al.","Fazenda dos Touros",Brasil,RS,"Capivari do Sul",-30.1450004577637,-50.5147018432617,2014,08,
+196,specieslink,"Hygrophila costata Nees","Monteiro, H","Terrenos Baldios",Brasil,"Rio Grande do Sul","Rio Grande",-32.0349998474121,-52.0985984802246,2006,05,30
+197,specieslink,"Hygrophila costata Nees","Hatschbach, G","Colônia Santos Andrade",Brazil,Paraná,"São José dos Pinhais",-25.5347003936768,-49.2064018249512,1985,,
+198,specieslink,"Hygrophila costata Nees","Ferreira, J.P.R.- Trevisan, R.","No CTG, na Lagoa Azul.",Brasil,"Santa Catarina",Araranguá,-28.946667,-49.410278,1905,07,06
+199,specieslink,"Hygrophila costata Nees","Schinini, A- Vanni, R- Cáceres, S",,Paraguay,Caazapá,Yataity,,,1993,,
+200,specieslink,"Hygrophila costata Nees","Falkenberg, D.B.- Souza, M.L.","Parque do Rio Vermelho, final da estrada geral da praia, Ilha de Santa Catarina.",Brasil,"Santa Catarina",Florianópolis,-27.596700668335,-48.5491981506348,1905,06,16
+201,specieslink,"Hygrophila costata Nees","Custodio Filho, A- Kirizawa, M","Parque Nacional de Sete Quedas, -rea a ser inundada pela represa da Itaipú, região dos Saltos",Brasil,Paraná,Guaíra,-24.666667,-54.183333,,,
+202,specieslink,"Hygrophila costata Nees","Locatelli, E.","Brejo dos Cavalos",Brasil,Pernambuco,Caruaru,-8.28332996368408,-35.9761009216309,2011,08,15
+203,specieslink,"Hygrophila costata Nees","Hatschbach, G",Sertãozinho,Brazil,Paraná,Paranaguá,-25.5200004577637,-48.5092010498047,1970,,
+204,specieslink,"Hygrophila costata Nees","J. Pivetta","Dr. Pestana",Brasil,RS,Ijuí,-28.3878002166748,-53.9146995544434,2014,08,
+205,specieslink,"Hygrophila costata Nees","Silva, J.M.",Areial,Brasil,Paraná,"São José dos Pinhais",-25.5347003936768,-49.2064018249512,2009,05,26
+206,specieslink,"Hygrophila costata Nees","Irwin, HS","Ca. 10km S.E. of Paracatú. Elev. 675m",Brasil,"Minas Gerais",Paracatu,-17.2222003936768,-46.874698638916,2007,,
+207,specieslink,"Hygrophila costata Nees","Abruzzi, ML","Banhado Grande, Fazenda Renato Johan",Brasil,RS,Gravataí,-29.9444007873535,-50.9919013977051,2014,08,
+208,specieslink,"Hygrophila costata Nees","Hagelund, K","Fazenda Faxinal",Brasil,RS,"Arroio dos Ratos",-30.0771999359131,-51.7291984558105,2014,08,
+209,specieslink,"Hygrophila costata Nees","Trevisan, R","km 73 RS030",Brasil,RS,Osório,-29.8866996765137,-50.2696990966797,2014,08,
+210,specieslink,"Hygrophila costata Nees","Sobral, M","Banhado Toropi",Brazil,"Rio Grande do Sul","São Pedro do Sul",-29.6205997467041,-54.1789016723633,1985,,
+211,specieslink,"Hygrophila costata Nees","Ristow, R.","Jardim Patrícia",Brasil,Paraná,"Quatro Barras",-25.376056,-49.083,2011,01,01
+212,specieslink,"Hygrophila costata Nees","Hatschbach, G","Porto de Cima",Brazil,Paraná,Morretes,-25.476900100708,-48.834400177002,1958,,
+213,specieslink,"Hygrophila costata",,,BRAZIL,,,-10.8339,-52.8731,,,
+214,specieslink,"Hygrophila costata Nees","Jarenkow, JA","Campus da Universidade Federal de Pelotas",Brazil,"Rio Grande do Sul","Capão do Leão",-31.7632999420166,-52.4838981628418,1990,04,
+215,specieslink,"Hygrophila costata Nees","E.L. Siqueira","Parque Nacional do Iguaçu, cercanias da",Brasil,PR,"Céu Azul",-25.157083,-53.848944,2016,09,16
+216,specieslink,"Hygrophila costata Nees","Lopes, MT- Fabricante, JR","Riacho Areia Branca., Ambiente lótico pedregoso com presença de serrapilheira as margens - 2 m de largura e 0,01 m de profundidade.",Brasil,Sergipe,"Areia Branca",-10.4436,-37.1926,2016,10,21
+217,specieslink,"Hygrophila costata Nees","Henz, E.",Kappesberg,Brasil,RS,Montenegro,-29.6886005401611,-51.4611015319824,2014,08,
+218,specieslink,"Hygrophila costata Nees","Meireles, L.D.- Rodrigues, R.R.- Gonçalves, A.P.S.- Meneghetti, G.I.P.- Soares Júnior, F.J.","Parque Estadual da Serra do Mar, Núcleo Curucutu.",Brazil,"São Paulo","São Paulo",-23.989083,-46.775417,2001,06,
+219,specieslink,"Hygrophila costata Nees","Rambo, B.",Cachoeirinha,Brasil,RS,Gravataí,-29.9444007873535,-50.9919013977051,1954,04,30
+220,specieslink,"Hygrophila costata Nees & T. Nees","Roberto M. Klein","Cunhas, Itajai",Brazil,,,,,,,
+221,specieslink,"Hygrophila costata Nees","Labiak, P.H.","Parque Nacional do Iguaçu, Ilhas acima das Cataratas.",Brasil,Paraná,"Foz do Iguaçu",-25.601667,-54.361111,2011,04,14
+222,specieslink,"Hygrophila costata","H. Lorenzi, M. Peixoto & M. Virmond","Coletado na UHE Mauá, lote 4- mata de altitude, em várzea pantanosa, a pleno sol.",Brasil,PR,"Telêmaco Borba",-24.08175,-50.708028,2011,02,01
+223,specieslink,"Hygrophila costata Nees","Wasum, R.A.","Vargem Grande",Brasil,Paraná,"São Mateus do Sul",-25.8742008209229,-50.3828010559082,2005,10,
+224,specieslink,"Hygrophila costata Nees","Krapovickas, A- Cristóbal, CL- Arbo, MM- Benítez, B- Maruñak, RI- Pire, SM- Tressens, S","Puerto Peninsula",Argentina,Misiones,Iguazú,,,1972,,
+225,specieslink,"Hygrophila costata Nees","Arzivenco, L","Entre Taquara e Rolante.",Brasil,RS,Taquara,-29.6506004333496,-50.7806015014648,2014,08,
+226,specieslink,"Hygrophila costata Nees","Rambo, B.",,Brasil,RS,,,,2014,08,
+227,specieslink,"Hygrophila costata Nees","Klein, RM- Bresolin, A","Praia de Lagoinha",Brazil,"Santa Catarina",Florianópolis,-27.596700668335,-48.5491981506348,1968,,
+228,specieslink,"Hygrophila costata Nees","V.J. Pott","Córrego Arara, 9 Km SE de rio Brilhante a Ipezal.",Brasil,"Mato Grosso do Sul","Rio Brilhante",-21.844556,-54.487333,,,
+229,specieslink,"Hygrophila costata Nees","Gonzatti, F.","Linha 80 da Leopoldina",Brasil,"Rio Grande do Sul","Monte Belo do Sul",-29.169483,-51.625875,2015,06,
+230,specieslink,"Hygrophila costata Nees",R.Wasum,"Vargem Grande, em orla da mata.",Brasil,Paraná,"São Mateus do Sul",-25.9025,-50.318333,2005,10,01
+231,specieslink,"Hygrophila costata Nees","Ribas, O.S.- Labiak, P.- Petean, M. .P.","Rio Iguaçu",Brasil,Paraná,"Capitão Leônidas Marques",-25.4792003631592,-53.614200592041,2014,08,
+232,specieslink,"Hygrophila costata Nees","Hatschbach, G- Pott, A- Pott, V- Silva, JM","Gleba Facão",Brazil,"Mato Grosso",Cáceres,-16.0706005096436,-57.6789016723633,1995,10,
+233,specieslink,"Hygrophila costata Nees","Barros, F","Distrito Itaqueri, Salto de Itaqueri",Brasil,"São Paulo",Itirapina,-22.25,-47.8199996948242,,,
+234,specieslink,"Hygrophila costata Nees","Matos, GMA- Freire, GS- Santos, E- Santana, JP","Assentamento Che Guevara, Mata do Dr. João.",Brasil,Sergipe,Lagarto,-10.863611,-37.628611,2014,02,
+235,specieslink,"Hygrophila costata Nees","Rambo, B.","Passo da Guarda",Brasil,RS,"Bom Jesus",-28.6678009033203,-50.4166984558105,2014,08,
+236,specieslink,"Hygrophila costata Nees","Klein, RM",Dourado,Brazil,"Santa Catarina",Itapiranga,-27.1693992614746,-53.7122001647949,1968,,
+237,specieslink,"Hygrophila costata Nees","Gonzatti, F","Linha 80 da Leopoldima",Brasil,"Rio Grande do Sul","Monte Belo do Sul",-29.169444,-51.625833,2015,06,
+238,specieslink,"Hygrophila costata Nees","Hatschbach, G.",Piraputanga,Brasil,"Mato Grosso do Sul",Aquidauana,-20.4710998535156,-55.7872009277344,2011,04,14
+239,specieslink,"Hygrophila costata Nees","Oriani, A. et al.",,Brasil,"São Paulo",Eldorado,-24.52,-48.1,,,
+240,specieslink,"Hygrophila costata Nees","Korte, A.- Kniess, A.","Nova Esperança.",Brasil,"Santa Catarina","Santa Terezinha",-26.7302778,-49.9505556,2010,09,01
+241,specieslink,"Hygrophila costata Nees","Hatschbach, G.",,Brasil,PR,,,,2014,08,
+242,specieslink,"Hygrophila costata Nees","Alves-da-Silva, S.C.","Reservatório Piraquara II.",Brasil,Paraná,Piraquara,-25.4416999816895,-49.0633010864258,2012,01,01
+243,specieslink,"Hygrophila costata Nees","Matzenbacher, NI","Fazenda São Maximiano BR 116 Km 308",Brasil,RS,Guaíba,-30.113899230957,-51.3250007629395,2014,08,
+244,specieslink,"Hygrophila costata Nees","Cervi, A.C.","Fazenda Santa Cândida, Banhado do Lago Curicaca.",Brasil,Paraná,"General Carneiro",-26.4274997711182,-51.315601348877,2006,05,
+245,specieslink,"Hygrophila costata Nees","Hagelund, K",,Brasil,RS,"São Leopoldo",-29.7602996826172,-51.1472015380859,2015,03,
+246,specieslink,"Hygrophila costata Nees","Borgo, M- Lindoso, G","Reserva Natural do Itaqui, Trilha Rio do Poço",Brazil,Paraná,Guaraqueçaba,-25.3066997528076,-48.3288993835449,2003,,
+247,specieslink,"Hygrophila costata Nees","Leite, M.S.","Campus da UFPE, área periodicamente alagável próximo a nascente do Cavouco, várzea do Rio Capibaribe.",Brasil,Pernambuco,Recife,-8.05,-34.9525,2007,02,09
+248,specieslink,"Hygrophila costata Nees","Ribas, OS- Wasum, R- Scur, L","Rio Bonito",Brazil,Paraná,Mallet,-25.877799987793,-50.8210983276367,2005,,
+249,specieslink,"Hygrophila costata Nees","Bona, C.","Fazenda Santa Cândida, Banhado do Lago Curicaca.",Brasil,Paraná,"General Carneiro",-26.4274997711182,-51.315601348877,2011,04,14
+250,specieslink,"Hygrophila costata Nees","Hagelund, K","Lagoa Jacaré",Brasil,RS,Torres,-29.3353004455566,-49.7268981933594,2014,08,
+251,specieslink,"Hygrophila costata Nees","Lima, DA- et al.","Próximo à lagoa.",Brasil,RS,Tramandaí,-29.9846992492676,-50.1335983276367,2014,08,
+252,specieslink,"Hygrophila costata Nees","J. C .Sacco","Na margem do Arroio Pelotas.",Brasil,RS,Pelotas,-31.771900177002,-52.3424987792969,2014,08,
+253,specieslink,"Hygrophila costata Nees","Hatschbach, G.- Pott, A.- Pott, V.J.- Silva, J.M.",Terras,BRASIL,MT,Araputanga,-15.4710998535156,-58.353099822998,1996,,
+254,specieslink,"Hygrophila costata Nees & T. Nees","Simão, P.C.- Borges, J.P.- Borges, J.P.","Lago Municipal Paulo Gorski",Brasil,Paraná,Cascavel,-24.9557991027832,-53.4552993774414,2013,08,07
+255,specieslink,"Hygrophila costata Nees","G.A. Lourenço","Parque Estadual Lago Azul (PELA)",Brasil,PR,"Campo Mourão",-24.0456008911133,-52.3830986022949,2006,12,
+256,specieslink,"Hygrophila costata Nees","Leite, M.S.","Engenho Curtume-Rio Pirangi, área de inundação próxima a nascente do bananal, FOrmação Ribeirinha Típica.",Brasil,Pernambuco,Maraial,-8.8015277778,-35.8390277778,2011,08,15
+257,specieslink,"Hygrophila costata Nees","Korte, A.","Bairro Costa Azul.",Brasil,"Santa Catarina",Navegantes,-26.8536111,-48.645,2011,03,22
+258,specieslink,"Hygrophila costata Nees","Schwirkowski, P.","Serra Alta. Ponte do Rio Banhados. Borda de mata.",Brasil,"Santa Catarina","São Bento do Sul",-26.275631,-49.383623,2011,01,16
+259,specieslink,"Hygrophila costata Nees","H. S. Irwin","75 km N. of CorumbÃ¡ de GoiÃ¡s on road to NiquelÃ¢ndia, valley of Rio MaranhÃ£o. Serra dos Pirineus.",Brasil,GoiÃ¡s,"Cocalzinho de GoiÃ¡s",-15.35,-48.63,,,
+260,specieslink,"Hygrophila costata Nees","Ribas, OS- Cordeiro, J- Poliquesi, CB","Rodovia SC-430, ca. 20km de Urubici",Brazil,"Santa Catarina",Urubici,-28.0149993896484,-49.5917015075684,1996,,
+261,specieslink,"Hygrophila costata Nees","Cervi, AC- Pott, VJ- Dunaiski Jr, A- Bueno, A- Toreza, NC","Cataratas do Iguaçu, Rio Iguaçu",Brazil,Paraná,"Foz do Iguaçu",-25.5478000640869,-54.5881004333496,2009,05,27
+262,specieslink,"Hygrophila hygrophila costata","Rosângela Simão-Bianchini",Parelheiros,Brazil,SP,"São Paulo",-23.9,-46.774399,,,
+263,specieslink,"Hygrophila costata Nees","Falkenberg, DB- Souza, ML","Ilha de Santa Catarina Parque do Rio Vermelho final da estrada geral da praia",Brasil,SC,Florianópolis,-27.596700668335,-48.5491981506348,2014,08,
+264,specieslink,"Hygrophila costata Nees","Hatschbach, G","Grota Funda",Brazil,Paraná,Morretes,-25.476900100708,-48.834400177002,1961,,
+265,specieslink,"Hygrophila costata Nees","Koczicki, C",,Brazil,Paraná,"União da Vitória",-26.2299995422363,-51.0863990783691,1969,01,
+266,specieslink,"Hygrophila costata Nees & T. Nees","Teodoro, L",,Brasil,RS,Canoas,-29.9178009033203,-51.1836013793945,2014,08,
+267,specieslink,"Hygrophila costata Nees","Rambo, B.","ad Lagoa dos Patos",Brasil,RS,"Palmares do Sul",-30.2577991485596,-50.5097007751465,2014,08,
+268,specieslink,"Hygrophila costata Nees","Shirasuna, RT- Morse, F","Rodoanel Mário Covas, Trecho Sul, Lote 5",Brasil,"São Paulo","Itapecerica da Serra",-23.7099990844727,-46.8400001525879,2009,10,16
+269,specieslink,"Hygrophila costata Nees & T. Nees","S. Diesel","São Francisco de Paula/RS - BR.",Brazil,,,,,2001,,
+270,specieslink,"Hygrophila costata Nees","Kinupp, VF- Hilgert, R","Sanga Funda- Sítio da Família Beretta",Brasil,RS,"Nova Santa Rita",-29.8567008972168,-51.2738990783691,2015,03,
+271,specieslink,"Hygrophila costata","J. S. Blanchet",,BRAZIL,,,-10.8339,-52.8731,,,
+272,specieslink,"Hygrophila costata Ness","Kawakita, K.","Sítio Santa Cruz, Córrego Guararema",Brasil,"São Paulo",Rubiácea,-21.2999992370605,-50.7200012207031,2010,09,28
+273,specieslink,"Hygrophila costata Nees","Custodio Filho, A","Estação Biológica de Boracéia",Brasil,"São Paulo",Biritiba-Mirim,-23.644167,-45.881389,,,
+274,specieslink,"Hygrophila costata Nees","Ribas, OS- Cordeiro, J- Poliquesi, CB","Macacos, Rodovia NR-282, km 203/208.",Brazil,"Santa Catarina",Lages,-27.8160991668701,-50.326099395752,1996,,
+275,specieslink,"Hygrophila costata Nees","Tessmann, G",,Brazil,Paraná,Piraquara,-25.4416999816895,-49.0633010864258,2011,02,18
+276,specieslink,"Hygrophila costata Nees","V.M. Corneli","Praia de Mariscal",Brasil,SC,Bombinhas,-27.1380004882812,-48.5169982910156,2006,12,
+277,specieslink,"Hygrophila costata Nees","Hoehne, W","Pastos do Retiro",Brazil,"São Paulo",Jales,-20.2600002288818,-50.5400009155273,1951,10,29
+278,specieslink,"Hygrophila costata Nees","Leitão Filho, H.F.- et al.","Estrada para Cananéia",Brazil,"São Paulo",Pariquera-Açu,-24.879444,-47.850833,2010,06,
+279,specieslink,"Hygrophila costata Nees","V.J. Pott","Rio Sucuriú, ex-Fazenda Beira Rio, futura Usina Hidroelétrica (PCH) Alto Sucuriú, Distrito de Paraíso.",Brasil,"Mato Grosso do Sul","Costa Rica",-19.179139,-52.930278,2007,05,13
+280,specieslink,"Hygrophila costata Nees","Hagelund, K","Br 285 km 280",Brasil,RS,"Santo Ângelo",-28.2992000579834,-54.2630996704102,2014,08,
+281,specieslink,"Hygrophila costata Nees & T. Nees","Barros, F. de",,Brasil,Paraná,"Quinta do Sol",-23.8521995544434,-52.1296997070312,,,
+282,specieslink,"Hygrophila costata Nees","Monteiro, H","parque Nacional de Itatiaia",Brasil,"Rio de Janeiro",Itatiaia,-22.4960994720459,-44.5633010864258,2006,05,30
+283,specieslink,"Hygrophila costata Nees","Machado, AFP",Mury,Brazil,"Rio de Janeiro","Nova Friburgo",-22.2819004058838,-42.5311012268066,,,
+284,specieslink,"Hygrophila costata Nees","Monteiro, H","Fazenda Samambaia, Perto de Lascatinha Margem de um rio, na mata.Estado do Rio.",Brasil,"Rio de Janeiro",,,,2007,01,23
+285,specieslink,"Hygrophila costata Nees","Dombrowski, LT- Kuniyoshi, YS","Estrada da Graciosa, Alto da serra do mar.",Brazil,Paraná,Morretes,-25.476900100708,-48.834400177002,1974,,
+286,specieslink,"Hygrophila costata Nees","Demeda, C.- Gaio, J.- Gonzatti, F.","Lagoa do Peixoto",Brasil,"Rio Grande do Sul",Osório,-29.885056,-50.270472,2015,11,11
+287,specieslink,"Hygrophila costata Nees","Jürgens, C.",Pinhal,Brasil,"Rio Grande do Sul","Santa Cruz",,,2014,08,
+288,specieslink,"Hygrophila costata Nees","Thomas, A",,"Costa Rica",Cartago,"Río Grande de Orosi",,,1984,,
+289,specieslink,"Hygrophila costata Nees","Souza, J.P.- Mendes, J.C.T.- Ferraz, K.M.B.- Ferraz, S.F.B.- Silva, E.V.- Valente, R.- Rocha, E.- Rodrigues, R.R.- Souza, V.C.- Tamashiro, J.Y.","Praia da Baleia - Rua Olavo Pazzanesi, 100m da antiga Rio-Santos, remanescente margeando loteamentos. 10 msm. Interior de Caxetal com perturbação",Brasil,"São Paulo","São Sebastião",-23.4627,-45.3954,2000,04,
+290,specieslink,"Hygrophila costata Nees","Hatschbach, G- Pott, A- Pott, V- Silva, JM","Rodovia MT-175, ca. de 5km O de Cachoeirinha.",Brazil,"Mato Grosso",Araputanga,-15.4710998535156,-58.353099822998,1996,01,
+291,specieslink,"Hygrophila costata Nees","P. Buck SJ",Caaró,Brasil,RS,"São Luiz das Missões",,,2014,08,
+292,specieslink,"Hygrophila costata Nees","Meireles, L.D.- Gonçalves, A.P.S.- Soares, F.J. Jr., Meneghetti, G.I.P.- Rodrigues, R.R.- Souza, V.C.- Tamashiro, J.Y.- Gandolfi, S.- Oliveira, A.A.- Souza, J.P.- Ivanauskas, N.M.- Furlan, E.","Parque Estadual da Serra do Mar, Núcleo Curucutu. Floresta ribeirinha ao longo do Rio Mambu.",Brasil,"São Paulo","São Paulo",-23.592,-46.4631,2001,06,
+293,specieslink,"Hygrophila costata Nees","Arzivenco, L","Sítio do Oscar",Brasil,RS,"Arroio dos Ratos",-30.0771999359131,-51.7291984558105,2014,08,
+294,specieslink,"Hygrophila costata Nees","Cervi, A.C.",Solitude.,Brasil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,2011,04,14
+295,specieslink,"Hygrophila costata Nees & T. Nees","Ghillean T. Prance","Cruzeiro do Sul, Rio Jurua & Rio Moa. Rio Moa, between Igarapés Pentecost & Ipiranga. Flooded river banks.",Brazil,Acre,,,,2008,,
+296,specieslink,"Hygrophila costata Nees","Irgang, BE- Alvarez Filho, A",,Brasil,RS,"Santa Maria",-29.6842002868652,-53.8069000244141,2015,03,
+297,specieslink,"Hygrophila costata Nees","Krapovickas, A- Cristóbal, CL",,Brazil,"Santa Catarina",Itajuba,,,1991,,
+298,specieslink,"Hygrophila costata Nees","Rambo, B.","Rio Guira",Brasil,RS,"São Francisco de Paula",-29.4480991363525,-50.5835990905762,2014,08,
+299,specieslink,"Hygrophila costata Nees","A. Pott","Estação Experimental",Brasil,"Rio Grande do Sul",Vacaria,-28.5121994018555,-50.9338989257812,2014,08,01
+300,specieslink,"Hygrophila costata Nees","Korte, A.- Kniess, A.","Fazenda Tarumã.",Brasil,"Santa Catarina",Taió,-27.0002778,-50.1305556,2011,03,01
+301,specieslink,"Hygrophila costata Nees",L.D.Meireles,"Parque Estadual da Serra do Mar, Núcleo Curucutú",Brasil,SP,"São Paulo",-23.5400009155273,-46.6300010681152,,,
+302,specieslink,"Hygrophila costata Nees",J.R.Guillaumon,"estrada Vinhedo/Itatiba, sítio Macaíra",Brasil,SP,Vinhedo,-23.0300006866455,-46.9700012207031,,,
+303,specieslink,"Hygrophila costata Nees","G. Hatschbach","Salto Véu da Noiva",Brasil,SC,Urubici,-28.0149993896484,-49.5917015075684,2009,,
+304,specieslink,"Hygrophila costata Nees","R.H. Silva","Campo inundável próximo à margem do Rio Paraguai.",Brasil,"Mato Grosso do Sul",Corumbá,-18.9725,-57.623333,,,
+305,specieslink,"Hygrophila costata Nees & T. Nees","Sartin, R.D.- et al.",,Brasil,Goiás,Campinorte,-14.3114004135132,-49.1511001586914,2012,04,30
+306,specieslink,"Hygrophila costata Nees","Bresolin, A.","próximo ao camping Rio Vermelho",Brasil,"Santa Catarina",Florianópolis,-27.596700668335,-48.5491981506348,2014,08,
+307,specieslink,"Hygrophila costata Nees","Silva Filho, PJS","Bairro Tarumã região de entorno do Lago Tarumã.-30.071452 -51.021645",Brasil,RS,Viamão,-30.071389,-51.021389,2014,08,
+308,specieslink,"Hygrophila costata Nees","Furlan, A.",,Brasil,"São Paulo",Ipeúna,-22.4300003051758,-47.7099990844727,1999,,
+309,specieslink,"Hygrophila costata Nees","Kuhlmann, J.G.",,Brasil,"Minas Gerais",,,,1999,04,27
+310,specieslink,"Hygrophila costata Nees","Schinini, A- et al.","Ea. Timbó",Argentina,Corrientes,"Santo Tomé",,,2016,11,
+311,specieslink,"Hygrophila costata Nees","Magalhães-Gomes, F.",Tripuí,Brasil,"Minas Gerais","Ouro Preto",-20.2875003814697,-43.5080986022949,,,
+312,specieslink,"Hygrophila costata Nees","Kassner-Filho, A.- Santos, D.- Bollmann, G.- Althoff, L.F.",,Brasil,"Santa Catarina",Urubici,-28.0802778,-49.4066667,2018,04,26
+313,specieslink,"Hygrophila costata Nees","Hassemer, G.N.- Ferreira, J.P.R.","beira do canal, no Jardim Anchieta, Ilha de Santa Catarina.",Brasil,"Santa Catarina",Florianópolis,-27.5925,-48.506667,1905,07,05
+314,specieslink,"Hygrophila costata Nees","Ferreira, LF",Barigui,Brazil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,1975,01,28
+315,specieslink,"Hygrophila costata Nees","Ribas, O.S.",Taquara,Brasil,Paraná,"Campo Largo",-25.4585990905762,-49.5283012390137,2009,05,26
+316,specieslink,"Hygrophila costata Nees","Lindeman, JC- Haas, H",Juvevê,Brazil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,2011,04,28
+317,specieslink,"Hygrophila costata Nees","Amaral, M.C.E.- Bittrich, V.","Brejão do Itararé, Margem da lagoa, lado esquerdo da estrada que sai de Alumínio, a 4 Km do pontilhão da FESPASA.",Brazil,"São Paulo",Alumínio,-23.5300006866455,-47.2599983215332,2001,,
+318,specieslink,"Hygrophila costata Nees","Hatschbach, G- Hatschbach, M- Silva, JM","Ca. 5/10 km L de Jacinto.",Brazil,"Minas Gerais",Jacinto,-16.1443996429443,-40.2933006286621,1991,08,
+319,specieslink,"Hygrophila costata Ness","M.C.A. Mota- L. Leitão- F.R.G. Salimena- P.H. Nobre","RPPN, São Lourenço do Funil, Campo rupestre arenoso à direita da sede.",Brasil,"Minas Gerais","Rio Preto",-22.0891990661621,-43.8278007507324,2018,02,02
+320,specieslink,"Hygrophila costata Nees","Valduga, E.",,Brasil,"Rio Grande do Sul",Cidreira,-30.085833,-50.233611,2012,05,
+321,specieslink,"Hygrophila costata Nees","Britez, R.M.","Fazenda do Durgo",Brasil,Paraná,"São Mateus do Sul",-25.8742008209229,-50.3828010559082,2009,05,26
+322,specieslink,"Hygrophila costata Nees",Schlichting,,Brasil,RS,Pelotas,-31.771900177002,-52.3424987792969,2014,08,
+323,specieslink,"Hygrophila costata Nees","Rambo, B.","ad fl. Gravataí",Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,2014,08,
+324,specieslink,"Hygrophila costata Nees","Liesner, R","Road near Rincon de Osa.","Costa Rica",Puntarenas,"Playa Blanca",,,1978,,
+325,specieslink,"Hygrophila costata Nees","Hatschbach, G","Distrito de General Carneiro",Brazil,Paraná,Palmas,-26.4841995239258,-51.9906005859375,1958,,
+326,specieslink,"Hygrophila costata Nees","P. Buck","Cerro Largo",Brasil,RS,"São Luiz das Missões",,,2014,08,
+327,specieslink,"Hygrophila costata Nees","Britez, RM- Silva, SM- Souza, WS","Fazenda do Durgo",Brazil,Paraná,"São Mateus do Sul",-25.8742008209229,-50.3828010559082,,,
+328,specieslink,"Hygrophila costata","Carboni, M.",,Brasil,"São Paulo","Barra do Turvo",-24.7564,-48.5047,2010,,
+329,specieslink,"Hygrophila costata Nees","J. Spellmeier","Linha Arroio do Ouro",Brasil,"Rio Grande do Sul",Estrela,-29.5018997192383,-51.9664001464844,2007,03,08
+330,specieslink,"Hygrophila costata Nees","A.Korte | A.Kniess","Fazenda Tarumã",Brasil,"Santa Catarina",Taió,-27.000278,-50.130556,,,
+331,specieslink,"Hygrophila costata Nees","Gonzatti, F.- Demeda, C.- Gaio, J.","Fazenda do Arroio",Brasil,"Rio Grande do Sul",Osório,-29.976944,-50.212778,2015,08,11
+332,specieslink,"Hygrophila costata Nees","Rambo, B.",Conceição,Brasil,RS,"São Sebastião do Caí",-29.5867004394531,-51.3755989074707,2014,08,
+333,specieslink,"Hygrophila costata Nees","Fernandes, A.C.","área da empresa Quiri Ruber, síto Estrela Dalva",Brasil,"São Paulo",Nhandeara,-20.6900005340576,-50.0299987792969,,,
+334,specieslink,"Hygrophila costata Nees","Hagelund, K","Br 285 km 280",Brasil,RS,"Santo Ângelo",-28.2992000579834,-54.2630996704102,2014,08,
+335,specieslink,"Hygrophila costata Nees","Cordeiro, J- Kramer, JMF- Vaz, J","Parque Náutico do Iguaçu",Brazil,Paraná,Curitiba,-25.526944,-49.223333,2015,01,20
+336,specieslink,"Hygrophila costata Nees","Glaziou, A.",,Brasil,,,,,,,
+337,specieslink,"Hygrophila costata Nees","Barbosa, E.- Poliquesi, C.B. & Silva, J.","Rio do Toldo.",Brasil,"Santa Catarina",Itaiópolis,-26.3363990783691,-49.9063987731934,,,
+338,specieslink,"Hygrophila costata Nees","Hatschbach, G.",,Brasil,Paraná,Pinhais,-25.4447002410889,-49.1925010681152,2011,04,14
+339,specieslink,"Hygrophila costata Nees","Camargo, O. R.","Estação Exp. de Silvicultura",Brasil,RS,"Santa Maria",-29.6842002868652,-53.8069000244141,2014,08,
+340,specieslink,"Hygrophila costata Nees",V.J.Pott-R.Foster,"Faz. Taboco, rio Taboco, próx. a ponte da sede, sub - região de Aquidauana, pantanal. Barranco de rio área de inundação- Argiloso- plano.",Brasil,"Mato Grosso do Sul",Aquidauana,-20.4710998535156,-55.7872009277344,,,
+341,specieslink,"Hygrophila costata Nees","M.G. Caxambu","Rio Serra Negra, proximidades da Prop.",Brasil,PR,Guaraqueçaba,-25.189028,-48.418972,2017,,
+342,specieslink,"Hygrophila costata Nees","Gonzatti, F- Demeda, C- Gaio, J","Fazenda do Arroio",Brasil,"Rio Grande do Sul",Osório,-29.976944,-50.212778,2015,08,11
+343,specieslink,"Hygrophila costata Nees",A.Oriani,"P.E.Jacupiranga- Núcleo Caverna do Diabo",Brasil,SP,Eldorado,-24.6175,-48.469444,,,
+344,specieslink,"Hygrophila costata Nees","Kinupp, VF- Resende, U","Pousada Dona Júlia margem do Rio Jauru estrada Indiavaí-Jauru Km 3 próximo à ponte. Expedição Aquarap/2002 Sítio 2 Ponto 4. 15°28' S 58°35' W",Brasil,MT,Jauru,-15.466667,-58.583333,2014,08,
+345,specieslink,"Hygrophila costata Nees","D. A. Marschner","Serra Grande",Brasil,RS,Gramado,-29.3785991668701,-50.8739013671875,2014,08,
+346,specieslink,"Hygrophila costata Nees","Vianna, MC- et al.","Entre Barão de Juparanã e Sebastião de Lacerda, rio Paraíba",Brasil,"Rio de Janeiro",Vassouras,-22.4039001464844,-43.6624984741211,2010,,
+347,specieslink,"Hygrophila costata Nees","Klein, RM","Saco Grande",Brasil,SC,Florianópolis,-27.596700668335,-48.5491981506348,2014,08,
+348,specieslink,"Hygrophila costata Nees","Lund, PW","prov. S. Pauli",Brazil,"São Paulo",,,,,,
+349,specieslink,"Hygrophila costata Nees","Gorenstein, M.R. et al.",,Brasil,"São Paulo",Iguape,-24.7,-47.55,,,
+350,specieslink,"Hygrophila costata Nees","Funez, L.A.- Kemmelmeier, K. & Zermiani, A.E.","Morro do Sapo, Parque Nacional da Serra do Itajaí.",Brasil,"Santa Catarina",Blumenau,-27.0611111,-49.0944444,2013,01,21
+351,specieslink,"Hygrophila costata Nees","J.E.L.S. Ribeiro","P.E.Serra do Mar, Núcleo Picinguaba",Brasil,SP,Ubatuba,-23.4300003051758,-45.0699996948242,2000,01,06
+352,specieslink,"Hygrophila costata Nees","Sehnem, A.",Kappesberg,Brasil,RS,Montenegro,-29.6886005401611,-51.4611015319824,2014,08,
+353,specieslink,"Hygrophila costata Nees","Silva Filho, PJS","Bairro Tarumã região de entorno do Lago Tarumã.-30.071452 -51.021645",Brasil,RS,Viamão,-30.071389,-51.021389,2014,08,
+354,specieslink,"Hygrophila costata Nees","Barreto, K.D. et al.",,Brasil,"São Paulo","São Carlos",-22.01,-47.89,,,
+355,specieslink,"Hygrophila costata Nees","Y. E. J. Mexia","Viçosa. Agricultural College land- southeast of Dormitory. Swampy flood plain of Corriga Bartolomeo.",Brasil,"Minas Gerais",Viçosa,-20.7613428,-42.868031,,,
+356,specieslink,"Hygrophila costata Nees","Hatschbach, G.",,Brasil,PR,Piraquara,-25.4416999816895,-49.0633010864258,2014,08,
+357,specieslink,"Hygrophila costata Nees","Saint-Hilaire, A. de",,Brasil,,,,,,,
+358,specieslink,"Hygrophila costata Nees","E. Ferreira","rio do Campo",Brasil,PR,"Campo Mourão",-24.0456008911133,-52.3830986022949,2004,06,17
+359,specieslink,"Hygrophila costata Ness","H. Keller- D. Colcombet","Loc. Paraje Aguaray, Lote P.A.P.S.A., Rodal 5-6, Bañado, sector anegado em bosque bajo de Citronella congonha.",Argentina,Misiones,Iguazú,,,2002,03,
+360,specieslink,"Hygrophila costata Nees","Motta, JT- Paciornik, EF","Parque da Olaria, Rio Barigui.",Brazil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,1988,02,
+361,specieslink,"Hygrophila costata Nees","Valduga, E.",,Brasil,"Rio Grande do Sul",Cidreira,-30.0858333,-50.2336111,1905,07,04
+362,specieslink,"Hygrophila costata Nees","Rambo, B.",Jari,Brasil,RS,Tupanciretã,-29.0806007385254,-53.8358001708984,2014,08,
+363,specieslink,"Hygrophila costata Nees & T. Nees","Maruffa, A.C.- Custódio-Filho, A.","Estação Biológica de Boracéia",Brasil,"São Paulo","Biritiba Mirim",-23.639831,-45.883333,,,
+364,specieslink,"Hygrophila costata Nees","Rambo, B.",Itapoã,Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,2014,08,
+365,specieslink,"Hygrophila costata Nees","Freitas, R. N.","Lagoa do bebedouro",Brasil,Piauí,Parnaíba,-2.90472006797791,-41.7766990661621,2014,02,04
+366,specieslink,"Hygrophila costata Nees","Silva, J.M.",,Brasil,Paraná,"São José dos Pinhais",-25.5347003936768,-49.2064018249512,2010,07,
+367,specieslink,"Hygrophila costata Nees","W.D. Steven","Departamento Esteli",Nicarágua,,,13.016667,-86.333333,,,
+368,specieslink,"Hygrophila costata Nees","Sacco, JC","Margens do arroio Pelotas",Brasil,"Rio Grande do Sul",Pelotas,-31.771900177002,-52.3424987792969,2016,11,
+369,specieslink,"Hygrophila costata Nees","Rambo, B.",Cristal,Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,2014,08,
+370,specieslink,"Hygrophila costata Nees","Hatschbach, G","Porto de Cima",Brazil,Paraná,Morretes,-25.476900100708,-48.834400177002,1958,,
+371,specieslink,"Hygrophila costata Nees",R.Zachia,,Brasil,RS,"Sao Borja",-28.6606006622314,-56.0043983459473,2011,01,20
+372,specieslink,"Hygrophila costata Nees","Shirasuna, RT- Morse, F","Rodoanel Mário Covas, Trecho Sul, Lote 5",Brasil,"São Paulo","Itapecerica da Serra",-23.7099990844727,-46.8400001525879,2009,10,16
+373,specieslink,"Hygrophila costata Nees","Schwirkowski, P.","Serra Alta. Linha férrea, próximo à Estrada Saraiva",Brasil,"Santa Catarina","São Bento do Sul",-26.282207,-49.359216,2016,02,13
+374,specieslink,"Hygrophila costata Nees","Schott, HW","prope Rio de Janeiro",Brazil,"Rio de Janeiro",,,,,,
+375,specieslink,"Hygrophila costata Nees","Reitz, PR- Klein, RM","Rio Pilões",Brazil,"Santa Catarina","Santo Antonio da Imperatriz",,,1968,,
+376,specieslink,"Hygrophila costata","Carboni, M.",,Brasil,"São Paulo","Barra do Turvo",-24.7564,-48.5047,2010,,
+377,specieslink,"Hygrophila costata Nees","Krapovickas, A- Cristóbal, CL",,Brazil,"Rio Grande do Sul","São Francisco de Paula",-29.4480991363525,-50.5835990905762,1994,,
+378,specieslink,"Hygrophila costata Nees","Hatschbach, G- Ribas, OS","Salto Véu de Noiva",Brazil,"Santa Catarina",Urubici,-28.0149993896484,-49.5917015075684,2009,05,28
+379,specieslink,"Hygrophila costata Nees","Bartolomeu, JG",,Brasil,"São Paulo",Mongaguá,-24.0799999237061,-46.6199989318848,,,
+380,specieslink,"Hygrophila costata Nees","Klein, R. .M.","Saco Grande",Brasil,"Santa Catarina",Florianópolis,-27.596700668335,-48.5491981506348,2014,08,
+381,specieslink,"Hygrophila costata Nees","Dombrowski, LT",,Brazil,Paraná,Morretes,-25.476900100708,-48.834400177002,1979,12,
+382,specieslink,"Hygrophila costata Nees","Rambo, B.","Morro do Sabiá",Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,2014,08,
+383,specieslink,"Hygrophila costata","Esther Bastos","UFOP/Ouro Preto/FUNED",Brasil,MG,"Ouro Preto",-20.288056,-43.508333,,,
+384,specieslink,"Hygrophila costata","H. S. Irwin",,Brazil,"Minas Gerais",,-18,-44,,,
+385,specieslink,"Hygrophila costata Nees","Bernacci, L.C.- Belinello, R.- Andrade, P.R.P.- Camargo, O.- Orajo, N.","E. E. do IAC.",Brazil,"São Paulo","Monte Alegre do Sul",-22.6800003051758,-46.6800003051758,1999,,
+386,specieslink,"Hygrophila costata Nees","Bresolin, A.","Rio Vermelho p. Camping",Brasil,SC,Florianópolis,-27.596700668335,-48.5491981506348,2014,08,
+387,specieslink,"Hygrophila costata Nees","Sugiyama, M.- Godoy, J.R.L.- Mariano Neto, E.","Campo Grande, Morro da Antena, divisa com a Reserva de Paranapiacaba.",Brazil,"São Paulo","Santo André",-23.6599998474121,-46.5299987792969,1999,,
+388,specieslink,"Hygrophila costata Nees","L.A.Mattos Silva",Ilhéus,Brasil,Bahia,Ilhéus,-14.8,-39.166667,,,
+389,specieslink,"Hygrophila costata",,,BRAZIL,,,-10.8339,-52.8731,,,
+390,specieslink,"Hygrophila costata Nees","Hagelund, K",,Brasil,RS,"Santa Maria - São Sepé",,,2014,08,
+391,specieslink,"Hygrophila costata Nees","Sobral, M","Estrada para Augusto Pestana",Brasil,"Minas Gerais",Liberdade,-22.068389,-44.297389,2012,11,05
+392,specieslink,"Hygrophila costata Nees","Ribas, OS- Labiak, P- Petean, MP","Rio Iguaçu",Brazil,Paraná,"Capitão Leônidas Marques",-25.4792003631592,-53.614200592041,2004,,
+393,specieslink,"Hygrophila costata Nees","Hagelund, K","Granja Sodol",Brasil,RS,Giruá,-28.028299331665,-54.3497009277344,2014,08,
+394,specieslink,"Hygrophila costata Nees","Hatschbach, G","Estrada da Graciosa, Vista Lacerda",Brazil,Paraná,Morretes,-25.476900100708,-48.834400177002,1974,05,
+395,specieslink,"Hygrophila costata Nees","Martins, S.E.- Magenta, M.A.G.- Sampaio, P.S.P.","praia Itaguaré",Brasil,"São Paulo",Bertioga,-23.855,-46.138889,,,
+396,specieslink,"Hygrophila costata Nees","Hatschbach, G.",,Brasil,PR,Curitiba,-25.4277992248535,-49.2731018066406,2014,08,
+397,specieslink,"Hygrophila costata Nees","Ribas, O.S.","Rio Iguaçu",Brasil,Paraná,"Capitão Leônidas Marques",-25.4792003631592,-53.614200592041,2011,04,14
+398,specieslink,"Hygrophila costata Nees","Ferreira, E","Rio do Campo",Brazil,Paraná,"Campo Mourão",-24.0456008911133,-52.3830986022949,2004,,
+399,specieslink,"Hygrophila costata Nees","Cervi, A.C.","Cataratas do Iguaçu",Brasil,Paraná,"Foz do Iguaçu",-25.5478000640869,-54.5881004333496,2011,04,14
+400,specieslink,"Hygrophila costata Nees","Schwirkowski, P.","Sertãozinho - Propriedade de Leonardo Pilz",Brasil,"Santa Catarina","São Bento do Sul",-26.31941,-49.371093,2014,12,26
+401,specieslink,"Hygrophila costata Nees","Wied-Neuwied, MAP Prince","Ad rivulos in uliginosis juxta Rio Paquaquer",Brazil,"Rio de Janeiro",Teresópolis,-22.41,-42.97,,,
+402,specieslink,"Hygrophila costata Nees","L.P.Félix- et M.F.O.Pires",,Brasil,Piauí,"Monsenhor Gil",-5.56416988372803,-42.6077995300293,1999,,
+403,specieslink,"Hygrophila costata Nees","Wasum, R.A.- et alii","Otávio Rocha",Brasil,"Rio Grande do Sul","Flores da Cunha",-29.0289001464844,-51.1817016601562,2014,08,
+404,specieslink,"Hygrophila costata Ness","W.D. Stevens","Departamento Esteli: Salto de Estanzuela, Río Estanzuela ca 6km S of Estelí.",Nicaragua,,,13.016667,-86.333333,,,
+405,specieslink,"Hygrophila costata Nees","Emrich, K.",,Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,2014,08,
+406,specieslink,"Hygrophila costata Nees","Imaguire, N","Estrada da Graciosa, Próximo ao alto da Serra do Mar.",Brazil,Paraná,"Quatro Barras",-25.3656005859375,-49.0769004821777,1995,,
+407,specieslink,"Hygrophila costata Nees","Kinupp, VF- Lorenzi, H","RS 293 Porto Alegre-Santana do Livramento",Brasil,RS,,,,2015,03,
+408,specieslink,"Hygrophila costata Nees","Rambo, B.","Fazenda do Arroio",Brasil,RS,Osório,-29.8866996765137,-50.2696990966797,2014,08,
+409,specieslink,"Hygrophila costata Nees","Hagelund, K",,Brasil,RS,Torres,-29.3353004455566,-49.7268981933594,2014,08,
+410,specieslink,"Hygrophila costata Nees","Hatschbach, G- Hatschbach, M- Barbosa, E","Rodovia Pitanga - Santa Maria do Oeste, próximo do Rio do Pedro",Brasil,Paraná,"Santa Maria do Oeste",-24.9391994476318,-51.8624992370605,2005,,
+411,specieslink,"Hygrophila costata Nees","J.A. Rohr SJ",Trindade,Brasil,SC,Florianópolis,-27.596700668335,-48.5491981506348,2014,08,
+412,specieslink,"Hygrophila costata Nees & T. Nees","Barros, F. de","Salto de Itaqueri",Brasil,"São Paulo",Itirapina,-22.25,-47.8199996948242,,,
+413,specieslink,"Hygrophila costata Nees","Hatschbach, G",Juruqui,Brazil,Paraná,"Almirante Tamandaré",-25.3246994018555,-49.310001373291,1979,,
+414,specieslink,"Hygrophila costata Nees","Brack, P- et al.","Parque Estadual do Turvo.",Brasil,RS,"Tenente Portela",-27.3710994720459,-53.75830078125,2014,08,
+415,specieslink,"Hygrophila costata Nees","Ganev, W.",,Brasil,Bahia,Abaíra,-13.316667,-41.816667,2010,07,
+416,specieslink,"Hygrophila costata Nees","Gonzatti, F.",,Brasil,"Rio Grande do Sul","Palmares do Sul",-30.268889,-50.494167,2012,04,
+417,specieslink,"Hygrophila costata Nees","Trujillo, B","Entre San Carlos y Pte. Gómez, via Manrique.",Venezuela,Cojedes,,,,2009,05,28
+418,specieslink,"Hygrophila costata Nees","Sobral-Leite, M.","Zona da Mata Pernambucana. Rio Ipojuca. Ambiente de entorno ao rio encontra-se desmatado e assoreado.",Brasil,Pernambuco,Primavera,-8.32,-35.35,2009,09,22
+419,specieslink,"Hygrophila costata Nees","Queiroz, L.P.de","Maragrita Belén, ca. 4,5 km da Ruta 11 na estrada para Colónia Benitez.",Argentina,Chaco,"Primeiro de Mayo",-27.289444,-58.976944,2010,07,
+420,specieslink,"Hygrophila costata Nees & T. Nees","Temponi, L.G.- Cardozo, A.P.- Chaves, L.- Cardozo, A.P.- Chaves, L.","Parque Nacional do Iguaçu. Trilha da Represa São João.",Brasil,Paraná,"Foz do Iguaçu",-25.5478000640869,-54.5881004333496,2010,,
+421,specieslink,"Hygrophila costata Nees","Krapovickas, A- Cristóbal, CL","Rodovia BR-101, km 15.",Brazil,"Rio Grande do Sul",Torres,-29.3353004455566,-49.7268981933594,,,
+422,specieslink,"Hygrophila costata Nees","Gatti, G.","Reserva Natural Salto Morato, Área Projeto Sucessão",Brasil,Paraná,Guaraqueçaba,-25.3066997528076,-48.3288993835449,2009,05,26
+423,specieslink,"Hygrophila costata Nees","Bidá, A","Santa Mônica Clube de campo.",Brasil,Paraná ,Colombo,-25.2917003631592,-49.2242012023926,2011,,
+424,specieslink,"Hygrophila costata Nees","Hagelund, K","Granja Sodol",Brasil,RS,Giruá,-28.028299331665,-54.3497009277344,2015,03,
+425,specieslink,"Hygrophila costata Ness","Glaziou, A.F.M.",,Brasil,"Minas Gerais",Caraça,,,,,
+426,specieslink,"Hygrophila costata Nees",,"BR 116, km 307, Fazenda São Maximiano.",Brasil,RS,Guaíba,-30.1011667,-51.3280556,2010,01,01
+427,specieslink,"Hygrophila costata Nees","Alves-da-Silva, S.C.","Reservatório Passauna.",Brasil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,2012,01,01
+428,specieslink,"Hygrophila costata Nees","Sehnem, A.",Kappesberg,Brasil,RS,Montenegro,-29.6886005401611,-51.4611015319824,2014,08,
+429,specieslink,"Hygrophila costata Nees","Dombrowski, LT",,Brazil,Paraná,Guaraqueçaba,-25.3066997528076,-48.3288993835449,1979,,
+430,specieslink,"Hygrophila costata Nees","Hatschbach, G","Rio Taquari",Brazil,Paraná,"Quatro Barras",-25.3656005859375,-49.0769004821777,2009,05,28
+431,specieslink,"Hygrophila costata Nees","Shirasuna, RT- Simão Bianchini, R","Rodoanel Mário Covas, Trecho Sul, Lote 2",Brasil,"São Paulo","São Bernardo do Campo",-23.6900005340576,-46.560001373291,2009,10,16
+432,specieslink,"Hygrophila costata Nees","Hatschbach, G","Fazenda Bela Vista",Brazil,"Mato Grosso","Rio Brilhante",,,1972,,
+433,specieslink,"Hygrophila costata Nees","Pott, V. J.- Pott, A.",Terras,BRASIL,MS,"SAO GABRIEL D'OESTE",-19.219167,-54.498333,,,
+434,specieslink,"Hygrophila costata Nees","S. Diesel","Caxias do Sul.",Brasil,"Rio Grande do Sul",,-29.165735,-51.173697,,,
+435,specieslink,"Hygrophila costata Nees","M.G. Caxambu","Praia de Mariscal",Brasil,SC,Bombinhas,-27.178361,-48.512306,2011,04,28
+436,specieslink,"Hygrophila costata Nees","Lichtenfelz, F.A.",,Brasil,"Santa Catarina",Blumenau,-26.9208334,-49.0916666,2017,04,13
+437,specieslink,"Hygrophila costata Nees","Kummrow, R","Porto de Passagem",Brazil,Paraná,Matinhos,-25.8174991607666,-48.5428009033203,1975,,
+438,specieslink,"Hygrophila costata Nees","Glaziou, A.",,Brasil,,,,,,,
+439,specieslink,"Hygrophila costata Nees","Azevedo-Gonçalves, CF- Gonçalves, CN","Eldorado do Sul",Brasil,RS,"Arroio do Conde",,,2014,08,
+440,specieslink,"Hygrophila costata Nees","Mexia, Y.","E. S. A. V., Plano inundado. Altitude de 670 metros.",Brasil,"Minas Gerais",Viçosa,-20.7539005279541,-42.8819007873535,,,
+441,specieslink,"Hygrophila costata Nees","Shirasuna, RT- Simão Bianchini, R- Esteves, GL- Capistrano, TR- Maya, CA","Rodoanel Mário Covas, Trecho Sul, Lote 3, Mata ""Bin Laden""",Brasil,"São Paulo","São Bernardo do Campo",-23.6900005340576,-46.560001373291,2009,10,16
+442,specieslink,"Hygrophila costata Nees","Záchia, R","Ea. Bonitas.",Brazil,"Rio Grande do Sul","São Borja",-28.6606006622314,-56.0043983459473,2010,02,
+443,specieslink,"Hygrophila costata Nees","A. Strieder SJ",Pareci,Brasil,RS,Montenegro,-29.6886005401611,-51.4611015319824,2014,08,
+444,specieslink,"Hygrophila costata Nees","Rambo, B.","Vila Manresa, Morro da Glória",Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,2014,08,
+445,specieslink,"Hygrophila costata Nees","Bidá, A.","Santa Mônica Clube de Campo",Brasil,Paraná,Colombo,-25.2917003631592,-49.2242012023926,2009,05,26
+446,specieslink,"Hygrophila costata Nees","B.A. Coutinho","Baía Grande - Estância Pôr-do-Sol.",Brasil,"Mato Grosso do Sul",Aquidauana,-20.301389,-55.864444,2015,09,29
+447,specieslink,"Hygrophila costata Nees",Chagas-Mota,Pelonha.,Brasil,Alagoas,Viçosa,-9.3713903427124,-36.2407989501953,2008,09,21
+448,specieslink,"Hygrophila costata Nees & T. Nees","Lima, A. A.","Lagoa da Prata",Brasil,Piauí,Parnaíba,-2.975528,-41.7835,2013,09,26
+449,specieslink,"Hygrophila costata Nees","Irmão Augusto","Capão do Leão",Brasil,RS,Pelotas,-31.771900177002,-52.3424987792969,2014,08,
+450,specieslink,"Hygrophila costata Nees","Rambo, B.",Charqueadas,Brasil,RS,"São Jerônimo",-29.9591999053955,-51.7221984863281,2014,08,
+451,specieslink,"Hygrophila costata Nees","Ristow, R","Jardim Patricia",Brazil,Paraná,"Quatro Barras",-25.3656005859375,-49.0769004821777,2011,07,08
+452,specieslink,"Hygrophila costata R.Br.","Gustavo Paiva Evangelista Rocha","Águas Claras.",Brasil,DF,BRASILIA,-15.825555,-48.016111,,,
+453,specieslink,"Hygrophila costata Nees","Valduga, E.",,Brasil,"Rio Grande do Sul",Cidreira,-30.1811008453369,-50.2056007385254,2012,,
+454,specieslink,"Hygrophila costata Nees","Bardelli-da-Silva, M.Y.",REPAR,Brasil,Paraná,Araucária,-25.5889,-49.3478,2012,10,16
+455,specieslink,"Hygrophila costata Nees","Souza, M.P.- Aona, L.Y.S.","Fazenda Campo Limpo, Machado de Dentro",Brasil,Bahia,"Cruz das Almas",-12.6700000762939,-39.1018981933594,,,
+456,specieslink,"Hygrophila costata Nees","Ribas, OS- Cordeiro, J- Poliquesi, CB","Rodovia BR-282, entre km 203-208, Macacos",Brasil,"Santa Catarina",Lages,-27.8160991668701,-50.326099395752,2010,,
+457,specieslink,"Hygrophila costata Nees","Oliveira, A.A.",,Brasil,"Santa Catarina",Caçador,-26.82,-50.8497222,2016,02,23
+458,specieslink,"Hygrophila costata Nees","Rambo, B.","Passo do Socorro",Brasil,RS,Vacaria,-28.5121994018555,-50.9338989257812,2014,08,
+459,specieslink,"Hygrophila costata Nees","Demeda, C.- Gaio, J. & Gonzatti, F.","Lagoa do Peixoto.",Brasil,"Rio Grande do Sul",Osório,-29.885,-50.2705556,2015,11,11
+460,specieslink,"Hygrophila costata Nees","Hatschbach, G.- Pott, V.- Silva, J. .M.","Gleba Falcão ( mun. Cáceres). MT",Brasil,"Mato Grosso",Cáceres,-16.0706005096436,-57.6789016723633,1995,,
+461,specieslink,"Hygrophila costata Nees","Glaziou, A.",,Brasil,"Minas Gerais",,,,,,
+462,specieslink,"Hygrophila costata Nees","Goldenberg, R.","UFPR, Centro Politécnico",Brasil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,2009,05,26
+463,specieslink,"Hygrophila costata Nees","H. S. Irwin","Fazenda Furquilho Novo.",Brasil,"Minas Gerais",BuritÃ­,-15.6171,-46.4302778,,,
+464,specieslink,"Hygrophila costata Nees","Sousa, P.M.- Aona,L.Y.S.","Faz.Campo Limpo, Córrego do Machado- divisa com a área da UFRB",Brasil,Bahia,"Cruz das Almas",-12.6700000762939,-39.1018981933594,,,
+465,specieslink,"Hygrophila costata Nees","Rambo, B.",Jaquirana,Brasil,RS,"São Francisco de Paula",-29.4480991363525,-50.5835990905762,2014,08,
+466,specieslink,"Hygrophila costata Nees","Custodio Filho, A","Estação Biológica de Boracéia",Brasil,"São Paulo",Biritiba-Mirim,-23.644167,-45.881389,,,
+467,specieslink,"Hygrophila costata Nees","Gonzatti, F.","Proximo à Lagoa do Rincão.",Brasil,"Rio Grande do Sul",Osório,-29.9091667,-50.2136111,2015,03,11
+468,specieslink,"Hygrophila costata Nees","Kozera, C.","Ponte dos Arcos.",Brasil,Paraná,"Balsa Nova",-25.5839004516602,-49.6356010437012,2006,01,01
+469,specieslink,"Hygrophila costata Nees","Labiak, P- Matos, FB- Boeger, MRT- Muschner, VC","Cataratas do Iguaçu, Rio Iguaçu.",Brazil,Paraná,"Foz do Iguaçu",-25.5478000640869,-54.5881004333496,2009,05,27
+470,specieslink,"Hygrophila costata Nees","Irwin, HS",,Brasil,"Minas Gerais",,,,2011,,
+471,specieslink,"Hygrophila costata Nees","Verdi, M- Carneiro, FE",,Brasil,SC,Painel,-27.900278,-50.129444,2014,08,
+472,specieslink,"Hygrophila costata Nees","Barros, F","Fazenda Santana",Brasil,Paraná,"Quinta do Sol",-23.8521995544434,-52.1296997070312,2011,04,14
+473,specieslink,"Hygrophila costata Nees","Imaguire, N","Capão da Imbuia",Brazil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,2009,05,28
+474,specieslink,"Hygrophila costata Nees","Isernhagen, I- Silva, SM","Vale do Rio São Surrá",Brazil,Paraná,Adrianópolis,-24.6571998596191,-48.9911003112793,2000,02,
+475,specieslink,"Hygrophila costata Nees","L. A. Funez","Sede Parque Nacional da Serra do Itajaí.",Brasil,SC,BLUMENAU,-27.056944,-49.086666,,,
+476,specieslink,"Hygrophila costata Nees","Funez, L.A.","Centro da cidade.",Brasil,"Santa Catarina",Rodeio,-26.9241667,-49.3708334,1905,07,04
+477,specieslink,"Hygrophila costata Nees","Rambo, B.","ad fl. Uruguay",Brasil,RS,Itapiranga,,,2014,08,
+478,specieslink,"Hygrophila costata Nees","Nuernberg, A.- Mello, A.S.","Área de alagamento da represa da UHE (Usina Hidrelétrica) São Roque, Rio Canoas.",Brasil,"Santa Catarina",Vargem,-27.489200592041,-50.9749984741211,2014,03,12
+479,specieslink,"Hygrophila costata Nees",J.P.Souza,"Praia da Baleia",Brasil,SP,"Sao Sebastiao",-23.7600002288818,-45.4099998474121,,,
+480,specieslink,"Hygrophila costata Nees",M.Carboni,"P.E.Jacupiranga, Núcleo Cedro",Brasil,SP,"Barra do Turvo",-24.72,-48.452222,2010,08,06
+481,specieslink,"Hygrophila costata Nees","Hatschbach, G.","Rodovia Pitanga - Santa Maria do Oeste, próximo do Rio do Pedro.",Brasil,Paraná,"Santa Maria do Oeste",-24.9391994476318,-51.8624992370605,2008,01,01
+482,specieslink,"Hygrophila costata Nees","Rambo, B.",,Brasil,RS,,,,2014,08,
+483,specieslink,"Hygrophila costata Nees & T. Nees","Lima, A. A.","Lagoa da Prata",Brasil,Piauí,Parnaíba,-2.90472006797791,-41.7766990661621,2014,01,31
+484,specieslink,"Hygrophila costata Nees & T. Nees","Ernst Ule",Blumenau.,Brazil,"Santa Catarina",,,,,,
+485,specieslink,"Hygrophila costata Nees","Brack, P- et al.","Parque Estadual do Turvo.",Brasil,RS,"Tenente Portela",-27.3710994720459,-53.75830078125,2014,08,
+486,specieslink,"Hygrophila costata Nees","Krapovickas, A- Cristóbal, CL",,Brazil,"Santa Catarina","Águas Mornas",-27.6938991546631,-48.823600769043,,,
+487,specieslink,"Hygrophila costata Ness","L. Krieger","Dias Tavares",Brasil,"Minas Gerais","Juiz de Fora",-21.7642002105713,-43.3502998352051,2011,07,13
+488,specieslink,"Hygrophila costata Nees","Falkenberg, D.B.","Fazenda São Maximiano, km 307 da BR 116.",Brasil,"Rio Grande do Sul",Guaíba,-30.113899230957,-51.3250007629395,1905,06,29
+489,specieslink,"Hygrophila costata Nees","Dombrowski, LT","Colônia Orleans",Brazil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,,,
+490,specieslink,"Hygrophila costata Nees","Hertel, R","Santa Felicidade",Brasil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,2009,05,30
+491,specieslink,"Hygrophila costata","H. S. Irwin",,Brazil,GoiÃ¡s,,-12,-48,,,
+492,specieslink,"Hygrophila costata Nees","Irwin, HS- Fonseca, SF- Souza, R- Santos, RR- Ramos, R","Ca. 5km E of Parado das Batistas, MG-1",Brasil,"Minas Gerais",,,,2008,,
+493,specieslink,"Hygrophila costata Ness","Ma.C.Souza- D.T.B.Miola","ribeirão São Pedro, tributário margem esquerda do alto rio Paraná",Brasil,Paraná,"São Pedro do Paraná",-22.8239002227783,-53.2200012207031,2018,01,
+494,specieslink,"Hygrophila costata Sinning","H. Lorenzi","Na beira da estrada.",Brasil,SP,Apiaí,-24.5,-48.84,2002,01,23
+495,specieslink,"Hygrophila costata Nees","F. Gonzatti","próximo à Lagoa do Rincão",Brasil,RS,Osório,-29.8866996765137,-50.2696990966797,2015,03,11
+496,specieslink,"Hygrophila costata Nees","L. Oliveira","cidade de Bragança, terreno baldio",Brasil,Pará,Bragança,-1.05055556,-46.76583333,2017,11,18
+497,specieslink,"Hygrophila costata Nees","Kita, KK","Ilha Porto Rico, Lagoa Figueira",Brazil,Paraná,"Porto Rico",-22.7721996307373,-53.2668991088867,1997,08,
+498,specieslink,"Hygrophila costata Nees","Kummrow, R",Vossoroca,Brazil,Paraná,"Tijucas do Sul",-25.9281005859375,-49.1988983154297,1974,,
+499,specieslink,"Hygrophila costata Nees","Souza, PM- Aona, LYS","Recôncavo Sul, Fazenda Campo limpo, córrego do Machado, divisa com área da UFRB",Brasil,Bahia,"Cruz das Almas",-12.666667,-39.1,,,
+500,specieslink,"Hygrophila costata Nees","Reitz, PR- Klein, RM","Estrada Dona Francisca",Brazil,"Santa Catarina",Joinville,-26.3043994903564,-48.8456001281738,1968,,
+501,specieslink,"Hygrophila costata Nees","Shirasuna, RT","Rodoanel Mário Covas, Trecho Sul, Lote 3, Mata do Chinês",Brasil,"São Paulo","São Bernardo do Campo",-23.6900005340576,-46.560001373291,2009,10,16
+502,specieslink,"Hygrophila costata Nees","R. A. Wasum","Flores da Cunha - Otavio Rocha.",Brasil,"Rio Grande do Sul","Flores da Cunha",-29.061484,-51.26034,,,
+503,specieslink,"Hygrophila costata Nees","A. Strieder SJ",Pareci,Brasil,RS,Montenegro,-29.6886005401611,-51.4611015319824,,,
+504,specieslink,"Hygrophila costata Nees","Reitz, PR- Klein, RM","Fazenda Frei Rogério",Brazil,"Santa Catarina","Porto União",-26.2381000518799,-51.0783004760742,1968,,
+505,specieslink,"Hygrophila costata Nees","Rambo, B.","Ch. Dr. Fernandes",Brasil,RS,Tupanciretã,-29.0806007385254,-53.8358001708984,2014,08,
+506,specieslink,"Hygrophila costata Nees","A.Custodio Filho","Estação Biológica de Boracéia",Brasil,SP,"Biritiba Mirim",-23.633333,-45.866667,2011,01,20
+507,specieslink,"Hygrophila costata Nees","Pires, JM","Rio Jamari, cachoeira de Santa Cruz",Brasil,Rondônia,,,,2016,11,
+508,specieslink,"Hygrophila costata Nees","Rambo, B.","Itapoã, Campo do Varejão",Brasil,RS,Viamão,-30.0811004638672,-51.0233001708984,2014,08,
+509,specieslink,"Hygrophila costata Nees","M. Caumo","Vila Capivarita, Horto Tarumã CMPC",Brasil,"Rio Grande do Sul","Pantano Grande",-30.324547,-52.485831,2017,02,08
+510,specieslink,"Hygrophila costata Nees","Gonzatti, F.","Lagoa do Cipó",Brasil,"Rio Grande do Sul","Palmares do Sul",-30.336111,-50.298611,2012,04,
+511,specieslink,"Hygrophila costata Nees","Pott, A","Rio Cuiabá, Pantanal, Porto Cercado.",Brazil,"Mato Grosso do Sul",Poconé,,,1990,02,13
+512,specieslink,"Hygrophila costata Nees","Pansarin, E.R.- Faria, A.D.- Galvão, J.C.- Belinello, R.","Lago localizado na saída de Pereira Barreto, No trevo de Suzanápolis.",Brazil,"São Paulo","Pereira Barreto",-20.6299991607666,-51.0999984741211,2013,09,24
+513,specieslink,"Hygrophila costata Nees","J. L. Viana","RPPN Pedra D'Anta: Preta flor",Brasil,Pernambuco,"Lagoa dos Gatos",-8.6583,-35.9,,,
+514,specieslink,"Hygrophila costata Nees","Baracho, G.S.","Engenho Curtume-Mesorregião da Mata Pernambucana, Microrregião da Mata Úmida. 170km do centro do Recife.",Brasil,Pernambuco,Maraial,-8.8,-35.8333333333,2011,08,15
+515,specieslink,"Hygrophila costata Nees","Tessmann, G","Estrada da Graciosa, Km 52/53, Serra do Mar.",Brazil,Paraná,Morretes,-25.476900100708,-48.834400177002,,,
+516,specieslink,"Hygrophila costata Nees","Faria, A.D.- Aona, L.Y.S.- Matsumoto, K.- Galvão, J.C.- Belinello, R.","Lado direito SP 461, Altura Km 596. sentido Cardoso-Riolândia. Brejo.",Brazil,"São Paulo",Cardoso,-20.0799999237061,-49.9099998474121,2000,08,
+517,specieslink,"Hygrophila costata Nees","Sousa, M.P.- Aona, L.Y.S.- Santos, T.P.","Fazenda Campo Limpo- Machado de Dentro",Brasil,Bahia,"Cruz das Almas",-12.6700000762939,-39.1018981933594,,,
+518,specieslink,"Hygrophila costata Sinning","H. Lorenzi","Colonia Quintilho, em beira de córrego.",Brasil,PR,Paranaguá,-25.638783,-48.615183,2001,02,26
+519,specieslink,"Hygrophila costata Nees","Koczicki, C.",,Brasil,Paraná,"União da Vitória",-26.2299995422363,-51.0863990783691,2009,05,26
+520,specieslink,"Hygrophila costata Nees","Melo, DS- Nascimento - Júnior, JE- Souza, CAS- Santos, CKS","Mata de Doutor João",Brasil,Sergipe,Lagarto,-10.918056,-37.65,2010,03,05
+521,specieslink,"Hygrophila costata",,,,,,,,,,
+522,specieslink,"Hygrophila costata Nees","Monteiro, H","Na mata, a margem de um rio. Fazenda Samambaia, perto da cascatinha.",Brasil,"Rio de Janeiro",Petrópolis,-22.5049991607666,-43.1786003112793,2006,06,12
+523,specieslink,"Hygrophila costata Nees","Miyagi, P.H. et al.",,Brasil,"São Paulo",Mamparra,,,,,
+524,specieslink,"Hygrophila costata Nees","Oriani, A.- Souza, V.C.- Muniz, M.R.A.- Carvalho, M.L.S.- Korman, V.- Miacir, J.I.N.- Rodri","Parque Estadual de Jacupiranga",Brazil,"São Paulo",Eldorado,-24.639444,-48.400278,,,
+525,specieslink,"Hygrophila costata Nees","Stehmann, JR- Sobral, M","Manuel Viana",Brasil,RS,"São Francisco de Assis",-29.5503005981445,-55.1310997009277,2014,08,
+526,specieslink,"Hygrophila costata Nees","Sehnem, A.","Vila Oliva",Brasil,RS,"Caxias do Sul",-29.1681003570557,-51.1794013977051,2014,08,
+527,specieslink,"Hygrophila costata Nees","Sobral, M",,Brasil,RS,"Rio Pardo",-29.9897003173828,-52.378101348877,2014,08,
+528,specieslink,"Hygrophila costata","G. G. Hatschbach","Fda. Bela Vista",Brasil,"Mato Grosso do Sul","Rio Brilhante",-21.8019,-54.5464,,,
+529,specieslink,"Hygrophila costata Nees","L.T. Dombrowski",,Brasil,PR,Matinhos,-25.8174991607666,-48.5428009033203,,,
+530,specieslink,"Hygrophila costata Nees","Barbola, I.F.","IAPAR Estação Experimental Morretes II",Brasil,Paraná,Morretes,-25.476900100708,-48.834400177002,2009,05,26
+531,specieslink,"Hygrophila costata Nees","Hassemer, G.N.- Ferreira, J.P.R.","beira do canal, no Jardim Anchieta, Ilha de Santa Catarina.",Brasil,"Santa Catarina",Florianópolis,-27.5925,-48.506667,1905,07,05
+532,specieslink,"Hygrophila costata Nees","Peixoto, A- Giasson, M","Lag.do Palácio - Itapuã - Viamão/RS",Brasil,RS,Itapuã,,,2015,03,
+533,specieslink,"Hygrophila costata Nees & T. Nees","Siqueira E.L.","RPPN Vila Rica - Propriedade Bernad Philippe Marie Philibert de Laguiche",Brasil,Paraná,Fênix,-23.874583,-51.970278,2016,10,05
+534,specieslink,"Hygrophila costata Nees","Rambo, B.","Lagoa dos Quadros",Brasil,RS,Torres,-29.3353004455566,-49.7268981933594,2014,08,
+535,specieslink,"Hygrophila costata Nees","Silva, JM- Barbosa, E","Fazenda Santa Margarida, Rodovia para Bonito.",Brazil,"Mato Grosso do Sul","Porto Murtinho",-21.6989002227783,-57.8824996948242,2009,05,28
+536,specieslink,"Hygrophila costata Nees","Hatschbach, G","Distrito de Matinhos",Brazil,Paraná,Paranaguá,-25.5200004577637,-48.5092010498047,1951,,
+537,specieslink,"Hygrophila costata Nees","Hashimoto, G",,Brazil,"Rio de Janeiro","Nova Friburgo",-22.2819004058838,-42.5311012268066,1999,,
+538,specieslink,"Hygrophila costata Nees","Scur, L.","São Luiz - 3ª Légua",Brasil,"Rio Grande do Sul","Caxias do Sul",-29.1681003570557,-51.1794013977051,2001,09,
+539,specieslink,"Hygrophila costata Nees","J.R. Guillaumon","sentido Itatiba, sítio macaíra",Brasil,"São Paulo",Vinhedo,-23.0300006866455,-46.9700012207031,,,
+540,specieslink,"Hygrophila costata Nees","Lindeman, JC- Haas, H",Barbaquá,Brazil,Paraná,Pinhão,-25.6956005096436,-51.6596984863281,,,
+541,specieslink,"Hygrophila costata Nees","A. Pott","Fazenda do Sr. Constantino, 14km Sul da vila Taboco.",Brasil,"Mato Grosso do Sul",Corguinho,-19.8316993713379,-54.8293991088867,2005,,
+542,specieslink,"Hygrophila costata Nees","Miyagi, P.H. et al.",,Brasil,"São Paulo","Rio Vermelho",,,,,
+543,specieslink,"Hygrophila costata Nees","Gonzatti, F","Linha 80 da Leopoldina",Brazil,"Rio Grande do Sul","Monte Belo do Sul",-29.169444,-51.625833,2015,06,
+544,specieslink,"Hygrophila costata Nees","Britez, RM- Silva, SM- Souza, WS","Fazenda do Durgo, local alagado próximo a uma roça abandonada.",Brasil,Paraná,"São Mateus do Sul",-25.8742008209229,-50.3828010559082,,,
+545,specieslink,"Hygrophila costata Nees","Gaio, J.- Demeda, C.- Gonzatti, F.- Marchett, C.- Scur, L.","Lagoa do Caconde",Brasil,"Rio Grande do Sul",Osório,-29.861386,-50.217397,2016,01,29
+546,specieslink,"Hygrophila costata Nees","Hatschbach, G.","Porto de Cima",Brasil,Paraná,Morretes,-25.476900100708,-48.834400177002,2011,04,14
+547,specieslink,"Hygrophila costata Nees","Kegler, A","Vila Cristina",Brazil,"Rio Grande do Sul","Caxias do Sul",-29.1681003570557,-51.1794013977051,2001,09,
+548,specieslink,"Hygrophila costata Nees","Wasum, R","Linha São Paulo",Brazil,"Rio Grande do Sul","São Francisco de Paula",-29.4480991363525,-50.5835990905762,2001,06,
+549,specieslink,"Hygrophila costata Nees","Glaziou, A.",,Brasil,,,,,,,
+550,specieslink,"Hygrophila costata Nees","Félix, LP- Pires, MFO",,Brasil,Piauí,"Monsenhor Gil",-5.56416988372803,-42.6077995300293,1999,,
+551,specieslink,"Hygrophila costata Nees","A. Kegler",Forqueta,Brasil,"Rio Grande do Sul","Caxias do Sul",-29.1681003570557,-51.1794013977051,1999,05,01
+552,specieslink,"Hygrophila costata Nees","Zachia, R.",,Brasil,"Rio Grande do Sul","São Borja",-28.6606006622314,-56.0043983459473,2014,07,15
+553,specieslink,"Hygrophila costata Nees","Vali Joana Pott","Local Córrego Arara, 9 km SE de Rio Brilhante a Ipezal.",Brasil,MS,"RIO BRILHANTE",-21.844444,-54.487222,,,
+554,specieslink,"Hygrophila costata Ness","A. Schinini- L. Ferraro- O.F. Popoff","Loc. Ruta 14, 20Km de Col. Pellegrini, Em campos inumdables com cursos de agua semipermanentes. Suelo removido.",Argentina,Corrientes,"Dep. San Martin",,,2001,,
+555,specieslink,"Hygrophila costata Nees","Hoehne, W","Parque do Estado",Brazil,"São Paulo","São Paulo",-23.5400009155273,-46.6300010681152,,,
+556,specieslink,"Hygrophila costata Nees","Hoehne, FC- Gehrt, A",,Brasil,"Rio de Janeiro","Barra Mansa",-22.5442008972168,-44.1713981628418,,,
+557,specieslink,"Hygrophila costata Nees","Chagas-Mota- J.W.A.Silva","Serra Lisa.",Brasil,Alagoas,"Chã Preta",-9.25527954101562,-36.2961006164551,2009,11,07
+558,specieslink,"Hygrophila costata Nees","Hatschbach, G","Serra da Lapinha",Brazil,Paraná,"Campina Grande do Sul",-25.3055992126465,-49.0553016662598,1963,,
+559,specieslink,"Hygrophila costata Nees","Sobral-Leite, M.","Campus da UFPE, área periodicamente alagável próxima a nascente do riacho do Cavouco, Várzea do Rio Capibaribe.",Brasil,Pernambuco,Recife,-8.0485833333,-34.9525833333,2007,02,09
+560,specieslink,"Hygrophila costata Nees","Sobral, M",Itapuã,Brazil,"Rio Grande do Sul",Viamão,-30.0811004638672,-51.0233001708984,1985,01,13
+561,specieslink,"Hygrophila costata Nees","G.S.V. Duarte","Parque Antenor Martins. Microbacia Água Boa.",Brasil,"Mato Grosso do Sul",Dourados,-22.229278,-54.831389,2011,03,02
+562,specieslink,"Hygrophila costata Nees","Lima, JM",,Brazil,Paraná,"Campo Mourão",-24.0456008911133,-52.3830986022949,,,
+563,specieslink,"Hygrophila costata Nees","Rambo, B.",Esteio,Brasil,RS,Canoas,-29.9178009033203,-51.1836013793945,2014,08,
+564,specieslink,"Hygrophila costata Nees","Aona, L.Y.S.","entrada para São Félix, beira de rio-",Brasil,Bahia,Cachoeira,-12.6183004379272,-38.9557991027832,,,
+565,specieslink,"Hygrophila costata Nees","Kozera, C.","Parque Barigui",Brasil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,2009,05,26
+566,specieslink,"Hygrophila costata Nees","Terezinha Aparecida Borges Dias","Reserva IBAMA - SEMATEC. CIPLAN (Cimentos Planalto), DF-205, 58 km do CENARGEN e 43 km da CIPLAN.",Brasil,DF,BRASILIA,-15.833333,-48.016666,,,
+567,specieslink,"Hygrophila costata Nees & T. Nees","Antonio Krapovickas|Carmen L. Cristóbal","Iraí, ladera con selva frente al Balneario Oswaldo Cruz.",Brazil,"Rio Grande do Sul",,,,2008,,
+568,specieslink,"Hygrophila costata Nees","Stellfeld, C","Distrito de Matinhos, Caiobá",Brazil,Paraná,Paranaguá,-25.5200004577637,-48.5092010498047,1959,08,
+569,specieslink,"Hygrophila costata Nees","Rambo, B.",Sapucaia,Brasil,RS,"São Leopoldo",-29.7602996826172,-51.1472015380859,1954,08,
+570,specieslink,"Hygrophila costata Nees","Riedel, L","ad fossas prope Ilheos",Brazil,Bahia,Ilhéus,-14.7889,-39.0494,,,
+571,specieslink,"Hygrophila costata Nees","Irmão teodoro Luís",,Brasil,RS,Canoas,-29.9178009033203,-51.1836013793945,2014,08,
+572,specieslink,"Hygrophila costata Nees","Belém, RP","Centro de Pesquisas do Cacau, CEPLAC, CEPEC.",Brasil,Bahia,Ilhéus,-14.7889003753662,-39.0494003295898,2011,,
+573,specieslink,"Hygrophila costata Nees","Borgo, M","Rio Preto",Brazil,Paraná,Guaratuba,-25.8827991485596,-48.5746994018555,2005,,
+574,specieslink,"Hygrophila costata","Lorenzi, H.",,Brasil,"São Paulo",Cunha,-23.07,-44.96,2002,01,14
+575,specieslink,"Hygrophila costata Ness","F.A. Lichtenfelz","Parque Natural Municipal São Francisco de Assis",Brasil,"Santa Catarina",Blumenau,-26.920833,-49.091667,2017,04,13
+576,specieslink,"Hygrophila hygrophila costata","Clara Miti Izumisawa",Marsilac,Brazil,SP,"São Paulo",-23.9853,-46.743099,,,
+577,specieslink,"Hygrophila costata Nees","H. S. Irwin","Ca. 5 km E. of Parada das Batistas, MG-1",Brasil,"Minas Gerais",,,,,,
+578,specieslink,"Hygrophila costata Nees","Faria, A.D.- Aona, L.Y.S.- Matsumoto, K.- Galvão, J.C.- Belinello, R.","Estrada de terra sent. Valentim Gentil-Floreal, Brejo.",Brazil,"São Paulo",Floreal,-20.6700000762939,-50.1399993896484,2000,08,
+579,specieslink,"Hygrophila costata Nees","Rambo, B.",,Uruguai,,Rivera,,,2014,08,
+580,specieslink,"Hygrophila costata","Lorenzi, H.",,Brasil,"Rio Grande do Sul","Pantano Grande",-30.1914,-52.3736,2003,03,11
+581,specieslink,"Hygrophila costata Nees","S.Bortoleto & A.O.Araújo","Parque Estadual Carlos Botelho",Brasil,SP,"São Miguel Arcanjo",-24.058333,-47.989722,2011,01,20
+582,specieslink,"Hygrophila costata Nees","Eduarda Barreto Andrade Dias","Fazenda Sucupira.",Brasil,DF,BRASILIA,-15.906388,-48.011666,,,
+583,specieslink,"Hygrophila costata Nees","M.- Magalhães-Gomes, F.","Estação Ecológica do Tripuí",Brasil,"Minas Gerais","Ouro Preto",-20.2875003814697,-43.5080986022949,,,
+584,specieslink,"Hygrophila costata Nees","Stellfeld, C","Estrada da Graciosa, Alto da serra, km 45",Brazil,Paraná,Morretes,-25.476900100708,-48.834400177002,,,
+585,specieslink,"Hygrophila costata Nees","Sobral, M","Josafá, divisa de São Francisco de Paula-Torres",Brasil,RS,Torres,-29.3353004455566,-49.7268981933594,2014,08,
+586,specieslink,"Hygrophila costata Nees","M.G. Caxambu","Estação Ecológica Municipal Colombo",Brasil,PR,"Mato Rico",-24.749583,-52.233944,2017,,
+587,specieslink,"Hygrophila costata Nees","Glaziou, A.",,Brasil,"Minas Gerais",,,,,,
+588,specieslink,"Hygrophila costata Nees","Heringer, EP","Margem de Mata",Brasil,Goiás,"Corumbá  de Goiás",-15.9236001968384,-48.8086013793945,2011,,
+589,specieslink,"Hygrophila costata Nees","Almeda, F.- Martins, A.B.- Fritsch, P.W.- Aranha, J.L.M.- Bush, C.- Belinello, R.","About 2 km from Serra do Corvo Branco on the roadto Urubici.",Brazil,"Santa Catarina",Urubici,-28.084972,-49.635778,2013,09,24
+590,specieslink,"Hygrophila costata Nees","Woolston, AL","Depto. San Pedro",Paraguai,"Alto Paraguay",Primavera,,,,,
+591,specieslink,"Hygrophila costata Nees","F. C. Xavier","Rio Jacuí (ilhota)",Brasil,RS,Triunfo,-29.9433002471924,-51.7181015014648,2014,08,
+592,specieslink,"Hygrophila costata Nees","Rambo, B.","Fazenda Santa Cecilia",Brasil,RS,"São Gabriel",-30.3363990783691,-54.3199996948242,2014,08,
+593,specieslink,"Hygrophila costata Nees","Rambo, B.","Vila Manresa",Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,2014,08,
+594,specieslink,"Hygrophila costata Nees","Dombrowski, LT",Matinhos,Brazil,Paraná,Paranaguá,-25.5200004577637,-48.5092010498047,,,
+595,specieslink,"Hygrophila costata Nees & T. Nees","Siqueira E.L.- Chagas, M.P.- Chagas, M.P.","Parque Nacional Do Iguaçu, cercanias da Br-277",Brasil,Paraná,"Céu Azul",-25.157083,-53.848944,2016,10,05
+596,specieslink,"Hygrophila costata Nees","Kozera, C","Rio Amambai",Brazil,"Mato Grosso do Sul",Naviraí,-23.0650005340576,-54.190601348877,2009,05,28
+597,specieslink,"Hygrophila costata Ness","Mariana, J.F.- Thomaz, S.M.- Carrenho, R.","rio Paraná, ilha Porto Rico, Ressaco do Leopoldo.",Brasil,Paraná,"Porto Rico",-22.7721996307373,-53.2668991088867,2010,09,28
+598,specieslink,"Hygrophila costata Nees","Rambo, B.","Ilha da Pintada",Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,2014,08,
+599,specieslink,"Hygrophila costata Nees","Ribas, OS",Taquara,Brazil,Paraná,"Campo Largo",-25.4585990905762,-49.5283012390137,1990,,
+600,specieslink,"Hygrophila costata Nees","Bona, C.","Fazenda Santa Cândida, Baía das Capivaras, Lago Curicaca.",Brasil,Paraná,"General Carneiro",-26.4274997711182,-51.315601348877,2011,04,14
+601,specieslink,"Hygrophila costata Nees","Rambo, B.","Vila Oliva",Brasil,RS,"Caxias do Sul",-29.1681003570557,-51.1794013977051,2014,08,
+602,specieslink,"Hygrophila costata Nees","A.Custodio Filho","Estação Biológica de Boracéia",Brasil,SP,"Biritiba Mirim",-23.633333,-45.866667,2011,01,20
+603,specieslink,"Hygrophila costata Nees","Hassemer, G.N.","Campus da UFSC, Ilha de Santa Catarina.",Brasil,"Santa Catarina",Florianópolis,-27.596700668335,-48.5491981506348,1905,07,02
+604,specieslink,"Hygrophila costata Nees","Bona, C.","Fazenda São Pedro, Lagoa do Potamogeton.",Brasil,Paraná,"General Carneiro",-26.4274997711182,-51.315601348877,2005,04,
+605,specieslink,"Hygrophila costata Nees","Hagelund, K","Lagoa do Jacaré",Brasil,RS,Torres,-29.3353004455566,-49.7268981933594,2014,08,
+606,specieslink,"Hygrophila costata Nees","Hoehne, W","Distrito de Jaraguá",Brazil,"São Paulo","São Paulo",-23.5400009155273,-46.6300010681152,1942,03,03
+607,specieslink,"Hygrophila costata Nees","Funez, L.A.- Kemmelmeier, K. & Zermiani, A.E.","Sede Parque Nacional da Serra do Itajaí.",Brasil,"Santa Catarina",Blumenau,-27.0569444,-49.0866666,2013,03,13
+608,specieslink,"Hygrophila costata Nees","A. Strieder SJ",Pareci,Brasil,RS,Montenegro,-29.6886005401611,-51.4611015319824,2014,08,
+609,specieslink,"Hygrophila costata Nees","Falkenberg, D B- Stehmann, JR- Vieira, AO","Rio Camaquã, Junto da balsa.",Brazil,"Rio Grande do Sul","Amaral Ferrador",-30.8782997131348,-52.2574996948242,1994,,
+610,specieslink,"Hygrophila costata Nees & T. Nees","Rau, G",,Brasil,RS,"Santa Maria",-29.6842002868652,-53.8069000244141,2014,08,
+611,specieslink,"Hygrophila costata Nees","Hagelund, K","Granja Sodol",Brasil,RS,Giruá,-28.028299331665,-54.3497009277344,2014,08,
+612,specieslink,"Hygrophila costata Nees","Scur, L.","Vila Seca",Brasil,"Rio Grande do Sul","Caxias do Sul",-29.1681003570557,-51.1794013977051,2014,08,
+613,specieslink,"Hygrophila costata Nees","Berger, JZ","Vila da Glória",Brazil,"Santa Catarina","São Francisco do Sul",-26.2432994842529,-48.6380996704102,2007,01,
+614,specieslink,"Hygrophila costata Nees","Hatschbach, G.","Santos Andrade.",Brasil,Paraná,"São José dos Pinhais",-25.5347003936768,-49.2064018249512,1905,06,07
+615,specieslink,"Hygrophila costata Nees","Barbosa, E- Cunha, EM","Rio do Toldo, Beira do barranco úmido",Brasil,"Santa Catarina",Itaiópolis,-26.3363990783691,-49.9063987731934,2005,,
+616,specieslink,"Hygrophila costata",,"área do Museu de Biologia Mello Leitão",Brasil,"Espírito Santo","Santa Teresa",-19.9356002807617,-40.6002998352051,,,
+617,specieslink,"Hygrophila costata Nees","Tessmann, G","Faxinal São Sebastião",Brazil,Paraná,Londrina,-23.3103008270264,-51.1627998352051,,,
+618,specieslink,"Hygrophila costata Nees","Hatschbach, G","Rio Mourão",Brazil,Paraná,"Campo Mourão",-24.0456008911133,-52.3830986022949,2011,04,28
+619,specieslink,"Hygrophila costata Nees","E. Friderichs SJ",,Brasil,RS,"Lagoa Vermelha",-28.2085990905762,-51.5257987976074,2014,08,
+620,specieslink,"Hygrophila costata Nees","L.C. Bernacci & R. Giovanni","Morro da antena",Brasil,"São Paulo",Itariri,-24.2892,-47.1744,2018,03,12
+621,specieslink,"Hygrophila costata Nees","Dombrowski, LT","Capão da Imbuia",Brazil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,1975,02,17
+622,specieslink,"Hygrophila costata Nees","Hatschbach, G",,Brazil,Paraná,"Cerro Azul",-24.823600769043,-49.261100769043,1961,,
+623,specieslink,"Hygrophila costata Nees","L.A.Funez | K.Kemmelmeier | A.E.Zermiani","Sede Parque Nacional da Serra do Itajaí.",Brasil,"Santa Catarina",Blumenau,-27.056944,-49.086667,2013,03,13
+624,specieslink,"Hygrophila costata Nees","A.Maruyama & L.Cicco",,Brasil,SP,Cunha,-23.229444,-45.014722,2018,02,11
+625,specieslink,"Hygrophila costata Nees","Dombrowski, LT- Saito, Y","Capão da Imbuia",Brazil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,1965,,
+626,specieslink,"Hygrophila costata Nees","Pott, A- Coutinho, ME- Ribeiro, GW","Rio Paraguai, Retiro Jatoba. Fazenda Várzea Funda. Pantanal.",Brazil,"Mato Grosso",Cáceres,-16.0706005096436,-57.6789016723633,1990,09,03
+627,specieslink,"Hygrophila costata Nees","Reitz, PR- Klein, RM","Passo do Socorro",Brazil,"Santa Catarina",Lajes,-27.8160991668701,-50.326099395752,1968,,
+628,specieslink,"Hygrophila costata Nees","Cordeiro, J","Parque Iguaçu",Brazil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,1986,07,
+629,specieslink,"Hygrophila costata Nees","Klein, R.M.- Bresolin, A.","Lagoinha, Ilha de Santa Catarina.",Brasil,"Santa Catarina",Florianópolis,-27.596700668335,-48.5491981506348,1905,05,19
+630,specieslink,"Hygrophila costata Nees","Borgo, M.- Lindoso, G.","Reserva Natural - Itaqui -trilha do Rio do Poço",Brasil,Paraná,Guaraqueçaba,-25.3066997528076,-48.3288993835449,2014,08,
+631,specieslink,"Hygrophila costata Nees","Kozera, C- Kersten, R","Ponte dos Arcos",Brazil,Paraná,"Balsa Nova",-25.5839004516602,-49.6356010437012,2006,,
+632,specieslink,"Hygrophila costata Nees","Sehnem, A.","Lagoa dos Quadros",Brasil,RS,Osório,-29.8866996765137,-50.2696990966797,2014,08,
+633,specieslink,"Hygrophila costata Nees","Hagelund, K","Br 285 km 280",Brasil,RS,"Santo Ângelo",-28.2992000579834,-54.2630996704102,2014,08,
+634,specieslink,"Hygrophila costata Nees","Hatschbach, G- Barbosa, E- Costa, EF","Rio Pelotas, Rodovia para São Joaquim",Brazil,"Rio Grande do Sul","Bom Jesus",-28.6678009033203,-50.4166984558105,2005,,
+635,specieslink,"Hygrophila costata Nees","Faria, JEQ- Dias, EBA- Chacon, RG- Soares, AER","Fazenda Indaiá, na borda da cachoeira do Indaiá",Brasil,Goiás,,,,2013,05,04
+636,specieslink,"Hygrophila costata Nees","Cézio Pereira","Barra de Maricá. Área 2",Brasil,"Rio de Janeiro",Maricá,-22.9193992614746,-42.8185997009277,,,
+637,specieslink,"Hygrophila costata Nees","Miyagi, P.H.- Souza, J.P.- Zandoval, J.A.","Mamparra, Reserva Florestal Carlos Botelho, A 2 Km da ""sedinha"", beira de estrada.",Brazil,"São Paulo","Sete Barras",-24.3799991607666,-47.9199981689453,,,
+638,specieslink,"Hygrophila costata Nees","Davidse, G- D'Arcy, WG","2 km E of Cascavel along Highway BR-277 to Curitiba",Brasil,Paraná,Cascavel,-24.9557991027832,-53.4552993774414,,,
+639,specieslink,"Hygrophila costata Nees","Peixoto, A- Giasson, M","Itapuã Lag.do Palácio",Brasil,RS,Viamão,-30.0811004638672,-51.0233001708984,2015,03,
+640,specieslink,"Hygrophila costata Nees","F. Theissen SJ",,Brasil,RS,"São Leopoldo",-29.7602996826172,-51.1472015380859,2014,08,
+641,specieslink,"Hygrophila costata Nees","Sacco, JC","Instituto Agronômico do Sul",Brasil,"Rio Grande do Sul",Pelotas,-31.771900177002,-52.3424987792969,2010,,
+642,specieslink,"Hygrophila costata Nees","Cordeiro, J.- Kramer, J.M.F.- Vaz, J.","Parque Náutico do Iguaçu.",Brasil,Paraná,Curitiba,-25.526944,-49.223333,2015,01,20
+643,specieslink,"Hygrophila costata Nees","Pickel, B.","Tapera, (Campo Alegre), capoeira junto a rochedo.",Brasil,Pernambuco,"São Lourenço da Mata",-8.00222015380859,-35.0182991027832,1933,01,
+644,specieslink,"Hygrophila costata Nees","Stellfeld, C","Estrada da Graciosa, Km. 48",Brazil,Paraná,Morretes,-25.476900100708,-48.834400177002,1959,08,
+645,specieslink,"Hygrophila costata Nees","Bardelli-da-Silva, M.Y.",REPAR,Brasil,Paraná,Araucária,-25.5889,-49.3478,2012,10,16
+646,specieslink,"Hygrophila costata Nees.",Lombardi,"Reserva Biológica Municipal da Serra do Japi",Brasil,"São Paulo",Jundiaí,-23.230444,-46.935778,2008,11,
+647,specieslink,"Hygrophila costata Nees","Rambo, B.","Três Fornos",Uruguai,,Rivera,,,2014,08,
+648,specieslink,"Hygrophila costata Nees & T. Nees","A. Lima","Curado. Outra margem do riacho.",Brasil,Pernambuco,Recife,-8.05389022827148,-34.8810997009277,1962,12,27
+649,specieslink,"Hygrophila costata Nees","Ferreira, J.L.","(Dentro da Cidade).",Brasil,Bahia,"Rio de Contas",-13.578333,-41.813056,2010,07,
+650,specieslink,"Hygrophila costata Nees","Caxambu, M.G.","Parque Estadual Lago Azul (PELA)",Brasil,Paraná,"Campo Mourão",-24.05591,-52.19589,2011,04,28
+651,specieslink,"Hygrophila costata Nees","Stehmann, JR- Sobral, M","Arroio Lageadinho.",Brasil,RS,Alegrete,-29.7831001281738,-55.7919006347656,2014,08,
+652,specieslink,"Hygrophila costata Nees","Rambo, B.","Vila Manresa",Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,1954,08,
+653,specieslink,"Hygrophila costata Nees","R. Záchia","Ea. Bonitas",Brasil,RS,"São Borja",-28.6606006622314,-56.0043983459473,2014,08,
+654,specieslink,"Hygrophila costata Nees","Scur, L","Vila Seca",Brazil,"Rio Grande do Sul","Caxias do Sul",-29.1681003570557,-51.1794013977051,2000,03,
+655,specieslink,"Hygrophila costata Nees","Kinupp, VF- et al.","Salto das Orquídeas",Brasil,Paraná,Sapopema,-23.9108009338379,-50.5802993774414,2009,05,29
+656,specieslink,"Hygrophila costata",,,,,,,,,,
+657,specieslink,"Hygrophila costata Nees","Sobral, M",Itapuã,Brasil,RS,Viamão,-30.0811004638672,-51.0233001708984,2014,08,
+658,specieslink,"Hygrophila costata Sinning","H. Lorenzi","Estrada para o Parque Estadual da Serra do Mar.",Brasil,SP,Cunha,-23.1648,-44.9599,2002,01,14
+659,specieslink,"Hygrophila costata Nees","E. Ferreira","rio do Campo",Brasil,PR,"Campo Mourão",-24.0456008911133,-52.3830986022949,2004,05,27
+660,specieslink,"Hygrophila costata Nees","Garcia, M.A.","Propriedade dos Nakashima. Área 02. Controle.",Brazil,"São Paulo","Vargem Grande",,,,,
+661,specieslink,"Hygrophila costata Nees","Mattos-Silva, L.A.",,Brasil,Bahia,Ilhéus,-14.8,-39.166667,2010,07,
+662,specieslink,"Hygrophila costata Nees","Rambo, B.","ad fl. Uruguay",Brasil,RS,Nonoai,-27.3617000579834,-52.7714004516602,2014,08,
+663,specieslink,"Hygrophila costata Nees & T. Nees","Toderke, M.L.- Lautert, M.- Buturi, C.V.- Escher, A.R.- Temponi, L.G.- Lautert, M.- Buturi, C.V.- Escher, A.R.- Temponi, L.G.","Parque Nacional do Iguaçu. Escola Parque.",Brasil,Paraná,"Foz do Iguaçu",-25.5478000640869,-54.5881004333496,2013,03,20
+664,specieslink,"Hygrophila costata Nees","Rambo, B","Posto da Lagoa dos Quadros",Brasil,RS,Osório,-29.8866996765137,-50.2696990966797,2014,08,
+665,specieslink,"Hygrophila costata Nees","Baracho, G.S.","Engenho Curtume-Mesorregião da Mata Pernambucana, Microrregião da Mata Úmida. 170km do centro do Recife.",Brasil,Pernambuco,Maraial,-8.8,-35.8333333333,2011,08,15
+666,specieslink,"Hygrophila costata Nees","Locatelli, E.","Brejo dos Cavalos",Brasil,Pernambuco,Caruaru,-8.31,-36,2011,05,23
+667,specieslink,"Hygrophila costata Nees","Silva, JM- Ribas, OS","Várzea da Olaria",Brazil,Paraná,"São Mateus do Sul",-25.8742008209229,-50.3828010559082,,,
+668,specieslink,"Hygrophila costata Nees","Hagelund, K",,Brasil,RS,"Porto Mauá",-27.5753002166748,-54.668098449707,2015,03,
+669,specieslink,"Hygrophila costata Nees",Chagas-Mota,Pelonha.,Brasil,Alagoas,Viçosa,-9.3713903427124,-36.2407989501953,2008,09,21
+670,specieslink,"Hygrophila costata Nees","Hagelund, K","Granja Sodol",Brasil,RS,Giruá,-28.028299331665,-54.3497009277344,2014,08,
+671,specieslink,"Hygrophila costata Nees","Barbosa, E- Silva, JM- Vaz, J","Cachoeira Dito Salu",Brazil,"São Paulo","Barra do Turvo",-24.7563991546631,-48.5046997070312,2005,,
+672,specieslink,"Hygrophila costata Nees","Longhi-Wagner, HM- et al.","Ilha das Flores",Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,2014,08,
+673,specieslink,"Hygrophila costata Nees","Irwin, HS","Alto Paraiso (formerly Veadeiros). Elev. 1000 m. &nf-Rooted in sand near rushing water. Gallery shade. Cerrado and gallery woods in steep rocky gorge.",Brasil,Goiás,"Alto Paraíso de Goiás",-14.1324996948242,-47.5099983215332,2007,,
+674,specieslink,"Hygrophila costata Nees","Hatschbach, G","Parque Nacional do Iguaçu, Rio Iguaçu",Brazil,Paraná,"Foz do Iguaçu",-25.5478000640869,-54.5881004333496,1964,,
+675,specieslink,"Hygrophila costata Nees","Glaziou, A.",,Brasil,"Minas Gerais",,,,,,
+676,specieslink,"Hygrophila costata Nees","Isernhagen, I.","Vale do Rio João Surrá",Brasil,Paraná,Adrianópolis,-24.6571998596191,-48.9911003112793,2009,05,26
+677,specieslink,"Hygrophila costata Nees","Klein, R.M.","Saco Grande, Ilha de Santa Catarina.",Brasil,"Santa Catarina",Florianópolis,-27.596700668335,-48.5491981506348,1905,06,11
+678,specieslink,"Hygrophila costata Nees","A. Kegler","Vila Cristina",Brasil,"Rio Grande do Sul","Caxias do Sul",-29.1681003570557,-51.1794013977051,2001,09,01
+679,specieslink,"Hygrophila costata",,,BRAZIL,,,-10.8339,-52.8731,,,
+680,specieslink,"Hygrophila costata Nees","Motta, JT","Fazenda São Geraldo",Brasil,Paraná,Palmeira,-25.4293994903564,-50.0064010620117,2017,09,
+681,specieslink,"Hygrophila costata Nees","Carneiro, J","Fazenda das Acácias",Brazil,Paraná,"Jundiaí do Sul",-23.4367008209229,-50.247501373291,2002,,
+682,specieslink,"Hygrophila costata Nees","Rambo, B.","Lagoa dos Barros",Brasil,RS,Osório,-29.8866996765137,-50.2696990966797,2014,08,
+683,specieslink,"Hygrophila costata Nees","Vidal, W.N.","E. S. A. V., Represa, no pântano.",Brasil,"Minas Gerais",Viçosa,-20.7539005279541,-42.8819007873535,1978,12,19
+684,specieslink,"Hygrophila costata","Colletta, G.D.","Reserva CBA, Represa",Brasil,"São Paulo",Tapiraí,-23.96,-47.5,2014,,
+685,specieslink,"Hygrophila costata Nees","Wasum, R.A.","Lagoa do Violão",Brasil,"Rio Grande do Sul",Torres,-29.3353004455566,-49.7268981933594,2014,08,
+686,specieslink,"Hygrophila costata Nees","Xavier, L",,Brasil,"Rio de Janeiro",,,,2006,06,12
+687,specieslink,"Hygrophila costata Nees","Hatschbach, G",Pinhais,Brazil,Paraná,Piraquara,-25.4416999816895,-49.0633010864258,1958,,
+688,specieslink,"Hygrophila costata Nees","Aona, L.Y.S.- Faria, A.D.- Pansarin, E.R.","Base Ecológica Serra do Japi, Brejos localizados na estrada para casa do Cidinho.",Brazil,"São Paulo",Jundiaí,-23.1800003051758,-46.8800010681152,2000,08,
+689,specieslink,"Hygrophila costata Nees","Hatschbach, G. et al.",,Brasil,"Mato Grosso",Cáceres,-16.0706,-57.6789,,,
+690,specieslink,"Hygrophila costata Nees","Barbosa, E.- Cunha, E. .M.","Rio do Toldo",Brasil,"Santa Catarina",Itaiópolis,-26.3363990783691,-49.9063987731934,2005,,
+691,specieslink,"Hygrophila costata Nees","Silva, JM- Barbosa, E","Rio Saí-Guaçu, Ponte do Quinze",Brazil,Paraná,Guaratuba,-25.8827991485596,-48.5746994018555,2002,05,
+692,specieslink,"Hygrophila costata Nees","Rambo, B.","ad montem Ferrabraz",Brasil,RS,"Novo Hamburgo",-29.6783008575439,-51.1305999755859,2014,08,
+693,specieslink,"Hygrophila costata","Kuntz, J.","Reserva Particular da Votorantim (CBA). Trilha da Boatudo. Floresta Ombrófila Densa com áreas antigas de roça em alguns trechos.",Brasil,"São Paulo",Tapiraí,-24.038166,-47.380012,2013,,
+694,specieslink,"Hygrophila costata Nees","Dombrowski, LT","Distrito de Matinhos",Brazil,Paraná,Paranaguá,-25.5200004577637,-48.5092010498047,1968,01,
+695,specieslink,"Hygrophila costata Nees","Ziller, S.R.- Kuniyoshi, Y.S.","Rio Jordão, Salto do Cachorro",Brasil,Paraná,Pinhão,-25.6956005096436,-51.6596984863281,1996,09,01
+696,specieslink,"Hygrophila costata Nees","Keller, H.A.","Misiones, Dep. Guaraní, Predio Guaraní",Argentina,,,,,2002,03,
+697,specieslink,"Hygrophila costata Nees","Schwirkowski, P.","Serra Alta. Linha férrea, próximo à Estrada Saraiva.",Brasil,"Santa Catarina","São Bento do Sul",-26.2822223,-49.3591667,2016,02,13
+698,specieslink,"Hygrophila costata Nees","Rambo, B.",Jari,Brasil,RS,Tupanciretã,-29.0806007385254,-53.8358001708984,2014,08,
+699,specieslink,"Hygrophila costata Nees","Schwirkowski, P.","Parque Vinte e Três de Setembro",Brasil,"Santa Catarina","São Bento do Sul",-26.27563,-49.383622,2016,01,30
+700,specieslink,"Hygrophila costata Nees","Falkenberg, DB","beira da BR-290 cerca de 21 km após Alegrete em direção a Rosário do Sul em várzea",Brasil,RS,Alegrete,-29.7831001281738,-55.7919006347656,2014,08,
+701,specieslink,"Hygrophila costata Nees",M.S.Leite,"Engenho Curtume",Brasil,Pernambuco,Maraial,-8.801389,-35.838889,2016,,
+702,specieslink,"Hygrophila costata Nees","Caxambu, MG","Parque Estadual do Lago Azul",Brazil,Paraná,"Campo Mourão",-24.0456008911133,-52.3830986022949,2008,,
+703,specieslink,"Hygrophila costata Nees","G. T. Prance","Rio Jurua & Rio Moa. Rio Moa, between IgarapÃ©s Pentecost & Ipiranga.",Brasil,Acre,"Cruzeiro do Sul",-7.6311,-72.6697,,,
+704,specieslink,"Hygrophila costata Nees","Hatschbach, G",Florestal,Brazil,Paraná,"Campina Grande do Sul",-25.3055992126465,-49.0553016662598,1961,,
+705,specieslink,"Hygrophila costata Nees","Falkenberg, DB- Stehmann, JR- Vieira, AO","beira do Rio Camaquã junto à balsa",Brasil,RS,"Amaral Ferrador",-30.8782997131348,-52.2574996948242,2014,08,
+706,specieslink,"Hygrophila costata Nees","Pedersen, TM",Tacuaral,Argentina,Corrientes,"General Paz",,,2014,08,
+707,specieslink,"Hygrophila costata Nees","Rambo, B.","Faz. Bern. Velho",Brasil,RS,Vacaria,-28.5121994018555,-50.9338989257812,2014,08,
+708,specieslink,"Hygrophila costata Nees","Magalhães-Gomes, F.M.",Tripuí,Brasil,"Minas Gerais","Ouro Preto",-20.2875003814697,-43.5080986022949,,,
+709,specieslink,"Hygrophila costata Nees","Vidal, W.N.- et al.","Morro do Brigadeiro, Próximo a fazenda.",Brasil,"Minas Gerais",Estouro,,,1999,04,27
+710,specieslink,"Hygrophila costata Nees","E.L. Siqueira","Estação Ecológica Municipal Colombo",Brasil,PR,"Mato Rico",-24.738861,-52.227472,2018,07,26
+711,specieslink,"Hygrophila costata Nees & T. Nees","Caxambu, M.G.- et al.- et al.","Rio Serra Negra, proximidades da Prop. do Sr. Werner.",Brasil,Paraná,Guaraqueçaba,-25.189028,-48.418972,2016,11,04
+712,specieslink,"Hygrophila costata Ness","Viana, JL","RPPN Pedra D'Anta, Preta flor",Brasil,Pernambuco,"Lagoa dos Gatos",-8.658333,-35.9,2011,05,04
+713,specieslink,"Hygrophila costata Nees","Kersten, R.","REPAR - PETROBRÁS",Brasil,Paraná,Araucária,-25.5930995941162,-49.4103012084961,2009,05,26
+714,specieslink,"Hygrophila costata Nees","Meyer, F.S.- Comitti, E.J. & Petry, J.","Rio Natal, estrada rumo ao Xikavitska (Salto Seco).",Brasil,"Santa Catarina","São Bento do Sul",-26.328056,-49.276667,1905,07,04
+715,specieslink,"Hygrophila costata Nees","Camargo, O. R.","Sub. Est. Exp. Fruticultura",Brasil,RS,Farroupilha,-29.2250003814697,-51.3478012084961,2014,08,
+716,specieslink,"Hygrophila costata Nees","Wasum, R","Lagoa do Violão",Brazil,"Rio Grande do Sul",Torres,-29.3353004455566,-49.7268981933594,2004,06,
+717,specieslink,"Hygrophila costata Nees","Demeda, C.- Gaio, J.- Gonzatti, F.","Lagoa do Peixoto",Brasil,"Rio Grande do Sul",Osório,-29.885056,-50.270472,2015,11,11
+718,specieslink,"Hygrophila costata Nees","Bresolin, A","Rio Vermelho, Ilha de Santa Catarina, próx. ao camping do Rio Vermelho.",Brazil,"Santa Catarina",Florianópolis,-27.596700668335,-48.5491981506348,1985,06,
+719,specieslink,"Hygrophila costata Nees","Souza, V.C.- Rodrigues, R.R.- Souza, J.P.- Sanches, I.D.- Astorino, A.- Magossi, R.- Petrini, M.- Tavares Jr., J.E.","Estrada em torno da Represa Atibainha. Mata mesófila semidecídua.",Brasil,"São Paulo","Nazaré Paulista",-23.18,-46.39,,,
+720,specieslink,"Hygrophila costata Nees","Rambo, B.","Rio Caneleira",Brasil,RS,Uruguaiana,-29.7546997070312,-57.0882987976074,2014,08,
+721,specieslink,"Hygrophila costata Nees","Stival-Santos, A.- Legal, E. & Silveira, S.","Santa Maria.",Brasil,"Santa Catarina","Antônio Carlos",-27.5394444,-48.8702778,2010,09,01
+722,specieslink,"Hygrophila costata Nees","Brack, P- et al.","Parque Estadual do Turvo.",Brasil,RS,"Tenente Portela",-27.3710994720459,-53.75830078125,2014,08,
+723,specieslink,"Hygrophila costata Nees","Sellow, F","prope Rio de Janeiro",Brazil,"Rio de Janeiro",,,,,,
+724,specieslink,"Hygrophila costata Nees & T. Nees","Custodio-Filho, A.","Estação Biológica de Boracéia",Brasil,"São Paulo","Biritiba Mirim",-23.639831,-45.883333,,,
+725,specieslink,"Hygrophila costata Nees","Hatschbach, G- Guimarães, O","Piraputanga, Rio Aquidauana.",Brazil,"Mato Grosso",Aquidauana,,,1971,,
+726,specieslink,"Hygrophila costata Nees","Gonzatti, F","Linha 80 da Leopoldina",Brazil,"Rio Grande do Sul","Monte Belo do Sul",-29.169444,-51.625833,2015,06,
+727,specieslink,"Hygrophila costata Nees","Salzmann, P","ad fossas prope Ilheos",Brazil,Bahia,Ilhéus,-14.7889,-39.0494,,,
+728,specieslink,"Hygrophila costata Nees","Rambo, B.","Faz. do Jarau",Brasil,RS,Quaraí,-30.3875007629395,-56.4514007568359,2014,08,
+729,specieslink,"Hygrophila costata Nees","Pott, A","Rio Miranda, Passo do Lontra. Pantanal.&nf-Base de Pesquisa da UFMS.",Brazil,"Mato Grosso do Sul",Corumbá,-19.0091991424561,-57.6533012390137,1989,05,03
+730,specieslink,"Hygrophila costata Nees","C. Faxina","Córrego Tarumã.",Brasil,"Mato Grosso do Sul",Naviraí,-23.120581,-54.218892,,,
+731,specieslink,"Hygrophila costata Nees","Korte, A.","Rio Vermelho.",Brasil,"Santa Catarina","São Bento do Sul",-26.28,-49.32,2016,08,12
+732,specieslink,"Hygrophila costata Nees","Meyer, F.S.","Rio Natal - Estrada rumo ao Xikavitska (Salto Seco).",Brasil,"Santa Catarina","São Bento do Sul",-26.2502994537354,-49.3786010742188,2012,01,01
+733,specieslink,"Hygrophila costata Nees","Saint-Hilaire, A.",,Brasil,,,,,,,
+734,specieslink,"Hygrophila costata Nees","Alves-da-Silva, SC- Bona, C- Padial, AA","Reservatório Piraquara II",Brazil,Paraná,Piraquara,-25.4416999816895,-49.0633010864258,,,
+735,specieslink,"Hygrophila costata Nees","Hatschbach, G- Barbosa, E- Hatschbach, G","rod. Pitanga Santa Maria do Oeste",Brasil,PR,"Santa Maria do Oeste",-24.9391994476318,-51.8624992370605,2014,08,
+736,specieslink,"Hygrophila costata Nees","Britez, RM","Fazenda do Durgo",Brazil,Paraná,"Sao Mateus do Sul",-25.8742008209229,-50.3828010559082,1986,01,08
+737,specieslink,"Hygrophila costata Nees","Maruffa, AC- Custodio Filho, A","Estação Biológica de Boracéia",Brasil,"São Paulo",Biritiba-Mirim,-23.644167,-45.881389,,,
+738,specieslink,"Hygrophila costata Nees","Leitão Filho, H.F.- Rodrigues, R.R.","Cerrado da Estação Experimental",Brazil,"São Paulo",Itirapina,-22.25,-47.8199996948242,1999,06,
+739,specieslink,"Hygrophila costata Nees","M.G. Caxambu","Parque Estadual Lago Azul (PELA)",Brasil,PR,"Campo Mourão",-24.09975,-52.333028,2011,04,28
+740,specieslink,"Hygrophila costata Nees","R. M. Klein","Saco Grande",Brasil,SC,Florianópolis,-27.596700668335,-48.5491981506348,2014,08,
+741,specieslink,"Hygrophila costata","Esther Bastos","UFOP/Ouro Preto/FUNED",Brasil,MG,"Ouro Preto",-20.288056,-43.508333,,,
+742,specieslink,"Hygrophila costata Nees","Hagelund, K","Granja Piratini",Brasil,RS,"Santo Ângelo",-28.2992000579834,-54.2630996704102,2014,08,
+743,specieslink,"Hygrophila costata Nees","Britez, R.M.","Fazenda do Durgo",Brasil,Paraná,"São Mateus do Sul",-25.8742008209229,-50.3828010559082,2009,05,26
+744,specieslink,"Hygrophila costata Nees","Gonzatti, F.","Próximo à Lagoa do Rincão",Brasil,"Rio Grande do Sul",Osório,-29.909097,-50.213692,2015,03,11
+745,specieslink,"Hygrophila costata Nees","Hatschbach, G.- Pott, A.- Pott, V.J.- Silva, J.M.",Terras,BRASIL,MT,CACERES,-16.0706005096436,-57.6789016723633,1995,,
+746,specieslink,"Hygrophila costata Nees","Schinini, A- Vanni, R",Playadito,Argentina,Corrientes,Ituzaingo,,,1993,,
+747,specieslink,"Hygrophila costata Nees","Hagelund, K","Granja Sodol",Brasil,RS,Giruá,-28.028299331665,-54.3497009277344,2014,08,
+748,specieslink,"Hygrophila costata Nees","Keller, HA",,Argentina,Misiones,Guarani,,,2000,08,
+749,specieslink,"Hygrophila costata","Oliveira, JE",,Brasil,"Minas Gerais","Além Paraíba",-21.8878002166748,-42.7043991088867,,,
+750,specieslink,"Hygrophila costata Nees","Hagelund, K","Granja Piratini",Brasil,RS,"Santo Ângelo",-28.2992000579834,-54.2630996704102,2014,08,
+751,specieslink,"Hygrophila costata Nees","Barbosa, E- Cunha, EM","Rio do Toldo",Brazil,"Santa Catarina",Itaiópolis,-26.3363990783691,-49.9063987731934,2005,,
+752,specieslink,"Hygrophila costata Nees","Irwin, HS","Corumbá de Goiás",Brasil,Goiás,"Corumbá de Goiás",-15.9236,-48.8086,,,
+753,specieslink,"Hygrophila costata","Magalhães, GM",,Brasil,"Minas Gerais","Santa Bárbara",-19.959400177002,-43.4152984619141,,,
+754,specieslink,"Hygrophila costata Nees","A. Kegler","Vila Cristina",Brasil,"Rio Grande do Sul","Caxias do Sul",-29.1681003570557,-51.1794013977051,2001,09,01
+755,specieslink,"Hygrophila costata Nees","M.G. Caxambu","Sítio Sete Quedas",Brasil,PR,Tibagi,-24.584222,-50.261278,2016,,
+756,specieslink,"Hygrophila costata Nees","Hatschbach, G","Rio Mauricio",Brazil,Paraná,Mandirituba,-25.7789001464844,-49.326099395752,1979,,
+757,specieslink,"Hygrophila costata Nees","Hagelund, K",,Brasil,SC,"São João do Sul",-29.2233009338379,-49.810001373291,2014,08,
+758,specieslink,"Hygrophila costata Nees","Cordeiro, J","Jardim Botânico Municipal, Área do JBM",Brazil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,2003,,
+759,specieslink,"Hygrophila costata Nees","Rambo, B.","Estação Azevedo",Brasil,RS,Montenegro,-29.6886005401611,-51.4611015319824,2014,08,
+760,specieslink,"Hygrophila costata Nees","Hatschbach, G","Rio Campo Real",Brazil,Paraná,Guarapuava,-25.395299911499,-51.4580993652344,1969,01,
+761,specieslink,"Hygrophila costata Nees","O.J. Pereira- J.M.L. Gomes- L. Behar- A.P.V.P. Paganotto","Iriri, afloramento rochoso à beira mar - até 20 m da maré mais alta. Área degradada.",Brasil,"Espírito Santo",Anchieta,-20.8057994842529,-40.6455993652344,2009,12,09
+762,specieslink,"Hygrophila costata Nees","Dombrowski, LT- Kuniyoshi, YS","Estrada da Graciosa, Alto da serra.",Brazil,Paraná,Morretes,-25.476900100708,-48.834400177002,2009,05,27
+763,specieslink,"Hygrophila costata Nees","Nagatani, Y","Estrada para o Pico do Itapeva.",Brazil,"São Paulo","Campos do Jordão",-22.7299995422363,-45.5900001525879,2002,04,
+764,specieslink,"Hygrophila costata Nees","Bartolomeu, JG",,Brazil,"São Paulo",Mongaguá,-24.0799999237061,-46.6199989318848,,,
+765,specieslink,"Hygrophila costata Nees","Rambo, B","Fazenda do Arroio perto de Osório",Brasil,RS,Osório,-29.8866996765137,-50.2696990966797,2014,08,
+766,specieslink,"Hygrophila costata Nees","Emrich, K.",Caracol,Brasil,RS,Canela,-29.3656005859375,-50.815601348877,2014,08,
+767,specieslink,"Hygrophila costata Nees","Nuernberg, A.- Mello, A.S.","Área de Relevante Interesse Ecológico (ARIE) Costeira de Zimbros.",Brasil,"Santa Catarina",Bombinhas,-27.1875,-48.5525,2012,02,01
+768,specieslink,"Hygrophila costata Nees","Klein, RM","Saco Grande, Ilha de Santa Catarina",Brazil,"Santa Catarina",Florianópolis,-27.596700668335,-48.5491981506348,1989,,
+769,specieslink,"Hygrophila costata Nees","Locatelli, E.","Brejo dos Cavalos",Brasil,Pernambuco,Caruaru,-8.28332996368408,-35.9761009216309,2011,08,15
+770,specieslink,"Hygrophila costata Nees","Hatschbach, G","Rio do Meio",Brazil,Paraná,Piraquara,-25.4416999816895,-49.0633010864258,1946,,
+771,specieslink,"Hygrophila costata Nees","Kozera, C- Dittrich, VA","Parque Barigui",Brazil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,1997,02,
+772,specieslink,"Hygrophila costata Nees","Wasum, R.A.","Linha São Paulo",Brasil,"Rio Grande do Sul","São Francisco de Paula",-29.4480991363525,-50.5835990905762,2001,06,
+773,specieslink,"Hygrophila costata Nees","Wasum, R.A.- Hatschbach, G.","Vicinal 9",Brasil,Paraná,"Paulo Frontin",-26.0396995544434,-50.8358001708984,2014,08,
+774,specieslink,"Hygrophila costata Nees","Hatschbach, G.","Córrego Maria do Carmo",Brasil,"Mato Grosso do Sul",Aquidauana,-20.4710998535156,-55.7872009277344,2011,04,14
+775,specieslink,"Hygrophila costata Nees.","Costa, ACD- Miura, AI","Gruta de Bacaetava",Brasil,Paraná,Colombo,-25.2917003631592,-49.2242012023926,,,
+776,specieslink,"Hygrophila costata Nees","Saint-Hilaire, A.",,Brasil,"São Paulo",,,,,,
+777,specieslink,"Hygrophila costata Nees","Wied-Neuwied, MAP Prince","Ad rivulos in uliginosis juxta Rio Paquaquer",Brazil,"Rio de Janeiro",Teresópolis,-22.41,-42.97,,,
+778,specieslink,"Hygrophila costata Nees","Borgo, M- Silva, SM","Ilha da Paca",Brazil,Paraná,Guaratuba,-25.8827991485596,-48.5746994018555,2005,,
+779,specieslink,"Hygrophila costata Nees","Corneli, VM","Praia de Mariscal",Brazil,"Santa Catarina",Bombinhas,-27.1380004882812,-48.5169982910156,2006,,
+780,specieslink,"Hygrophila costata Nees","O.R. Camargo",,Brasil,RS,Taquarí,-29.7996997833252,-51.8643989562988,2014,08,
+781,specieslink,"Hygrophila costata Nees","Chagas-Mota- J.W.A.Silva","Usina Serra D'Água.",Brasil,Alagoas,"Matriz do Camaragibe",,,2009,10,31
+782,specieslink,"Hygrophila costata Nees","Aona, L.Y.S.- Faria, A.D.- Matsumoto, K.- Galvão, J.C.- Belinello, R.","Lago localizado a margem direita da rodovia, Que da acesso a A. Florence.",Brazil,"São Paulo","Álvares Florence",-20.3199996948242,-49.9099998474121,2000,08,
+783,specieslink,"Hygrophila costata Nees","Sobral, M","Barra do Quaraí, Espinilho",Brazil,"Rio Grande do Sul",Uruguaiana,-29.7546997070312,-57.0882987976074,2011,04,28
+784,specieslink,"Hygrophila costata Nees","Sobral, M","Parque do Espinilho, Barra do Quaraí",Brasil,RS,Uruguaiana,-29.7546997070312,-57.0882987976074,2014,08,
+785,specieslink,"Hygrophila costata Nees","A. Krapovickas","Missiones, Iguazú, Puerto Peninsula",Arg,,,,,2014,08,
+786,specieslink,"Hygrophila costata Nees","Schneider, AA","Carazinho para Santa Bárbara",Brasil,RS,Carazinho,-28.336111,-52.896389,2014,08,
+787,specieslink,"Hygrophila costata Nees","Lorenzi, H.",,Brasil,"São Paulo",Apiaí,-24.5,-48.84,2002,01,23
+788,specieslink,"Hygrophila costata Nees","Dombrowski, LT",,Brazil,Paraná,Piraquara,-25.4416999816895,-49.0633010864258,1979,02,
+789,specieslink,"Hygrophila costata Nees","Silva, JM- Cordeiro, J",Areial,Brazil,Paraná,"São José dos Pinhais",-25.5347003936768,-49.2064018249512,1991,08,
+790,specieslink,"Hygrophila costata Nees","Falkenberg, DB- Souza, ML","Parque do Rio Vermelho, Ilha de Santa Catarina.",Brazil,"Santa Catarina",Florianópolis,-27.596700668335,-48.5491981506348,1994,12,28
+791,specieslink,"Hygrophila costata Nees","Ribas, O.S.",Taquara.,Brasil,Paraná,"Campo Largo",-25.4585990905762,-49.5283012390137,1905,06,12
+792,specieslink,"Hygrophila costata Nees","Hatschbach, G- Hatschbach, M- Barbosa, E","Rio do Pedro, Rodovia para Pitanga, próximo ao Rio do Pedro.",Brazil,Paraná,"Santa Maria do Oeste",-24.9391994476318,-51.8624992370605,2005,,
+793,specieslink,"Hygrophila costata Nees","Rambo, B.",,Brasil,RS,"São Leopoldo",-29.7602996826172,-51.1472015380859,2014,08,
+794,specieslink,"Hygrophila costata Nees","Souza, V.C. et al.",,Brasil,Goiás,"Nova Roma",-13.7419,-46.8803,,,
+795,specieslink,"Hygrophila costata Nees","Valduga, E",,Brazil,"Rio Grande do Sul",Cidreira,-30.085833,-50.233611,2012,,
+796,specieslink,"Hygrophila costata Nees.","W.O. Fonseca","Fazenda Sete Brejos, córrego sob a ponte",Brasil,Bahia,"Muniz Ferreira",-13.020667,-39.126444,,,
+797,specieslink,"Hygrophila costata Nees","J. C .Sacco",,Brasil,RS,Pelotas,-31.771900177002,-52.3424987792969,2015,08,
+798,specieslink,"Hygrophila costata Nees","J. Pivetta","Dr. Pestana",Brasil,RS,Ijuí,-28.3878002166748,-53.9146995544434,2014,08,
+799,specieslink,"Hygrophila costata Nees","Barbosa, E.- Silva, J.M.- Vaz, J.","Cachoeira Dito Salu",Brasil,"São Paulo","Barra do Turvo",-24.7563991546631,-48.5046997070312,2014,08,
+800,specieslink,"Hygrophila costata Nees","Funez, LA","centro da cidade.",Brazil,"Santa Catarina",Rodeio,-26.9228000640869,-49.3664016723633,,,
+801,specieslink,"Hygrophila costata Nees","Shirasuna, RT","Rodoanel Mário Covas, Trecho Sul, Lote 5",Brasil,"São Paulo",Embu,-23.6399993896484,-46.8499984741211,2009,10,16
+802,specieslink,"Hygrophila costata Sinning","H. Lorenzi","Em canais de drenagem com terreno pantanoso.",Brasil,RS,"Pantano Grande",-30.1914,-52.3736,2003,03,11
+803,specieslink,"Hygrophila costata Nees","Hagelund, K",,Brasil,RS,Torres,-29.3353004455566,-49.7268981933594,2015,03,
+804,specieslink,"Hygrophila costata Nees","Tessmann, G",,Brazil,Paraná,Piraquara,-25.4416999816895,-49.0633010864258,,,
+805,specieslink,"Hygrophila costata Nees","Silva Filho, PJS","Bairro Tarumã região de entorno do Lago Tarumã.-30.071452 -51.021645",Brasil,RS,Viamão,-30.071389,-51.021389,2014,08,
+806,specieslink,"Hygrophila costata",,,BRAZIL,,,-10.8339,-52.8731,,,
+807,specieslink,"Hygrophila costata Nees","Nuernberg, A.- Mello, A.S.","Área de Relevante Interesse Ecológico (ARIE) Costeira de Zimbros.",Brasil,"Santa Catarina",Bombinhas,-27.1875,-48.5525,2012,01,28
+808,specieslink,"Hygrophila costata Nees","Souza, J.P.- Mendes, J.C.T.- Ferraz, K.M.B.- Ferraz, S.F.B.- Silva, E.V.- Valente, R.","Praia da baleia, Rua Olavo Pazzanesi, 100m da antiga Rio-Santos, remanescente margeando loteamentos.",Brazil,"São Paulo","São Sebastião",-23.774361,-45.665083,2000,05,
+809,specieslink,"Hygrophila costata Nees","Monteiro, H","Cortiço, à margem de uma estrada.",Brasil,"Rio de Janeiro",Petrópolis,-22.5049991607666,-43.1786003112793,2006,05,30
+810,specieslink,"Hygrophila costata Nees","Pott, V. J.- Pott, A.- Sartori, A.L.B.- Lima, L.C.P.","Córrego Arara, 9Km SE de Rio Brilhante a Ipezal",BRASIL,MS,"Rio Brilhante",-21.844444,-54.487222,2002,05,
+811,specieslink,"Hygrophila costata Nees","Kegler, A.","Vila Cristina",Brasil,"Rio Grande do Sul","Caxias do Sul",-29.1681003570557,-51.1794013977051,2001,09,
+812,specieslink,"Hygrophila brasiliensis (Spreng.) Lindau","O. Zagatto",,Brasil,"São Paulo",Campinas,-22.9056,-47.0608,1940,04,15
+813,specieslink,"Hygrophila brasiliensis Wassh.","Zagatto, O.",,Brazil,"São Paulo",Campinas,-22.8999996185303,-47.060001373291,1940,04,15
+814,specieslink,"Hygrophila brasiliensis (Spreng.) Lindau","J. Santoro","Rua Paula Bueno",Brasil,"São Paulo",Campinas,-22.9056,-47.0608,1936,08,25
+815,specieslink,"Hygrophila brasiliensis (Spreng.) Lindau","A.P. Viégas","IAC, Estação Experimental (Horto)",Brasil,"São Paulo",Ubatuba,-23.4339,-45.0711,1940,04,15
+816,specieslink,"Hygrophila guianensis Nees","Martins, E.M.P.",,Brasil,"São Paulo","São José do Rio Preto",-20.8199996948242,-49.3699989318848,1966,,
+817,specieslink,"Hygrophila guianensis Nees","Belém, RP","Rodovia Itabuna, plantação de cacau.",Brasil,Bahia,Uruçuca,-14.5930995941162,-39.2844009399414,1969,,
+818,specieslink,"Hygrophila guianensis Nees ex Benth.","K.Kawakita- J.M.Garcia- J.G.Servilheri- Rosa, G.S.- Silva, A.S.","rio Baía, lagoa do Guaraná",Brasil,"Mato Grosso do Sul",Taquarussu,-22.720889,-53.304333,2010,11,
+819,specieslink,"Hygrophila guianensis Nees ex Benth.","Cervi, A.C.","Cataratas do Iguaçu",Brasil,Paraná,"Foz do Iguaçu",-25.5478000640869,-54.5881004333496,1995,11,09
+820,specieslink,"Hygrophila guianensis Benth.","Pedralli, G- Meyer",,Brasil,"Minas Gerais",Sacramento,-19.8652992248535,-47.439998626709,,,
+821,specieslink,"Hygrophila guianensis Nees","Ribas, OS- Labiak, P- Petean, MP","Rio Iguaçu",Brasil,Paraná,"Capitão Leônidas Marques",-25.4792003631592,-53.614200592041,2004,,
+822,specieslink,"Hygrophila guianensis Nees","Irwin, HS","Ca. 5km E. of Parado das Batistas. Elev. ca. 625m.",Brasil,"Minas Gerais",,,,1972,,
+823,specieslink,"Hygrophila guianensis Nees ex Benth.","Hatschbach, G.","Porto de Cima",Brasil,Paraná,Morretes,-25.476900100708,-48.834400177002,,,
+824,specieslink,"Hygrophila guianensis Nees","Paula-Souza, J.- Ferrucci, M.S.- Rando, J.G.- Meza Torres, E.I.","Ruta 12 em direção a Mercedes, 200m antes da ponte do Rio Santa Luzia. Palmar com Butia, solo arenoso inundável",Argentina,Corrientes,"Bella Vista",58.7179,28.5564,,,
+825,specieslink,"Hygrophila guianensis",,,BRAZIL,,,-10.8339,-52.8731,,,
+826,specieslink,"Hygrophila guianensis Nees","T. S. dos Santos","Area do CEPEC.",Brasil,Bahia,ILHÉUS,-14.7889,-39.0494,,,
+827,specieslink,"Hygrophila guianensis Nees","E. de Oliveira","Rio JarÃ­- entrada do Rio CaracurÃº.",Brasil,ParÃ¡,,-0.9359018,-52.4391067,,,
+828,specieslink,"Hygrophila guianensis Nees","Hatschbach, G.","Rio Mauricio.",Brazil,Paraná,Mandirituba,-25.7789001464844,-49.326099395752,,,
+829,specieslink,"Hygrophila guianensis Nees","J. C. Lindeman","Guaira, 7 Quedas. Last islet in the rapids.",Brasil,ParanÃ¡,GuairÃ¡,-24.08,-54.2556,,,
+830,specieslink,"Hygrophila guianensis Nees ex Benth.","Hatschbach, G.",Piraputanga,Brasil,"Mato Grosso do Sul",Aquidauana,-20.4710998535156,-55.7872009277344,1971,01,01
+831,specieslink,"Hygrophila guianensis Nees","Sobral, M","Espinilho, Barra do Quaraí",Brasil,"Rio Grande do Sul",Uruguaiana,-29.7546997070312,-57.0882987976074,,,
+832,specieslink,"Hygrophila guianensis Nees ex Benth.","Pott, V. J.- Pott, A.- Arantes, A.",Pantanal,BRASIL,MS,CORUMBÁ,-18.678611,-56.896944,1998,05,
+833,specieslink,"Hygrophila guianensis Nees","H. S. Irwin","Chapada dos Veadeiros, Alto Paraíso (formerly Veadeiros)",Brasil,Goiás,"Alto Paraíso de Goiás",-14.1167,-47.5167,,,
+834,specieslink,"Hygrophila guianensis Nees ex Benth.","Pott, A.- Silva, J.S.V. da",Terras,BRASIL,MS,ITAPORA,-21.833333,-54.7,1996,11,
+835,specieslink,"Hygrophila guianensis Ness","Silva, J.M.- Barbosa, E.- Barbosa, E.","Rodovia Porto Murtinho para Bonito, Fazenda Santa Margarida",Brasil,"Mato Grosso do Sul","Porto Murtinho",-21.6989002227783,-57.8824996948242,2009,,
+836,specieslink,"Hygrophila guianensis Nees","Howard S. Irwin|R. Reis dos Santos|R. Souza|S.F. da Fonsêca","Gallery shade. Cerrado and gallery woods in steep rocky gorge, Alto do Paraiso (formerly Veadeiros)",Brazil,,,,,1970,,
+837,specieslink,"Hygrophila guianensis Nees ex Benth.","L.M.Garcia- Almeida, C.G.- Rosa, G.S.- K.Kawakita- L.M.Garcia- Rodrigues, S.","rio Paraná, ilha Porto Rico, ressaco do Leopoldo, margem direita.",Brasil,Paraná,"Porto Rico",-22.756667,-53.288833,2011,10,
+838,specieslink,"Hygrophila guianensis Nees","Sobral, M","Banhado Toropi, Banhado Toropi.",Brasil,"Rio Grande do sul","São Pedro do Sul",-29.6206,-54.1789,1985,,
+839,specieslink,"Hygrophila guianensis Nees","C. A. Cid Ferreira","Chapada dos Parecís, Distrito de Alta Floresta, estrada P-56, km 17",Brasil,Rondônia,"Costa Marques",-11.2,-63.05,,,
+840,specieslink,"Hygrophila guianensis Nees ex Benth.","K.Kawakita- et al.","rio Paraná, ilha Porto Rico, lagoa da Figueira",Brasil,Paraná,"Porto Rico",-22.7721996307373,-53.2668991088867,2001,,
+841,specieslink,"Hygrophila guianensis Nees.","Costa, ACD- Miura, AK","Gruta de Bacaetava",Brasil,Paraná,Colombo,-25.2917003631592,-49.2242012023926,,,
+842,specieslink,"Hygrophila guianensis Nees","Howard S. Irwin|R. Souza|J.W. Grear|R. Reis dos Santos","Serra do Morcego- Creek margin- Corrego Estrema, ca 35km NE of Formosa, Goias.",Brazil,Goiás,,,,1967,,
+843,specieslink,"Hygrophila guianensis Nees","Falkenberg, DB- Stehmann, JR- Vieira, AOS","Beira do rio Camaquã,junto à balsa, Junto à balsa",Brasil,"Rio Grande do Sul","Amaral Ferrador",-30.8782997131348,-52.2574996948242,2009,05,30
+844,specieslink,"Hygrophila guianensis Nees","Lyman B. Smith|H. P. Veloso","Brusque. Matto do Hoffmann",Brazil,"Santa Catarina",,,,,,
+845,specieslink,"Hygrophila guianensis Nees","Ferreira, CAC","BR174, Chapada dos Parecís, Alta Floresta, P56 km, Chapada dos Parecís, Distrito de Alta Floresta, estrada P-56, km 17",Brasil,Rondônia,"Costa Marques",-11.2,-63.05,1988,,
+846,specieslink,"Hygrophila guianensis Benth.",,,,,,,,,,
+847,specieslink,"Hygrophila guianensis Nees ex Benth","Miranda, A.M.","Floresta Nacional do Araripe, próx. à nascente",Brasil,Ceará,Crato,-7.23416996002197,-39.4094009399414,2012,11,05
+848,specieslink,"Hygrophila guianensis Nees","H. S. Irwin","Serra da Anta, summit of chapada, ca. 10 km S.E. of Paracatu",Brasil,"Minas Gerais",Paracatu,-17.2787,-46.80175,,,
+849,specieslink,"Hygrophila guianensis Nees","Hoehne, FC",,Brasil,"Minas Gerais","Pouso Alegre",-22.2299995422363,-45.9364013671875,2006,,
+850,specieslink,"Hygrophila guianensis Nees","C.A. Cid Ferreira|J. Lima|José Guedes|José Henrique Rocha Coelho","Mun de Costa Marques, chapada dos parecis, Dtto: de Alta Floresta, estra P-56, km 17.Mata de terra firme, solo argilo-arenoso.",Brazil,Rondônia,,-11.2,-62.6166667,1988,,
+851,specieslink,"Hygrophila guianensis Nees ex Benth.","L.P. de Queiroz- R. Salas- W. Medina","Primeiro de Mayo: ca. 4,5 km da Ruta 11 na estrada",Argentina,Chaco,,-27,-58,2008,,
+852,specieslink,"Hygrophila guianensis Nees ex Benth.","K.Kawakita- Almeida, C.G.- Rosa, G.S.- J.M.Garcia- L.M.Garcia- Rodrigues, S.","rio Samambaia, margem direita",Brasil,"Mato Grosso do Sul",Batayporã,-22.483333,-53.066667,2011,,
+853,specieslink,"Hygrophila guianensis Nees ex Benth.","Bona, C.","Fazenda Santa Cândida, Banhado do Lago Curicaca.",Brasil,Paraná,"General Carneiro",-26.4274997711182,-51.315601348877,2008,07,04
+854,specieslink,"Hygrophila guianensis Nees ex Benth.","O.S. Ribas","Rio Iguaçu",Brasil,PR,"Capitão Leônidas Marques",-25.4792003631592,-53.614200592041,2004,,
+855,specieslink,"Hygrophila guianensis Nees ex Benth.","J.M. Silva","Rodovia Porto Murtinho para Bonito",Brasil,MS,"Porto Murtinho",-21.6989002227783,-57.8824996948242,2009,,
+856,specieslink,"Hygrophila guianensis Nees ex Benth.","Reitz, R.- Klein, R.M.","Passo do Socorro.",Brasil,"Santa Catarina",Lages,-27.8160991668701,-50.326099395752,1905,05,21
+857,specieslink,"Hygrophila guianensis Nees ex Benth.",K.Kawakita,"rio Paraná, ressaco do Leopoldo",Brasil,Paraná,"Porto Rico",-22.7721996307373,-53.2668991088867,2000,09,
+858,specieslink,"Hygrophila guianensis",,,BRAZIL,,,-10.8339,-52.8731,,,
+859,specieslink,"Hygrophila guianensis Nees ex Benth.","Pott, A.",Pantanal,BRASIL,MT,POCONÉ,-16.15,-56.266667,,,
+860,specieslink,"Hygrophila guianensis Nees ex Benth.",J.Milne,"rio Paraná, island Carioca",Brasil,Paraná,"Porto Rico",-22.7721996307373,-53.2668991088867,2002,12,
+861,specieslink,"Hygrophila guianensis Nees","Marchiori, J. N. C.","Arroio do Salso",Brasil,"Rio Grande do Sul","São Gabriel",-30.3364,-54.32,1986,04,01
+862,specieslink,"Hygrophila guianensis Nees","H. S. Irwin","Rio Oiapoque, Near second Cachoeira on Rio Iaue, about 3 km east of confluence with Rio Oiapoque.",Brasil,AmapÃ¡,,2.88,-52.37,,,
+863,specieslink,"Hygrophila guianensis Nees ex Benth.","Pott, V. J.- Foster, R.",Pantanal,BRASIL,MS,Aquidauana,-20.072778,-55.512778,,,
+864,specieslink,"Hygrophila guianensis Nees ex Benth.","Hatschbach, G.",,Brasil,Paraná,Pinhais,-25.4447002410889,-49.1925010681152,1958,01,01
+865,specieslink,"Hygrophila guianensis Nees","Gallinal, R- et al.","Estancia Rincon de Santa Elena, Rio Yi entre Arroios Timote y Mansavillagra",Uruguai,Florida,,,,,,
+866,specieslink,"Hygrophila guianensis Nees ex Benth.","A.M.Miranda- D.Lima","Floresta Nacional do Araripe",Brasil,Ceará,Crato,-7.23416996002197,-39.4094009399414,2012,11,05
+867,specieslink,"Hygrophila guianensis Nees ex Benth.","K.Kawakita- Ma.C.Souza- Vianna, L.F.- Rosa, G.S.","rio Baía, lagoa Maria Luiza, margem direita- lagoa conectada ao rio Baía",Brasil,"Mato Grosso do Sul",Batayporã,-22.675,-53.219722,2008,10,
+868,specieslink,"Hygrophila guianensis Nees","Gert G. Hatschbach|O. V. Guimarães","Corrego Maria do Carmo (mun Aquidauana)",Brazil,"Mato Grosso",,,,1969,,
+869,specieslink,"Hygrophila guianensis Nees ex Benth.",Ma.C.Souza,"Lagoa na Ilha dos Porcos, Rio Paraná",Brasil,Paraná,"Porto Rico",-22.7721996307373,-53.2668991088867,2001,,
+870,specieslink,"Hygrophila guianensis Nees ex Benth.","Labiak, P.H.","Parque Nacional do Iguaçu, Ilhas acima das Cataratas.",Brasil,Paraná,"Foz do Iguaçu",-25.601667,-54.361111,2007,01,
+871,specieslink,"Hygrophila guianensis Benth.",,,,,,,,,,
+872,specieslink,"Hygrophila guianensis Nees ex Benth.","Pott, A.- Pott, V.J.- Bueno, N.C.",Pantanal,BRASIL,MS,Aquidauana,-20.166667,-55.716667,1995,11,
+873,specieslink,"Hygrophila guianensis Nees ex Benth.","Ma.C.Souza- K.Kawakita- Vianna, L.F.- Rosa, G.S.","rio Baía, ilha do Aurélio, margem direita- em frente à ilha",Brasil,"Mato Grosso do Sul",Batayporã,-22.683333,-53.216667,2008,10,
+874,specieslink,"Hygrophila guianensis Nees ex Benth.","Pott, V. J.- Pott, A.",Terras,BRASIL,MS,MIRANDA,-19.954444,-56.305278,,,
+875,specieslink,"Hygrophila guianensis Nees","G. B. Scherer",Pedreira.,Brasil,"Rio Grande do Sul","Bom Retiro do Sul",-30.068211,-52.958489,2016,02,15
+876,specieslink,"Hygrophila guianensis Nees","J. M. Pires","Rio Jamari, Cachoeira de Santa Cruz.",Brasil,RondÃ#?#nia,,,,,,
+877,specieslink,"Hygrophila guianensis Nees","A. M. Miranda","Floresta Nacional do Araripe.",Brasil,CearÃ¡,Crato,-7.2344,-39.4092,,,
+878,specieslink,"Hygrophila guianensis","J. M. Vimercat","Vargem Alta",Brasil,"Espírito Santo","Santa Teresa",-19.915556,-40.65,,,
+879,specieslink,"Hygrophila guianensis Nees","Irwin, HS",Formosa,Brasil,Goiás,Formosa,-15.5372,-47.3344,,,
+880,specieslink,"Hygrophila guianensis Nees ex Benth.","Padovani, C. R.",Pantanal,BRASIL,MS,CORUMBÁ,-18.74,-57.047778,1996,12,
+881,specieslink,"Hygrophila guianensis Nees","Foster, RB","Parque Nacional Manu. Rio Manu: Cocha Cashu Station. Low floodplain forest.",Peru,"Madre de Dios",Manu,-11.883333,-71.383333,1987,,
+882,specieslink,"Hygrophila guianensis Nees","W. Ganev","Engenho de Baixo. Flora de CatolÃ©s.",Brasil,Bahia,AbaÃ­ra,-13.32,-41.82,,,
+883,specieslink,"Hygrophila guianensis Nees","V.J. Pott","Fazenda Taboco. Rio Taboco. Próximo à ponte da sede. Sub-região de Aquidauana. Pantanal.",Brasil,"Mato Grosso do Sul",Aquidauana,-20.072778,-55.512778,,,
+884,specieslink,"Hygrophila guianensis Nees ex Benth.","Pott, V. J.- Foster, R.- Damaceno Junior, G.A.- Resende, U. (ou Resende, V.)",Terras,BRASIL,MS,"RIO NEGRO",-19.439444,-55.017778,1998,09,
+885,specieslink,"Hygrophila guianensis Nees ex Benth.","Bona, C.","Fazenda Santa Cândida, Baía das Capivaras, Lago Curicaca.",Brasil,Paraná,"General Carneiro",-26.4274997711182,-51.315601348877,2007,03,
+886,specieslink,"Hygrophila guianensis Nees","Foster, RB",,?,,,,,1987,,
+887,specieslink,"Hygrophila guianensis Nees ex Benth.","Pott, A.- Franco, A.A.",Terras,BRASIL,MS,Anastácio,-20.483333,-55.8,1995,11,
+888,specieslink,"Hygrophila guianensis","Paula-Souza, J.- Ferrucci, M.S.- Rando, J.G.- Meza Torres, E.I.","Ruta 126, ca. 10km de Paso Ledesma. Arredores do Ayo. Ayui. Espinal",Argentina,Corrientes,"Paso de los Libres",57.5243,29.8363,2007,,
+889,specieslink,"Hygrophila guianensis",,,BRAZIL,,,-10.8339,-52.8731,,,
+890,specieslink,"Hygrophila guianensis Nees","J. M. Pires","Place 7, ilhas, right side of RioCalcoene, vic. city of CalÃ§oene.",Brasil,AmapÃ¡,,2.5,-50.92,,,
+891,specieslink,"Hygrophila guianensis Nees ex Benth.","K.Kawakita- Ma.C.Souza- Vianna, L.F.- Rosa, G.S.","rio Baía, margem direita- próximo á Ilha do Aurélio",Brasil,"Mato Grosso do Sul",Batayporã,-22.683333,-53.216667,2008,10,
+892,specieslink,"Hygrophila guianensis Nees ex Benth.","Hatschbach, G.","Córrego Maria do Carmo",Brasil,"Mato Grosso do Sul",Aquidauana,-20.4710998535156,-55.7872009277344,1969,01,01
+893,specieslink,"Hygrophila guianensis Nees","A. Pott","Fazenda Pena Verde, 39 Km de Aquidauana, Estrada MS 419.",Brasil,"Mato Grosso do Sul",Aquidauana,-20.166667,-55.716667,1995,11,
+894,specieslink,"Hygrophila guianensis Nees ex Benth.","Falkenberg, D.B.- Stehmann, J.R. & Vieira, A.O.","Beira do rio Camaquã, junto à balsa.",Brasil,"Rio Grande do Sul","Amaral Ferrador",-30.8782997131348,-52.2574996948242,1905,06,16
+895,specieslink,"Hygrophila guianensis Nees ex Benth.","Ribas, O.S.","Rio Iguaçu",Brasil,Paraná,"Capitão Leônidas Marques",-25.4792003631592,-53.614200592041,2004,01,01
+896,specieslink,"Hygrophila guianensis Nees ex Benth.","Pott, A.",Pantanal,BRASIL,MT,POCONÉ,-18.7,-56.783333,1991,11,
+897,specieslink,"Hygrophila cf. guianensis Nees","A. Pott","Base de Pesquisa da UFMS: Passo do Lontra- Rio Miranda- Pantanal",Brasil,"Mato Grosso do Sul",Corumbá,-19.0091991424561,-57.6533012390137,,,
+898,specieslink,"Hygrophila helodes Nees","Gardner, G.",,Brazil,Ceará,,-5.40277778,-39.32527778,,,
+899,specieslink,"Hygrophila helodes Nees","Cervi, A.C.",Solitude.,Brasil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,2007,01,01
+900,specieslink,"Hygrophila helodes Nees","DALL'AGNOL, C.",,Brasil,RS,"Marcelino Ramos",-27.4617004394531,-51.9063987731934,,,
+901,specieslink,"Hygrophila helodes Nees","Isabelle, A.",,Brazil,"Rio Grande do Sul",,-29.71027778,-53.65388889,,,
+902,specieslink,"Hygrophila helodes Nees","DALL'AGNOL, C.",,Brasil,RS,"Marcelino Ramos",-27.4617004394531,-51.9063987731934,,,
+903,specieslink,"Hygrophila helodes Nees","Gerrit Davidse|T.P. Ramamoorthy|Daniel M. Vital","2 km E of Cascavel along Highway BR-277 to Curitiba.",Brazil,Paraná,,-24.9737,-53.3918,1977,,
+904,specieslink,"Hygrophila helodes Nees","Wilson Hoehne",Jaragua.,Brazil,"São Paulo",,,,,,
+905,specieslink,"Hygrophila helodes Nees","R. Reitz","Piloes, Santo Amaro da Imperatriz.",Brasil,"Santa Catarina","Santo Amaro da Imperatriz",-27.6883,-48.7783,,,
+906,specieslink,"Hygrophila helodes Nees","L. Roth",,Brasil,,"Santo Amaro",-12.5466995239258,-38.7118988037109,,,
+907,specieslink,"Hygrophila helodes Nees","Reitz, R.- Klein, R.M.","Rio Castelhanos.",Brasil,"Santa Catarina",Caçador,-26.7752990722656,-51.0149993896484,,,
+908,specieslink,"Hygrophila helodes Nees","Cordeiro, J- Silva, JM da","Parque Iguaçu",Brasil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,1986,07,
+909,specieslink,"Hygrophila helodes Nees","Klein, R. M.",,Brazil,,,-10.77305556,-53.08972222,,,
+910,specieslink,"Hygrophila helodes Nees","Martius, CFP","In paludosis ad urbem S. Pauli",Brazil,"São Paulo",,,,,,
+911,specieslink,"Hygrophila helodes",,,BRAZIL,,,-10.8339,-52.8731,,,
+912,specieslink,"Hygrophila helodes Ness",,.,Brasil,RS,Alvorada,-29.99,-51.0833333,,,
+913,specieslink,"Hygrophila helodes","G. Gardner",,BRAZIL,,,-10.8339,-52.8731,,,
+914,specieslink,"Hygrophila helodes Nees","Saint-Hilaire, A. de",,Brasil,,,,,,,
+915,specieslink,"Hygrophila helodes Nees","L. B. Smith","Rio Caveiras, Estrada da Rodagem Federal km 8 south of Lajes.",Brasil,"Santa Catarina",Lages,-27.8161,-50.3258,,,
+916,specieslink,"Hygrophila helodes Nees","Bresolin, A.","Rio Vermelho, próximo camping, Ilha de Santa Catarina.",Brasil,"Santa Catarina",Florianópolis,-27.596700668335,-48.5491981506348,1905,06,07
+917,specieslink,"Hygrophila helodes Nees","Cordeiro, J.","Parque Iguaçu",Brasil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,1986,07,
+918,specieslink,"Hygrophila helodes Nees","Sellow, F","In paludosis ad urbem S. Pauli",Brazil,"São Paulo",,,,,,
+919,specieslink,"Hygrophila helodes Nees in Mart.","G. Gardner",,Brazil,Ceará,,,,,,
+920,specieslink,"Hygrophila helodes Ness",,"RS 486, entre Terra de Areia e Tainhas.",Brasil,RS,Osório,-29.8869444,-50.2694444,,,
+921,specieslink,"Hygrophila helodes","G. Gardner",,BRAZIL,,,-10.8339,-52.8731,,,
+922,specieslink,"Hygrophila helodes Nees","ZANIN, E. M.","ESTREITO AUGUSTO CÉSAR",Brasil,RS,"Marcelino Ramos",-27.4617004394531,-51.9063987731934,,,
+923,specieslink,"Hygrophila helodes Nees","W. Hoehne","PrÃ³ximo Ã  JaraguÃ¡",Brasil,"SÃ£o Paulo","Sao Paulo",-23.5403,-46.63,,,
+924,specieslink,"Hygrophila helodes Nees","Irmão (Brother) Teodoro Luis",Canoas.,Brazil,"Rio Grande do Norte",,,,1969,,
+925,specieslink,"Hygrophila helodes Nees","R. Reitz","Pirao Frio, Sombrio",Brasil,"Santa Catarina",Sombrio,-29.1142,-49.6167,,,
+926,specieslink,"Hygrophila helodes Nees","Lyman B. Smith|Roberto M. Klein","Porto Uniao: Bog, between Fazenda Frei Rogerio and Rio Pintado, SE of Porto Uniao.",Brazil,"Santa Catarina",,,,,,
+927,specieslink,"Hygrophila helodes Nees","Cordeiro, J. & J. M. Silva",,Brazil,Paraná,Curitiba,-25.45527778,-49.26277778,,,
+928,specieslink,"Hygrophila helodes Nees","DALL'AGNOL, C.",,Brasil,RS,"Marcelino Ramos",-27.4617004394531,-51.9063987731934,,,
+929,specieslink,"Hygrophila helodes Nees","J. Cordeiro","Jardim Botânico Municipal.",Brasil,Paraná,Curitiba,-25.4277992248535,-49.2731018066406,,,
+930,specieslink,"Hygrophila helodes Nees","Lyman B. Smith|Roberto M. Klein","Caçador. 8 km N de Caçador, banhado",Brazil,"Santa Catarina",,,,,,
+931,specieslink,"Hygrophila helodes Nees","Reitz, R.- Klein, R.M.","Rio Castelhanos.",Brasil,"Santa Catarina",Caçador,-26.7752990722656,-51.0149993896484,,,
+932,specieslink,"Hygrophila helodes Ness",,,,,,,,,,
+933,specieslink,"Hygrophila helodes Nees","Hoehne, W","Próximo a Jaraguá.",Brasil,"São Paulo","São Paulo",-23.5400009155273,-46.6300010681152,1942,,
+934,specieslink,"Hygrophila helodes Nees","G. Gardner",Brasilia,Brasil,,,,,,,
+935,specieslink,"Hygrophila helodes",,,BRAZIL,,,-10.8339,-52.8731,,,
+936,specieslink,"Hygrophila helodes Ness",,,,,,,,,,
+937,specieslink,"Hygrophila helodes","F. Sellow",,BRAZIL,,,-10.8339,-52.8731,,,
+938,specieslink,"Justicia comata (L.) Lam.","Grupo Flora ""Pedra do Cavalo""","Estação da EMBASA, Vale dos Rios Paraguaçu e Jacuípe.",Brasil,Bahia,Cachoeira,-12.533333,-39.083333,2006,08,23
+939,specieslink,"Justicia comata (L.) Lam.","G. B. Scherer",Pedreira.,Brasil,"Rio Grande do Sul","Bom Retiro do Sul",-30.068211,-52.958489,2016,02,18
+940,specieslink,"Justicia comata (L.) Lam.","Amaral, IL do","Rio Tapajós, No meio do Rio Tapajós",Brasil,Pará,Itaituba,-4.27611,-55.9836,2013,07,30
+941,specieslink,"Justicia comata",,,BRAZIL,,,-10.8339,-52.8731,,,
+942,specieslink,"Justicia comata (L.) Lam.","Prance, GT","Rio Curuquetê, São Paulo, 30 km. above mouth of rio Coti. Forest by rapds.",Brasil,Amazonas,,,,1993,,
+943,specieslink,"Justicia comata",,,BRAZIL,,,-10.8339,-52.8731,,,
+944,specieslink,"Justicia comata (L.) Lam.","Calzada, JI","Jacatepae Carretara al río Monte Negro, entrada antes de la desviación a Playa Vicente",Mexico,Oaxaca,"Santa Maria",,,2002,,
+945,specieslink,"Justicia comata (L.) Lam.","J.-J. de Granville, P. Acevedo-Rodriguez, A. Boyer & L. Hollenberg","Rivière Haut Jari",Brazil,Amapá,,2.46,-54.76,,,
+946,specieslink,"Justicia comata (L.)Lam.","J. A. de Jesus","Área do CEPEC.",Brasil,Bahia,ILHÉUS,-14.7889,-39.0494,,,
+947,specieslink,"Justicia comata (L.) Lam.","Santos, JL dos","Estrada Manuel Urbano, rio Caeté. Mata de várzea, sujeiota a inundação temporária.",Brasil,Acre,"Sena Madureira",-9.06556,-68.6569,1990,11,
+948,specieslink,"Justicia comata (L.) Lam","Silva, S.S. da","Vasco da Gama, Rua Alto do Eucalipto",Brasil,Pernambuco,Recife,-8.05389,-34.8811,,,
+949,specieslink,"Justicia comata (L.) Lam.","M.G. Caxambu","Parque Nacional do Iguaçu - Trilha da",Brasil,PR,"Foz do Iguaçu",-25.620861,-54.470306,2015,07,24
+950,specieslink,"Justicia comata (L.) Lam.","Prance, GT","San Tomoz, rio Marañon, below Peruate, river bank.",Peru,Loreto,,,,1990,11,
+951,specieslink,"Justicia comata",,,BRAZIL,,,-10.8339,-52.8731,,,
+952,specieslink,"Justicia comata (L.) Lam.","Hatschbach, G.","Parque Nacional do Iguaçu - Barra do Rio São João",Brasil,Paraná,"Foz do Iguaçu",-25.5478000640869,-54.5881004333496,2009,05,26
+953,specieslink,"Justicia comata (L.) Lam.","Granville, JJ de","Roche Koutou - Bassin du Haut-Marouini. Pied de la face Nord de l'inselberg.","French Guiana",,Cayenne,2.866667,-54.066667,2000,,
+954,specieslink,"Justicia comata (L.) Lam.","Rambo, B.","Ilha da Pintada",Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,2014,08,
+955,specieslink,"Justicia comata (L.) Lam.","Damasceno Júnior, G.A.- Pott, A.- et al.","Passo do Lontra, Próximo à margem do Rio Miranda.",Brasil,"Mato Grosso do Sul",Corumbá,-19.0091991424561,-57.6533012390137,,,
+956,specieslink,"Justicia comata (L.) Lam.","Matzenbacher, NI","Fazenda São Maximiano, BR-116 Km 302",Brasil,RS,Guaíba,-30.113899230957,-51.3250007629395,2014,08,
+957,specieslink,"Justicia comata (L.) Lam.","R.M. Harley","Belmonte, on SW outskirts of town- disturbed restings, riverside pasture and roadsides.",Brazil,Bahia,,-15.86666,-38.88333,1975,,
+958,specieslink,"Justicia comata (L.) Lam.","Souza, HC de","Campus do INPA, Campus do INPA. Capoeira, solo argiloso.",Brasil,Amazonas,Manaus,-3.10194,-60.025,1987,,
+959,specieslink,"Justicia comata (L.) Lam.","Rambo, B.",Charqueadas,Brasil,RS,"São Jerônimo",-29.9591999053955,-51.7221984863281,2015,03,
+960,specieslink,"Justicia comata (L.) Lam.","Hatschbach, G","Rio Branco",Brazil,Bahia,Barreiras,-12.1527996063232,-44.9900016784668,1981,,
+961,specieslink,"Justicia comata (L.) Lam.","Rambo, B.",Conceição,Brasil,RS,"São Sebastião do Caí",-29.5867004394531,-51.3755989074707,2014,08,
+962,specieslink,"Justicia comata (L.) Lam.","Belém, RP","Centro de Pesquisa do Cacau (CEPEC).",Brasil,Bahia,Ilhéus,-14.7889003753662,-39.0494003295898,1969,,
+963,specieslink,"Justicia comata (L.)Lam.","J. L. Hage","Quadra A'. Margem do braço do Rio Cachoeira. Área de lazer.",Brasil,Bahia,ILHÉUS,-14.7889,-39.0494,,,
+964,specieslink,"Justicia comata (L.) Lam.","Rabelo, B.V.","Braço do rio Macacoari. Mata de terra firme.",Brasil,Amapá,Macapá,-0.366667,-51.0664,1981,01,01
+965,specieslink,"Justicia comata (L.) Lam.","Ghillean T. Prance","Rio Solimoes and Rio Javaril- Ilha Aramarca, almost opposite Tabatinga- Varzea forest, white water flooded.",Brazil,Amazonas,,,,1979,,
+966,specieslink,"Justicia comata (L.) Lam.","Apparicio P. Duarte","Parque Nacional do Uguazú",Brazil,Paraná,,,,,,
+967,specieslink,"Justicia comata (L.) Lam.","Hatschbach, G- Hatschbach, M- Barbosa, E","Fazenda Lagoão Fechado",Brazil,"Mato Grosso do Sul",Miranda,-20.2406005859375,-56.3782997131348,2005,,
+968,specieslink,"Justicia comata (L.) Lam","Damasceno Junior, G.A.- Pott, A.- Alunos do Mestradao em Botânica - UFMS","Passo da Lontra-próximo a margem do Rio Miranda-",Brazil,"Mato Grosso do Sul",Corumbá,-19.0091991424561,-57.6533012390137,,,
+969,specieslink,"Justicia comata (L.) Lam.","Cervi, A. C.- Pott, A.- Pott, V.J.- Dunaiski Jr., A.",Terras,BRASIL,PR,"FOZ DO IGUACU",,,,,
+970,specieslink,"Justicia comata (L.) Lam.","Sobral, M","Arroio Botucari",Brasil,RS,"Cachoeira do Sul",-30.0391998291016,-52.8939018249512,2014,08,
+971,specieslink,"Justicia comata (L.) Lam.","Santos, JS","Área do CEPEC (Centro de Pesquisa do Cacau), km 22 Rodovia Ilhéus/Itabuna (BR 415)",Brazil,Bahia,Ilhéus,-14.7889003753662,-39.0494003295898,1983,07,
+972,specieslink,"Justicia comata (L.) Lam.","Rambo, B.",Morretes,Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,2015,03,
+973,specieslink,"Justicia comata (L.) Lam.","Schultz, AR- Baptista, LRM",Lami,Brasil,RS,"Porto Alegre",-30.0331001281738,-51.2299995422363,2014,08,
+974,specieslink,"Justicia comata (L.) Lam.","Douglas C. Daly","Mun. Santa Rosa: Rio Purus, downstream from Santa Rosa town.",Brazil,Acre,,-9.48916,-70.50611,2003,,
+975,specieslink,"Justicia comata (L.) Lam.","Sobral, M- Attili, D","Estação Ecológica da Juréia",Brasil,SP,Peruíbe,-24.3199996948242,-46.9900016784668,2015,03,
+976,specieslink,"Justicia comata (L.) Lam.","Cervi, A.C.","Parque Nacional do Iguaçu - Represa do Rio São João",Brasil,Paraná,"Foz do Iguaçu",-25.5478000640869,-54.5881004333496,1995,11,09
+977,specieslink,"Justicia comata",,,BRAZIL,,,-10.8339,-52.8731,,,
+978,specieslink,"Justicia comata (L.) Lam.","Stevens, WD","Along Río Sinecapa at ford of road.",Nicaragua,Leon,Ocotal,12.6,-86.466667,1980,,
+979,specieslink,"Justicia comata (L.) Lam.","S. R. Hill","ParanÃ¡ UrariÃ¡ between rio MauÃ©s-AÃ§u and rio Apoquitaua, white water. In pasture on vÃ¡rzea floodplan.",Brasil,Amazonas,,-3.416667,-57.916667,,,
+980,specieslink,"Justicia comata L. (Lam).","V.C. Soares","Base de Estudos do Pantanal-Caminho para torre de observação.",Brasil,"Mato Grosso do Sul",Corumbá,-19.576444,-57.016667,2011,06,27
+981,specieslink,"Justicia comata (L.)Lam.","L. R. Noblick","Represa de Bananeira.",Brasil,Bahia,"FEIRA DE SANTANA",-12.533333,0,,,
+982,specieslink,"Justicia comata (L.) Lam.","R. M. Harley","Belmonte, on SW outskirts of town.",Brasil,Bahia,,-15.87,-38.88,,,
+983,specieslink,"Justicia comata (L.) Lam.","V.J. Pott","Rio Sucuri. Fazenda São Geraldo. Ponto turístico de barco ou de mergulho.",Brasil,"Mato Grosso do Sul",Bonito,-21.266944,-56.5575,,,
+984,specieslink,"Justicia comata","G. T. Prance",,Brazil,Amazonas,,-5,-63,,,
+985,specieslink,"Justicia comata (L.) Lam.","Coletto-Silva, A","Comunidade Nova Aliança (Ilha).",Brasil,Amazonas,"Benjamin Constant",-4.38306,-70.0311,2005,01,
+986,specieslink,"Justicia comata (L.) Lam.","Jarenkow, JA- Waechter, JA",Pacheca,Brazil,"Rio Grande do Sul",Camaquã,-30.8511009216309,-51.812198638916,1995,06,
+987,specieslink,"Justicia comata (L.) Lam.","Krieger, L Pe.","Terrenos alagadiços.",Brasil,Amazonas,Tefé,-3.35417,-64.7114,1993,,
+988,specieslink,"Justicia comata",,,BRAZIL,,,-10.8339,-52.8731,,,
+989,specieslink,"Justicia comata (L.) Lam.","Saint-Hilaire, A.",,Brasil,"Rio Grande do Sul","Rio Grande",-32.0349998474121,-52.0985984802246,,,
+990,specieslink,"Justicia comata (L.) Lam.","G. T. Prance","Rio CuruquetÃª, SÃ£o Paulo, 30 km. above mouth of rio Coti. Forest by rapds.",Brasil,Amazonas,,-8.7658225,-65.5721569,,,
+991,specieslink,"Justicia comata (L.) Lam.","Matzenbacher, NI","BR-116 Km 32",Brasil,RS,Guaíba,-30.113899230957,-51.3250007629395,2014,08,
+992,specieslink,"Justicia comata (L.) Lam.","K.Kawakita- Tanaka, I.- Romagnolo, M.B.","rio Paraná, ilha Porto Rico, lagoa da Figueira",Brasil,Paraná,"Porto Rico",-22.7721996307373,-53.2668991088867,2001,04,
+993,specieslink,"Justicia comata (L.) Lam.","Lage, JL- Brito, HS","Área do CPEC (Centro de Pesquisa do Cacau), km 22 da Rodovia Ilhéus/Itabuna (BR 415). Margem do Braço do Rio Cachoeira. Área de lazer.",Brazil,Bahia,Ilhéus,-14.7889003753662,-39.0494003295898,1986,08,
+994,specieslink,"Justicia comata (L.)Lam.","J. L. Hage","Quadra F' do CEPEC.",Brasil,Bahia,ILHÉUS,-14.7889,-39.0494,,,
+995,specieslink,"Justicia comata","J. S. Silva","Sede da Fazenda Gauicurus. Pantanal.",Brasil,"Mato Grosso do Sul",Miranda,-20.2408,-56.3781,,,
+996,specieslink,"Justicia comata (L.) Lam.",Ma.C.Souza,,Brasil,Paraná,"São Pedro do Paraná",-22.8239002227783,-53.2200012207031,2003,06,
+997,specieslink,"Justicia comata (L.) Lam.","Haynes, RR","Río Kusulí where crossed by the road from El Tuma to Siuna, ca. 25 km NE of Río Yaosca-",Nicaragua,Bonanza,Zelaya,13.4,-85.316667,,,
+998,specieslink,"Justicia comata (L.) Lam.","Yoshida-Arns, K.","Cerrado. Mata ciliar. Assentamento Gameleira/Santa Luzia.",Brasil,Bahia,Angical,-11.9091666667,-44.8283333333,2011,05,16
+999,specieslink,"Justicia comata (L.) Lam.","Steven R. Hill","Parana Uraria between rio Maues-Acu and rio Apoquitaua, white water.",Brazil,Amazonas,,-3.41666,-57.91666,1983,,
+1000,specieslink,"Justicia comata (L.) Lam.","M. N. F. da Silva","Estrada SantarÃ©m-CuiabÃ¡, BR-163, km. 1227. IgarapÃ© do Lauro. IgarapÃ© inundado pela chuva, mata de terra firme, solo argilo-arenoso.",Brasil,ParÃ¡,Itaituba,-5.916667,-55.666667,,,

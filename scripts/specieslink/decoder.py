@@ -39,10 +39,6 @@ class Decoder:
             out+=vet2[0]
         return out
 
-
-
-
-
 #decoder = Decoder()
 #fileNk = open('generatedDocs/requestText3.json','r')
 #decoder.decodeAndWrite(fileNk.read())

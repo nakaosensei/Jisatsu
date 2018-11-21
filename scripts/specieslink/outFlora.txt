@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "result": [
+        {
+            "taxonid": "15339",
+            "family": "Acanthaceae",
+            "genus": "Dicliptera",
+            "scientificname": "Dicliptera ciliaris Juss.",
+            "specificepithet": "ciliaris",
+            "infraspecificepithet": null,
+            "scientificnameauthorship": "Juss.",
+            "taxonomicstatus": "NOME_ACEITO",
+            "acceptednameusage": null,
+            "higherclassification": "Flora;Angiospermas;Acanthaceae Juss.;Dicliptera Juss.;Dicliptera ciliaris Juss.",
+            "source": "Profice, S.R.,Kameyama, C.,Côrtes, A.L.A.,Braz, D.M.,Indriunas, A.,Vilar, T.,Pessoa, C.,Ezcurra, C.,Wasshausen, D. 2015. Acanthaceae in Lista de Espécies da Flora do Brasil. Jardim Botânico do Rio de Janeiro. Disponivel&nbsp;em:&nbsp;&lt;<a href=\"http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB15339\">http://floradobrasil.jbrj.gov.br/jabot/floradobrasil/FB15339</a>&gt;.<BR>BFG. Growing knowledge: an overview of Seed Plant diversity in Brazil. Rodriguésia, v.66, n.4, p.1085-1113. 2015. (DOI: 10.1590/2175-7860201566411)&amp;nbsp;\r\n&lt;object id=&quot;288bd9da-3b3b-9fa0-a9da-d9a8699993bb&quot; type=&quot;application/gas-events-abn&quot; width=&quot;0&quot; height=&quot;0&quot;&gt;&lt;/object&gt;",
+            "references": "http://reflora.jbrj.gov.br/reflora/listaBrasil/FichaPublicaTaxonUC/FichaPublicaTaxonUC.do?id=FB15339",
+            "acceptednameusageid": null,
+            "modified": "2016-04-13 15:39:12.238",
+            "SINONIMO": []
+        }
+    ]
+}
