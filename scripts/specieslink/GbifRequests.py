@@ -12,7 +12,6 @@ class GbifRequests:
     def __init__(self):
         self.daoOcurrence = con.DAOOcurrence()
 
-
     def searchIDS(self, plant):
         ids = []
         params = [('q', plant), ('locale', 'en')]

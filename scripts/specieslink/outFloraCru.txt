@@ -179,14 +179,14 @@ Adicionar css usando o seguinte formato: obs.: para impressão usando o navegado
 
         
 
-	<link rel="stylesheet" type="text/css" media="all" href="/reflora/listaBrasil/br/gov/jbrj/reflora/web/listaBrasil/taxa/consultarPublico/bem-vindo-consulta-publica-fbo.css;jsessionid=9542D1150AB452BD771BEEBB9D8A6EBA"></link>
+	<link rel="stylesheet" type="text/css" media="all" href="/reflora/listaBrasil/br/gov/jbrj/reflora/web/listaBrasil/taxa/consultarPublico/bem-vindo-consulta-publica-fbo.css;jsessionid=629F9252D78E864D392242C34F5A7354"></link>
 
 
 
     
         
 
-        <script type="text/javascript" language="Javascript1.1" src="/reflora/listaBrasil/formValidation.do;jsessionid=9542D1150AB452BD771BEEBB9D8A6EBA"></script>
+        <script type="text/javascript" language="Javascript1.1" src="/reflora/listaBrasil/formValidation.do;jsessionid=629F9252D78E864D392242C34F5A7354"></script>
 
         <script type="text/javascript" language="Javascript1.1"> 
 
@@ -1310,7 +1310,7 @@ $(document).ready(function()
 		}
 		else
 		{
-			carregaTaxonGrupo(17824, false);	
+			carregaTaxonGrupo(128482, false);	
 		}
 	}
 	
@@ -1480,7 +1480,7 @@ $(document).ready(function()
 				<td>
 					<span id="nomeCompletoTitulo">
 					    
-	                    Limnobium laevigatum
+	                    Dyschoriste maranhonis Kuntze
 					</span>
 				</td>
 
@@ -1492,12 +1492,12 @@ $(document).ready(function()
 			<div class="trigger">
 
 				<form id="consultaPublicaUCResultadoDaConsultaCarregaTaxonGrupoForm"
-					action='/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaCarregaTaxonGrupo.do;jsessionid=9542D1150AB452BD771BEEBB9D8A6EBA'
+					action='/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaCarregaTaxonGrupo.do;jsessionid=629F9252D78E864D392242C34F5A7354'
 					method="post" enctype="multipart/form-data" class="formresultado">
 					
 
 <input type="hidden" name="invalidatePageControlCounter" value="1"/>
-					<input type="hidden" name="idDadosListaBrasil" value="17824" id="carregaTaxonGrupoIdDadosListaBrasil">
+					<input type="hidden" name="idDadosListaBrasil" value="128482" id="carregaTaxonGrupoIdDadosListaBrasil">
 <input type="hidden" name="estadosCerteza" value="" id="carregaTaxonGrupoEstadosCerteza">
 <input type="hidden" name="estadosDuvida" value="" id="carregaTaxonGrupoEstadosDuvida">
 <input type="hidden" name="baciasCerteza" value="" id="carregaTaxonGrupoBaciasCerteza">
@@ -1538,10 +1538,10 @@ $(document).ready(function()
 <input type="hidden" name="vegetacao" value="TODOS" id="consultaTodosNomesVegetacao">
 <input type="hidden" name="estatistica" value="" id="consultaTodosNomesEstatistica">
 <input type="hidden" name="contagemResultado" value="0 nomes genéricos, 1 epítetos específicos, 0 epítetos infraespecíficos, (0 subsp. 0 var.) listadas." id="consultaTodosNomesContagemResultado">
-<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Limnobium laevigatum, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
+<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Dyschoriste maranhonis Kuntze, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
 <input type="hidden" name="formaVida" value="" id="consultaTodosNomesFormaVida">
 <input type="hidden" name="substrato" value="" id="consultaTodosNomesSubstrato">
-<input type="hidden" name="nomeCompleto" value="Limnobium laevigatum" id="consultaTodosNomesNomeCompleto">
+<input type="hidden" name="nomeCompleto" value="Dyschoriste maranhonis Kuntze" id="consultaTodosNomesNomeCompleto">
 <input type="hidden" name="ilhaOceanica" value="32767" id="consultaTodosNomesIlhaOceanica">
 <input type="hidden" name="ocorreBrasil" value="QUALQUER" id="consultaTodosNomesOcorreBrasil">
  
@@ -1572,10 +1572,10 @@ $(document).ready(function()
 <input type="hidden" name="vegetacao" value="TODOS" id="consultaTodosNomesVegetacao">
 <input type="hidden" name="estatistica" value="" id="consultaTodosNomesEstatistica">
 <input type="hidden" name="contagemResultado" value="0 nomes genéricos, 1 epítetos específicos, 0 epítetos infraespecíficos, (0 subsp. 0 var.) listadas." id="consultaTodosNomesContagemResultado">
-<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Limnobium laevigatum, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
+<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Dyschoriste maranhonis Kuntze, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
 <input type="hidden" name="formaVida" value="" id="consultaTodosNomesFormaVida">
 <input type="hidden" name="substrato" value="" id="consultaTodosNomesSubstrato">
-<input type="hidden" name="nomeCompleto" value="Limnobium laevigatum" id="consultaTodosNomesNomeCompleto">
+<input type="hidden" name="nomeCompleto" value="Dyschoriste maranhonis Kuntze" id="consultaTodosNomesNomeCompleto">
 <input type="hidden" name="ilhaOceanica" value="32767" id="consultaTodosNomesIlhaOceanica">
 <input type="hidden" name="ocorreBrasil" value="QUALQUER" id="consultaTodosNomesOcorreBrasil">
  
@@ -1762,7 +1762,7 @@ padding: 0px;
 		
 			
 				
-					<input class="pagesTitles" type="hidden" value="Página: 1&#13;&#10;De: Angiospermas&#13;&#10;Até: Limnobium laevigatum (Humb. & Bonpl. ex Willd.) Heine (Hydrocharitaceae)">
+					<input class="pagesTitles" type="hidden" value="Página: 1&#13;&#10;De: Angiospermas&#13;&#10;Até: Dyschoriste maranhonis (Nees) Kuntze (Acanthaceae)">
 				
 				
 				
@@ -1809,9 +1809,9 @@ padding: 0px;
 				
 				
 
-				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(131)'>
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(33)'>
 				
-				<span title="Hydrocharitaceae Juss."><span><div class="taxon"> Hydrocharitaceae</div><div class="nomeAutorSupraGenerico"> Juss.</div></span></span>
+				<span title="Acanthaceae Juss."><span><div class="taxon"> Acanthaceae</div><div class="nomeAutorSupraGenerico"> Juss.</div></span></span>
 
 				</a>
 				</div>
@@ -1842,14 +1842,14 @@ padding: 0px;
 						<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
 					
 					
-						<img width="13" src="/reflora/layout/default/imagens/listaBrasil/icon_leaf.png" title="A descrição do Taxon está completa" style="vertical-align:middle; padding-bottom: 1px; height: 14px;" />
 					
+						<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/icon_leaf.png" />
 					
 				
 
-				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(17823)'>
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(4123)'>
 				
-				<span title="Limnobium Rich."><span><div class="taxon"> <i>Limnobium</i></div><div class="nomeAutorInfraGenerico"> Rich.</div></span></span>
+				<span title="Dyschoriste Nees"><span><div class="taxon"> <i>Dyschoriste</i></div><div class="nomeAutorInfraGenerico"> Nees</div></span></span>
 
 				</a>
 				</div>
@@ -1869,7 +1869,7 @@ padding: 0px;
 							
 						
 
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57672)'>
+						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(26195)'>
 						
 							
 							
@@ -1881,138 +1881,10 @@ padding: 0px;
 							
 							
 							
-								<span title="tem como sinônimo de Jalambicea (Cerv.) Cerv.">
+								<span title="tem como sinônimo de Calophanes D.Don">
 							
 						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Jalambicea</i></div><div class="nomeAutorSinonimo"> (Cerv.) Cerv.</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-								<div class="hier3">
-							
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57660)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Hydrocharella Spruce ex Benth. & Hook.f.">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Hydrocharella</i></div><div class="nomeAutorSinonimo"> Spruce ex Benth. & Hook.f.</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-								<div class="hier3">
-							
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57764)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Rhizakenia Raf.">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Rhizakenia</i></div><div class="nomeAutorSinonimo"> Raf.</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-								<div class="hier3">
-							
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57664)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Hydromystria G.Mey.">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Hydromystria</i></div><div class="nomeAutorSinonimo"> G.Mey.</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-								<div class="hier3">
-							
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57769)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Trianea H.Karst.">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Trianea</i></div><div class="nomeAutorSinonimo"> H.Karst.</div></span></span>
+						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Calophanes</i></div><div class="nomeAutorSinonimo"> D.Don</div></span></span>
 						</a>
 						</div>
 					
@@ -2036,22 +1908,22 @@ padding: 0px;
 				
 				
 					
-						<img src="/reflora/layout/default/imagens/listaBrasil/org_img.png" title="Contém imagens de campo" style="vertical-align:middle; padding-bottom: 1px; height: 14px;" />
+					
+						<img src="/reflora/layout/default/imagens/listaBrasil/org_img.png" style="visibility:hidden; vertical-align:middle; padding-bottom: 1px; height: 14px;" />
 					
 					
 					
-						<img width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" title="Contém imagens de herbário" />
+						<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
 					
 					
 					
-						<img width="13" src="/reflora/layout/default/imagens/listaBrasil/icon_leaf.png" title="A descrição do Taxon está completa" style="vertical-align:middle; padding-bottom: 1px; height: 14px;" />
-					
+						<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/icon_leaf.png" />
 					
 				
 
-				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(17824)'>
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(25062)'>
 				
-				<span title="Limnobium laevigatum (Humb. & Bonpl. ex Willd.) Heine"><span><div class="taxon"> <i>Limnobium laevigatum</i></div><div class="nomeAutorInfraGenerico"> (Humb. & Bonpl. ex Willd.) Heine</div></span></span>
+				<span title="Dyschoriste maranhonis (Nees) Kuntze"><span><div class="taxon"> <i>Dyschoriste maranhonis</i></div><div class="nomeAutorInfraGenerico"> (Nees) Kuntze</div></span></span>
 
 				</a>
 				</div>
@@ -2071,7 +1943,7 @@ padding: 0px;
 							
 						
 
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57661)'>
+						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(108418)'>
 						
 							
 							
@@ -2083,298 +1955,10 @@ padding: 0px;
 							
 							
 							
-								<span title="tem como sinônimo de Hydrocharella echinospora Spruce ex Benth. & Hook.f.">
+								<span title="tem como sinônimo de Dyschoriste pulegium (Nees) Kuntze">
 							
 						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Hydrocharella echinospora</i></div><div class="nomeAutorSinonimo"> Spruce ex Benth. & Hook.f.</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-							
-								<div class="hier4">&nbsp;&nbsp;
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57665)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Hydromystria laevigata (Humb. & Bonpl. ex Willd.) Hunz.">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Hydromystria laevigata</i></div><div class="nomeAutorSinonimo"> (Humb. & Bonpl. ex Willd.) Hunz.</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-							
-								<div class="hier4">&nbsp;&nbsp;
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57667)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Hydromystria stolonifera G.Mey.">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Hydromystria stolonifera</i></div><div class="nomeAutorSinonimo"> G.Mey.</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-							
-								<div class="hier4">&nbsp;&nbsp;
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57675)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Limnobium bogotense (H.Karst.) Delay">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Limnobium bogotense</i></div><div class="nomeAutorSinonimo"> (H.Karst.) Delay</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-							
-								<div class="hier4">&nbsp;&nbsp;
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57679)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Limnobium stoloniferum (G.Mey.) Griseb.">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Limnobium stoloniferum</i></div><div class="nomeAutorSinonimo"> (G.Mey.) Griseb.</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-							
-								<div class="hier4">&nbsp;&nbsp;
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57663)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Hydrocharis stolonifera (G.Mey.) Kuntze">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Hydrocharis stolonifera</i></div><div class="nomeAutorSinonimo"> (G.Mey.) Kuntze</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-							
-								<div class="hier4">&nbsp;&nbsp;
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57666)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Hydromystria sinclairii (Benth.) Hauman">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Hydromystria sinclairii</i></div><div class="nomeAutorSinonimo"> (Benth.) Hauman</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-							
-								<div class="hier4">&nbsp;&nbsp;
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57676)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Limnobium sinclairii Benth.">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Limnobium sinclairii</i></div><div class="nomeAutorSinonimo"> Benth.</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-							
-								<div class="hier4">&nbsp;&nbsp;
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57673)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Jalambicea repens Cerv.">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Jalambicea repens</i></div><div class="nomeAutorSinonimo"> Cerv.</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-							
-								<div class="hier4">&nbsp;&nbsp;
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(57770)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Trianea bogotensis H.Karst.">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Trianea bogotensis</i></div><div class="nomeAutorSinonimo"> H.Karst.</div></span></span>
+						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Dyschoriste pulegium</i></div><div class="nomeAutorSinonimo"> (Nees) Kuntze</div></span></span>
 						</a>
 						</div>
 					
@@ -2394,9 +1978,9 @@ padding: 0px;
 		
     		</div>
 		<div id="infoConsulta">
-			Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Limnobium laevigatum, Buscar até = subsp./var.
+			Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Dyschoriste maranhonis Kuntze, Buscar até = subsp./var.
 			<br>
-			Tempo de Consulta:  1,79 seg
+			Tempo de Consulta:  1,78 seg
 		</div>
 	</div>
 </div>
@@ -3562,7 +3146,7 @@ $(document).ready(function()
 				</legend>
 
 				<p>
-					Listar todos os nomes. <b>Angiospermas</b>, Nome Completo = Limnobium laevigatum, Buscar até = subsp./var.
+					Listar todos os nomes. <b>Angiospermas</b>, Nome Completo = Dyschoriste maranhonis Kuntze, Buscar até = subsp./var.
 				</p>
 
 				<table>

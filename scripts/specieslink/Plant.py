@@ -15,11 +15,12 @@ class PlantsManager:
         sinonimos = []
         for plant in self.plants:
             plantStringArrays.append(plant.toDatabaseFormat())
-            if plant.sinonimos is not None:
+            if plant.sinonimos is not None and len(plant.sinonimos)>0:
                 sinonimos.append(plant.sinonimos)
         self.daoPlants.insertPlants(plantStringArrays)
-        for sinonimosList in sinonimos:
-            self.daoPlants.insertSinonimos(sinonimosList)
+        if len(sinonimos)>0:
+            for sinonimosList in sinonimos:
+                self.daoPlants.insertSinonimos(sinonimosList)
 
 class Plant:
 

@@ -6,9 +6,10 @@ import FloraDecoder as decod
 
 class FloraRequests:
 
-    def __init__():
+    def __init__(self):
         self.decoder = decod.FloraDecoder()
         self.sinonimos = []
+        self.nonExistent = []
 
     def makeRequests(self,macrofitasXls):
         planilha = pl.Planilha()
@@ -17,10 +18,12 @@ class FloraRequests:
         for plant in p:
             frequest = FloraRequest(plant)
             result = frequest.makeRequest()
-            if result!=1:
+            if result!=1 and result!=0:
                 self.sinonimos.append(plant)
                 request2 = FloraRequest(result)
                 request2.makeRequest()
+            elif result==0:
+                self.nonExistent.append(plant)
         for sinonimo in self.sinonimos:
             print(sinonimo)
 
@@ -65,8 +68,12 @@ class FloraRequest:
          self.request = requests.get(newLink)
          self.fileManager.writeToFile("outFloraCru.txt",self.requestPiloto.text)
          self.fileManager.writeToFile("outFloraListaBrasil.txt",self.request.text)
+         print(self.request.text)
+         if self.request.text.strip()=="erro":
+             return 0
          decoder = decod.FloraDecoder()
-         return decoder.decodeRequestAndWriteToDb(self.request.json())
+         result = decoder.decodeRequestAndWriteToDb(self.request.json())
+         return result
 
 
     def makeRequestApi(self):
@@ -83,13 +90,14 @@ class FloraRequest:
             out+=vet2[0]
         return out
 
-#freqs = FloraRequests()
-#freqs.makeRequests("../ListaMacrofitas.xlsx")
-testSinonimo = "Limnobium bogotense"
-testCorreto = "Limnobium laevigatum"
-request = FloraRequest(testSinonimo)
-result = request.makeRequest()
-print(result)
-if result!=1:
-    req2 = FloraRequest(result)
-    req2.makeRequest()
+freqs = FloraRequests()
+freqs.makeRequests("../ListaMacrofitas.xlsx")
+#testSinonimo = "Limnobium bogotense"
+#testCorreto = "Limnobium laevigatum"
+#testAlternativo = "Hygrophila guianensis"
+#request = FloraRequest(testAlternativo)
+#result = request.makeRequest()
+#print(result)
+#if result!=1:
+#    req2 = FloraRequest(result)
+#    req2.makeRequest()

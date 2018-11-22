@@ -6,7 +6,7 @@ class Planilha:
     def openPlantsXls(self,filePath):
         df = pd.read_excel(filePath ,header=None)
         plants = df[0]
-        return self.reducePlants(plants)
+        return self.changeWeirdChars(plants)
 
     def writeCsv(self,file,titleArray,valuesArray):
         with open(file, mode='w') as csvFile:
@@ -31,6 +31,13 @@ class Planilha:
                 tmp2 = tmpSplit[0]+" "+tmpSplit[1]
                 newList.append(tmp2)
         return newList
+
+    def changeWeirdChars(self,plantList):
+        out = []
+        for plant in plantList:
+            plant = plant.replace("\xa0"," ")
+            out.append(plant)
+        return out
 
     def listStartsWith(self,plantList,startElement):
         newList = []
