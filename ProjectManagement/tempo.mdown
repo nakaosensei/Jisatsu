@@ -26,7 +26,7 @@
 | Conversão dos resultados para .xls                       | 2h           | 10h            | 5h              | 5.3 h            |             |
 
 
-#Registros gerais
+
 | Membro                                                   | Hora entrada |  Hora saida    | Dia | Mes | Ano |
 |----------------------------------------------------------|--------------|----------------|-----|-----|-----|
 |Thiago Nakao                                              | 08:00        | 18:00          | 27  | 11  |2018 |
