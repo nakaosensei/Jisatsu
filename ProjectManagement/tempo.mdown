@@ -14,7 +14,7 @@
 | Criação de tabela para plantas ideais Floradobrasil      | 1h           | 4h             | 2h              | 2.1h             | 0.4h        |
 | Consulta/Mapeamento Floradobrasil                        | 30h          | 90h            | 50h             | 53.3h            | 90h         |
 | Criação de tabela para plantas ideais Theplantlist       | 1h           | 4h             | 2h              | 2.1h             | 0.4h        |
-| Consulta/Mapeamento Theplantlist                         | 30h          | 90h            | 50h             | 53.3h            | ---         |
+| Consulta/Mapeamento Theplantlist                         | 30h          | 90h            | 50h             | 53.3h            | 20h         |
 | Cadastro instâncias ThePlantList no BD                   | 1h           | 4h             | 2h              | 2.1h             |             | 
 | Cadastro instâncias Floradobrasil no BD                  | 1h           | 4h             | 2h              | 2.1h             |             |
 | Criação Web Scrapper Species Link                        | 0h           | 90h            | 20h             | 28.3h            | 5h          |
@@ -24,4 +24,3 @@
 | Normalizar os dados Floradobrasil                        | 10h          | 50h            | 20h             | 28.3h            |             |
 | Junção das normalizações e marcação de duplicatas        | 5h           | 20h            | 10h             | 10.8h            |             |
 | Conversão dos resultados para .xls                       | 2h           | 10h            | 5h              | 5.3 h            |             |
-
