@@ -25,7 +25,6 @@ def requisicaoTPL1(search):
 
 def procuraHref(searc):
     webpage = html.fromstring(searc.content)
-    
 
     href = webpage.xpath('//a/@href')
     #print(href)
@@ -67,13 +66,13 @@ def requestHrefsec(href):
     print(concatena)
     retorna = requests.get(concatena).content
 
-
     #print(hrefestr[hrefefind:hrefefind+25])
     
     return retorna
 
 def trataHref(retorna):
-    #print(retorna)
+    print("retorna")
+    print(retorna)
     soup = BeautifulSoup(retorna, "lxml")
     text = soup.get_text()
     text = text.replace("  "," ")
@@ -303,7 +302,6 @@ def roda(nome):
     print("BUSCANDO PELOS AUTORES")
     linkipnifinal = buscaIDIpini(text)
     print("PT1/6 - OK!")
-    #print (text)
     sotext = reqIpini(linkipnifinal)
     print("PT2/6 - OK!")
     #print (sotext)
@@ -324,5 +322,5 @@ def roda(nome):
     print (listadenomes)
     print(resultante)
 roda("Hygrophila costa")
-roda("Panicum prionitis Nees")
-roda("Echinodorus longipetalus Micheli")
+#roda("Panicum prionitis Nees")
+#roda("Echinodorus longipetalus Micheli")
