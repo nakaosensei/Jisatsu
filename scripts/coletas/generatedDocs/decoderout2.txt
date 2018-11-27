@@ -1,0 +1,16 @@
+'tK'>Plantae</span> 
+'tF'>Poaceae</span> <br/> 
+'tGa'> <u>Urochloa</u> </span> 
+'tEa'> <u>subquadripara</u> </span> 
+'tA'>(Trin.) R.D.Webster</span>. <ll>Det: </ll> 
+'tI'>K.Kawakita</span> 
+'tY'>11/2010</span><br/> 
+'tN'>HUEM 19132</span> <ll>Coleta: </ll> 
+'cL'>K.Kawakita; G.F.Pereira; Almeida, C.G.; K.Kawakita; Rodrigues, S.</span> 
+'cN'>1372</span> 
+'cY'>10/08/2010</span>. <br/> <ll>Loc: </ll> 
+'lP'>canal Corutuba, lagoa da Fazenda Diamante Azul, margem direita</span>, 
+'lM'>Taquarussu</span>, 
+'lS'>Mato Grosso do Sul</span>, 
+'lC'>Brasil</span> <br/> <ll>Coord. orig.:  </ll> 
+'lA'>[<i>lat: </i>-22.758333</span> 

@@ -1,0 +1,61 @@
+Dicliptera ciliaris
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
+<class 'dict'>
+
+
