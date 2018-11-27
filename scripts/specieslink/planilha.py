@@ -6,7 +6,7 @@ class Planilha:
     def openPlantsXls(self,filePath):
         df = pd.read_excel(filePath ,header=None)
         plants = df[0]
-        return self.changeWeirdChars(plants)
+        return self.reducePlants(plants)
 
     def writeCsv(self,file,titleArray,valuesArray):
         with open(file, mode='w') as csvFile:

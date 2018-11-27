@@ -16,6 +16,7 @@ class FloraRequests:
         p = planilha.openPlantsXls(macrofitasXls)
         #p = planilha.listStartsWith(p1,'Dactyloctenium aegyptium')
         for plant in p:
+            print(plant)
             frequest = FloraRequest(plant)
             result = frequest.makeRequest()
             if result!=1 and result!=0:
@@ -26,7 +27,6 @@ class FloraRequests:
                 self.nonExistent.append(plant)
         for sinonimo in self.sinonimos:
             print(sinonimo)
-
 
 class FloraRequest:
 
@@ -68,13 +68,14 @@ class FloraRequest:
          self.request = requests.get(newLink)
          self.fileManager.writeToFile("outFloraCru.txt",self.requestPiloto.text)
          self.fileManager.writeToFile("outFloraListaBrasil.txt",self.request.text)
-         print(self.request.text)
+         #print("request INI")
+         #print(self.request.text)
+         #print("request FIM")
          if self.request.text.strip()=="erro":
              return 0
          decoder = decod.FloraDecoder()
          result = decoder.decodeRequestAndWriteToDb(self.request.json())
          return result
-
 
     def makeRequestApi(self):
         self.request=requests.get("http://servicos.jbrj.gov.br/flora/taxon/"+self.parsedSpeciesAPI)

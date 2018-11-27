@@ -39,3 +39,4 @@ class DAOOcurrence:
         sql = "INSERT INTO OCORRENCIA(FONTE,NOME,COLETADOR,LOCATION,PAIS,ESTADO,CIDADE,LATITUDE,LONGITUDE,ANO_COLETA,MES_COLETA,DIA_COLETA) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
         self.cursor.executemany(sql,ocurrencesArray)
         self.connection.mydb.commit()
+    

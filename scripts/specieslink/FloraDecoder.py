@@ -8,6 +8,8 @@ class FloraDecoder:
         if "Sinônimo" in estado or "sinônimo" in estado or "Sinonimo" in estado or "sinonimo" in estado:
             result = self.parseSinonimoSource(requestJson["ehSinonimo"])
             return result
+        if len(estado)==0:
+            return 0
         if "Nome correto" in estado:
             estado = "Nome correto"
         elif "Nome aceito" in estado:
@@ -70,7 +72,8 @@ class FloraDecoder:
         manager.addPlant(nome,autor,fonte,estado,grupoTaxonomico,familia,formaVida,substrato,origem,endemismo,ocorrenciasConfirmadas,ocorrenciasDuvidosas,dominioFitogeografico,tipoVegetacao,sinonimosDbFormat)
         print("nome:"+nome)
         print("autor:"+autor)
-        '''print("endemismo:"+endemismo)
+        '''
+        print("endemismo:"+endemismo)
         print("grupo grupoTaxonomico: "+grupoTaxonomico)
         print("familia: "+familia)
         print("fonte: "+fonte)
@@ -84,7 +87,7 @@ class FloraDecoder:
         for sinonimo in sinonimosDbFormat:
             print(sinonimo)
         '''
-        manager.writeAllToDb()
+        #manager.writeAllToDb()
         return 1
 
     def parseNome(self,nomeStr):
@@ -94,7 +97,10 @@ class FloraDecoder:
         return out
 
     def parseAutor(self,nomeStr):
-        return self.getStringsBetweenS(nomeStr,"<div class=\"nomeAutorInfraGenerico\">","</div></span>").strip()
+        out = self.getStringsBetweenS(nomeStr,"<div class=\"nomeAutorInfraGenerico\">","</div></span>").strip()
+        out = self.removeString(out,"<div>")
+        out = self.removeString(out,"</div>")
+        return out
 
     def parseSinonimoSource(self,ehSinonimoStr):
         result = self.getStringsBetweenS(ehSinonimoStr,"<div class=\"taxon\"> <i>","</i>")
@@ -188,21 +194,20 @@ class FloraDecoder:
                 ocorrenciasDuvidosas.append(regiao)
         return ocorrenciasDuvidosas
 
-
     def getGrupoTaxonomico(self,hierarquiaStr):
         grupos = self.getStringsBetween(hierarquiaStr,"<div class=\"grupo\">","</div>")
         return grupos[len(grupos)-1].strip()
 
     def getFamily(self,hierarquiaStr):
         taxons = self.getStringsBetween(hierarquiaStr,"<div class=\"taxon\">","</div>")
-        family = taxons[len(taxons)-2]
+        family = taxons[0]
         familiy = family +" "+ self.getStringsBetweenS(hierarquiaStr,"<div class=\"taxon\">"+family+"</div><div class=\"nomeAutorSupraGenerico\">","</div>")
-        family = removeString(family,"<i>")
-        family = removeString(family,"</i>")
+        family = self.removeString(family,"<i>")
+        family = self.removeString(family,"</i>")
         return family.strip()
 
     def removeString(self,str,toRemove):
-        return str.replace(toRemove)
+        return str.replace(toRemove,"")
 
     def parseSinonimos(self,sinonimosStr):
         sinonimosList = []
