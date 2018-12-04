@@ -6,8 +6,11 @@ class FloraDecoder:
     def decodeRequestAndWriteToDb(self,requestJson):
         estado = requestJson["statusQualificador"]
         if "Sinônimo" in estado or "sinônimo" in estado or "Sinonimo" in estado or "sinonimo" in estado:
-            result = self.parseSinonimoSource(requestJson["ehSinonimo"])
-            return result
+            if('ehSinonimo' in requestJson.keys()):
+                result = self.parseSinonimoSource(requestJson["ehSinonimo"])
+                return result
+            else:
+                return 0
         if len(estado)==0:
             return 0
         if "Nome correto" in estado:
@@ -64,12 +67,15 @@ class FloraDecoder:
             for sinonimo in sinonimosList:
                 nomeSinonimo = sinonimo[0]
                 autorSinonimo = sinonimo[1]
-                sinonimosDbFormat.append((nomeSinonimo,autorSinonimo,fonte,nome))
+                sinonimosDbFormat.append([nomeSinonimo,autorSinonimo])
 
         ocorrenciasConfirmadas = self.arrayToStr(ocorrenciasConfirmadas)
         ocorrenciasDuvidosas = self.arrayToStr(ocorrenciasDuvidosas)
         manager = plantManager.PlantsManager()
-        manager.addPlant(nome,autor,fonte,estado,grupoTaxonomico,familia,formaVida,substrato,origem,endemismo,ocorrenciasConfirmadas,ocorrenciasDuvidosas,dominioFitogeografico,tipoVegetacao,sinonimosDbFormat)
+        manager.addPlant(nome,autor,fonte,estado,grupoTaxonomico,familia,formaVida,substrato,origem,endemismo,ocorrenciasConfirmadas,ocorrenciasDuvidosas,dominioFitogeografico,tipoVegetacao,"")
+        for sino in sinonimosDbFormat:
+            manager.addPlant(sino[0],sino[1],fonte,"sinonimo",None,None,None,None,None,None,None,None,None,None,nome)
+        manager.writeAllToDb()
         print("nome:"+nome)
         print("autor:"+autor)
         '''

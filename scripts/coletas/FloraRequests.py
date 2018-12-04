@@ -92,7 +92,7 @@ class FloraRequest:
         return out
 
 freqs = FloraRequests()
-freqs.makeRequests("../ListaMacrofitas.xlsx")
+freqs.makeRequests("../ListaMacrofitasTests.xlsx")
 #testSinonimo = "Limnobium bogotense"
 #testCorreto = "Limnobium laevigatum"
 #testAlternativo = "Hygrophila guianensis"
