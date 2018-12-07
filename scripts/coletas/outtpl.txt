@@ -1,0 +1,280 @@
+BUSCANDO PELOS SINONIMOS
+http://www.theplantlist.org/tpl1.1/search?q=Urochloa+plantaginea
+REQUEST INI
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+	<title>Urochloa plantaginea (Link) R.D.Webster — The Plant List</title>
+	<link rel="search" type="application/opensearchdescription+xml" href="/1.1/opensearch.xml" title="The Plant List" />
+	<script type="text/javascript" src="/1.1/img/jquery-1.4.3.min.js"></script>
+	<script type="text/javascript" src="/1.1/img/jquery.tablesorter.min.js"></script>
+<!--[if lt IE 9]><script type="text/javascript" src="/1.1/img/html5.js"></script><![endif]-->
+	<script type="text/javascript" src="/1.1/img/bsn.AutoSuggest_2.1.3.js"></script>
+	<script type="text/javascript" src="/1.1/img/tpl.js"></script>
+	
+	<link rel="stylesheet" href="/1.1/img/tpl.css"/>
+<!--[if lt IE 9]><link rel="stylesheet" href="/1.1/img/tpl-ie8.css"/><![endif]-->
+<!--[if lt IE 8]><link rel="stylesheet" href="/1.1/img/tpl-ie7.css"/><![endif]-->
+<!--[if lt IE 7]><link rel="stylesheet" href="/1.1/img/tpl-ie6.css"/><![endif]-->
+</head>
+<body>
+
+<header>
+	<h1><a href="/">The Plant List &mdash; A working list for all plant species</a></h1>
+
+	<form id="headerSearchForm" action="/tpl1.1/search" method="get">
+		<input id="q" name="q" placeholder="Enter a genus or genus and species" type="search" value="" size="40"/>
+		<input type="submit" value="Search" />
+	</form>
+</header>
+
+<nav>
+	<ul>
+		<li><a href="/">Home</a></li>
+		<li><a href="/1.1/about/">About</a></li>
+		<li><a href="/1.1/browse/">Browse</a></li>
+		<li><a href="/1.1/statistics/">Statistics</a></li>
+		<li><a href="/1.1/feedback/">Feedback</a></li>
+		<li><a href="/1.1/help/">How to use this site</a></li>
+	</ul>
+</nav>
+
+<div id="container">
+	<div id="logo">
+		<ul>
+			<li><a href="http://www.cbd.int/2011-2020"><img src="/1.1/img/logo-2011.png" alt="2011–2020 United Nations Decade on Biodiversity"/></a></li>
+			<li><a href="http://www.kew.org/"><img src="/1.1/img/logo-kew.png" alt="Royal Botanic Gardens, Kew"/></a></li>
+			<li><a href="http://www.mobot.org/"><img src="/1.1/img/logo-missouri.png" alt="Missouri Botanical Garden"/></a></li>
+			<li><a href="http://www.compositae.org/checklist/"><img src="/1.1/img/logo-tica.png" alt="International Compositae Alliance"/></a></li>
+			<li><a href="http://www.ildis.org/"><img src="/1.1/img/logo-ildis.png" alt="ILDIS"/></a></li>
+			<li><a href="http://plantnet.rbgsyd.nsw.gov.au/iopi/iopihome.htm"><img src="/1.1/img/logo-iopi.png" alt="IOPI"/></a></li>
+			<li><a href="http://www.nybg.org/"><img src="/1.1/img/logo-nybg.png" alt="New York Botanic Garden"/></a></li>
+			<li><a href="http://www.ipni.org/"><img src="/1.1/img/logo-ipni.png" alt="International Plant Names Index"/></a></li>
+			<li><a href="http://www.cbd.int/"><img src="/1.1/img/logo-cbd.png" alt="Convention on Biological Diversity"/></a></li>
+			<li><a href="http://www.rbge.org.uk/"><img src="/1.1/img/logo-rbge.png" alt="Royal Botanic Garden Edinburgh"/></a></li>
+			<li><a href="http://www.sanbi.org/"><img src="/1.1/img/logo-sanbi.png" alt="South African National Biodiversity Institute"/></a></li>
+			<li><a href="http://www.ville-ge.ch/cjb/"><img src="/1.1/img/logo-cjb.png" alt="Les conservatoire et jardin botaniques de la Ville de Genève"/></a></li>
+		</ul>
+	</div>
+
+	<div id="columns">
+<ul class="bread">
+	<li><a href="/1.1/browse/">The Plant List</a>
+		<ul><li><span class="name"><i class="genus">Urochloa</i> <i class="species">plantaginea</i> <span class="authorship">(Link) R.D.Webster</span></span></li></ul>
+	</li>
+</ul>
+
+<section>
+
+
+
+<h1>
+	<span class="C-H"><img src="/1.1/img/bH.png" alt="H"/></span>
+	<span class="name"><i class="genus">Urochloa</i> <i class="species">plantaginea</i> <span class="authorship">(Link) R.D.Webster</span></span>
+	<span class="subtitle">is a <a href="/1.1/about/#synonym">synonym</a>
+ of <a href="kew-399709"><span class="name"><i class="genus">Brachiaria</i> <i class="species">plantaginea</i> <span class="authorship">(Link) Hitchc.</span></span></a></span>
+</h1>
+
+
+<p>This name is a <a href="/1.1/about/#synonym">synonym</a> of <a href="kew-399709"><span class="name"><i class="genus">Brachiaria</i> <i class="species">plantaginea</i> <span class="authorship">(Link) Hitchc.</span></span></a>.</p>
+
+
+
+<p>The record derives from <a href="/1.1/about/#wcs">WCSP</a>
+	(data supplied on <time>2012-03-23</time>)
+which reports it as a <a href="/1.1/about/#synonym">synonym</a> (record <code><a rel="external" href="http://apps.kew.org/wcsp/namedetail.do?name_id=449527">449527</a></code>) with original publication details: <cite>Syst. Bot. 13: 607 1988</cite>.</p>
+
+
+
+
+<p>Full publication details for this name can be found in <abbr title="International Plant Names Index">IPNI</abbr>: <code><a rel="external" href="http://www.ipni.org/ipni/idPlantNameSearch.do?id=945694-1">http://ipni.org/urn:lsid:ipni.org:names:945694-1</a></code>.</p>
+
+
+
+
+
+
+</section>
+
+
+
+<section id="oldVersion">
+	<h2>Earlier versions</h2>
+
+	
+
+	
+
+		
+
+		
+			<p>This name was in version 1 of The Plant List, record <a href="/tpl/record/kew-449527?ref=tpl2">kew-449527</a>.</p>
+			<ul>
+				<li>this name record <em>has not</em> changed</li>
+				<li>names related to this name <em>have </em> changed</li>
+			</ul>
+		
+	
+</section>
+
+	</div>
+</div>
+
+<footer>
+	<p>
+		&copy; The Plant List 2013 &mdash;
+		<a rel="license" href="/1.1/terms/">Terms and Conditions</a> &mdash;
+		<a href="/1.1/cite/">How to Cite</a>
+	</p>
+</footer>
+
+<script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
+<script type="text/javascript">
+try {
+	reinvigorate.track("qqd10-7tcw301jmk");
+} catch(err) {}
+</script>
+
+</body>
+</html>
+
+REQUEST FIM
+
+
+
+
+Home — The Plant List
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Plant List — A working list for all plant species
+
+
+
+Home
+About
+Browse
+Statistics
+Feedback
+How to use this site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+Enter a Genus (eg Ocimum) or genus and species (eg Ocimum basilicum).
+
+
+
+
+? will match a single character. * will match any number of characters. Use at least three letters in the genus name if you include a ? or *.
+
+
+
+
+
+
+
+
+
+tplSlideshowInit()
+
+
+
+The Plant List is a working list of all known plant species. It aims to be comprehensive for species of Vascular plant (flowering plants, conifers, ferns and their allies) and of Bryophytes (mosses and liverworts).
+Collaboration between the Royal Botanic Gardens, Kew and Missouri Botanical Garden enabled the creation of The Plant List by combining multiple checklist data sets held by these institutions and other collaborators.
+Version 1.1 (September 2013) replaces Version 1.0 which remains accessible here. Version 1.1 includes new data sets, updated versions of the original data sets and improved algorithms to resolve logical conflicts between those data sets. The differences between versions are summarised here.
+The Plant List provides the Accepted Latin name for most species, with links to all Synonyms by which that species has been known. Around 20% of names are unresolved indicating that the data sources included provided no evidence or view as to whether the name should be treated as accepted or not, or there were conflicting opinions that could not be readily resolved.
+The Plant List is not perfect and represents work in progress. Our aims remain to produce a ‘best effort’ list, to demonstrate progress and to stimulate further work. Important limitations are summarised here.
+
+
+Summary Statistics
+The Plant List includes 1,064,035 scientific plant names of species rank. Of these 350,699 are accepted species names.
+The Plant List contains 642 plant families and 17,020 plant genera.
+The status of the 1,064,035 species names, are as follows:
+
+
+
+tplPieInit("bi");
+
+
+
+Status
+Total
+
+◕
+Accepted
+350,699
+33.0%
+
+◕
+Synonym
+470,624
+44.2%
+
+◕
+Unresolved
+242,712
+22.8%
+
+
+
+
+Browse
+Click on the major plant group of interest to explore the taxonomic hierarchy embedded within The Plant List.
+
+Flowering plants Angiosperms
+Conifers, cycads and allies Gymnosperms
+Ferns and fern allies Pteridophytes
+Mosses and liverworts Bryophytes
+
+Work down the taxonomic hierarchy from Major Group (to find out which Families belong to each), to Family (to discover the Genera belonging to each) and finally Genus (to list the Species in each).
+
+
+
+
+
+		© The Plant List 2013 —
+		Terms and Conditions —
+		How to Cite
+
+
+
+
+try {
+	reinvigorate.track("qqd10-7tcw301jmk");
+} catch(err) {}
+
+
+
+

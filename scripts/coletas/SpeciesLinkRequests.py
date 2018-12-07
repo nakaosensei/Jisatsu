@@ -4,17 +4,24 @@ import decoder as decod
 import fileNk as fnk
 import ocurrences as occ
 
-class RequestMaker:
+class SpeciesLinkRequests:
 
     def __init__(self):
         self.decoder = decod.Decoder()
         self.manager = occ.OcurrencesManager()
 
-    def makeRequests(self,macrofitasXls):
+    def makeRequestsTests(self,macrofitasXls):
         planilha = pl.Planilha()
         p1 = planilha.openPlantsXls(macrofitasXls)
         #p = planilha.listStartsWith(p1,'Dactyloctenium aegyptium')
         for plant in p1:
+            request = SpeciesRequest(plant,self.decoder,self.manager)
+            request.makeRequests()
+        return self.manager
+
+    def makeRequests(self,plants):
+        #p = planilha.listStartsWith(p1,'Dactyloctenium aegyptium')
+        for plant in plants:
             request = SpeciesRequest(plant,self.decoder,self.manager)
             request.makeRequests()
         return self.manager
@@ -35,8 +42,6 @@ class SpeciesRequest:
             self.makeRequest(offset)
             offset+=100
         manager = self.decoderNk.decode(self.bigRequestText)
-        self.globalManager.ocurrences.extend(manager.ocurrences)
-        manager.writeAllToDb()
         print(self.species)
         self.hasMore=1
         self.file.writeToFile("outSpecies.txt",self.bigRequestText)
@@ -52,5 +57,5 @@ class SpeciesRequest:
             self.hasMore=0
             return 0
 
-requester = RequestMaker()
-requester.makeRequests('../ListaMacrofitas.xlsx')
+#requester = SpeciesLinkRequests()
+#requester.makeRequestsTests('../ListaMacrofitasTests.xlsx')

@@ -179,14 +179,14 @@ Adicionar css usando o seguinte formato: obs.: para impressão usando o navegado
 
         
 
-	<link rel="stylesheet" type="text/css" media="all" href="/reflora/listaBrasil/br/gov/jbrj/reflora/web/listaBrasil/taxa/consultarPublico/bem-vindo-consulta-publica-fbo.css;jsessionid=CC68B533993A036A6D777D85480E0244"></link>
+	<link rel="stylesheet" type="text/css" media="all" href="/reflora/listaBrasil/br/gov/jbrj/reflora/web/listaBrasil/taxa/consultarPublico/bem-vindo-consulta-publica-fbo.css;jsessionid=D1324AB3FB95C7CD9B73ADC3A0721E86"></link>
 
 
 
     
         
 
-        <script type="text/javascript" language="Javascript1.1" src="/reflora/listaBrasil/formValidation.do;jsessionid=CC68B533993A036A6D777D85480E0244"></script>
+        <script type="text/javascript" language="Javascript1.1" src="/reflora/listaBrasil/formValidation.do;jsessionid=D1324AB3FB95C7CD9B73ADC3A0721E86"></script>
 
         <script type="text/javascript" language="Javascript1.1"> 
 
@@ -1310,7 +1310,7 @@ $(document).ready(function()
 		}
 		else
 		{
-			carregaTaxonGrupo(, false);	
+			carregaTaxonGrupo(26031, false);	
 		}
 	}
 	
@@ -1480,7 +1480,7 @@ $(document).ready(function()
 				<td>
 					<span id="nomeCompletoTitulo">
 					    
-	                    Justia pectoralis
+	                    Urochloa plantaginea
 					</span>
 				</td>
 
@@ -1492,12 +1492,12 @@ $(document).ready(function()
 			<div class="trigger">
 
 				<form id="consultaPublicaUCResultadoDaConsultaCarregaTaxonGrupoForm"
-					action='/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaCarregaTaxonGrupo.do;jsessionid=CC68B533993A036A6D777D85480E0244'
+					action='/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaCarregaTaxonGrupo.do;jsessionid=D1324AB3FB95C7CD9B73ADC3A0721E86'
 					method="post" enctype="multipart/form-data" class="formresultado">
 					
 
 <input type="hidden" name="invalidatePageControlCounter" value="1"/>
-					<input type="hidden" name="idDadosListaBrasil" value="" id="carregaTaxonGrupoIdDadosListaBrasil">
+					<input type="hidden" name="idDadosListaBrasil" value="26031" id="carregaTaxonGrupoIdDadosListaBrasil">
 <input type="hidden" name="estadosCerteza" value="" id="carregaTaxonGrupoEstadosCerteza">
 <input type="hidden" name="estadosDuvida" value="" id="carregaTaxonGrupoEstadosDuvida">
 <input type="hidden" name="baciasCerteza" value="" id="carregaTaxonGrupoBaciasCerteza">
@@ -1506,7 +1506,7 @@ $(document).ready(function()
 <input type="hidden" name="contagemFamiliaSin" value="0" id="carregaTaxonGrupoContagemFamiliaSin">
 <input type="hidden" name="contagemGeneroAceito" value="0" id="carregaTaxonGrupoContagemGeneroAceito">
 <input type="hidden" name="contagemGeneroSin" value="0" id="carregaTaxonGrupoContagemGeneroSin">
-<input type="hidden" name="contagemEspecieAceito" value="0" id="carregaTaxonGrupoContagemEspecieAceito">
+<input type="hidden" name="contagemEspecieAceito" value="1" id="carregaTaxonGrupoContagemEspecieAceito">
 <input type="hidden" name="contagemEspecieSin" value="0" id="carregaTaxonGrupoContagemEspecieSin">
 <input type="hidden" name="contagemSubEspAceito" value="0" id="carregaTaxonGrupoContagemSubEspAceito">
 <input type="hidden" name="contagemSubEspSin" value="0" id="carregaTaxonGrupoContagemSubEspSin">
@@ -1537,11 +1537,11 @@ $(document).ready(function()
 <input type="hidden" name="regiao" value="QUALQUER" id="consultaTodosNomesRegiao">
 <input type="hidden" name="vegetacao" value="TODOS" id="consultaTodosNomesVegetacao">
 <input type="hidden" name="estatistica" value="" id="consultaTodosNomesEstatistica">
-<input type="hidden" name="contagemResultado" value="0 nomes genéricos, 0 epítetos específicos, 0 epítetos infraespecíficos, (0 subsp. 0 var.) listadas." id="consultaTodosNomesContagemResultado">
-<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Justia pectoralis, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
+<input type="hidden" name="contagemResultado" value="0 nomes genéricos, 1 epítetos específicos, 0 epítetos infraespecíficos, (0 subsp. 0 var.) listadas." id="consultaTodosNomesContagemResultado">
+<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Urochloa plantaginea, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
 <input type="hidden" name="formaVida" value="" id="consultaTodosNomesFormaVida">
 <input type="hidden" name="substrato" value="" id="consultaTodosNomesSubstrato">
-<input type="hidden" name="nomeCompleto" value="Justia pectoralis" id="consultaTodosNomesNomeCompleto">
+<input type="hidden" name="nomeCompleto" value="Urochloa plantaginea" id="consultaTodosNomesNomeCompleto">
 <input type="hidden" name="ilhaOceanica" value="32767" id="consultaTodosNomesIlhaOceanica">
 <input type="hidden" name="ocorreBrasil" value="QUALQUER" id="consultaTodosNomesOcorreBrasil">
  
@@ -1571,11 +1571,11 @@ $(document).ready(function()
 <input type="hidden" name="regiao" value="QUALQUER" id="consultaTodosNomesRegiao">
 <input type="hidden" name="vegetacao" value="TODOS" id="consultaTodosNomesVegetacao">
 <input type="hidden" name="estatistica" value="" id="consultaTodosNomesEstatistica">
-<input type="hidden" name="contagemResultado" value="0 nomes genéricos, 0 epítetos específicos, 0 epítetos infraespecíficos, (0 subsp. 0 var.) listadas." id="consultaTodosNomesContagemResultado">
-<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Justia pectoralis, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
+<input type="hidden" name="contagemResultado" value="0 nomes genéricos, 1 epítetos específicos, 0 epítetos infraespecíficos, (0 subsp. 0 var.) listadas." id="consultaTodosNomesContagemResultado">
+<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Urochloa plantaginea, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
 <input type="hidden" name="formaVida" value="" id="consultaTodosNomesFormaVida">
 <input type="hidden" name="substrato" value="" id="consultaTodosNomesSubstrato">
-<input type="hidden" name="nomeCompleto" value="Justia pectoralis" id="consultaTodosNomesNomeCompleto">
+<input type="hidden" name="nomeCompleto" value="Urochloa plantaginea" id="consultaTodosNomesNomeCompleto">
 <input type="hidden" name="ilhaOceanica" value="32767" id="consultaTodosNomesIlhaOceanica">
 <input type="hidden" name="ocorreBrasil" value="QUALQUER" id="consultaTodosNomesOcorreBrasil">
  
@@ -1721,6 +1721,10 @@ padding: 0px;
 			</div>  
 		       	
 				
+					<a href="javascript:void(0);" onclick="setaAcaoListaNomes('/ConsultaPublicaUC/ResultadoDaConsultaConsultaTodosNomes', 'validateResultadoDaConsultaConsultaTodosNomesForm', true , 'consultaPublicaUCResultadoDaConsultaConsultaTodosNomesForm','.do' )"> 
+					<i class="icon-print"></i>
+					</a>    
+				
 			
 		</span>
 
@@ -1757,15 +1761,251 @@ padding: 0px;
 		<div id="nomes" class="table">
 		
 			
+				
+					<input class="pagesTitles" type="hidden" value="Página: 1&#13;&#10;De: Angiospermas&#13;&#10;Até: Urochloa plantaginea (Link) R.D.Webster (Poaceae)">
+				
+				
+				
+<table id="row" style="width: 100%;" class="tabela">
+<thead>
+<tr>
+<th class="nomeCompleto">Resultado da Busca</th></tr></thead>
+<tbody>
+<tr class="odd">
+<td>
+				
+					
+						<div class="hier1">
+					
+					
+					
+					
+				
+				
+				
+
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(128482)'>
+				
+				<span title="Angiospermas"><span><div class="grupo"> Angiospermas</div></span></span>
+
+				</a>
+				</div>
+
+				
+
+				
+				
+				</td></tr>
+<tr class="even">
+<td>
+				
+					
+					
+						<div class="hier2">&nbsp;&nbsp;
+					
+					
+					
+				
+				
+				
+
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(193)'>
+				
+				<span title="Poaceae Barnhart"><span><div class="taxon"> Poaceae</div><div class="nomeAutorSupraGenerico"> Barnhart</div></span></span>
+
+				</a>
+				</div>
+
+				
+
+				
+				
+				</td></tr>
+<tr class="odd">
+<td>
+				
+					
+					
+						<div class="hier2">&nbsp;&nbsp;
+					
+					
+					
+				
+				
+				
+
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(102231)'>
+				
+				<span title="Panicoideae Link"><span><div class="taxon"> Panicoideae</div><div class="nomeAutorSupraGenerico"> Link</div></span></span>
+
+				</a>
+				</div>
+
+				
+
+				
+				
+				</td></tr>
+<tr class="even">
+<td>
+				
+					
+					
+					
+						<div class="hier3">
+					
+					
+				
+				
+				
+					
+					
+						<img src="/reflora/layout/default/imagens/listaBrasil/org_img.png" style="visibility:hidden; vertical-align:middle; padding-bottom: 1px; height: 14px;" />
+					
+					
+					
+						<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
+					
+					
+					
+						<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/icon_leaf.png" />
+					
+				
+
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(20516)'>
+				
+				<span title="Urochloa P.Beauv."><span><div class="taxon"> <i>Urochloa</i></div><div class="nomeAutorInfraGenerico"> P.Beauv.</div></span></span>
+
+				</a>
+				</div>
+
+				
+					
+						</td></tr>
+						<tr class="odd">
+						<td>
+						
+						
+						
+							
+							
+								<div class="hier3">
+							
+							
+						
+
+						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(86785)'>
+						
+							
+							
+								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
+							
+						
+						
+							
+							
+							
+							
+								<span title="tem como sinônimo de Brachiaria (Trin.) Griseb.">
+							
+						
+						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Brachiaria</i></div><div class="nomeAutorSinonimo"> (Trin.) Griseb.</div></span></span>
+						</a>
+						</div>
+					
+				
+
+				
+					
+				
+				
+				</td></tr>
+<tr class="odd">
+<td>
+				
+					
+					
+					
+					
+						<div class="hier4">&nbsp;&nbsp;
+					
+				
+				
+				
+					
+					
+						<img src="/reflora/layout/default/imagens/listaBrasil/org_img.png" style="visibility:hidden; vertical-align:middle; padding-bottom: 1px; height: 14px;" />
+					
+					
+					
+						<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
+					
+					
+					
+						<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/icon_leaf.png" />
+					
+				
+
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(26031)'>
+				
+				<span title="Urochloa plantaginea (Link) R.D.Webster"><span><div class="taxon"> <i>Urochloa plantaginea</i></div><div class="nomeAutorInfraGenerico"> (Link) R.D.Webster</div></span></span>
+
+				</a>
+				</div>
+
+				
+					
+						</td></tr>
+						<tr class="odd">
+						<td>
+						
+						
+						
+							
+							
+							
+								<div class="hier4">&nbsp;&nbsp;
+							
+						
+
+						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(86793)'>
+						
+							
+							
+								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
+							
+						
+						
+							
+							
+							
+							
+								<span title="tem como sinônimo de Brachiaria plantaginea (Link) Hitchc.">
+							
+						
+						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Brachiaria plantaginea</i></div><div class="nomeAutorSinonimo"> (Link) Hitchc.</div></span></span>
+						</a>
+						</div>
+					
+				
+
+				
+					
+				
+				
+				</td></tr></tbody></table>
+				<div class="nano">
+					<div class="content">
+					</div>
+				</div>
 			
-				Nenhum Registro Encontrado.      		
 			
 		
     		</div>
 		<div id="infoConsulta">
-			Listar todos os nomes. <b>Angiospermas</b>, Nome Completo = Justia pectoralis, Buscar até = subsp./var.
+			Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Urochloa plantaginea, Buscar até = subsp./var.
 			<br>
-			Tempo de Consulta:  1,26 seg
+			Tempo de Consulta:  1,73 seg
 		</div>
 	</div>
 </div>
@@ -1774,6 +2014,1665 @@ padding: 0px;
 <input type="hidden" name="statusCites" value="" id="recuperarStatusCitesStatusCites">
  
 					
+					
+						
+
+							<div class="bloco" id="bloco_right">
+		
+												<!--ABAS -->
+												<ul id="tabs" class="nav nav-tabs">
+													<li class="abainformacoes"><a style="border-color: transparent;"
+														data-toggle="tab" onclick="alterarAba(1)" href="#tabs-1"
+														class="aba informacoes">Informações</a></li>
+														
+													<li class="abaestatisticas"><a data-toggle="tab" 
+													    onclick="alterarAba(2)" href="#tabs-2"
+														style="margin: 0px 10px; border-color: transparent; display: inherit;"
+														class="aba estatistica">Estatísticas</a></li>
+														
+													<li class="aba-chave-identificacao"><a data-toggle="tab" 
+													    onclick="alterarAba(3)" href="#tabs-3"
+														style="margin: 0px 10px; border-color: transparent; display: inherit;"
+														id="abaChaveIdentificacao" class="aba">Chave de Identificação</a></li>
+													
+													<li class="aba-voucher"><a data-toggle="tab" 
+													    onclick="alterarAba(4)" href="#tabs-4"
+														style="margin: 0px 10px; border-color: transparent; display: inherit;"
+														id="abaVoucher" class="aba">Imagens Voucher</a></li>
+									
+												</ul>
+		
+												<div class="pagina publica">
+		
+													<div id="tabs-1" class="tab-pane active">														<table style="width: 100%">
+															<tbody>
+																<style type="text/css">
+@media ( min-width : 1156px) {
+	.tabelamapa {
+		width: 40%;
+	}
+}
+
+@media ( min-width : 1300px) {
+	.tabelamapa {
+		width: 45%;
+	}
+}
+
+@media ( min-width : 1400px) {
+	.tabelamapa {
+		width: 50%;
+	}
+}
+
+@media ( min-width : 1500px) {
+	.tabelamapa {
+		width: 55%;
+	}
+}
+
+@media ( min-width : 1600px) {
+	.tabelamapa {
+		width: 60%;
+	}
+}
+
+#estatisticasRegioesHidrograficasBrasileiras td,
+	#estatisticasEstadosBrasileiros td, #estatisticasRegioesBrasileiras td,
+	#estatisticasDominiosFitogeograficos td, #estatisticasFontes td {
+	vertical-align: top;
+}
+
+/* .ultimaEdicaoPor {
+	text-align: right;
+	background-color: transparent;
+	border-color: #EFEFEF;
+	color: #993300;
+	font-family: arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	padding: 5px 5px 1px;
+	text-transform: none;
+	vertical-align: top;
+} */
+
+.tamanhoImagem {
+	width: 60px;
+	height: 80px;
+	margin: 2px;
+	border: 1px solid green;
+	border-radius: 5px;
+}
+
+#bloco_left {
+	width: 420px;
+}
+
+/*SLIDER CAROUSEL STYLE*/
+.bigImage {
+	width: auto;
+	height: 200px;
+	max-height: 200px;
+	margin: 0 auto;
+	display: block;
+}
+
+.carousel {
+	max-width: 500px;
+	margin: 0 auto;
+	border: 5px solid #2F7D13;
+	/*background-color:rgba(100, 110, 30, 0.5);*/
+}
+
+.carousel-control {
+	background: none repeat scroll 0 0 #2F7D13;
+	border: 3px solid #2F7D13;
+	border-radius: 30px 30px 30px 30px;
+	color: #FFFFFF;
+	font-size: 40px;
+	font-weight: 100;
+	height: 40px;
+	left: 15px;
+	line-height: 30px;
+	margin-top: -20px;
+	position: absolute;
+	text-align: center;
+	top: 40%;
+	width: 40px;
+	filter: alpha(opacity = 50);
+}
+
+.carousel-caption {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.75);
+	bottom: 0;
+	left: 5px;
+	padding: 5px;
+	position: static;
+	right: 0;
+	opacity: 0.80;
+}
+/*END SLIDER CAROUSEL STYLE*/
+table {
+	display: block;
+}
+
+
+#distribuicaoGeograficaIlhasOceanicas, #distribuicaoGeografica , 
+#nomeVernaculoNome.label, #nomeVernaculoRegiao.label, #nomeVernaculoLingua.label,
+.temComoSinonimo td.label, .ehSinonimo td.label, .formaVida td.label, .substrato td.label{
+	font-weight: bold;
+}
+
+#descricaoLivreId{
+	display: -moz-inline-box; 
+	overflow-x: auto;
+	overflow-y: hidden; 
+	width:-webkit-max-content;
+	padding-bottom: 20px;
+}
+
+#livre_descricao-body fieldset{
+	 display: table-cell;
+}
+
+#livre_descricao_field {
+ 	width: -moz-max-content;
+ 	width: -webkit-max-content;
+}
+
+</style>
+
+<script>
+
+$(document).ready(function() 
+{
+	if (getUrlVar('action') == 'print')
+	{
+		var idDadosListaBrasil = $('#carregaTaxonGrupoIdDadosListaBrasil').val();
+		carregaTaxonGrupo(idDadosListaBrasil, true);
+	}
+});
+
+</script>
+
+<!-- Modal do Mover Taxon-->
+
+<div id="moverRamo" class="modal hide fade" data-backdrop="static"
+	data-keyboard="false" style="display: none;">
+	<div class="modal-header">
+		<a class="close" data-dismiss="modal">x</a>
+		<h3>
+			Mover Táxon
+		</h3>
+	</div>
+	<div class="modal-body">
+		<p>
+		<div class="modal-body-title">
+			Movendo o ramo: 
+			<br>
+			para:
+			<input id="buscarRamo" type="text" class="search-query"
+				autocomplete="off" placeholder="Buscar"
+				style="width: 165px; vertical-align: top; margin-left: 50px; margin-top: 10px;">
+
+		</div>
+		</p>
+	</div>
+	<div class="modal-footer">
+		<a href="#" class="btn" data-dismiss="modal"
+			onClick="limparCampoTexto()">Cancelar</a> <a
+			class="btn" data-dismiss="modal"
+			onClick="confirm ('ATEN&#199;&#195;O! Voc&#234; deseja mover este ramo? Todos os filhos tamb&#233;m ser&#227;o movidos!')?setaAcaoMoverRamoAutoComplete(): false ;">Ok</a>
+	</div>
+</div>
+
+<!-- Erro no Resultado -->
+<div id="myModalTaxonNotFound" class="modal hide fade"
+	style="display: none;">
+	<div class="modal-header">
+		<h3>
+			Atenção!
+		</h3>
+	</div>
+	<div class="modal-body">
+		<br>
+		<div class="modal-body-title" style="font-size: 15px;">
+			Nenhum táxon foi encontrado com esta identificação.
+		</div>
+		<br>
+	</div>
+	<div class="modal-footer">
+		<a href="#" class="btn" onclick="fecharAba();return false;">Fechar</a>
+	</div>
+</div>
+
+<!-- Número Identificador -->
+<div id="identificador">
+	<strong></strong> <a title="Impressão" target="_blank" href=""
+		name="impressora"> <i class="icon-print"></i></a>
+</div>
+
+
+
+
+<table style="width: 100%;">
+
+
+	<!-- Nome Completo -->
+	<tr class="nomeCompleto" style="display: none;"
+		id="tr-carregaTaxonGrupoNomeCompleto" class="nomeCompleto">
+		<td class="field" id="idFieldNomeCompleto"></td>
+	</tr>
+
+
+	<!-- Status e Qualificador (Qualificações do Nome) -->
+
+	<tr>
+		<td id="idFieldStatusQualificador"><span
+			id="tr-carregaTaxonGrupoStatusQualificador"
+			class="statusQualificador" style="display: none;"> <span
+				class="field"></span>
+		</span></td>
+	</tr>
+	
+	<!-- Taxon Status FBO -->
+	<tr>
+		<td id="idFieldTaxonStatusFBO"><span
+			id="tr-carregaTaxonGrupoTaxonStatusFBO"
+			class="taxonStatusFBO" style="display: none;"> 
+			<span class="field"></span>
+		</span></td>
+	</tr>
+
+	<!-- Texto Introdutório PT/ENG -->
+	<tr class="textoIntrodutorio"
+		id="tr-carregaTaxonGrupoTextoIntrodutorio" class="textoIntrodutorio">
+		<td class="field" id="idFieldTextoIntrodutorio"></td>
+	</tr>
+
+	<!-- Hierarquia -->
+	<tr class="hierarquia" style="display: none;">
+		<td style="padding-top: 0px;" class="label">
+			<fieldset>
+				<legend>
+					Hierarquia Taxonômica
+				</legend>
+				<table>
+					<tbody>
+						<tr id="tr-carregaTaxonGrupoHierarquiaTaxonomica"
+							class="hierarquiaTaxonomica">
+							<td class="field" id="idFieldHierarquia"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+	<!-- BEGIN SLIDER CAROUSEL-->
+	<tr class="imagemCampo" style="display: none;">
+		<td class="label">
+			<fieldset>
+				<legend>
+					Imagens de campo
+				</legend>
+				<div id='ajax-loader-ImagemCampo' class="label"
+					style="display: none; text-align: center">
+					<img id="idImage"
+						src="/reflora/layout/default/imagens/ajax-loader.gif" /> <br>
+					Carregando...
+				</div>
+				<div id="ajax-loader-ImagemCampo-erro"
+					class="alert alert-block alert-error fade in"
+					style="display: none; text-align: center">
+					<h4 class="alert-heading">
+						A conexão com o servidor de imagens do FSI não está disponível no momento. Por favor, tente novamente mais tarde.
+					</h4>
+				</div>
+				<div id="myCarousel" class="carousel slide" style="display: none;">
+				</div>
+			</fieldset>
+		</td>
+	</tr>
+	<!-- END SLIDER CAROUSEL -->
+
+	<!-- Variante Ortográfica -->
+
+	<tr class="varianteOrtografica" style="display: none;">
+		<td class="label">
+			<fieldset style="width: auto;">
+				<legend>
+					Variante Ortográfica
+				</legend>
+				<table>
+					<tbody>
+						<tr class="varianteOrtografica"
+							id="tr-carregaTaxonGrupoVarianteOrtografica">
+							<td class="field"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+
+	<!-- Sinonimos Relevantes -->
+
+	<tr class="sinonimosRelevantes" style="display: none;">
+		<td style="padding-top: 0px;" class="label">
+			<fieldset>
+				<legend>
+					Sinônimos Relevantes
+				</legend>
+
+				<table>
+					<tbody>
+						<tr class="temComoSinonimo" style="display: none;">
+							<td class="label">Tem Como Sinônimo
+							</td>
+						</tr>
+
+						<tr id="tr-carregaTaxonGrupoTemComoSinonimo"
+							class="temComoSinonimo" style="display: none;">
+							<td class="field" id="idFieldTemComoSinonimo"></td>
+						</tr>
+					</tbody>
+				</table>
+
+
+				<table>
+					<tbody>
+						<tr class="ehSinonimo" style="display: none;">
+							<td class="label" >É Sinônimo
+							</td>
+						</tr>
+
+						<tr id="tr-carregaTaxonGrupoEhSinonimo" class="ehSinonimo"
+							style="display: none;">
+							<td class="field" id="idFieldEhSinonimo"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+	
+	<!-- Forma de Vida e Substrato -->
+	<tr class="formaVida substrato" style="display: none;">
+		<td class="label">
+			<fieldset>
+				<legend>
+					Forma de Vida e Substrato
+				</legend>
+
+				<table>
+					<!-- Forma de Vida -->
+					<tbody>
+						<tr style="display: none;" class="formaVida">
+							<td class="label">Forma de Vida
+							</td>
+						</tr>
+						<tr style="display: none;" id="tr-carregaTaxonGrupoFormaVida"
+							class="formaVida">
+							<td class="field"></td>
+						</tr>
+					</tbody>
+				</table>
+				<table>
+					<!-- Substrato -->
+					<tbody>
+						<tr style="display: none;" class="substrato">
+							<td class="label" >Substrato
+							</td>
+						</tr>
+
+						<tr style="display: none;" id="tr-carregaTaxonGrupoSubstrato"
+							class="substrato">
+							<td class="field"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+	
+	<!-- Descrição Campos Controlados -->
+	<tr class="descricaoCamposControlados" style="display: none;">
+		<td>
+			<fieldset>
+				<legend>
+					Descrição com campos controlados
+				</legend>
+				<table>
+					<tr id="tr-carregaTaxonGrupoDescricaoCamposControlados">
+						<td class="field"></td>
+					</tr>
+				</table>
+				
+				<div class="container">
+					<div style="margin-left: -15px;">
+						<div class="span6">
+							<div class="field" id="mensage-campos-controlados-igual">
+								<span>
+									Ver descrição livre
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+			</fieldset>
+		</td>
+	</tr>
+
+		<!-- Descrição Livre -->
+		<tr class="descricaoLivre" id="tr-AbaDescricaoLivre" style="display:none;">
+			<td style="display: -moz-box; overflow-x: auto; overflow-y: hidden; padding-bottom: 20px;">
+				<div id="livre_descricao-body">
+				<fieldset style = "width:130%;">
+					<legend>
+						Descrição livre
+					</legend>
+					<ul class="nav nav-tabs">
+						
+						<li id="abaDescricaoLivrePT">
+							<a
+							style="border-color: transparent; border-bottom-width: 0px;"
+							data-toggle="tab" href="#tabs-8"
+							class="aba">
+							<img class="iconeidioma" src="/reflora/layout/default/imagens/idioma_pt.gif">
+							PT</a>
+						</li>
+						
+						<li id="abaDescricaoLivreEN" >
+							<a
+							style="border-color: transparent; border-bottom-width: 0px;"
+							data-toggle="tab" href="#tabs-9"
+							class="aba">
+							<img class="iconeidioma" src="/reflora/layout/default/imagens/idioma_en.gif">
+							EN</a>
+							</li>
+						<li id="abaDescricaoLivreES" >
+							<a
+							style="border-color: transparent; border-bottom-width: 0px;"
+							data-toggle="tab" href="#tabs-10"
+							class="aba">
+							<img class="iconeidioma" src="/reflora/layout/default/imagens/idioma_es.png">
+							ES</a>
+						</li>
+						
+					</ul>
+					
+					<div id="tabs-8" class="active tab-pane"
+						style="margin-left: 0px;overflow-y: hidden;">
+						<table style="margin-right: 10px;">
+							<tr id="tr-carregaTaxonGrupoDescricaoLivre">
+								<td class="field"></td>
+							</tr>
+						</table>
+					</div> 
+					<div id="tabs-9" class= "active tab-pane"
+						style="margin-left: 0px;overflow-y: hidden;">
+						<table style="margin-right: 10px;">
+							<tr id="tr-carregaTaxonGrupoDescricaoLivreEN">
+								<td class="field"></td>
+							</tr>
+						</table>
+					</div>
+					<div id="tabs-10" class="active tab-pane"
+						style="margin-left: 0px;overflow-y: hidden;">
+						<table style="margin-right: 10px;">
+							<tr id="tr-carregaTaxonGrupoDescricaoLivreES">
+								<td class="field"></td>
+							</tr>
+						</table>
+					</div>
+				</fieldset>
+				</div>
+				
+			</td>
+		</tr>
+		
+	<!-- Comentário Público -->
+	<tr class="comentarioPublico" id="tr-AbaComentarioPublico" style="display: none;">
+		<td class="label">
+			<fieldset>
+				<legend>
+					Comentários
+				</legend>
+				<ul class="nav nav-tabs">
+				
+					<li id="abaComentarioPublicoPT">
+						<a
+						style="border-color: transparent; border-bottom-width: 0px;"
+						data-toggle="tab" href="#tabs-14"
+						class="aba">
+						<img class="iconeidioma" src="/reflora/layout/default/imagens/idioma_pt.gif">
+						PT</a></li>
+					<li id="abaComentarioPublicoEN" >
+						<a
+						style="border-color: transparent; border-bottom-width: 0px;"
+						data-toggle="tab" href="#tabs-15"
+						class="aba">
+						<img class="iconeidioma" src="/reflora/layout/default/imagens/idioma_en.gif">
+						EN</a></li>
+					<li id="abaComentarioPublicoES" >
+						<a
+						style="border-color: transparent; border-bottom-width: 0px;"
+						data-toggle="tab" href="#tabs-16"
+						class="aba">
+						<img class="iconeidioma" src="/reflora/layout/default/imagens/idioma_es.png">
+						ES</a></li>
+				</ul>
+				
+				<div id="tabs-14" class="tab-pane"
+					style="margin-left: 0px">
+					<table style="margin-right: 10px;">
+						<tr id="tr-carregaTaxonGrupoComentarioPublico">
+							<td class="field"></td>
+						</tr>
+					</table>
+				</div> 
+				<div id="tabs-15" class="tab-pane"
+					style="margin-left: 0px">
+					<table style="margin-right: 10px;">
+						<tr id="tr-carregaTaxonGrupoComentarioPublicoEN">
+							<td class="field"></td>
+						</tr>
+					</table>
+				</div>
+				<div id="tabs-16" class="tab-pane"
+					style="margin-left: 0px">
+					<table style="margin-right: 10px;">
+						<tr id="tr-carregaTaxonGrupoComentarioPublicoES">
+							<td class="field"></td>
+						</tr>
+					</table>
+				</div>
+			</fieldset>
+		</td>
+	</tr>
+
+	<!-- Vouchers -->
+	<tr class="vouchers" style="display: none;">
+		<td class="label">
+			<fieldset style="width: auto;">
+				<legend>
+					Vouchers
+				</legend>
+				<table>
+					<tbody>
+						<tr class="vouchers" id="tr-carregaTaxonGrupoVouchers">
+							<td class="field"></td>			
+						</tr>
+									
+							<tr id="rowImagemVoucherMinimo"></tr>
+						
+							<tr>
+								<td>
+									<a data-toggle="tab" href="#tabs-4" id="btnMaisImagem" >Ver mais imagens</a>	
+								</td>
+							</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+	<!-- Referências -->
+	<tr class="referencias" style="display: none;">
+		<td class="label">
+			<fieldset style="width: auto;">
+				<legend>
+					Referência
+				</legend>
+				<table>
+					<tbody>
+						<tr class="referencias" id="tr-carregaTaxonGrupoReferencias">
+							<td class="field"></td>
+							<td>
+								<div id='ajax-loader-ImagemReferencia'
+									class="label visibilidadeReferencia">
+									<img id="idImage"
+										src="/reflora/layout/default/imagens/ajax-loader.gif" /> <br>
+									Carregando imagens do servidor INCT ...
+								</div>
+								<div id="ajax-loader-ImagemReferencia-erro"
+									class="alert alert-block alert-error fade in visibilidadeReferencia">
+									<h4 class="alert-heading">
+										A conexão com o servidor de imagens do INCT não está disponível no momento. Por favor, tente novamente mais tarde.
+									</h4>
+								</div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+	<!-- Hospedeiros -->
+	<tr id="tr-carregaTaxonGrupoHospedeiro" class="hospedeiro"
+		style="display: none;">
+		<td class="label">
+			<fieldset>
+				<legend>
+					Hospedeiro
+				</legend>
+				<table>
+					<tr class="hospedeiroAnimal" style="display: none;">
+						<td class="label">Hospedeiro Animal
+						</td>
+					</tr>
+					<tr id="tr-carregaTaxonGrupoHospedeiroAnimal"
+						class="hospedeiroAnimal" style="display: none;">
+						<td class="field"></td>
+					</tr>
+					<tr class="hospedeiroVegetal" style="display: none;">
+						<td class="label">Hospedeiro Vegetal e/ou Fungos
+						</td>
+					</tr>
+					<tr id="tr-carregaTaxonGrupoHospedeiroVegetal"
+						class="hospedeiroVegetal" style="display: none;">
+						<td class="field"></td>
+					</tr>
+					<tr id="tr-carregaTaxonGrupoHospedeiroIndeterminado"
+						class="hospedeiroIndeterminado" style="display: none;">
+						<td class="field"></td>
+					</tr>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+	<!-- Origem -->
+	<tr class="origem" style="display: none;">
+		<td class="label">
+			<fieldset>
+				<legend>
+					Origem
+				</legend>
+				<table>
+					<tbody>
+						<tr class="origem" id="tr-carregaTaxonGrupoOrigem">
+							<td class="field"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+
+	<!-- Endemismo -->
+	<tr class="endemismo" style="display: none;">
+		<td class="label">
+				<legend>
+					Endemismo
+				</legend>
+				<table>
+					<tbody>
+						<tr class="endemismo" id="tr-carregaTaxonGrupoEndemismo">
+							<td class="field"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+	<!-- Distribuição Não Ocorre -->
+	<tr class="naoOcorreBrasil" style="display: none;">
+		<td class="label">
+			<fieldset>
+				<legend>
+					Distribuição
+				</legend>
+				<table>
+					<tbody>
+						<tr class="naoOcorreBrasil"
+							id="tr-carregaTaxonGrupoNaoOcorreBrasil">
+							<td class="field"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+
+	<!-- Distribuição -->
+
+	<tr class="distribGeoCerteza distribHidroCerteza"
+		style="display: none;">
+		<td class="label">
+			<fieldset style="padding-right: 10px;">
+
+				<legend>
+					Distribuição
+				</legend>
+
+				<!-- Distribuição Geográfica - Estados -->
+				<div class="label" id="distribuicaoGeografica">
+					Distribuição Geográfica
+				</div>
+
+				<div class="tabelamapa"	style="width: 50%; float: left; min-width: 400px;">
+
+						<div class="label" id="ocorrencia_confirmada">Ocorrências confirmadas:
+						</div>
+
+						<div class="distribuicaoGeograficaCertezaNorte"
+							style="display: none;"
+							id="tr-carregaTaxonGrupoDistribuicaoGeograficaCertezaNorte">
+							<div id="idFieldCertezaNorte" class="field" style="margin-left: 15px;">Norte</div>
+						</div>
+
+						<div class="distribuicaoGeograficaCertezaNordeste"
+							style="display: none;"
+							id="tr-carregaTaxonGrupoDistribuicaoGeograficaCertezaNordeste">
+							<div id="idFieldCertezaNordeste" class="field" style="margin-left: 15px;">Nordeste</div>
+						</div>
+
+						<div class="distribuicaoGeograficaCertezaCentroOeste"
+							style="display: none;"
+							id="tr-carregaTaxonGrupoDistribuicaoGeograficaCertezaCentroOeste">
+							<div id="idFieldCertezaCentroOeste" class="field" style="margin-left: 15px;">Centro-Oeste</div>
+						</div>
+
+						<div class="distribuicaoGeograficaCertezaSudeste"
+							style="display: none;"
+							id="tr-carregaTaxonGrupoDistribuicaoGeograficaCertezaSudeste">
+							<div id="idFieldCertezaSudeste" class="field" style="margin-left: 15px;">Sudeste</div>
+						</div>
+
+						<div class="distribuicaoGeograficaCertezaSul"
+							style="display: none;"
+							id="tr-carregaTaxonGrupoDistribuicaoGeograficaCertezaSul">
+							<div id="idFieldCertezaSul" class="field" style="margin-left: 15px;">Sul</div>
+						</div>
+
+						<div class="label" id="possivel_ocorrencia">Possíveis ocorrências:
+						</div>
+
+						<div class="distribuicaoGeograficaDuvidaNorte"
+							style="display: none;"
+							id="tr-carregaTaxonGrupoDistribuicaoGeograficaDuvidaNorte">
+							<div id="idFieldDuvidaNorte" class="field" style="margin-left: 15px;">Norte</div>
+						</div>
+
+						<div class="distribuicaoGeograficaDuvidaNordeste"
+							style="display: none;"
+							id="tr-carregaTaxonGrupoDistribuicaoGeograficaDuvidaNordeste">
+							<div id="idFieldDuvidaNordeste" class="field" style="margin-left: 15px;">Nordeste</div>
+						</div>
+
+						<div class="distribuicaoGeograficaDuvidaCentroOeste"
+							style="display: none;"
+							id="tr-carregaTaxonGrupoDistribuicaoGeograficaDuvidaCentroOeste">
+							<div id="idFieldDuvidaCentroOeste" class="field" style="margin-left: 15px;">Centro-Oeste</div>
+						</div>
+
+						<div class="distribuicaoGeograficaDuvidaSudeste"
+							style="display: none;"
+							id="tr-carregaTaxonGrupoDistribuicaoGeograficaDuvidaSudeste">
+							<div id="idFieldDuvidaSudeste" class="field" style="margin-left: 15px;">Sudeste</div>
+						</div>
+
+						<div class="distribuicaoGeograficaDuvidaSul" style="display: none;"
+							id="tr-carregaTaxonGrupoDistribuicaoGeograficaDuvidaSul">
+							<div id="idFieldDuvidaSul" class="field" style="margin-left: 15px;">Sul</div>
+						</div>
+				
+
+					<div class="label" id="distribuicaoGeograficaIlhasOceanicas">Ilhas Oceânicas
+					</div>
+
+					<div class="label" id="ocorrencia_confirmadaIlhas">Ocorrências confirmadas:
+					</div>
+					
+					<div class="distribuicaoIlhasConfirmadas" style="display: none;"
+						id="tr-carregaTaxonGrupoDistribuicaoIlhasConfirmadas">
+						<div id="idFieldIlhasConfirmadas" class="field" style="margin-left: 15px;">Ocorrência Confirmada </div>
+					</div>
+					
+					<div class="label" id="possivel_ocorrenciaIlhas">Possíveis ocorrências:
+					</div>
+					
+					<div class="distribuicaoIlhasPossiveis" style="display: none;"
+						id="tr-carregaTaxonGrupoDistribuicaoIlhasPossiveis">
+						<div id="idFieldIlhasPossiveis" class="field" style="margin-left: 15px;">Possível Ocorrência</div>
+					</div>
+					
+					<!-- Dominios Fitogeograficos -->
+					<div style="float: left; width: 100%;">
+							<div style="display: none;" class="dominiosFitogeograficos">
+								<div class="label" style="font-weight: bold;">Domínios Fitogeográficos
+									<span
+									title="Definições e Referências"><a
+										data-toggle="modal" href="#myModalDomFito"><i
+											class="icon-question-sign"></i></a></span>
+									<div id="myModalDomFito" class="modal hide fade"
+										style="display: none;">
+										<div class="modal-header">
+											<a class="close" data-dismiss="modal">×</a>
+											<h3>
+												<b>Ajuda</b>
+											</h3>
+										</div>
+										<div class="modal-body">
+											<p>
+											<div class="modal-body-title">
+												<b>Domínios Fitogeográficos</b>
+											</div>
+											<div class="modal-body-description">
+												<br><b>Amazônia</b><br><dd><br>Domínio fitogeográfico presente nas Regiões Norte e Centro-Oeste do Brasil, com grande variedade de fitofisionomias, mas com o predomínio de Florestas de Igapó e Florestas de Terra-Firme (Ter Steege et al. 2003). Ocupa 49,3% do território brasileiro e se estende através da Bolívia, Peru, Equador, Colômbia, Venezuela e Guianas (Kress et al. 1998).</dd><br><br><b>Caatinga</b><br><dd><br>Domínio exclusivamente brasileiro composto por vegetação tipicamente xerófila, que ocorre sob clima semi-árido da Região Nordeste e ocupa 9,9% do território nacional (Andrade-Lima 1981).</dd><br><br><b>Cerrado <i>(lato sensu)</i></b><br><dd><br>Conjunto de diferentes formas de vegetação no domínio do Cerrado, que inclui desde fitofisionomias florestais (Cerradão), savânicas (Cerrado <i>stricto sensu</i>), até campestres (Campo Sujo), e que compartilham uma flora com características escleromórficas. Famílias frequentes são Asteraceae, Leguminosae, Malpighiaceae, Vochysiaceae e Poaceae.</dd><br><br><b>Mata Atlântica</b><br><dd><br>Domínio que inclui formações florestais e não-florestais que ocorrem ao longo da costa brasileira, com grande amplitude latitudinal, desde o Rio Grande do Norte até o Rio Grande do Sul e com variação altitudinal a partir do nível do mar até as regiões serranas do Complexo da Mantiqueira. O Brasil abriga 95% deste domínio fitogeográfico, que corresponde a 13% do seu território (Stehmann et al. 2009).</dd><br><br><b>Pampa</b><br><dd><br>Vegetação campestre predominantemente herbácea ou subarbustiva e geralmente contínua. Ocupa 2.1% do território brasileiro, exclusivamente no Rio Grande do Sul, mas com extensões para a Argentina, Uruguai e leste do Paraguai (Boldrini 2009).</dd><br><br><b>Pantanal</b><br><dd><br>Domínio das terras submetidas às inundações periódicas dos rios Paraná e Paraguai, ocorrente na Região Centro-Oeste do Brasil, que ocupa 1,8% do território brasileiro e se distribui continuamente até a Bolívia, Paraguai e Argentina (Pott & Pott 1997).</dd><br><br>
+											</div>
+											</p>
+										</div>
+										<div class="modal-footer">
+											<a href="#" class="btn" data-dismiss="modal">Fechar</a>
+										</div>
+									</div></div>
+							</div>
+	
+							<div style="display: none;" class="dominiosFitogeograficos"
+								id="tr-carregaTaxonGrupoDominiosFitogeograficos">
+								<div id="idFieldDominiosFitogeograficos" class="field"></div>
+							</div>
+					</div>
+	
+					<!-- Vegetação -->
+					<div style="float: left; width: 100%;">
+							<div style="display: none;" class="tipoVegetacao">
+								<div class="label" style="font-weight: bold;">Tipo de Vegetação
+									<span
+									title="Definições e Referências"><a
+										data-toggle="modal" href="#myModalVeget"><i
+											class="icon-question-sign"></i></a></span>
+								</legend>
+									<div id="myModalVeget" class="modal hide fade"
+										style="display: none;">
+										<div class="modal-header">
+											<a class="close" data-dismiss="modal">×</a>
+											<h3>
+												<b>Ajuda</b>
+											</h3>
+										</div>
+										<div class="modal-body">
+											<p>
+											<div class="modal-body-title">
+												<b>Tipos de vegetação</b>
+											</div>
+											<div class="modal-body-description">
+												<b>Área antrópica</b><br><dd><br>Ambiente cuja vegetação original foi alterada, perturbada ou destruída em relação ao tipo fitifisionômico primário e inclui áreas ruderais, agropecuárias e urbanas.</dd><br><br><b>Caatinga (stricto sensu)</b><br><dd>Formação vegetal tipicamente xerófita, predominantemente uma forma de floresta baixa sazonalmente seca, que ocorre na região de clima semi-árido do Nordeste do Brasil. A vegetação é esparsa, espalhando-se pelos maciços e tabuleiros por onde correm rios, em geral, intermitentes. Famílias frequentes são Leguminosae, Euphorbiaceae, Cactaceae, Asteraceae e Malpighiaceae.</dd><br><br><b>Campinarana</b><br><dd>Vegetação amazônica baixa e rala, que ocupa terrenos arenosos e áreas de terra firme. Pode ser "florestada", assemelhando-se a uma floresta ciliar; "arborizada", quando dominam plantas de menor porte; e "gramíneo-lenhosa", quando ocorre nas planícies encharcadas, próxima a rios e lagos. Famílias frequentes são Arecaceae, Bromeliaceae, Clusiaceae, Humiriaceae, Marantaceae, Meliaceae e Rapateaceae.</dd><br><br><b>Campo de Altitude</b><br><dd>Vegetação campestre dos trechos mais elevados das Serras do Mar, Mantiqueira e Serra Geral, geralmente em áreas acima de 900m. Ocorre em sítios com rochas ígneas ou metamórficas (granito-gnaisse), estando associado ao domínio da Mata Atlântica. Famílias frequentes são Asteraceae, Cyperaceae, Melastomataceae, Orchidaceae e Poaceae.</dd><br><br><b>Campo de Várzea</b><br><dd>Vegetação amazônica dominada por estrato herbáceo com gramíneas e ciperáceas altas, que crescem em trechos sujeitos às inundações periódicas de rios e lagoas. Geralmente é associado à Floresta de Várzea. Famílias frequentes são Poaceae e Cyperaceae.</dd><br><br><b>Campo Limpo</b><br><dd>Vegetação dominada por estrato herbáceo (graminoso) ou subarbustivo, geralmente contínuo, e ausência de árvores e arbustos de caule grosso. Encontrado nos domínios do Cerrado e Pampa. Famílias frequentes são Poaceae, Asteraceae, Cyperaceae e Leguminosae.</dd><br><br><b>Campo Rupestre</b><br><dd>Vegetação campestre que ocorre em áreas montanhosas, basicamente acima de 900 m de altitude, ocupando principalmente trechos de solos litólicos associados a afloramentos de quartzito, arenito ou minérios de ferro e manganês. Associa-se principalmente aos domínios do Cerrado e da Caatinga. Famílias frequentes são Asteraceae, Eriocaulaceae, Cyperaceae, Poaceae, Melastomataceae, Orchidaceae, Velloziaceae, Leguminosae e Xyridaceae.</dd><br><br><b>Carrasco</b><br><dd>Vegetação xerófila arbustiva alta e densa, com trepadeiras abundantes e um dossel descontínuo, com árvores emergentes esparsas. No domínio da Caatinga corre sobre Areias Quartzosas distróficas profundas, e no domínio do Cerrado sobre litossolo. Famílias frequentes são Leguminosae, Apocynaceae, Combretaceae, Solanaceae.</dd><br><br><b>Cerrado (lato sensu)</b><br><dd>Conjunto de diferentes formas de vegetação no domínio do Cerrado, que inclui desde fitofisionomias florestais (Cerradão), savânicas (Cerrado stricto sensu), até campestres (Campo Sujo), e que compartilham uma flora com características xeromórficas. Famílias frequentes são Asteraceae, Leguminosae, Malpighiaceae, Vochysiaceae e Poaceae.</dd><br><br><b>Floresta Ciliar e/ou de Galeria</b><br><dd>Vegetação florestal que ocorre associada a cursos de água, geralmente intermitentes, os quais podem ser largos (ciliar) ou mais estreitos e cobertos pelo dossel (galeria). Mais associada aos domínios do Cerrado e Caatinga, ocorre em todo o território nacional sob diferentes nomes. Famílias frequentes são Leguminosae, Lauraceae, Myrtaceae, Euphorbiaceae, Clusiaceae e Rubiaceae.</dd><br><br><b>Floresta de Igapó</b><br><dd>Vegetação florestal amazônica cujo solo permanece encharcado ou alagado acima da superfície por todo o ano. Geralmente associada a solos arenosos. Comparada às florestas de Várzea (em solos argilosos) e Terra-Firme é, em geral, a mais baixa.</dd><br><br><b>Floresta de Terra-Firme</b><br><dd>Vegetação florestal amazônica sobre os interflúvios, geralmente densa e alta, não inundada sazonalmente pela cheia dos rios. Famílias frequentes são Leguminosae, Lecythidaceae, Chrysobalanaceae, Sapotaceae, Burseraceae.</dd><br><br><b>Floresta de Várzea</b><br><dd>Vegetação florestal amazônica submetida a inundações periódicas na época das cheias dos rios. Geralmente associada a solos argilosos. Famílias frequentes são Arecacaea, Euphorbiaceae, Malvaceae, Moraceae e Polygonaceae.</dd><br><br><b>Floresta Estacional Decidual</b><br><dd>Vegetação florestal condicionada por nítida estacionalidade climática (um período seco e outro chuvoso). Ocorre geralmente nos interflúvios, e 90% ou mais das plantas arbóreas perdem as folhas no período seco. Ocorre nos domínios da Caatinga, da Mata Atlântica e do Cerrado. Famílias frequentes são Leguminosae, Malvaceae, Euphorbiaceae, Apocynaceae e Sapindaceae.</dd><br><br><b>Floresta Estacional Perenifólia</b><br><dd>Floresta da borda sul-amazônica na região do Alto Rio Xingu, que ocorre sobre latossolos e apresenta período seco variável de quatro a seis meses. Apesar da estacionalidade climática, a floresta se mantém perenifólia, pois não há estresse hídrico devido a densa rede de drenagem num relevo quase plano. Apresenta composição florística própria, não similar à flora presente nas formações de entorno, isto é, a Floresta Ombrófila e a Floresta Estacional.</dd><br><br><b>Floresta Estacional Semidecidual</b><br><dd>Vegetação florestal condicionada pela nítida estacionalidade climática (um período seco e outro chuvoso). Ocorre geralmente nos interflúvios, e 10% a 50% das plantas arbóreas perdem as folhas no período seco. Famílias frequentes são Leguminosae, Euphorbiaceae, Nyctaginaceae, Rutaceae e Apocynaceae.</dd><br><br><b>Floresta Ombrófila (Floresta Pluvial)</b><br><dd>Vegetação florestal que ocorre em áreas com elevadas temperatura e precipitação, composta essencialmente por árvores e palmeiras. De porte alto, pode ocorrer em diferentes posições topográficas, desde "terras baixas", áreas "submontanas", "montanas", até "alto-montanas". Famílias frequentes são Leguminosae, Arecaceae, Moraceae, Myrtaceae, Euphorbiaceae, Rubiaceae, Bromeliaceae, Araceae, Orchidaceae.</dd><br><br><b>Floresta Ombrófila Mista</b><br><dd>Vegetação florestal pluvial, caracterizada pela presença do pinheiro-do-paraná (Araucaria angustifolia), além de árvores dicotiledôneas e palmeiras. De porte alto, pode ocorrer desde posições topográficas "submontanas", até "montanas" e "alto-montanas". Famílias frequentes são Araucariaceae, Podocarpaceae, Lauraceae, Myrtaceae, Euphorbiaceae.</dd><br><br><b>Manguezal</b><br><dd>Vegetação arbóreo-arbustiva perenifólia densa, baixa, pobre em espécies, que ocorre nos estuários dos rios. Estende-se pelo litoral brasileiro desde Santa Catarina até o Amapá, seguindo rumo norte por toda a América tropical. Famílias importantes são Rhizophoraceae, Acanthaceae, Combretaceae e Pteridaceae.</dd><br><br><b>Palmeiral</b><br><dd>Formação onde normalmente domina uma só espécie de palmeira, com baixa frequência de árvores. Associa-se aos ecótonos dos domínios da Amazônia, Caatinga e Cerrado. Gêneros importantes são Attalea, Copernicia, Euterpe, Mauritia e Orbignya.</dd><br><br><b>Restinga</b><br><dd>Complexo de vegetações que ocupa as planícies litorâneas do Brasil, ocorrendo sobre sedimentos arenosos pleistocênicos e holocênicos de origem marinha. Inclui desde fitofisionomias abertas, herbáceo-arbustivas, localizadas próximas às praias, até florestas com árvores altas em direção ao interior do continente, ou arbustais sobre dunas litorâneas. Famílias frequentes são Arecaceae, Lauraceae, Myrsinaceae, Myrtaceae e Bromeliaceae.</dd><br><br><b>Savana Amazônica</b><br><dd>Vegetação não florestal da Amazônia sobre solos pouco a bem drenados, geralmente arenosos, e que inclui desde fitofisionomias savânicas típicas até formações caracteristicamente campestres. Fisionômica e floristicamente é similar ao Cerrado lato sensu, com flora mais pobre. Famílias frequentes são Vochysiaceae, Leguminosae e Malpighiaceae.</dd><br><br><b>Vegetação aquática</b><br><dd>Em ambientes aquáticos lênticos ou lóticos, inclui plantas (macrófitos) flutuantes não enraizadas, ou enraizadas com folhas flutuantes ou submersas. Famílias freqüentes são Araceae, Cyperaceae, Nymphaeaceae e Poaceae.</dd><br><br><b>Vegetação sobre afloramentos rochosos</b><br><dd>Ilhas de rochas (inselbergues), circundados por uma matriz vegetacional distinta, que pode ter variadas feições fitofisionômicas. Famílias frequentes são Araceae, Bromeliaceae, Cactaceae e Orchidaceae.</dd><br><br><br><b>Referências</b>:<br><p><dd>ANDRADE-LIMA, D. The caatingas dominium. <b>Revista Brasileira de Botânica</b>, v.4, n.2, p.149-163, 1981.</dd></p><dd>ARAÚJO, F.S.; MARTINS, F.R. Fisionomia and organização da vegetação do Carrasco no Planalto da Ibiapaba, Estado do Ceará. <b>Acta Botanica Brasilica</b>. v.13, n.1., p.1-13, 1999.</dd><p><dd>EITEN, G. <b>Classificação da vegetação do Brasil</b>. Brasília: CNPq, 1983. 305p. il.</dd></p><dd>FERNANDES, A.; BEZERRA, P. <b>Estudo fitogeográfico do Brasil. Fortaleza</b>: Stylus Comunicações, 1990. 205p.</dd><p><dd>GLOSSÁRIO de ecologia. 2ed. [s.l.]: ACIESP/CNPq/FINEP/ FA-PESP, 1997. 351p. (ACIESP, 103).</dd></p><dd>POREMBSKI, S. Tropical inselbergs: habitat types, adaptive strategies and diversity patterns. Revista Brasileira de Botânica. v. 30, n.4, p.579–586, 2007.</dd><p><dd>RIBEIRO, J. F.; WALTER, B.M.T. As principais fitofisionomias do bioma Cerrado In: SANO, S. M.; ALMEIDA, S.P.; RIBEIRO, J.F. (Ed.) <b>Cerrado</b>: ecologia and flora. Brasília, DF: Embrapa Cerrados/Embrapa Informação Tecnológica, 2008, v.1, p. 151-212.</dd></p><dd>RIZZINI, C.T. <b>Tratado de fitogeografia do Brasil</b>: aspectos ecológicos, sociológicos and florísticos. Rio de Janeiro. Âmbito Cultural Edições Ltda., 1997. 2.ed., 747p. (Revisado por Cecília M. Rizzini).</dd><p><dd>VASCONCELOS, M.F. O que são campos rupestres and campos de altitude nos topos de montanha do leste do Brasil? <b>Revista Brasileira de Botânica</b>. v.34, n.2, p.241-246, 2011.</dd></p><dd>VELOSO, H.P. Sistema fitogeográfico. In: IBGE. <b>Manual técnico da vegetação brasileira</b>. Rio de Janeiro: Fundação Instituto Brasileiro de Geografia and Estatística, 1992. p.9-38. (Manuais Técnicos em Geociências, n.1).</dd><p><dd>SAMPAIO, D.; SOUZA, V.C.; OLIVEIRA, A.A.; PAULA-SOUZA, J.; RODRIGUES, R.R. Árvores da restinga: guia ilustrado para identificação das espécies da Ilha do Cardoso. São Paulo: Editora Neotrópica, 2005.</dd></p><br>
+											</div>
+											</p>
+										</div>
+										<div class="modal-footer">
+											<a href="#" class="btn" data-dismiss="modal">Fechar</a>
+										</div>
+									</div></div>
+							</div>
+	
+							<div style="display: none;" class="tipoVegetacao"
+								id="tr-carregaTaxonGrupoTipoVegetacao">
+								<div id="idFieldTiposVegetacao" class="field"></div>
+							</div>
+					</div>
+				
+				</div>
+				
+				<div style="min-width: 400px; float: right;">
+					<div id='map-teste'	style="width: 145px; height: 150px; display: none;"
+						class="distribGeoCerteza">
+					</div>
+				</div>
+				
+				<div style="float: left; width: 100%;">
+					<div class="tabelamapa" style="float: left; width: 50%; min-width: 400px;">
+						<div class="label distribHidroCerteza" style="font-weight: bold; display: none;">
+							Distribuição Hidrográfica
+						</div>
+	
+						<div class="distribuicaoHidrografica" style="display: none;" id="tr-carregaTaxonGrupoDistribuicaoHidrograficaCerteza">
+							<div id="idFieldDistribuicaoHidrografica" class="field"></div>
+						</div>
+					</div>
+	
+					<div style="min-width: 400px; float: right;">
+						<div id='map-brasilHidro' class="distribHidroCerteza" style="display: none;"></div>
+					</div>
+				</div>
+				
+
+
+			</fieldset>
+		</td>
+	</tr>
+
+	<!-- Nomes Vernaculos -->
+	<tr class="nomeVernaculo" style="display: none;">
+		<td class="label">
+			<fieldset style="width: auto;">
+				<legend>
+					Nomes Vernáculos
+				</legend>
+				<table>
+					<tbody>
+						<tr class="nomeVernaculo" id="tr-carregaTaxonGrupoNomeVernaculo">
+							<td class="field">
+								<table id="idTableNomeVernaculo">
+									<tr class="nomeVernaculo" style="display: none;"
+										id="tr-carregaTaxonGrupoTabelaNomeVernaculo">
+										<td id="nomeVernaculoNome" class="label">Nome</td>
+										<td id="nomeVernaculoRegiao" class="label">Região</td>
+										<td id="nomeVernaculoLingua" class="label">Língua</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+	
+	<!-- Link para este táxon -->
+	<tr class="linkParaTaxon" style="display: none;">
+		<td class="label">
+			<fieldset style="width: auto;">
+				<legend>
+					Link para este táxon
+				</legend>
+				<table>
+					<tbody>
+						<tr class="linkParaTaxon"
+							id="tr-carregaTaxonGrupoLinkParaTaxon">
+							<td id="idFieldLinkParaTaxon" class="field"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+	<!-- Bibliografia de Referencia -->
+	<tr class="bibliografiaReferencia" style="display: none;">
+		<td class="label">
+			<fieldset style="width: auto;">
+				<legend>
+					Bibliografia Referência
+				</legend>
+				<table>
+					<tbody>
+						<tr class="bibliografiaReferencia"
+							id="tr-carregaTaxonGrupoBibliografiaReferencia">
+							<td id="idFieldBibliografiaReferencia" class="field"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+	<!-- Filhos Sub Família -->
+	<tr class="filhosSubFam" style="display: none;">
+		<td class="label">
+			<fieldset style="width: auto;">
+				<legend>
+					Sub famílias
+				</legend>
+				<table>
+					<tbody>
+						<tr class="filhosSubFam" id="tr-carregaTaxonGrupoFilhosSubFam">
+							<td id="idFieldFilhosSubFam" class="field"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+	<!-- Filhos Tribo -->
+	<tr class="filhosTribo" style="display: none;">
+		<td class="label">
+			<fieldset style="width: auto;">
+				<legend>
+					Tribos
+				</legend>
+				<table>
+					<tbody>
+						<tr class="filhosTribo" id="tr-carregaTaxonGrupoFilhosTribo">
+							<td id="idFieldFilhosTribo" class="field"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+	<!-- Filhos Gênero -->
+	<tr class="filhosGenero" style="display: none;">
+		<td class="label">
+			<fieldset style="width: auto;">
+				<legend>
+					Gêneros
+				</legend>
+				<table>
+					<tbody>
+						<tr class="filhosGenero" id="tr-carregaTaxonGrupoFilhosGenero">
+							<td id="idFieldFilhosGenero" class="field"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+
+	<!-- Filhos Espécie -->
+	<tr class="filhosEspecie" style="display: none;">
+		<td class="label">
+			<fieldset style="width: auto;">
+				<legend>
+					Espécies
+				</legend>
+				<table>
+					<tbody>
+						<tr class="filhosEspecie" id="tr-carregaTaxonGrupoFilhosEspecie">
+							<td id="idFieldFilhosEspecie" class="field"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+
+	<!-- Filhos Subsp/Var -->
+	<tr class="filhosSubspVar" style="display: none;">
+		<td class="label">
+			<fieldset style="width: auto;">
+				<legend>
+					Subsp./Var.
+				</legend>
+				<table>
+					<tbody>
+						<tr class="filhosSubspVar" id="tr-carregaTaxonGrupoFilhosSubspVar">
+							<td id="idFieldFilhosSubspVar" class="field"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+	<!-- Sinopse para todo o Brasil -->
+	<tr class="sinopse" style="display: none;">
+		<td class="label">
+			<fieldset style="width: auto;">
+				<legend>
+					Sinopse para todo o Brasil
+				</legend>
+				<table>
+					<tbody>
+						<tr class="sinopse" id="tr-carregaTaxonGrupoSinopse">
+							<td id="idFieldSinopse" class="field">
+								<table id="idTableSinopse" border="1">
+									<tr class="sinopse" style="display: none;"
+										id="tr-carregaTaxonGrupoSinopseColuna">
+										<td id="sinopseColunaRank" class="field"></td>
+										<td id="sinopseColunaAceito" class="field">Aceitos</td>
+										<td id="sinopseColunaEndemico" class="field">Endêmicos</td>
+										<td id="sinopseColunaSinonimo" class="field">Sinônimos</td>
+									</tr>
+								</table>
+							</td>
+							<td><span title="Ir para Estatísticas"> <a
+									data-toggle="tab" onclick="mudaAbaEstatistica()" href="#">
+										<img id="iconeestatistica"
+										src="/reflora/layout/default/imagens/iconeestatistica.gif">
+								</a>
+							</span></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+
+	</tr>
+	<!-- Citação -->
+	<tr class="citacao" style="display: none;">
+		<td class="label">
+			<fieldset style="width: auto;">
+				<legend>
+					Citação
+				</legend>
+				<table>
+					<tbody>
+						<tr class="citacao" id="tr-carregaTaxonGrupoCitacao">
+							<td class="field"></td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+
+	<!-- Tabela de Contagem de Aceitos/Sinonimos por Rank -->
+	<tr class="tabelaContagemResultados" style="display: none;">
+		<td class="label">
+			<fieldset style="width: auto;">
+				<legend>
+					Critério de Busca
+				</legend>
+
+				<p>
+					Listar todos os nomes. <b>Angiospermas</b>, Nome Completo = Urochloa plantaginea, Buscar até = subsp./var.
+				</p>
+
+				<table>
+					<tbody>
+						<tr class="tabelaContagemResultados"
+							id="tr-carregaTaxonGrupoContagemResultados">
+							<td id="idFieldContagemResultados" class="field">
+								<table id="idTableContagemResultados" border="1">
+									<tr class="contagemResultados"
+										id="tr-carregaTaxonGrupoContagemResultadosColuna">
+										<td id="contagemResultadosColunaRank" class="field"></td>
+										<td id="contagemResultadosColunaAceito" class="field">Nomes Aceitos</td>
+										<!--<td id="contagemResultadosColunaSinonimo" class="field">Sinônimos</td>-->
+									</tr>
+
+									
+
+									
+
+									
+
+									
+										<tr>
+											<td class="field">Gêneros</td>
+											<td class="field">0</td>
+											<!--<td class="field">0</td>-->
+										</tr>
+									
+
+									
+										<tr>
+											<td class="field">Espécies</td>
+											<td class="field">1</td>
+											<!--<td class="field">0</td>-->
+										</tr>
+									
+
+
+									<tr>
+										<td class="field">Subespécies</td>
+										<td class="field">0</td>
+										<!--<td class="field">0</td>-->
+									</tr>
+
+
+									<tr>
+										<td class="field">Variedades</td>
+										<td class="field">0</td>
+										<!--<td class="field">0</td>-->
+									</tr>
+
+
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</fieldset>
+		</td>
+	</tr>
+
+
+	<!-- Ultima edição -->
+	<!-- <tr class="ultimaEdicaoPor" id="tr-carregaTaxonUltimaEdicaoPor">
+		<td class="field ultimaEdicaoPor"></td>
+	</tr> -->
+
+</table>
+
+															</tbody>
+														</table>
+													</div>
+		
+													<div id="tabs-2" class="tab-pane">
+														<table style="width: 100%">
+															<tbody>
+																<style type="text/css">
+
+@media screen( max-width : 1530px) { /* 1400-1530 */
+	#ConteudoDiv {
+		margin-right: 6%;
+		margin-left: 6%;
+	}
+	.rodape-texto {
+		margin-right: 6%;
+	}
+	.sticky #main-nav {
+		margin-right: 6%;
+	}
+	#fast_nav ul.navigation {
+		margin-left: 6%;
+	}
+	#fast_nav .fast_nav_user {
+		margin-right: 6%;
+	}
+	.folhaREFLORA {
+	    margin-left: 6%;
+	}
+	.topo-right {
+        margin-right: 6%;
+    }
+}
+
+@media screen( max-width : 1400px) { /* -1400 */
+	#ConteudoDiv {
+		margin-right: 4%;
+		margin-left: 6%;
+	}
+	.rodape-texto {
+		margin-right: 4%;
+	}
+	.sticky #main-nav {
+		margin-right: 4%;
+	}
+	#fast_nav ul.navigation {
+		margin-left: 4%;
+	}
+	#fast_nav .fast_nav_user {
+		margin-right: 4%;
+	}
+	.folhaREFLORA {
+	    margin-left: 4%;
+	}
+	.topo-right {
+        margin-right: 4%;
+    }
+	body {
+        overflow: scroll;
+        width: ;
+    }
+}-->
+
+.odd {
+    background-color: #FCF4F0;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    padding: 2px;
+}
+.even {
+    background-color: #FFFFFD;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    padding: 2px;
+}
+
+.estatisticaInfo {
+ color: #333333;
+}
+
+.aceito {
+	text-align:center;
+}
+
+#idTableEstatisticasEstadosBrasileiros th,#idTableEstatisticasRegioesBrasileiras th,#idTableEstatisticasDominiosFitogeograficos th,
+#idTableEstatisticasRegioesHidrograficasBrasileiras th {
+	text-align: left;
+	font-family: arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background: -moz-linear-gradient(top, #cf4400 0%, #672200 100%);
+	/* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #cf4400),
+		color-stop(100%, #672200) ); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #cf4400 0%, #672200 100%);
+	/* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #cf4400 0%, #672200 100%);
+	/* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #cf4400 0%, #672200 100%);
+	/* IE10+ */
+	background: linear-gradient(to bottom, #cf4400 0%, #672200 100%);
+	/* W3C */
+	background: #802A00;
+	filter: progid:DXImageTransform.Microsoft.gradient(  startColorstr='#cf4400',
+		endColorstr='#672200', GradientType=0 ); /* IE6-9 */
+}
+#idTableEstatisticasEstadosBrasileiros tr:hover,#idTableEstatisticasRegioesBrasileiras tr:hover,#idTableEstatisticasDominiosFitogeograficos tr:hover,
+#idTableEstatisticasRegioesHidrograficasBrasileiras tr:hover {
+	background-color: #D9827D;
+}
+
+</style>
+
+
+<tr class="pagina">
+<td style="padding: 5px 10px 20px; margin-bottom: -3px;">
+
+
+<div id="identificador">
+	<strong></strong> <a title="Impressão" target="_blank" href=""
+		name="impressora"> <i class="icon-print"></i></a>
+</div>
+	
+<table style="width: 100%;">
+
+					<!-- Sinopse para todo o Brasil -->
+							<tr class="sinopse" style="display: none;">
+								<td class="label">
+									<fieldset style="width: auto;">
+										<legend>
+											Sinopse para todo o Brasil
+										</legend>
+										<table><tbody>
+											<tr class="sinopse" id="tr-carregaTaxonGrupoSinopse" >
+												<td id="idFieldSinopse" class="field">
+													<table id="idTableSinopseEstatistica" border="1">
+														<tr class="sinopse" style="display: none;" id="tr-carregaTaxonGrupoSinopseColuna" >
+													        <td id="sinopseColunaRank" class="field"></td>
+													        <td id="sinopseColunaAceito" class="field">Aceitos</td>
+													        <td id="sinopseColunaEndemico" class="field">Endêmicos</td>
+													        <td id="sinopseColunaSinonimo" class="field">Sinônimos</td>
+												        </tr>
+													</table>
+												</td>
+											</tr>
+										</tbody></table>
+									</fieldset>
+								</td>
+								
+							</tr>
+												<!-- Estatísticas -->
+					<tr class="estatisticaEstadoBrasileiro" style="display: none;">
+					<td class="label">		
+					<fieldset style="width: auto;">
+					<legend>
+						Nomes aceitos de espécies por estado brasileiro
+					</legend>									
+					<table id="estatisticasEstadosBrasileiros" style="margin:auto;">
+						<tbody>
+							<tr>
+								<td>
+									<div id="graficoEstatisticasEstadosBrasileiros" class="table">
+										<svg style="margin-left: 1px; margin-right: 15%;">&nbsp;</svg>
+									</div>
+								</td>
+								<td>
+									<table id="idTableEstatisticasEstadosBrasileiros">
+										<tr>
+											<th id="uf" class="field">UF</th>
+									        <th id="nome" class="field">Estados</th>
+									        <th id="aceito" class="field">Nomes Aceitos</th>
+								       </tr>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					</fieldset>
+					</td>
+					</tr>
+	
+					<tr class="estatisticaRegiaoBrasileira" style="display: none;">
+					<td class="label">
+					<fieldset style="width: auto;">
+					<legend>
+						Nomes aceitos de espécies por região brasileira
+					</legend>
+					<table id="estatisticasRegioesBrasileiras" style="margin:auto;">
+						<tbody>
+							<tr>
+								<td>
+									<div id="graficoEstatisticasRegioesBrasileiras" class="table">
+										<svg style="margin-right: 15%;">&nbsp;</svg>
+									</div>
+								</td>
+								<td>
+									<table id="idTableEstatisticasRegioesBrasileiras">
+										<tr>
+									        <th id="nome" class="field">Regiões</th>
+									        <th id="aceito" class="field">Nomes Aceitos</th>
+								       </tr>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					</fieldset>
+					</td>
+					</tr>
+
+					<tr class="estatisticaDominioFitogeografico" style="display: none;">
+					<td class="label">
+					<fieldset style="width: auto;">
+					<legend>
+					Nomes aceitos de espécies por domínio fitogeográfico
+					</legend>
+					<table id="estatisticasDominiosFitogeograficos" style="margin:auto;">
+						<tbody>
+							<tr>
+								<td>
+									<div id="graficoEstatisticasDominiosFitogeograficos" class="table">
+										<svg style="margin-right: 15%;">&nbsp;</svg>
+									</div>
+								</td>
+								<td>
+									<table id="idTableEstatisticasDominiosFitogeograficos">
+										<tr>
+									        <th id="nome" class="field">Domínios Fitogeográficos</th>
+									        <th id="aceito" class="field">Nomes Aceitos</th>
+								       </tr>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					</fieldset>
+					</td>
+					</tr>
+
+					<tr class="estatisticaRegiaoHidrograficasBrasileira" style="display: none;">
+					<td class="label">
+					<fieldset style="width: auto;">
+					<legend>
+					Nomes aceitos de espécies por regiões hidrográficas
+					</legend>
+					<table id="estatisticasRegioesHidrograficasBrasileiras" style="margin:auto;">
+						<tbody>
+							<tr>
+								<td>
+									<div id="graficoEstatisticasRegioesHidrograficasBrasileiras" class="table">
+										<svg style="margin-right: 15%;">&nbsp;</svg>
+									</div>
+								</td>
+								<td>
+									<table id="idTableEstatisticasRegioesHidrograficasBrasileiras">
+										<tr>
+									        <th id="nome" class="field">Regiões hidrográficas</th>
+									        <th id="aceito" class="field">Nomes Aceitos</th>
+								       </tr>
+									</table>
+									
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					</fieldset>
+					</td>
+					</tr>				
+							
+							<!-- Citação -->
+					<tr class="citacao" style="display: none;">
+					<td class="label">
+					<fieldset style="width: auto;">
+					<legend>
+						Citação
+					</legend>
+					<table>
+						<tbody>
+							<tr class="citacao" id="tr-carregaTaxonGrupoCitacao" >
+								<td class="field"></td>
+							</tr>
+						</tbody>
+					</table>
+					</fieldset>
+					</td>
+					</tr>
+</table>
+</td>
+</tr>
+															</tbody>
+														</table>
+													</div>
+													
+													<div id="tabs-3" class="tab-pane" style="overflow-x:overlay;">
+														<table style="width: 100%">
+															<tbody>
+																<div id="identificador">
+	<strong></strong> <a title="Impressão" target="_blank" href=""
+		name="impressora"> <i class="icon-print"></i></a>
+</div>
+
+<table style="width: 100%; overflow-x:overlay;">
+	<!-- Chave de Identificação -->
+	<tr>
+		<td class="label">
+			<fieldset>
+				<legend>
+					Chave de Identificação
+				</legend>
+				<div id="chave-interativa-table">
+					<table>
+						<tr id="tr-carregaTaxonGrupoChaveInterativa">
+							<td class="field"><a target="_blank" class="btn btn-green"
+								href="" id="linkChaveInterativa"> Ver Chave
+							</a></td>
+						</tr>
+					</table>
+				</div>
+				
+				<div id="chave-dicotomica-tab-pannel">
+					<ul class="nav nav-tabs">
+						<li id="abaChaveDicotomicaPT">
+							<a
+							style="border-color: transparent; border-bottom-width: 0px;"
+							data-toggle="tab" href="#tabs-11"
+							class="aba">
+							<img class="iconeidioma" src="/reflora/layout/default/imagens/idioma_pt.gif">
+							PT</a></li>
+						<li  id="abaChaveDicotomicaEN">
+							<a
+							style="border-color: transparent; border-bottom-width: 0px;"
+							data-toggle="tab" href="#tabs-12"
+							class="aba">
+							<img class="iconeidioma" src="/reflora/layout/default/imagens/idioma_en.gif">
+							EN</a></li>
+						<li id="abaChaveDicotomicaES">
+							<a
+							style="border-color: transparent; border-bottom-width: 0px;"
+							data-toggle="tab" href="#tabs-13"
+							class="aba">
+							<img class="iconeidioma" src="/reflora/layout/default/imagens/idioma_es.png">
+							ES</a></li>
+					</ul>
+					
+					<div id="tabs-11" class="tab-pane"
+						style="margin-left: 0px">
+						<table style="display: -moz-inline-box; overflow-x: auto; overflow-y: hidden; width:-webkit-max-content;">
+							<tr id="tr-carregaTaxonGrupoChaveDicotomica">
+								<td class="field"></td>
+							</tr>
+						</table>
+					</div> 
+					<div id="tabs-12" class="tab-pane"
+						style="margin-left: 0px">
+						<table style="display: -moz-inline-box; overflow-x: auto; overflow-y: hidden; width:-webkit-max-content;">
+							<tr id="tr-carregaTaxonGrupoChaveDicotomicaEN">
+								<td class="field"></td>
+							</tr>
+						</table>
+					</div>
+					<div id="tabs-13" class="tab-pane"
+						style="margin-left: 0px">
+						<table style="display: -moz-inline-box; overflow-x: auto; overflow-y: hidden; width:-webkit-max-content;">
+							<tr id="tr-carregaTaxonGrupoChaveDicotomicaES">
+								<td class="field"></td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</fieldset>
+		</td>
+	</tr>
+</table>
+															</tbody>
+														</table>
+													</div>
+													
+													<div id="tabs-4" class="tab-pane">
+														<table style="width: 100%">
+															<tbody>
+															
+															<!-- Vouchers -->
+															<tr class="vouchers" style="display: none;">
+																<td class="label">
+																	<fieldset style="width: auto;">
+																		<legend>
+																			Vouchers
+																		</legend>
+																		<table>
+																			<tbody>
+																				<tr>
+																					<td id="rowImagemVoucher"></td>
+																					<td>
+																						<div id='ajax-loader-ImagemVoucherINCT'
+																							class="label visibilidadeVoucher">
+																							<img id="idImage"
+																								src="/reflora/layout/default/imagens/ajax-loader.gif" /> <br>
+																							Carregando imagens do servidor INCT ...
+																						</div>
+																						<div id="ajax-loader-ImagemVoucherINCT-erro"
+																							class="alert alert-block alert-error fade in visibilidadeVoucher">
+																							<h4 class="alert-heading">
+																								A conexão com o servidor de imagens do INCT não está disponível no momento. Por favor, tente novamente mais tarde.
+																							</h4>
+																						</div>
+																						<div id='ajax-loader-ImagemVoucherHV'
+																							class="label visibilidadeVoucher">
+																							<img id="idImage"
+																								src="/reflora/layout/default/imagens/ajax-loader.gif" /> <br>
+																							Carregando imagens do servidor FSI ...
+																						</div>
+																						<div id="ajax-loader-ImagemVoucherHV-erro"
+																							class="alert alert-block alert-error fade in visibilidadeVoucher">
+																							<h4 class="alert-heading">
+																								A conexão com o servidor de imagens do FSI não está disponível no momento. Por favor, tente novamente mais tarde.
+																							</h4>
+																						</div>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																	</fieldset>
+																</td>
+															</tr>
+															
+															</tbody>
+														</table>
+													</div>
+													
+												</div>											
+							</div>
 					
 						
 						

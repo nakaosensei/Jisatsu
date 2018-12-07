@@ -5,25 +5,14 @@ class Connection:
     def __init__(self):
         self.connection = sqlite3.connect('macrofitas.db')
         self.cursor = self.connection.cursor()
-        self.createTables()
-
-
-    def dropTables(self):
-        self.cursor.execute(
-        """
+        self.dropPlantScript="""
             DROP TABLE IF EXISTS PLANT;
         """
-        )
-        self.cursor.execute(
-        """
+        self.dropOcurrenceScript="""
             DROP TABLE IF EXISTS OCORRENCIA;
         """
-        )
 
-    def createTables(self):
-
-        self.cursor.execute(
-        """
+        self.createOcurrenceScript="""
         CREATE TABLE IF NOT EXISTS OCORRENCIA(
             ID INTEGER PRIMARY KEY,
             FONTE VARCHAR(100),
@@ -40,10 +29,8 @@ class Connection:
         	DIA_COLETA VARCHAR(2)
         );
         """
-        )
-        self.cursor.execute(
-        """
-        CREATE TABLE IF NOT EXISTS  PLANT(
+        self.createPlantScript ="""
+            CREATE TABLE IF NOT EXISTS  PLANT(
             ID INTEGER PRIMARY KEY,
         	NOME VARCHAR(200),
             AUTOR VARCHAR(200),
@@ -62,8 +49,22 @@ class Connection:
         	PLANTA_ORIGINAL VARCHAR(200)
         );
         """
-        )
+        self.createTables()
 
+    def dropTables(self):
+        self.cursor.execute(self.dropPlantScript)
+        self.cursor.execute(self.dropOcurrenceScript)
+
+    def createTables(self):
+        #self.dropTables()
+        self.cursor.execute(self.createOcurrenceScript)
+        self.cursor.execute(self.createPlantScript)
+
+    def dropAndCreate(self):
+        print("DELETANDO REGISTROS DO BANCO...")
+        print("RECRIANDO AS TABELAS...")
+        self.dropTables()
+        self.createTables()
 
 class DAOPlant:
 
@@ -80,7 +81,26 @@ class DAOPlant:
         self.cursor.execute("SELECT * FROM PLANT WHERE fonte like ?", (source,))
         rows = self.cursor.fetchall()
         return rows
-        
+
+    def getPlantFromSource(self,plant,source):
+        self.cursor.execute("SELECT * FROM PLANT WHERE (fonte LIKE ?) AND (nome like ('%' || ? || '%'))", (source,plant,))
+        rows = self.cursor.fetchall()
+        return rows
+
+    def getAllPlantSinonimimos(self,source,plant):
+        self.cursor.execute("SELECT * FROM PLANT WHERE fonte like ? AND PLANTA_ORIGINAL like ? AND ESTADO='sinonimo'", (source,plant,))
+        rows = self.cursor.fetchall()
+        return rows
+
+    def dropAndCreate(self):
+        self.cursor.execute(self.connection.dropPlantScript)
+        self.cursor.execute(self.connection.createPlantScript)
+        return
+
+    def deleteFromSource(self,source):
+        self.cursor.execute("DELETE FROM PLANT WHERE fonte like ?", (source,))
+        self.cursor.fetchall()
+
 class DAOOcurrence:
 
     def __init__(self):
@@ -93,7 +113,69 @@ class DAOOcurrence:
         self.cursor.executemany(sql,ocurrencesArray)
         self.connection.commit()
 
+    def dropAndCreate(self):
+        self.cursor.execute(self.connection.dropOcurrenceScript)
+        self.cursor.execute(self.connection.createOcurrenceScript)
+        return
+
+    def getAllOcurrencesFromSource(self,source):
+        self.cursor.execute("SELECT * FROM OCORRENCIA WHERE fonte like ?", (source,))
+        rows = self.cursor.fetchall()
+        return rows
+
+    def getAllOcurrencesFromPlant(self,plant):
+        self.cursor.execute("SELECT * FROM OCORRENCIA WHERE nome like ('%' || ? || '%')", (plant,))
+        rows = self.cursor.fetchall()
+        return rows
+
+class Tests:
+    def testFloraDoBrasil(self):
+        print("teste floradobrasil")
+        daoP = DAOPlant()
+        list = daoP.getAllPlantsFromSource("floradobrasil")
+        for elemento in list:
+            if elemento[4]!="sinonimo":
+                line = "\n"+elemento[1]+",sinonimos:"
+                sinonimos = daoP.getAllPlantSinonimimos("floradobrasil",elemento[1])
+                for sinonimo in sinonimos:
+                    line+=sinonimo[1]+","
+                print(line)
+        print(len(list))
+
+    def testThePlantList(self):
+        print("Teste theplantlist")
+        daoP = DAOPlant()
+        list = daoP.getAllPlantsFromSource("theplantlist")
+        print(list)
+        for elemento in list:
+            if elemento[4]!="sinonimo":
+                line = "\n"+elemento[1]+",sinonimos:"
+                sinonimos = daoP.getAllPlantSinonimimos("theplantlist",elemento[1])
+                for sinonimo in sinonimos:
+                    line+=sinonimo[1]+","
+                print(line)
+        print(len(list))
+
+
+    def testGbif(self):
+        daoOc = DAOOcurrence()
+        ocurrences = daoOc.getAllOcurrencesFromSource("gbif")
+        print("Qtde ocorrencias GBIF")
+        print(len(ocurrences))
+        #for ocurrence in ocurrences:
+        #    print(ocurrence)
+
+    def testSpeciesLink(self):
+        daoOc = DAOOcurrence()
+        ocurrences = daoOc.getAllOcurrencesFromSource("specieslink")
+        print("Qtde ocorrencias SpeciesLink")
+        print(len(ocurrences))
+
 con = Connection()
-daoP = DAOPlant()
-list = daoP.getAllPlantsFromSource("floradobrasil")
-print(list)
+#daoP = DAOPlant()
+#con.dropAndCreate()
+tests = Tests()
+tests.testGbif()
+#tests.testSpeciesLink()
+#tests.testThePlantList()
+#tests.testFloraDoBrasil()

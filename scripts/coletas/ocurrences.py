@@ -1,7 +1,7 @@
 import fileNk
 import csv
 import planilha
-import connection as con
+import connectionSqlite as con
 
 class OcurrencesManager:
 
@@ -83,7 +83,7 @@ class PlantOcurrence:
         date=date.replace(";","-")
         format=self.identifyDateFormat(date)
         tmpData=date.split("/")
-        
+
         if(len(tmpData)==1):
             self.anoColeta=tmpData[0]
         elif format=="br":

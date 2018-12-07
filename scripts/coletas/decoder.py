@@ -20,6 +20,7 @@ class Decoder:
             ocurrences.add("specieslink",plant,owner,location,pais,estado,cidade,latitude,longitude,data)
         ocurrences.cleanAllTrash()
         ocurrences.tratarDatas()
+        ocurrences.writeAllToDb()
         return ocurrences
 
     def writeToDb(self,ocurrencesManager):

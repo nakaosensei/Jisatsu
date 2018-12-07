@@ -3,6 +3,8 @@ import requests
 import fileNk as file
 import json
 import FloraDecoder as decod
+import connectionSqlite as conSqlt
+import time
 
 class FloraRequests:
 
@@ -11,10 +13,10 @@ class FloraRequests:
         self.sinonimos = []
         self.nonExistent = []
 
-    def makeRequests(self,macrofitasXls):
+    def makeRequestsTest(self,macrofitasXls):
         planilha = pl.Planilha()
         p = planilha.openPlantsXls(macrofitasXls)
-        #p = planilha.listStartsWith(p1,'Dactyloctenium aegyptium')
+        #p = planilha.listStartsWith(p,'Stemodia pratensis')
         for plant in p:
             print(plant)
             frequest = FloraRequest(plant)
@@ -25,8 +27,27 @@ class FloraRequests:
                 request2.makeRequest()
             elif result==0:
                 self.nonExistent.append(plant)
-        for sinonimo in self.sinonimos:
-            print(sinonimo)
+        print("Nonexistents on Flora")
+        for nonExistent in self.nonExistent:
+            print(nonExistent)
+
+    def makeRequests(self,plants):
+        for plant in plants:
+            print(plant)
+            frequest = FloraRequest(plant)
+            result = frequest.makeRequest()
+            if result!=1 and result!=0:
+                self.sinonimos.append(plant)
+                request2 = FloraRequest(result)
+                request2.makeRequest()
+            elif result==0:
+                self.nonExistent.append(plant)
+        print("Nonexistents on Flora")
+        for nonExistent in self.nonExistent:
+            print(nonExistent)
+
+
+
 
 class FloraRequest:
 
@@ -59,23 +80,31 @@ class FloraRequest:
                 outStr+=splitStr[i]+"+"
         return outStr
 
+    def processRequest(self):
+        link = "http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/BemVindoConsultaPublicaConsultar.do?invalidatePageControlCounter=20&idsFilhosAlgas=[2]&idsFilhosFungos=[1%2C10%2C11]&lingua=pt&grupo=5&familia=null&genero=&especie=&autor=&nomeVernaculo=&nomeCompleto="+self.parsedSpecies+"&formaVida=null&substrato=null&ocorreBrasil=QUALQUER&ocorrencia=OCORRE&endemismo=TODOS&origem=TODOS&regiao=QUALQUER&estado=QUALQUER&ilhaOceanica=32767&domFitogeograficos=QUALQUER&bacia=QUALQUER&vegetacao=TODOS&mostrarAte=SUBESP_VAR&opcoesBusca=TODOS_OS_NOMES&loginUsuario=Visitante&senhaUsuario=&contexto=consulta-publica"
+
+        self.requestPiloto = requests.get(link)
+        self.idDadosListaBrasil = self.getStringsBetweenS(self.requestPiloto.text,"<input type=\"hidden\" name=\"idDadosListaBrasil\"","id=\"carregaTaxonGrupoIdDadosListaBrasil\">")
+        self.idDadosListaBrasil = self.getStringsBetweenS(self.idDadosListaBrasil,"value=\"","\"")
+        newLink = "http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaCarregaTaxonGrupo.do?&idDadosListaBrasil="+self.idDadosListaBrasil
+        self.request = requests.get(newLink)
+        self.fileManager.writeToFile("outFloraCru.txt",self.requestPiloto.text)
+        self.fileManager.writeToFile("outFloraListaBrasil.txt",self.request.text)
+        #print("request INI")
+        #print(self.request.text)
+        #print("request FIM")
+        if self.request.text.strip()=="erro":
+            return 0
+        decoder = decod.FloraDecoder()
+        result = decoder.decodeRequestAndWriteToDb(self.request.json())
+        return result
+
     def makeRequest(self):
-         link = "http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/BemVindoConsultaPublicaConsultar.do?invalidatePageControlCounter=20&idsFilhosAlgas=[2]&idsFilhosFungos=[1%2C10%2C11]&lingua=pt&grupo=5&familia=null&genero=&especie=&autor=&nomeVernaculo=&nomeCompleto="+self.parsedSpecies+"&formaVida=null&substrato=null&ocorreBrasil=QUALQUER&ocorrencia=OCORRE&endemismo=TODOS&origem=TODOS&regiao=QUALQUER&estado=QUALQUER&ilhaOceanica=32767&domFitogeograficos=QUALQUER&bacia=QUALQUER&vegetacao=TODOS&mostrarAte=SUBESP_VAR&opcoesBusca=TODOS_OS_NOMES&loginUsuario=Visitante&senhaUsuario=&contexto=consulta-publica"
-         self.requestPiloto = requests.get(link)
-         self.idDadosListaBrasil = self.getStringsBetweenS(self.requestPiloto.text,"<input type=\"hidden\" name=\"idDadosListaBrasil\"","id=\"carregaTaxonGrupoIdDadosListaBrasil\">")
-         self.idDadosListaBrasil = self.getStringsBetweenS(self.idDadosListaBrasil,"value=\"","\"")
-         newLink = "http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaCarregaTaxonGrupo.do?&idDadosListaBrasil="+self.idDadosListaBrasil
-         self.request = requests.get(newLink)
-         self.fileManager.writeToFile("outFloraCru.txt",self.requestPiloto.text)
-         self.fileManager.writeToFile("outFloraListaBrasil.txt",self.request.text)
-         #print("request INI")
-         #print(self.request.text)
-         #print("request FIM")
-         if self.request.text.strip()=="erro":
-             return 0
-         decoder = decod.FloraDecoder()
-         result = decoder.decodeRequestAndWriteToDb(self.request.json())
-         return result
+        try:
+            return self.processRequest()
+        except:
+            time.sleep(10)
+            return self.processRequest()
 
     def makeRequestApi(self):
         self.request=requests.get("http://servicos.jbrj.gov.br/flora/taxon/"+self.parsedSpeciesAPI)
@@ -91,8 +120,12 @@ class FloraRequest:
             out+=vet2[0]
         return out
 
-freqs = FloraRequests()
-freqs.makeRequests("../ListaMacrofitasTests.xlsx")
+#con = conSqlt.Connection()
+#con.dropAndCreate()
+
+#freqs = FloraRequests()
+#freqs.makeRequestsTest("../ListaMacrofitas.xlsx")
+
 #testSinonimo = "Limnobium bogotense"
 #testCorreto = "Limnobium laevigatum"
 #testAlternativo = "Hygrophila guianensis"
