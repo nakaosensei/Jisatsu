@@ -24,7 +24,6 @@
 | Normalizar os dados Floradobrasil                        | 10h          | 50h            | 20h             | 28.3h            | 28h         |
 | Junção das normalizações e marcação de duplicatas        | 5h           | 20h            | 10h             | 10.8h            | 15h         |
 | Conversão dos resultados para .xls                       | 2h           | 10h            | 5h              | 5.3 h            | 4h          |
-|----------------------------------------------------------|--------------|----------------|-----------------|------------------|-------------|
 | Total de tempo                                           | 129h         | 560h           | 274h            | 322.1h           | 237.8h      |
 
 
@@ -86,5 +85,4 @@
 | Thiago Alexsander                                        | 50.3h        |
 | Erica Saito                                              | 46.5h        |
 | Higor Celante                                            | 59.5h        |
-|----------------------------------------------------------|--------------|
 | Total                                                    | 237.8h       |
