@@ -179,14 +179,14 @@ Adicionar css usando o seguinte formato: obs.: para impressão usando o navegado
 
         
 
-	<link rel="stylesheet" type="text/css" media="all" href="/reflora/listaBrasil/br/gov/jbrj/reflora/web/listaBrasil/taxa/consultarPublico/bem-vindo-consulta-publica-fbo.css;jsessionid=D1324AB3FB95C7CD9B73ADC3A0721E86"></link>
+	<link rel="stylesheet" type="text/css" media="all" href="/reflora/listaBrasil/br/gov/jbrj/reflora/web/listaBrasil/taxa/consultarPublico/bem-vindo-consulta-publica-fbo.css;jsessionid=5705E418948E800DE60BF9B2C273B714"></link>
 
 
 
     
         
 
-        <script type="text/javascript" language="Javascript1.1" src="/reflora/listaBrasil/formValidation.do;jsessionid=D1324AB3FB95C7CD9B73ADC3A0721E86"></script>
+        <script type="text/javascript" language="Javascript1.1" src="/reflora/listaBrasil/formValidation.do;jsessionid=5705E418948E800DE60BF9B2C273B714"></script>
 
         <script type="text/javascript" language="Javascript1.1"> 
 
@@ -1310,7 +1310,7 @@ $(document).ready(function()
 		}
 		else
 		{
-			carregaTaxonGrupo(26031, false);	
+			carregaTaxonGrupo(105414, false);	
 		}
 	}
 	
@@ -1480,7 +1480,7 @@ $(document).ready(function()
 				<td>
 					<span id="nomeCompletoTitulo">
 					    
-	                    Urochloa plantaginea
+	                    Zizaniopsis bonariensis
 					</span>
 				</td>
 
@@ -1492,12 +1492,12 @@ $(document).ready(function()
 			<div class="trigger">
 
 				<form id="consultaPublicaUCResultadoDaConsultaCarregaTaxonGrupoForm"
-					action='/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaCarregaTaxonGrupo.do;jsessionid=D1324AB3FB95C7CD9B73ADC3A0721E86'
+					action='/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaCarregaTaxonGrupo.do;jsessionid=5705E418948E800DE60BF9B2C273B714'
 					method="post" enctype="multipart/form-data" class="formresultado">
 					
 
 <input type="hidden" name="invalidatePageControlCounter" value="1"/>
-					<input type="hidden" name="idDadosListaBrasil" value="26031" id="carregaTaxonGrupoIdDadosListaBrasil">
+					<input type="hidden" name="idDadosListaBrasil" value="105414" id="carregaTaxonGrupoIdDadosListaBrasil">
 <input type="hidden" name="estadosCerteza" value="" id="carregaTaxonGrupoEstadosCerteza">
 <input type="hidden" name="estadosDuvida" value="" id="carregaTaxonGrupoEstadosDuvida">
 <input type="hidden" name="baciasCerteza" value="" id="carregaTaxonGrupoBaciasCerteza">
@@ -1538,10 +1538,10 @@ $(document).ready(function()
 <input type="hidden" name="vegetacao" value="TODOS" id="consultaTodosNomesVegetacao">
 <input type="hidden" name="estatistica" value="" id="consultaTodosNomesEstatistica">
 <input type="hidden" name="contagemResultado" value="0 nomes genéricos, 1 epítetos específicos, 0 epítetos infraespecíficos, (0 subsp. 0 var.) listadas." id="consultaTodosNomesContagemResultado">
-<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Urochloa plantaginea, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
+<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Zizaniopsis bonariensis, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
 <input type="hidden" name="formaVida" value="" id="consultaTodosNomesFormaVida">
 <input type="hidden" name="substrato" value="" id="consultaTodosNomesSubstrato">
-<input type="hidden" name="nomeCompleto" value="Urochloa plantaginea" id="consultaTodosNomesNomeCompleto">
+<input type="hidden" name="nomeCompleto" value="Zizaniopsis bonariensis" id="consultaTodosNomesNomeCompleto">
 <input type="hidden" name="ilhaOceanica" value="32767" id="consultaTodosNomesIlhaOceanica">
 <input type="hidden" name="ocorreBrasil" value="QUALQUER" id="consultaTodosNomesOcorreBrasil">
  
@@ -1572,10 +1572,10 @@ $(document).ready(function()
 <input type="hidden" name="vegetacao" value="TODOS" id="consultaTodosNomesVegetacao">
 <input type="hidden" name="estatistica" value="" id="consultaTodosNomesEstatistica">
 <input type="hidden" name="contagemResultado" value="0 nomes genéricos, 1 epítetos específicos, 0 epítetos infraespecíficos, (0 subsp. 0 var.) listadas." id="consultaTodosNomesContagemResultado">
-<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Urochloa plantaginea, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
+<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Zizaniopsis bonariensis, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
 <input type="hidden" name="formaVida" value="" id="consultaTodosNomesFormaVida">
 <input type="hidden" name="substrato" value="" id="consultaTodosNomesSubstrato">
-<input type="hidden" name="nomeCompleto" value="Urochloa plantaginea" id="consultaTodosNomesNomeCompleto">
+<input type="hidden" name="nomeCompleto" value="Zizaniopsis bonariensis" id="consultaTodosNomesNomeCompleto">
 <input type="hidden" name="ilhaOceanica" value="32767" id="consultaTodosNomesIlhaOceanica">
 <input type="hidden" name="ocorreBrasil" value="QUALQUER" id="consultaTodosNomesOcorreBrasil">
  
@@ -1762,7 +1762,7 @@ padding: 0px;
 		
 			
 				
-					<input class="pagesTitles" type="hidden" value="Página: 1&#13;&#10;De: Angiospermas&#13;&#10;Até: Urochloa plantaginea (Link) R.D.Webster (Poaceae)">
+					<input class="pagesTitles" type="hidden" value="Página: 1&#13;&#10;De: Angiospermas&#13;&#10;Até: Zizaniopsis bonariensis (Balansa & Poitr.) Speg. (Poaceae)">
 				
 				
 				
@@ -1834,9 +1834,9 @@ padding: 0px;
 				
 				
 
-				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(102231)'>
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(102246)'>
 				
-				<span title="Panicoideae Link"><span><div class="taxon"> Panicoideae</div><div class="nomeAutorSupraGenerico"> Link</div></span></span>
+				<span title="Ehrhartoideae Link"><span><div class="taxon"> Ehrhartoideae</div><div class="nomeAutorSupraGenerico"> Link</div></span></span>
 
 				</a>
 				</div>
@@ -1872,51 +1872,15 @@ padding: 0px;
 					
 				
 
-				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(20516)'>
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(13661)'>
 				
-				<span title="Urochloa P.Beauv."><span><div class="taxon"> <i>Urochloa</i></div><div class="nomeAutorInfraGenerico"> P.Beauv.</div></span></span>
+				<span title="Zizaniopsis Döll & Asch."><span><div class="taxon"> <i>Zizaniopsis</i></div><div class="nomeAutorInfraGenerico"> Döll & Asch.</div></span></span>
 
 				</a>
 				</div>
 
 				
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-								<div class="hier3">
-							
-							
-						
 
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(86785)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Brachiaria (Trin.) Griseb.">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Brachiaria</i></div><div class="nomeAutorSinonimo"> (Trin.) Griseb.</div></span></span>
-						</a>
-						</div>
-					
-				
-
-				
-					
 				
 				
 				</td></tr>
@@ -1937,8 +1901,8 @@ padding: 0px;
 						<img src="/reflora/layout/default/imagens/listaBrasil/org_img.png" style="visibility:hidden; vertical-align:middle; padding-bottom: 1px; height: 14px;" />
 					
 					
+						<img width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" title="Contém imagens de herbário" />
 					
-						<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
 					
 					
 					
@@ -1946,51 +1910,15 @@ padding: 0px;
 					
 				
 
-				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(26031)'>
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(105414)'>
 				
-				<span title="Urochloa plantaginea (Link) R.D.Webster"><span><div class="taxon"> <i>Urochloa plantaginea</i></div><div class="nomeAutorInfraGenerico"> (Link) R.D.Webster</div></span></span>
+				<span title="Zizaniopsis bonariensis (Balansa & Poitr.) Speg."><span><div class="taxon"> <i>Zizaniopsis bonariensis</i></div><div class="nomeAutorInfraGenerico"> (Balansa & Poitr.) Speg.</div></span></span>
 
 				</a>
 				</div>
 
 				
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-							
-								<div class="hier4">&nbsp;&nbsp;
-							
-						
 
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(86793)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Brachiaria plantaginea (Link) Hitchc.">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Brachiaria plantaginea</i></div><div class="nomeAutorSinonimo"> (Link) Hitchc.</div></span></span>
-						</a>
-						</div>
-					
-				
-
-				
-					
 				
 				
 				</td></tr></tbody></table>
@@ -2003,9 +1931,9 @@ padding: 0px;
 		
     		</div>
 		<div id="infoConsulta">
-			Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Urochloa plantaginea, Buscar até = subsp./var.
+			Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Zizaniopsis bonariensis, Buscar até = subsp./var.
 			<br>
-			Tempo de Consulta:  1,73 seg
+			Tempo de Consulta:  1,76 seg
 		</div>
 	</div>
 </div>
@@ -3171,7 +3099,7 @@ $(document).ready(function()
 				</legend>
 
 				<p>
-					Listar todos os nomes. <b>Angiospermas</b>, Nome Completo = Urochloa plantaginea, Buscar até = subsp./var.
+					Listar todos os nomes. <b>Angiospermas</b>, Nome Completo = Zizaniopsis bonariensis, Buscar até = subsp./var.
 				</p>
 
 				<table>

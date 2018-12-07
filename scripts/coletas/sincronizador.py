@@ -175,8 +175,8 @@ class Sincronizador:
 
 s = Sincronizador()
 planilha = pl.Planilha()
-plants = planilha.openPlantsXls("../ListaMacrofitasTests.xlsx")
-s.syncDatabase(plants)
+plants = planilha.openPlantsXls("../ListaMacrofitas.xlsx")
+#s.syncDatabase(plants)
 s.mountComparativeCsv(plants)
 s.mountPlantsTable(plants)
 s.mountOcurrencesTable(plants)

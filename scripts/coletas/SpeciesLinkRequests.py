@@ -3,6 +3,7 @@ import planilha as pl
 import decoder as decod
 import fileNk as fnk
 import ocurrences as occ
+import time
 
 class SpeciesLinkRequests:
 
@@ -49,13 +50,16 @@ class SpeciesRequest:
         return manager
 
     def makeRequest(self,offset):
-        self.response = requests.post('http://www.splink.org.br/mod_perl/searchHint', data = {'ts_any':self.species,'offset':offset})
-        if('<td><span onClick="top.getDetail' in self.response.text):
-            self.bigRequestText+=self.response.text
-            return 1
-        else:
-            self.hasMore=0
-            return 0
-
+        try:
+            self.response = requests.post('http://www.splink.org.br/mod_perl/searchHint', data = {'ts_any':self.species,'offset':offset})
+            if('<td><span onClick="top.getDetail' in self.response.text):
+                self.bigRequestText+=self.response.text
+                return 1
+            else:
+                self.hasMore=0
+                return 0
+        except:
+            time.sleep(10)
+            return self.makeRequest(offset)
 #requester = SpeciesLinkRequests()
 #requester.makeRequestsTests('../ListaMacrofitasTests.xlsx')

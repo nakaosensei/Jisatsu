@@ -98,10 +98,11 @@ class PlantOcurrence:
                             self.mesColeta=tmpData[i]
                     elif len(tmpData)==2:
                         self.mesColeta=tmpData[i]
-        else:
+        elif len(tmpData)>=3:
             self.anoColeta=tmpData[0]
             self.mesColeta=tmpData[1]
             self.diaColeta=tmpData[2]
+
 
     def cleanTrash(self):
         self.plant = self.plant.replace("<u>","")

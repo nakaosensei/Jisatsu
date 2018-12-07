@@ -101,6 +101,15 @@ class DAOPlant:
         self.cursor.execute("DELETE FROM PLANT WHERE fonte like ?", (source,))
         self.cursor.fetchall()
 
+    def tableIsEmpty(self):
+        self.cursor.execute("SELECT COUNT(*) from PLANT")
+        count=self.cursor.fetchone()
+        print(count)
+        if count[0]==0:
+            return True
+        else:
+            return False
+
 class DAOOcurrence:
 
     def __init__(self):
@@ -117,6 +126,16 @@ class DAOOcurrence:
         self.cursor.execute(self.connection.dropOcurrenceScript)
         self.cursor.execute(self.connection.createOcurrenceScript)
         return
+
+    def tableIsEmpty(self):
+        self.cursor.execute("SELECT COUNT(*) from OCORRENCIA")
+        count=self.cursor.fetchone()
+        print(count)
+        if count[0]==0:
+            return True
+        else:
+            return False
+
 
     def getAllOcurrencesFromSource(self,source):
         self.cursor.execute("SELECT * FROM OCORRENCIA WHERE fonte like ?", (source,))
@@ -173,9 +192,10 @@ class Tests:
 
 con = Connection()
 #daoP = DAOPlant()
+#print(daoP.tableIsEmpty())
 #con.dropAndCreate()
-tests = Tests()
-tests.testGbif()
+#tests = Tests()
+#tests.testGbif()
 #tests.testSpeciesLink()
 #tests.testThePlantList()
 #tests.testFloraDoBrasil()
