@@ -179,14 +179,14 @@ Adicionar css usando o seguinte formato: obs.: para impressão usando o navegado
 
         
 
-	<link rel="stylesheet" type="text/css" media="all" href="/reflora/listaBrasil/br/gov/jbrj/reflora/web/listaBrasil/taxa/consultarPublico/bem-vindo-consulta-publica-fbo.css;jsessionid=5CD04C325A68CF9220242561696A6D44"></link>
+	<link rel="stylesheet" type="text/css" media="all" href="/reflora/listaBrasil/br/gov/jbrj/reflora/web/listaBrasil/taxa/consultarPublico/bem-vindo-consulta-publica-fbo.css;jsessionid=5705E418948E800DE60BF9B2C273B714"></link>
 
 
 
     
         
 
-        <script type="text/javascript" language="Javascript1.1" src="/reflora/listaBrasil/formValidation.do;jsessionid=5CD04C325A68CF9220242561696A6D44"></script>
+        <script type="text/javascript" language="Javascript1.1" src="/reflora/listaBrasil/formValidation.do;jsessionid=5705E418948E800DE60BF9B2C273B714"></script>
 
         <script type="text/javascript" language="Javascript1.1"> 
 
@@ -1310,7 +1310,7 @@ $(document).ready(function()
 		}
 		else
 		{
-			carregaTaxonGrupo(86712, false);	
+			carregaTaxonGrupo(105414, false);	
 		}
 	}
 	
@@ -1480,7 +1480,7 @@ $(document).ready(function()
 				<td>
 					<span id="nomeCompletoTitulo">
 					    
-	                    Lindernia microcalyx
+	                    Zizaniopsis bonariensis
 					</span>
 				</td>
 
@@ -1492,12 +1492,12 @@ $(document).ready(function()
 			<div class="trigger">
 
 				<form id="consultaPublicaUCResultadoDaConsultaCarregaTaxonGrupoForm"
-					action='/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaCarregaTaxonGrupo.do;jsessionid=5CD04C325A68CF9220242561696A6D44'
+					action='/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaCarregaTaxonGrupo.do;jsessionid=5705E418948E800DE60BF9B2C273B714'
 					method="post" enctype="multipart/form-data" class="formresultado">
 					
 
 <input type="hidden" name="invalidatePageControlCounter" value="1"/>
-					<input type="hidden" name="idDadosListaBrasil" value="86712" id="carregaTaxonGrupoIdDadosListaBrasil">
+					<input type="hidden" name="idDadosListaBrasil" value="105414" id="carregaTaxonGrupoIdDadosListaBrasil">
 <input type="hidden" name="estadosCerteza" value="" id="carregaTaxonGrupoEstadosCerteza">
 <input type="hidden" name="estadosDuvida" value="" id="carregaTaxonGrupoEstadosDuvida">
 <input type="hidden" name="baciasCerteza" value="" id="carregaTaxonGrupoBaciasCerteza">
@@ -1506,8 +1506,8 @@ $(document).ready(function()
 <input type="hidden" name="contagemFamiliaSin" value="0" id="carregaTaxonGrupoContagemFamiliaSin">
 <input type="hidden" name="contagemGeneroAceito" value="0" id="carregaTaxonGrupoContagemGeneroAceito">
 <input type="hidden" name="contagemGeneroSin" value="0" id="carregaTaxonGrupoContagemGeneroSin">
-<input type="hidden" name="contagemEspecieAceito" value="0" id="carregaTaxonGrupoContagemEspecieAceito">
-<input type="hidden" name="contagemEspecieSin" value="1" id="carregaTaxonGrupoContagemEspecieSin">
+<input type="hidden" name="contagemEspecieAceito" value="1" id="carregaTaxonGrupoContagemEspecieAceito">
+<input type="hidden" name="contagemEspecieSin" value="0" id="carregaTaxonGrupoContagemEspecieSin">
 <input type="hidden" name="contagemSubEspAceito" value="0" id="carregaTaxonGrupoContagemSubEspAceito">
 <input type="hidden" name="contagemSubEspSin" value="0" id="carregaTaxonGrupoContagemSubEspSin">
 <input type="hidden" name="contagemVarAceito" value="0" id="carregaTaxonGrupoContagemVarAceito">
@@ -1537,11 +1537,11 @@ $(document).ready(function()
 <input type="hidden" name="regiao" value="QUALQUER" id="consultaTodosNomesRegiao">
 <input type="hidden" name="vegetacao" value="TODOS" id="consultaTodosNomesVegetacao">
 <input type="hidden" name="estatistica" value="" id="consultaTodosNomesEstatistica">
-<input type="hidden" name="contagemResultado" value="0 nomes genéricos, 0 epítetos específicos, 0 epítetos infraespecíficos, (0 subsp. 0 var.) listadas." id="consultaTodosNomesContagemResultado">
-<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Lindernia microcalyx, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
+<input type="hidden" name="contagemResultado" value="0 nomes genéricos, 1 epítetos específicos, 0 epítetos infraespecíficos, (0 subsp. 0 var.) listadas." id="consultaTodosNomesContagemResultado">
+<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Zizaniopsis bonariensis, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
 <input type="hidden" name="formaVida" value="" id="consultaTodosNomesFormaVida">
 <input type="hidden" name="substrato" value="" id="consultaTodosNomesSubstrato">
-<input type="hidden" name="nomeCompleto" value="Lindernia microcalyx" id="consultaTodosNomesNomeCompleto">
+<input type="hidden" name="nomeCompleto" value="Zizaniopsis bonariensis" id="consultaTodosNomesNomeCompleto">
 <input type="hidden" name="ilhaOceanica" value="32767" id="consultaTodosNomesIlhaOceanica">
 <input type="hidden" name="ocorreBrasil" value="QUALQUER" id="consultaTodosNomesOcorreBrasil">
  
@@ -1571,11 +1571,11 @@ $(document).ready(function()
 <input type="hidden" name="regiao" value="QUALQUER" id="consultaTodosNomesRegiao">
 <input type="hidden" name="vegetacao" value="TODOS" id="consultaTodosNomesVegetacao">
 <input type="hidden" name="estatistica" value="" id="consultaTodosNomesEstatistica">
-<input type="hidden" name="contagemResultado" value="0 nomes genéricos, 0 epítetos específicos, 0 epítetos infraespecíficos, (0 subsp. 0 var.) listadas." id="consultaTodosNomesContagemResultado">
-<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Lindernia microcalyx, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
+<input type="hidden" name="contagemResultado" value="0 nomes genéricos, 1 epítetos específicos, 0 epítetos infraespecíficos, (0 subsp. 0 var.) listadas." id="consultaTodosNomesContagemResultado">
+<input type="hidden" name="informacoesConsulta" value="Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Zizaniopsis bonariensis, Buscar até = subsp./var." id="consultaTodosNomesInformacoesConsulta">
 <input type="hidden" name="formaVida" value="" id="consultaTodosNomesFormaVida">
 <input type="hidden" name="substrato" value="" id="consultaTodosNomesSubstrato">
-<input type="hidden" name="nomeCompleto" value="Lindernia microcalyx" id="consultaTodosNomesNomeCompleto">
+<input type="hidden" name="nomeCompleto" value="Zizaniopsis bonariensis" id="consultaTodosNomesNomeCompleto">
 <input type="hidden" name="ilhaOceanica" value="32767" id="consultaTodosNomesIlhaOceanica">
 <input type="hidden" name="ocorreBrasil" value="QUALQUER" id="consultaTodosNomesOcorreBrasil">
  
@@ -1762,7 +1762,7 @@ padding: 0px;
 		
 			
 				
-					<input class="pagesTitles" type="hidden" value="Página: 1&#13;&#10;De: Angiospermas&#13;&#10;Até: Lindernia microcalyx Pennell ex Stehlé (Linderniaceae)">
+					<input class="pagesTitles" type="hidden" value="Página: 1&#13;&#10;De: Angiospermas&#13;&#10;Até: Zizaniopsis bonariensis (Balansa & Poitr.) Speg. (Poaceae)">
 				
 				
 				
@@ -1809,9 +1809,9 @@ padding: 0px;
 				
 				
 
-				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(102291)'>
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(193)'>
 				
-				<span title="Linderniaceae (Rchb.) Borsch et al."><span><div class="taxon"> Linderniaceae</div><div class="nomeAutorSupraGenerico"> (Rchb.) Borsch et al.</div></span></span>
+				<span title="Poaceae Barnhart"><span><div class="taxon"> Poaceae</div><div class="nomeAutorSupraGenerico"> Barnhart</div></span></span>
 
 				</a>
 				</div>
@@ -1822,6 +1822,31 @@ padding: 0px;
 				
 				</td></tr>
 <tr class="odd">
+<td>
+				
+					
+					
+						<div class="hier2">&nbsp;&nbsp;
+					
+					
+					
+				
+				
+				
+
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(102246)'>
+				
+				<span title="Ehrhartoideae Link"><span><div class="taxon"> Ehrhartoideae</div><div class="nomeAutorSupraGenerico"> Link</div></span></span>
+
+				</a>
+				</div>
+
+				
+
+				
+				
+				</td></tr>
+<tr class="even">
 <td>
 				
 					
@@ -1842,156 +1867,24 @@ padding: 0px;
 						<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
 					
 					
-						<img width="13" src="/reflora/layout/default/imagens/listaBrasil/icon_leaf.png" title="A descrição do Taxon está completa" style="vertical-align:middle; padding-bottom: 1px; height: 14px;" />
 					
+						<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/icon_leaf.png" />
 					
 				
 
-				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(21092)'>
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(13661)'>
 				
-				<span title="Lindernia All."><span><div class="taxon"> <i>Lindernia</i></div><div class="nomeAutorInfraGenerico"> All.</div></span></span>
+				<span title="Zizaniopsis Döll & Asch."><span><div class="taxon"> <i>Zizaniopsis</i></div><div class="nomeAutorInfraGenerico"> Döll & Asch.</div></span></span>
 
 				</a>
 				</div>
 
 				
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-								<div class="hier3">
-							
-							
-						
 
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(593453)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Pyxidaria Hall. ex Kuntze">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Pyxidaria</i></div><div class="nomeAutorSinonimo"> Hall. ex Kuntze</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-								<div class="hier3">
-							
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(593584)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Vandellia P. Browne ex L.">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Vandellia</i></div><div class="nomeAutorSinonimo"> P. Browne ex L.</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-								<div class="hier3">
-							
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(593105)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Bonnaya Link & Otto">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Bonnaya</i></div><div class="nomeAutorSinonimo"> Link & Otto</div></span></span>
-						</a>
-						</div>
-					
-						</td></tr>
-						<tr class="odd">
-						<td>
-						
-						
-						
-							
-							
-								<div class="hier3">
-							
-							
-						
-
-						<a href="javascript:void(0);" onclick='carregaTaxonGrupo(593279)'>
-						
-							
-							
-								<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
-							
-						
-						
-							
-							
-							
-							
-								<span title="tem como sinônimo de Ilysanthes Raf.">
-							
-						
-						&nbsp;<span class='hier5'><div class="tipoSinonimo"> tem como sin.</div><div class="sinonimo"> <i>Ilysanthes</i></div><div class="nomeAutorSinonimo"> Raf.</div></span></span>
-						</a>
-						</div>
-					
-				
-
-				
-					
 				
 				
 				</td></tr>
-<tr class="even">
+<tr class="odd">
 <td>
 				
 					
@@ -2008,8 +1901,8 @@ padding: 0px;
 						<img src="/reflora/layout/default/imagens/listaBrasil/org_img.png" style="visibility:hidden; vertical-align:middle; padding-bottom: 1px; height: 14px;" />
 					
 					
+						<img width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" title="Contém imagens de herbário" />
 					
-						<img style="visibility:hidden;" width="13" src="/reflora/layout/default/imagens/listaBrasil/herb_icon.gif" />
 					
 					
 					
@@ -2017,9 +1910,9 @@ padding: 0px;
 					
 				
 
-				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(86712)'>
+				<a href="javascript:void(0);" onclick='carregaTaxonGrupo(105414)'>
 				
-				<span title="Lindernia microcalyx Pennell ex Stehlé"><span><div class="tipoSinonimo">  </div><div class="sinonimo"> <i>Lindernia microcalyx</i></div><div class="nomeAutorSinonimo"> Pennell ex Stehlé</div></span></span>
+				<span title="Zizaniopsis bonariensis (Balansa & Poitr.) Speg."><span><div class="taxon"> <i>Zizaniopsis bonariensis</i></div><div class="nomeAutorInfraGenerico"> (Balansa & Poitr.) Speg.</div></span></span>
 
 				</a>
 				</div>
@@ -2038,9 +1931,9 @@ padding: 0px;
 		
     		</div>
 		<div id="infoConsulta">
-			Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Lindernia microcalyx, Buscar até = subsp./var.
+			Listar todos os nomes. &lt;b&gt;Angiospermas&lt;/b&gt;, Nome Completo = Zizaniopsis bonariensis, Buscar até = subsp./var.
 			<br>
-			Tempo de Consulta:  1,82 seg
+			Tempo de Consulta:  1,76 seg
 		</div>
 	</div>
 </div>
@@ -3206,7 +3099,7 @@ $(document).ready(function()
 				</legend>
 
 				<p>
-					Listar todos os nomes. <b>Angiospermas</b>, Nome Completo = Lindernia microcalyx, Buscar até = subsp./var.
+					Listar todos os nomes. <b>Angiospermas</b>, Nome Completo = Zizaniopsis bonariensis, Buscar até = subsp./var.
 				</p>
 
 				<table>
@@ -3239,8 +3132,8 @@ $(document).ready(function()
 									
 										<tr>
 											<td class="field">Espécies</td>
-											<td class="field">0</td>
-											<!--<td class="field">1</td>-->
+											<td class="field">1</td>
+											<!--<td class="field">0</td>-->
 										</tr>
 									
 

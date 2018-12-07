@@ -6,14 +6,21 @@ class FloraDecoder:
     def decodeRequestAndWriteToDb(self,requestJson):
         estado = requestJson["statusQualificador"]
         if "Sinônimo" in estado or "sinônimo" in estado or "Sinonimo" in estado or "sinonimo" in estado:
-            result = self.parseSinonimoSource(requestJson["ehSinonimo"])
-            return result
+            if('ehSinonimo' in requestJson.keys()):
+                result = self.parseSinonimoSource(requestJson["ehSinonimo"])
+                return result
+            else:
+                return 0
         if len(estado)==0:
             return 0
         if "Nome correto" in estado:
-            estado = "Nome correto"
+            estado = "nome correto"
         elif "Nome aceito" in estado:
-            estado = "Nome aceito"
+            estado = "nome aceito"
+        elif "Variante ortográfica" in estado:
+            estado = "variante ortografica"
+        elif "Nome mal aplicado" in estado:
+            estado = "nome mal aplicado"
         if "endemismo" in requestJson.keys():
             endemismo = requestJson["endemismo"]
         else:
@@ -58,57 +65,62 @@ class FloraDecoder:
         fonte="floradobrasil"
         ocorrenciasConfirmadas = self.parseOcorrenciasConfirmadas(requestJson)
         ocorrenciasDuvidosas = self.parseOcorrenciasDuvidosas(requestJson)
-        sinonimosDbFormat = []
+        sinonimosList = []
         if "temComoSinonimo" in requestJson.keys():
             sinonimosList=self.parseSinonimos(requestJson["temComoSinonimo"])
-            for sinonimo in sinonimosList:
-                nomeSinonimo = sinonimo[0]
-                autorSinonimo = sinonimo[1]
-                sinonimosDbFormat.append((nomeSinonimo,autorSinonimo,fonte,nome))
 
         ocorrenciasConfirmadas = self.arrayToStr(ocorrenciasConfirmadas)
         ocorrenciasDuvidosas = self.arrayToStr(ocorrenciasDuvidosas)
         manager = plantManager.PlantsManager()
-        manager.addPlant(nome,autor,fonte,estado,grupoTaxonomico,familia,formaVida,substrato,origem,endemismo,ocorrenciasConfirmadas,ocorrenciasDuvidosas,dominioFitogeografico,tipoVegetacao,sinonimosDbFormat)
+        manager.addPlant(nome,autor,fonte,estado,grupoTaxonomico,familia,formaVida,substrato,origem,endemismo,ocorrenciasConfirmadas,ocorrenciasDuvidosas,dominioFitogeografico,tipoVegetacao,"")
+        for sino in sinonimosList:
+            manager.addPlant(sino[0],sino[1],fonte,"sinonimo","","","","","","","","","","",nome)
+        if autor=="" or autor is None:
+            autor="desconhecido"
+
         print("nome:"+nome)
         print("autor:"+autor)
+        print("fonte: "+fonte)
+        print(estado)
+        manager.writeAllToDb()
         '''
         print("endemismo:"+endemismo)
         print("grupo grupoTaxonomico: "+grupoTaxonomico)
         print("familia: "+familia)
-        print("fonte: "+fonte)
-        print(estado)
         print(tipoVegetacao)
         print(dominioFitogeografico)
         print(formaVida)
         print(substrato)
         print(ocorrenciasConfirmadas)
         print(ocorrenciasDuvidosas)
-        for sinonimo in sinonimosDbFormat:
+        for sinonimo in sinonimosList:
             print(sinonimo)
+        manager.writeAllToDb()
         '''
-        #
         return 1
 
-    def writeToDb(self,manager):
-        manager.writeAllToDb()
 
     def parseNome(self,nomeStr):
-        out = self.getStringsBetweenS(nomeStr,"<div class=\"taxon\">","</div>").strip()
-        out = self.removeString(out,"<i>")
-        out = self.removeString(out,"</i>")
-        return out
+        out = ""
+        if "<div class=\"taxon\">" in nomeStr:
+            out = self.getStringsBetweenS(nomeStr,"<div class=\"taxon\">","</div>").strip()
+            out = self.removeString(out,"<i>")
+            out = self.removeString(out,"</i>")
+        elif "<span><div class=\"taxon vazio\">" in nomeStr:
+            out = self.getStringsBetweenS(nomeStr,'<span><div class=\"taxon vazio\">',"</div>").strip()
+            out = self.removeString(out,"<i>")
+            out = self.removeString(out,"</i>")
+        return out.strip()
 
     def parseAutor(self,nomeStr):
         out = self.getStringsBetweenS(nomeStr,"<div class=\"nomeAutorInfraGenerico\">","</div></span>").strip()
         out = self.removeString(out,"<div>")
         out = self.removeString(out,"</div>")
-        return out
+        return out.strip()
 
     def parseSinonimoSource(self,ehSinonimoStr):
         result = self.getStringsBetweenS(ehSinonimoStr,"<div class=\"taxon\"> <i>","</i>")
-        print(result)
-        return result
+        return result.strip()
 
     def arrayToStr(self,array):
         out=""
@@ -232,7 +244,7 @@ class FloraDecoder:
         for i in range(1, len(vet)):
             vet2 = vet[i].split(endStr)
             out+=vet2[0]
-        return out
+        return out.strip()
 
     def getStringsBetween(self,stringInput,startStr,endStr):
         vet = stringInput.split(startStr)

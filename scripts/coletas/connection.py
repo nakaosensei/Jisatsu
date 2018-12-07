@@ -1,5 +1,6 @@
 import mysql.connector
 
+
 class Connection:
 
     def __init__(self):
@@ -28,6 +29,8 @@ class DAOPlant:
         self.cursor.executemany(sql,sinonimos)
         self.connection.mydb.commit()
 
+    
+
 class DAOOcurrence:
 
     def __init__(self):
@@ -39,4 +42,3 @@ class DAOOcurrence:
         sql = "INSERT INTO OCORRENCIA(FONTE,NOME,COLETADOR,LOCATION,PAIS,ESTADO,CIDADE,LATITUDE,LONGITUDE,ANO_COLETA,MES_COLETA,DIA_COLETA) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
         self.cursor.executemany(sql,ocurrencesArray)
         self.connection.mydb.commit()
-    

@@ -4,12 +4,13 @@ import json
 import pandas as pd
 import sys
 import planilha as pl
-import connection as con
+import connectionSqlite as con
 import ocurrences as oc
+import time
 
 class GbifRequests:
 
-    def __init__(self,mode):
+    def __init__(self):
         self.daoOcurrence = con.DAOOcurrence()
 
     def searchIDS(self, plant):
@@ -32,15 +33,12 @@ class GbifRequests:
         results = data.get("results")
         return results
 
-    def makeRequests(self,macrofitasXls):
-        plantsOcurrences = {}
-        planilha = pl.Planilha()
-        p = planilha.openPlantsXls(macrofitasXls)
-        for plant in p:
+
+    def processRequest(self,plant,ocurrencesManager):
+        try:
             tmpIds = self.searchIDS(plant)
             for tmpId in tmpIds:
                 ocurrencesMap = self.getOccurrencesFromSpecies(tmpId)
-                ocurrencesManager = oc.OcurrencesManager()
                 for ocurrence in ocurrencesMap:
                     species = ocurrence.get("acceptedScientificName")
                     if(species is None):
@@ -56,13 +54,36 @@ class GbifRequests:
                     ocurrencesManager.add("gbif",species,owner,local,country,state,city,latitude,longitude,date)
                     print(species)
                     print("\n")
-                    print(ocurrence)
-                    print("\n")
+                    #print(ocurrence)
+                    #print("\n")
                 ocurrencesManager.tratarDatas()
-                print(species)
+        except:
+            time.sleep(10)
+            return self.processRequest(plant,ocurrencesManager)
+
+
+    def makeRequestsTests(self,macrofitasXls):
+        plantsOcurrences = {}
+        ocurrencesManager = oc.OcurrencesManager()
+        planilha = pl.Planilha()
+        p = planilha.openPlantsXls(macrofitasXls)
+        for plant in p:
+            try:
+                self.processRequest(plant,ocurrencesManager)
+            except:
+                time.sleep(10)
+                self.processRequest(plant,ocurrencesManager)
+        ocurrencesManager.writeAllToDb()
+        return ocurrencesManager
+
+    def makeRequests(self,plants):
+        plantsOcurrences = {}
+        ocurrencesManager = oc.OcurrencesManager()
+        for plant in plants:
+            self.processRequest(plant,ocurrencesManager)
+        ocurrencesManager.writeAllToDb()
         return ocurrencesManager
 
 
-gbifRequester = GbifRequests()
-manager = gbifRequester.makeRequests('../ListaMacrofitas.xlsx')
-manager.writeAllToDb()
+#gbifRequester = GbifRequests()
+#manager = gbifRequester.makeRequests("../ListaMacrofitas.xlsx")

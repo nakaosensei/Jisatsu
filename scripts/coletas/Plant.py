@@ -1,4 +1,4 @@
-import connection as con
+import connectionSqlite as con
 
 class PlantsManager:
 
@@ -7,24 +7,23 @@ class PlantsManager:
         self.sinonimos=[]
         self.daoPlants = con.DAOPlant()
 
-    def addPlant(self,nome,autor,fonte,estado,grupoTaxonomico,familia,formaVida,substrato,origem,endemismo,ocorrenciasConfirmadas,ocorrenciasPossiveis,dominiosFitogeograficos,tipoVegetacao,sinonimos):
-        self.plants.append(Plant(nome,autor,fonte,estado,grupoTaxonomico,familia,formaVida,substrato,origem,endemismo,ocorrenciasConfirmadas,ocorrenciasPossiveis,dominiosFitogeograficos,tipoVegetacao,sinonimos))
+    def addPlant(self,nome,autor,fonte,estado,grupoTaxonomico,familia,formaVida,substrato,origem,endemismo,ocorrenciasConfirmadas,ocorrenciasPossiveis,dominiosFitogeograficos,tipoVegetacao,plantaOriginal):
+        self.plants.append(Plant(nome,autor,fonte,estado,grupoTaxonomico,familia,formaVida,substrato,origem,endemismo,ocorrenciasConfirmadas,ocorrenciasPossiveis,dominiosFitogeograficos,tipoVegetacao,plantaOriginal))
+
+    def printAll(self):
+        for plant in self.plants:
+            print(plant.toDatabaseFormat())
 
     def writeAllToDb(self):
         plantStringArrays = []
         sinonimos = []
         for plant in self.plants:
             plantStringArrays.append(plant.toDatabaseFormat())
-            if plant.sinonimos is not None and len(plant.sinonimos)>0:
-                sinonimos.append(plant.sinonimos)
         self.daoPlants.insertPlants(plantStringArrays)
-        if len(sinonimos)>0:
-            for sinonimosList in sinonimos:
-                self.daoPlants.insertSinonimos(sinonimosList)
 
 class Plant:
 
-    def __init__(self,nome,autor,fonte,estado,grupoTaxonomico,familia,formaVida,substrato,origem,endemismo,ocorrenciasConfirmadas,ocorrenciasPossiveis,dominiosFitogeograficos,tipoVegetacao,sinonimos):
+    def __init__(self,nome,autor,fonte,estado,grupoTaxonomico,familia,formaVida,substrato,origem,endemismo,ocorrenciasConfirmadas,ocorrenciasPossiveis,dominiosFitogeograficos,tipoVegetacao,plantaOriginal):
         self.nome=nome
         self.autor=autor
         self.fonte=fonte
@@ -39,7 +38,7 @@ class Plant:
         self.ocorrenciasPossiveis=ocorrenciasPossiveis
         self.dominiosFitogeograficos=dominiosFitogeograficos
         self.tipoVegetacao=tipoVegetacao
-        self.sinonimos = sinonimos
+        self.plantaOriginal=plantaOriginal
 
     def toDatabaseFormat(self):
-        return (self.nome,self.autor,self.fonte,self.estado,self.grupoTaxonomico,self.familia,self.formaVida,self.substrato,self.origem,self.endemismo,self.ocorrenciasConfirmadas,self.ocorrenciasPossiveis,self.dominiosFitogeograficos,self.tipoVegetacao)
+        return (self.nome.strip(),self.autor,self.fonte,self.estado,self.grupoTaxonomico,self.familia,self.formaVida,self.substrato,self.origem,self.endemismo,self.ocorrenciasConfirmadas,self.ocorrenciasPossiveis,self.dominiosFitogeograficos,self.tipoVegetacao,self.plantaOriginal)

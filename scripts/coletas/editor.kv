@@ -1,0 +1,72 @@
+#:kivy 1.1.0
+<CustLabel@Label>:
+    color: 0, 1, .5, 1
+
+
+ 
+<CustomPopup>:
+
+    BoxLayout:
+        orientation: "horizontal"
+        height: 30
+        size_hint: .25, .25
+        auto_dismiss: False
+        title: "Erro"
+        Button:
+            text: "Requisitos nao atendidos"
+
+
+
+Root:
+
+
+    BoxLayout:
+        orientation: "horizontal"
+        height: 30
+ 
+        BoxLayout:
+            orientation: "vertical"
+            size_hint_x: .25
+            Button:
+                text: 'Carregar Lista'
+                on_release: root.show_load()
+            
+            Button:
+                text: "Sincronizar"
+                on_release: root.sincronizar()
+            
+
+
+
+            Button:
+                text:"Gerar Comparativo Flora e TPL"
+                on_release: root.florxtpl()
+                
+                
+            Button:
+                text:"Gerar Planilha Plantas"
+                on_release:root.nomesvalidos()
+
+            Button:
+                text:"Gerar Planilha Ocorrencias"
+                on_release: root.speciesl()
+
+<LoadDialog>:
+    BoxLayout:
+        size: root.size
+        pos: root.pos
+        orientation: "vertical"
+        FileChooserListView:
+            id: filechooser
+
+        BoxLayout:
+            size_hint_y: None
+            height: 30
+            Button:
+                text: "Cancel"
+                on_release: root.cancel()
+
+            Button:
+                text: "Load"
+                on_release: root.load(filechooser.path, filechooser.selection)
+
