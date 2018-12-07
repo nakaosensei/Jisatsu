@@ -15,43 +15,76 @@
 | Consulta/Mapeamento Floradobrasil                        | 30h          | 90h            | 50h             | 53.3h            | 90h         |
 | Criação de tabela para plantas ideais Theplantlist       | 1h           | 4h             | 2h              | 2.1h             | 0.4h        |
 | Consulta/Mapeamento Theplantlist                         | 30h          | 90h            | 50h             | 53.3h            | 20h         |
-| Cadastro instâncias ThePlantList no BD                   | 1h           | 4h             | 2h              | 2.1h             |             | 
-| Cadastro instâncias Floradobrasil no BD                  | 1h           | 4h             | 2h              | 2.1h             |             |
+| Cadastro instâncias ThePlantList no BD                   | 1h           | 4h             | 2h              | 2.1h             | 2h          | 
+| Cadastro instâncias Floradobrasil no BD                  | 1h           | 4h             | 2h              | 2.1h             | 3h          |
 | Criação Web Scrapper Species Link                        | 0h           | 90h            | 20h             | 28.3h            | 5h          |
 | Realização de requisições Species Link                   | 0h           | 60h            | 20h             | 23.3h            | 5h          |
 | Cadastro instâncias Species Link no BD                   | 1h           | 4h             | 2h              | 2.1h             | 5h          |
-| Normalizar os dados ThePlantList                         | 10h          | 50h            | 20h             | 28.3h            |             |
-| Normalizar os dados Floradobrasil                        | 10h          | 50h            | 20h             | 28.3h            |             |
-| Junção das normalizações e marcação de duplicatas        | 5h           | 20h            | 10h             | 10.8h            |             |
-| Conversão dos resultados para .xls                       | 2h           | 10h            | 5h              | 5.3 h            |             |
-
+| Normalizar os dados ThePlantList                         | 10h          | 50h            | 20h             | 28.3h            | 25h         |
+| Normalizar os dados Floradobrasil                        | 10h          | 50h            | 20h             | 28.3h            | 28h         |
+| Junção das normalizações e marcação de duplicatas        | 5h           | 20h            | 10h             | 10.8h            | 15h         |
+| Conversão dos resultados para .xls                       | 2h           | 10h            | 5h              | 5.3 h            | 4h          |
+|----------------------------------------------------------|--------------|----------------|-----------------|------------------|-------------|
+| Total de tempo                                           | 129h         | 560h           | 274h            | 322.1h           | 237.8h      |
 
 
 | Membro                                                   | Hora entrada |  Hora saida    | Dia | Mes | Ano |
 |----------------------------------------------------------|--------------|----------------|-----|-----|-----|
+|Thiago Nakao                                              | 21:00        | 04:00          | 05  | 12  |2018 |
+|Thiago Nakao                                              | 07:30        | 13:30          | 04  | 12  |2018 | 
+|Thiago Nakao                                              | 10:00        | 19:00          | 02  | 12  |2018 |
+|Thiago Nakao                                              | 08:00        | 17:30          | 01  | 12  |2018 |
 |Thiago Nakao                                              | 08:00        | 18:00          | 27  | 11  |2018 |
+|Thiago Nakao                                              | 09:00        | 16:00          | 18  | 11  |2018 |
 |Thiago Nakao                                              | 08:00        | 12:00          | 03  | 11  |2018 |
 |Thiago Nakao                                              | 08:00        | 12:00          | 28  | 10  |2018 |
 |Thiago Nakao                                              | 08:00        | 12:00          | 25  | 10  |2018 |
+|Thiago Nakao                                              | 08:00        | 12:00          | 23  | 10  |2018 |
+|Thiago Nakao                                              | 08:00        | 12:00          | 18  | 10  |2018 |
 |Thiago Nakao                                              | 08:00        | 12:00          | 15  | 10  |2018 |
 |Thiago Nakao                                              | 08:00        | 12:00          | 10  | 10  |2018 |
-|Thiago Nakao                                              | 08:00        | 09:00          | 25  | 10  |2018 |
-|Thiago Nakao                                              | 08:00        | 12:00          | 18  | 10  |2018 |
-|Thiago Nakao                                              | 08:00        | 12:00          | 23  | 10  |2018 |
-|Thiago Nakao                                              | 10:00        | 13:00          | 15  | 10  |2018 |
-|Thiago Alexander                                          | 08:35        | 12:15          | 30  | 10  |2018 |
-|Thiago Alexander                                          | 08:00        | 09:00          | 20  | 10  |2018 |
-|Thiago Alexander                                          | 11:00        | 13:47          | 27  | 11  |2018 |
-|Thiago Alexander                                          | 20:00        | 23:00          | 22  | 11  |2018 |
-|Thiago Alexander                                          | 22:00        | 22:33          | 25  | 11  |2018 |
-|Erica Saito                                               | 08:00        | 09:00          | 10  | 10  |2018 |
-|Erica Saito                                               | 08:00        | 09:00          | 15  | 10  |2018 |
-|Erica Saito                                               | 08:00        | 09:00          | 20  | 10  |2018 |
-|Erica Saito                                               | 10:00        | 11:00          | 22  | 10  |2018 |
-|Higor Celante                                             | 01:00        | 03:00          | 10  | 10  |2018 |
-|Higor Celante                                             | 01:00        | 02:00          | 12  | 10  |2018 |
-|Higor Celante                                             | 22:00        | 23:00          | 14  | 10  |2018 |
-|Higor Celante                                             | 01:00        | 04:00          | 17  | 10  |2018 |
-|Higor Celante                                             | 10:00        | 12:00          | 10  | 10  |2018 |
-|Higor Celante                                             | 10:00        | 11:30          | 23  | 10  |2018 |
+|Thiago Nakao                                              | 08:00        | 09:00          | 08  | 10  |2018 |
+|Thiago Nakao                                              | 10:00        | 13:00          | 05  | 10  |2018 |
+|Thiago Alexsander                                         | 21:00        | 00:40          | 04  | 12  |2018 |
+|Thiago Alexsander                                         | 10:00        | 15:30          | 02  | 12  |2018 |
+|Thiago Alexsander                                         | 16:00        | 22:00          | 01  | 12  |2018 | 
+|Thiago Alexsander                                         | 11:00        | 13:47          | 27  | 11  |2018 |
+|Thiago Alexsander                                         | 20:00        | 23:00          | 25  | 11  |2018 |
+|Thiago Alexsander                                         | 22:00        | 22:33          | 22  | 11  |2018 |
+|Thiago Alexsander                                         | 18:00        | 22:00          | 16  | 11  |2018 |
+|Thiago Alexsander                                         | 10:00        | 16:30          | 02  | 11  |2018 | 
+|Thiago Alexsander                                         | 08:35        | 12:15          | 30  | 10  |2018 |
+|Thiago Alexsander                                         | 10:00        | 19:30          | 28  | 10  |2018 |
+|Thiago Alexsander                                         | 18:00        | 19:10          | 20  | 10  |2018 |
+|Thiago Alexsander                                         | 10:00        | 15:00          | 11  | 10  |2018 |
+|Erica Saito                                               | 08:00        | 16:00          | 02  | 12  |2018 | 
+|Erica Saito                                               | 08:30        | 12:00          | 29  | 11  |2018 |  
+|Erica Saito                                               | 07:00        | 12:00          | 26  | 11  |2018 |
+|Erica Saito                                               | 08:00        | 12:00          | 22  | 11  |2018 |
+|Erica Saito                                               | 08:00        | 12:00          | 15  | 11  |2018 |
+|Erica Saito                                               | 08:00        | 12:00          | 22  | 10  |2018 |
+|Erica Saito                                               | 08:00        | 16:00          | 20  | 10  |2018 |
+|Erica Saito                                               | 10:00        | 16:00          | 14  | 10  |2018 |
+|Erica Saito                                               | 08:00        | 12:00          | 05  | 10  |2018 |
+|Higor Celante                                             | 22:00        | 00:00          | 06  | 12  |2018 |  
+|Higor Celante                                             | 21:00        | 04:00          | 05  | 12  |2018 |
+|Higor Celante                                             | 10:00        | 16:00          | 02  | 12  |2018 |
+|Higor Celante                                             | 10:00        | 15:00          | 26  | 11  |2018 |  
+|Higor Celante                                             | 01:00        | 03:00          | 20  | 11  |2018 |
+|Higor Celante                                             | 16:00        | 21:30          | 16  | 11  |2018 | 
+|Higor Celante                                             | 23:00        | 03:00          | 12  | 11  |2018 |
+|Higor Celante                                             | 10:00        | 18:30          | 02  | 11  |2018 |
+|Higor Celante                                             | 22:00        | 03:00          | 24  | 10  |2018 |
+|Higor Celante                                             | 01:00        | 04:00          | 23  | 10  |2018 |
+|Higor Celante                                             | 10:00        | 12:00          | 17  | 10  |2018 |
+|Higor Celante                                             | 10:00        | 12:30          | 10  | 10  |2018 |
+|Higor Celante                                             | 11:00        | 18:00          | 10  | 07  |2018 |
 
+| Membro                                                   | Tempo total  | 
+|----------------------------------------------------------|--------------|
+| Thiago Nakao                                             | 81.5h        |
+| Thiago Alexsander                                        | 50.3h        |
+| Erica Saito                                              | 46.5h        |
+| Higor Celante                                            | 59.5h        |
+|----------------------------------------------------------|--------------|
+| Total                                                    | 237.8h       |
