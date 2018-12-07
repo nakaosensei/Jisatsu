@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import html2text
 from Plant import Plant
 from Plant import PlantsManager
 import fileNk as file

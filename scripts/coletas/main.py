@@ -13,7 +13,7 @@ import connectionSqlite as cone
 import time
 import os
 import planilha
-#import sincronizador
+import sincronizador as sinc
 
 class LoadDialog(FloatLayout):
     load = ObjectProperty(None)
@@ -28,17 +28,14 @@ class Root(FloatLayout):
     savefile = ObjectProperty(None)
     #text_input = ObjectProperty(None)
 
-    
-    def sincronizar(self):
-  
 
-        
+    def sincronizar(self):
+        s = sinc.Sincronizador()
+        s.syncDatabase(self.text_input)
+
         ##sync(self.text_input)
 
         pass
-
-
-
 
     def open_popup(self):
         the_popup = CustomPopup()
@@ -55,7 +52,7 @@ class Root(FloatLayout):
 
 
     def load(self, path, filename):
-        
+
         planilh = planilha.Planilha()
         cam = (filename[0])
         print(cam)
@@ -64,20 +61,20 @@ class Root(FloatLayout):
         print(p)
         self.text_input = p
         print(self.text_input)
-        
+
 
         self.dismiss_popup()
-        
+
 
     #def floratpl(self, path,filename)
-    
+
     def nomesvalidos(self):
         PLa = cone.DAOPlant()
         if PLa.tableIsEmpty() == False:
             print("tplplanilha")
-            #gera planilha das ocorrencias do species
+            s = sinc.Sincronizador()
+            s.mountPlantsTable(self.text_input)
         else:
-            
             content = Label(text='Os requisitos para essa execução não foram atendidos. É necessário sincronizar.')
             self._popup = Popup(title="Erro", content=content,size_hint=(0.9, 0.9))
             self._popup.open()
@@ -88,10 +85,12 @@ class Root(FloatLayout):
         daoOcurrenc = cone.DAOOcurrence()
         if daoOcurrenc.tableIsEmpty() == False:
             print("species")
+            s = sinc.Sincronizador()
+            s.mountOcurrencesTable(self.text_input)
             #gera planilha das ocorrencias do species
             pass
         else:
-            
+
             content = Label(text='Os requisitos para essa execução não foram atendidos. É necessário sincronizar.')
             self._popup = Popup(title="Erro", content=content,size_hint=(0.9, 0.9))
             self._popup.open()
@@ -99,7 +98,7 @@ class Root(FloatLayout):
 
             Clock.schedule_once(self.dismiss_popup, 4)
             pass
-    
+
     def tplplanilha(self):
         tplPL = cone.DAOPlant()
         if tplPL.tableIsEmpty() == False:
@@ -107,7 +106,7 @@ class Root(FloatLayout):
             #gera planilha das ocorrencias do species
             pass
         else:
-            
+
             content = Label(text='Os requisitos para essa execução não foram atendidos. É necessário sincronizar.')
             self._popup = Popup(title="Erro", content=content,size_hint=(0.9, 0.9))
             self._popup.open()
@@ -123,6 +122,8 @@ class Root(FloatLayout):
         flora = cone.DAOPlant()
         species = cone.DAOOcurrence()
         if ((flora.tableIsEmpty() == False) and (species.tableIsEmpty() == False)):
+            s = sinc.Sincronizador()
+            s.mountComparativeCsv(self.text_input)            
             print("nada vazio, tudo certo")
         else:
             content = Label(text='Os requisitos para essa execução não foram atendidos. É necessário sincronizar.')
@@ -136,7 +137,7 @@ class Root(FloatLayout):
         time.sleep(10)
         self.dismiss_popup()
 
-        
+
 class Editor(App):
     pass
 
