@@ -88,8 +88,8 @@ class FloraRequest:
         self.idDadosListaBrasil = self.getStringsBetweenS(self.idDadosListaBrasil,"value=\"","\"")
         newLink = "http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaCarregaTaxonGrupo.do?&idDadosListaBrasil="+self.idDadosListaBrasil
         self.request = requests.get(newLink)
-        self.fileManager.writeToFile("outFloraCru.txt",self.requestPiloto.text)
-        self.fileManager.writeToFile("outFloraListaBrasil.txt",self.request.text)
+        #self.fileManager.writeToFile("outFloraCru.txt",self.requestPiloto.text)
+        #self.fileManager.writeToFile("outFloraListaBrasil.txt",self.request.text)
         #print("request INI")
         #print(self.request.text)
         #print("request FIM")
