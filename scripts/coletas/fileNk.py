@@ -9,5 +9,8 @@ class File:
     def readFileToArray(self,fileName):
         file = open(fileName,"r")
         lines = (file.read()).split("\n")
-        print(lines)
-        return lines
+        out = []
+        for line in lines:
+            if line.strip()!="":
+                out.append(line)
+        return out
