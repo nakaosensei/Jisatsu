@@ -17,6 +17,8 @@ class Decoder:
             latitude = self.getStringsBetweenS(instance,'<i>lat: </i>','</span>')
             longitude = self.getStringsBetweenS(instance,'<i>long: </i>','</span>')
             data = self.getStringsBetweenS(instance,'<span class=\'tY\'>','</span>')
+            print("Sp link ocurrence")
+            print(plant)
             ocurrences.add("specieslink",plant,owner,location,pais,estado,cidade,latitude,longitude,data)
         ocurrences.cleanAllTrash()
         ocurrences.tratarDatas()

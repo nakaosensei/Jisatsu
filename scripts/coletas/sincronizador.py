@@ -83,6 +83,7 @@ class Sincronizador:
                 registers.append([plant,ocurrence[pOcFonte],ocurrence[pOcNome],ocurrence[pOcColetador],ocurrence[pOcLocation],ocurrence[pOcPais],ocurrence[pOcEstado],ocurrence[pOcCidade],ocurrence[pOcLatitude],ocurrence[pOcLongitude],ocurrence[pOcAnoColeta],ocurrence[pOcMesColeta],ocurrence[pOcDiaColeta]])
         print("gerando tabela ocurrences.csv")
         self.planilha.writeCsv("ocurrences.csv",titleArray,registers)
+        print("ocurrences.csv gerada")
 
     def mountPlantsTable(self,listaPlantas):
         titleArray = ['planta','nome','autor','fonte','estado','grupo taxonomico','familia','forma vida','substrato','origem','endemismo','ocorrenciasConfirmadas','ocorrenciasPossiveis','dominiosFitogeograficos','tipoVegetacao','sinonimos']
@@ -178,5 +179,5 @@ planilha = pl.Planilha()
 plants = planilha.openPlantsXls("../ListaMacrofitas.xlsx")
 #s.syncDatabase(plants)
 s.mountComparativeCsv(plants)
-s.mountPlantsTable(plants)
-s.mountOcurrencesTable(plants)
+#s.mountPlantsTable(plants)
+#s.mountOcurrencesTable(plants)
