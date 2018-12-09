@@ -88,11 +88,6 @@ class FloraRequest:
         self.idDadosListaBrasil = self.getStringsBetweenS(self.idDadosListaBrasil,"value=\"","\"")
         newLink = "http://floradobrasil.jbrj.gov.br/reflora/listaBrasil/ConsultaPublicaUC/ResultadoDaConsultaCarregaTaxonGrupo.do?&idDadosListaBrasil="+self.idDadosListaBrasil
         self.request = requests.get(newLink)
-        #self.fileManager.writeToFile("outFloraCru.txt",self.requestPiloto.text)
-        #self.fileManager.writeToFile("outFloraListaBrasil.txt",self.request.text)
-        #print("request INI")
-        #print(self.request.text)
-        #print("request FIM")
         if self.request.text.strip()=="erro":
             return 0
         decoder = decod.FloraDecoder()
@@ -108,7 +103,6 @@ class FloraRequest:
 
     def makeRequestApi(self):
         self.request=requests.get("http://servicos.jbrj.gov.br/flora/taxon/"+self.parsedSpeciesAPI)
-        self.fileManager.writeToFile("outFlora.txt",self.request.text)
         json = self.request.json()
         print(json["result"])
 

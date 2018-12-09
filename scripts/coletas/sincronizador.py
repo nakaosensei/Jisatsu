@@ -174,10 +174,10 @@ class Sincronizador:
         print("Planilha flora_vs_plant.csv gerada")
 
 
-s = Sincronizador()
-planilha = pl.Planilha()
-plants = planilha.openPlantsXls("../ListaMacrofitas.xlsx")
+#s = Sincronizador()
+#planilha = pl.Planilha()
+#plants = planilha.openPlantsXls("../ListaMacrofitas.xlsx")
 #s.syncDatabase(plants)
-s.mountComparativeCsv(plants)
+#s.mountComparativeCsv(plants)
 #s.mountPlantsTable(plants)
 #s.mountOcurrencesTable(plants)

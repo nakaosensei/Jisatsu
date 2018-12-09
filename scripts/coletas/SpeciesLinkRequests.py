@@ -45,7 +45,6 @@ class SpeciesRequest:
         manager = self.decoderNk.decode(self.bigRequestText)
         print(self.species)
         self.hasMore=1
-        self.file.writeToFile("outSpecies.txt",self.bigRequestText)
         self.bigRequestText=""
         return manager
 

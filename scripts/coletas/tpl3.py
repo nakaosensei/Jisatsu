@@ -28,8 +28,7 @@ def requisicaoTPL1(link,manager,nome):
     searc.encoding = 'utf-8'
     mm = searc.text
     f = file.File()
-    f.writeToFile("outThePlantCru.txt",mm)
-
+    
     if isAccepted(mm,manager)==1:
         print("Get inicial - Case isAccepted")
         return 1
